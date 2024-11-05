@@ -1,0 +1,130 @@
+2/4              [NAME] - mtx [NAME] [NAME] G, USD / 28.06.2024
+
+
+Grösste Positionen                                                                              (%)                   ESG-Rating           [NAME] (%)
+Fonds         Ref-index
+[NAME] Manufac                                                                     7.7                            AAA                                          0                                             10                                     20                                   30
+[NAME] [NAME]                                                                       6.2                               AA                           China                                                                                                                    25.1
+28.6
+
+
+[NAME] Ltd                                                                             4.9                               BB                          Taiwan                                                                                             19.3
+23.2
+
+
+[NAME] [NAME]                                                                              3.5                             BBB                           Indien                                                           10.4
+19.2
+
+[NAME]                                                                                     3.2                                 A                    Südkorea                                                              10.3
+12.2
+
+[NAME]                                                                                 3.0                                 A                     Brasilien                             4.2
+8.6
+
+
+Trip.[NAME] Ltd-Adr                                                                           3.0                                 A                         Mexiko                  2.2
+5.7
+
+
+[NAME] Ltd                                                                                     3.0                             BBB                     Indonesien                1.6
+3.3
+
+
+[NAME]                                                                                         2.8                                  B               Südafrika                            3.2
+2.7
+Vereinigte
+[NAME] Pjsc                                                                            2.8                             BBB          [NAME]                  1.1
+2.8
+
+3.1
+Total                                                                                           40.1                                                     Übrige                                                                        12.4
+0.9
+Cash + Forwards
+
+
+
+Aufteilung nach Währung (%)                                                                                                                Aufteilung nach Sektoren (%)
+Fonds        Ref-index                                                                                                                                             Fonds         Ref-index
+
+0                       5                 10                    15                  20                 25                                                   0                                  10                         20                     30                         40
+21.1                                                                                                                                                                    35.6
+TWD                                                                                        19.4                                                              IT                                                                                 25.1
+16.0                                                                                                                                                      21.8
+HKD                                                                                          19.8                          Nicht-Basiskonsumgüt.                                                              12.3
+11.6                                                                                                                                                        16.3
+CNH                       3.9                                                                                                                      Finanzen                                                                            21.9
+11.0                                                                                                                                  6.3
+USD        0.5                                                                                                                     Kommunik.-dienste                                                  8.9
+10.4                                                                                                                              4.8
+INR                                                                                       19.2                            Roh-, Hilfs-, Betr.-stoffe                                           6.9
+9.1                                                                                                                                  4.3
+KRW                                                             12.2                                                               Basiskonsumgüter                                     5.2
+5.7                                                                                                                                              4.2
+BRL                          4.2                                                                                                                      Energie                          5.2
+4.6                                                                                                                                                   3.7
+MXN               2.1                                                                                                                        Immobilien                    1.5
+3.3                                                                                                                                              1.1
+IDR             1.6                                                                                                                               Industrie                                    6.9
+7.1                                                                                                                           0.7
+Übrige                                                                                17.2                                           Gesundheitswesen                              3.2
+0.2
+Versorgungsbetriebe                               3.0
+0.9
+Liquidität
+
+
+
+ESG-Profil 3)                                                                                    Fonds                  Ref-index          Aufteilung nach ESG-Ratings (%) 3)
+Fonds         Ref-index
+ESG-Rating                                                                                           A                             A               0                                               10                                                     20                                           30
+ESG-[NAME]                                                                             95.9%                         98.7%         AAA                                                       9.9
+11.3
+
+CO2-Intensität. Ø Gew. (t CO2/$M Umsatz)                                                            74.9                       345.1          AA                                                                                14.2
+17.4
+
+CO2-Fußabdruck (t CO2/M€ EVIC)                                                                      24.5                       157.4           A                                                                                                                           23.4
+26.3
+
+17.2
+3)Details zur MSCI-ESG-Methodik: [COMPANY_3].com/esg-valuation.                                                                                 BBB                                                                                          16.5
+[NAME] hat keine designierte ESG-Referenzbenchmark, sondern wendet eine                                                                 BB                                                                                                                   21.7
+17.5
+konventionelle Benchmark an, bei deren Konstruktion ESG-Kriterien nicht berücksichtigt
+4.0
+werden.                                                                                                                                        B                                                   9.2
+2.6
+CCC                     3.4
+4.1
+NR         1.3
+
+
+ESG-Eigenschaften des Fonds
+ESG Integration                                                                                                                     ü
+Ausschluss wirtschaftlicher Aktivitäten                                                                                             ü
+Aktiver Eigentümer                                                                                                                  ü
+
+Ausschluss wirtschaftlicher Aktivitäten 4)
+Ausschlüsse,                                                 Kohle
+Erwachsenen-                                             normbezogene
+Andere fossile                                       [NAME]                                                           Palmöl
+Unterhaltung                                             Ausschlüsse,                                                 Brennst.
+souveräner Ebene
+
+
+[NAME]
+Tabak                                                    Unkonvent./umstrittene
+Waffen
+
+4)   Es können Schwellenwerte gelten. [NAME] finden Sie unter [COMPANY_3].com/sfdr und auf der Website des jeweiligen Fonds.
+
+
+Risiken
+– [NAME] am Potenzial einzelner Titel.
+– Wechselkursrisiko.
+– [NAME] bei Einzelwertanalysen und aktivem Management.
+– [NAME] kann unter den Kaufpreis fallen, zu dem der Anleger seinen Anteil erworben hat.
+– [NAME] von Derivaten kann zusätzliche Risiken generieren (u.a. Gegenparteienrisiko).
+– Markt-, branchen- und unternehmensbedingte Kursschwankungen sind möglich.
+– Investitionen in Schwellenländer können durch politische Entwicklungen, Währungsschwankungen, Illiquidität und Volatilität
+betroffen sein.
