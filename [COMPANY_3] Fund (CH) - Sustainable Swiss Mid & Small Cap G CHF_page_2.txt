@@ -1,0 +1,104 @@
+2/4              [NAME] (CH) - [NAME] Mid & [NAME] G, CHF / 28.06.2024
+
+
+Grösste Positionen                                             (%)                ESG-Rating       [NAME] (%)
+Fonds     Ref-index
+[NAME]-Pc                                      8.3                            A                                    0                    20                     40                          60                80                   100
+[NAME] Ag                                                 5.1                      BBB                            Schweiz                                                                                                              98.3
+97.9
+
+[NAME]-[NAME]                                     5.0                      BBB            Cash + Forwards                 1.7
+
+
+[NAME] Ag-Reg                                        4.9                        AA
+[NAME] Ag                                                    4.8                     AAA
+[NAME]-Reg                                                      4.3                     AAA
+[NAME] [NAME]                                           3.7                        AA
+[NAME] Ag - Reg                                        3.3                        AA
+[NAME] Ag-Reg                                           3.1                        AA
+[NAME] Ag-Br                                             3.0                            A
+Total                                                         45.5
+
+
+Aufteilung nach Währung (%)                                                                        Aufteilung nach Sektoren (%)
+Fonds    Ref-index                                                                                                                                    Fonds     Ref-index
+
+0          20          40           60             80           100                                                  0                        10                          20                       30                     40
+100.0                                                                                                                                                35.7
+CHF                                                                100.0                                    Industrie                                                                                     29.7
+19.4
+Gesundheitswesen                                                                        20.9
+12.9
+Basiskonsumgüter                                            10.7
+12.1
+Finanzen                                                        15.7
+7.5
+Roh-, Hilfs-, Betr.-stoffe                         4.8
+4.0
+IT                    6.0
+3.7
+Nicht-Basiskonsumgüt.                             4.2
+2.9
+Immobilien                             6.7
+1.7
+Liquidität
+
+
+
+ESG-Profil 3)                                                      Fonds           Ref-index       ESG-Eigenschaften des Fonds
+ESG-Rating                                                            AA                 AA        Ausschluss wirtschaftlicher Aktivitäten                                                                                                          ü
+ESG-[NAME]                                               95.6%              93.4%        Aktiver Eigentümer                                                                                                                               ü
+ESG-Qualitätsbewertung                                                 7.3                 7.1     [NAME]                                                                                                                             ü
+Umweltbewertung (E)                                                    5.3                 5.2
+[NAME] (S)                                                  5.3                 5.2     Aufteilung nach ESG-Ratings (%) 3)
+Governance-Bewertung (G)                                               6.6                 6.5                                                                                                                                      Fonds     Ref-index
+
+0                             10                                  20                                        30                          40
+CO2-Intensität. Ø Gew. (t CO2/$M Umsatz)                              35.4               32.4
+21.6
+AAA                                                                        19.7
+3)Details zur MSCI-ESG-Methodik: [COMPANY_3].com/esg-valuation.                                                                                                                                                                 32.0
+[NAME] hat keine designierte ESG-Referenzbenchmark, sondern wendet eine                          AA                                                                                                        27.5
+
+konventionelle Benchmark an, bei deren Konstruktion ESG-Kriterien nicht berücksichtigt                  A                                                                                         23.6
+24.7
+werden.                                                                                                                                              12.9
+BBB                                                        15.3
+4.9
+BB                     5.7
+0.7
+B       0.1
+4.4
+NR                         6.6
+
+
+
+
+Ausschluss wirtschaftlicher Aktivitäten 4)
+Pestizide                                  Kohle
+Erwachsenen-                        Gentechnik                                 Andere fossile                                     Glücksspiel                                                          [NAME]
+Unterhaltung
+Chlor-Chemie                               Brennst.
+
+
+[NAME]
+Tabak                               Unkonvent./umstrittene                     Fluggesellschaften
+Waffen
+
+4)   Es können Schwellenwerte gelten. [NAME] finden Sie unter [COMPANY_3].com/sfdr und auf der Website des jeweiligen Fonds.
+
+
+Risiken
+– [NAME] am Potenzial einzelner Titel.
+– [NAME] bei Einzelwertanalysen und aktivem Management.
+– [NAME] kann unter den Kaufpreis fallen, zu dem der Anleger seinen Anteil erworben hat.
+– [NAME] von Derivaten kann zusätzliche Risiken generieren (u.a. Gegenparteienrisiko).
+– Markt-, branchen- und unternehmensbedingte Kursschwankungen sind möglich.
+– Anlagen in Aktien kleinerer und mittlerer Unternehmen können weniger kursstabil und liquide sein als die Aktien grösserer
+Unternehmen.
+– Die Erfüllung sämtlicher Nachhaltigkeitskriterien für alle Anlagen zu jedem Zeitpunkt kann nicht zugesichert werden. Es kann
+zudem nicht ausgeschlossen werden, dass die Verfolgung einer nachhaltigen Wirtschaftsweise die Performance eines Teilfonds
+gegenüber einer traditionellen Anlagepolitik negativ beeinflusst.
+– [NAME] des Teilfonds können Nachhaltigkeitsrisiken unterliegen. [NAME], denen der Teilfonds unterliegen
+kann, werden wahrscheinlich mittel- oder langfristig unwesentliche Auswirkungen auf die Anlagen des Teilfonds haben. Dies
+liegt an dem risikomindernden ESG-Ansatz des Teilfonds.
