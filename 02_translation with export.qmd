@@ -1,0 +1,50 @@
+---
+title: "python in r"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+```{python}
+import os
+from deep_translator import GoogleTranslator
+
+# Define paths
+text_folder_path = r"C:\Users\nici_\OneDrive\Desktop\Masterarbeit\Factsheets\Text"
+output_folder_path = r"C:\Users\nici_\OneDrive\Desktop\Masterarbeit\Factsheets\Text\Translated_Texts"
+
+# Create the output folder if it doesn't exist
+os.makedirs(output_folder_path, exist_ok=True)
+
+# Initialize translator
+translator = GoogleTranslator(source='auto', target='en')
+
+# Dictionary to hold translated documents
+translated_texts = {}
+
+# Translate each document to English and save it as a .txt file
+for file in os.listdir(text_folder_path):
+    if file.endswith(".txt"):
+        with open(os.path.join(text_folder_path, file), 'r', encoding='utf-8') as f:
+            raw_text = f.read()
+
+            # Translate the text to English
+            translated_text = translator.translate(raw_text)
+            
+            # Store translated text in the dictionary
+            translated_texts[file] = translated_text
+
+            # Define the output path for each translated file
+            output_file_path = os.path.join(output_folder_path, f"translated_{file}")
+
+            # Save the translated text as a .txt file
+            with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                output_file.write(translated_text)
+
+# Display a few examples of translated text
+for file, content in list(translated_texts.items())[:3]:  # Display first 3 for brevity
+    print(f"\nFile: {file}")
+    print(f"Translated Text:\n{content[:500]}")
+
+```
