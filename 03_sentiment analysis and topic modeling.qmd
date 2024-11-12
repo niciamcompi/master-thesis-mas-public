@@ -1,0 +1,537 @@
+---
+title: "Sentiment analysis and topic modeling"
+format: html
+execute:
+  echo: true
+python: huggingface
+---
+
+<!-- run in Powershell as administrator: reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1" -->
+
+```{python}
+# Install black and pylint for code formatting and linting
+%pip install black pylint
+
+# Install TensorFlow from PyPI
+%pip install tensorflow
+
+# Install Hugging Face Transformers library
+%pip install transformers
+
+# Install SentencePiece for tokenization
+%pip install sentencepiece
+```
+
+```{python}
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+
+# Load the FinBERT model and tokenizer
+model_name = "yiyanghkust/finbert-tone"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Define a sentiment analysis pipeline
+sentiment_pipeline = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, truncation=True, max_length=512)
+```
+
+```{python}
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
+from collections import defaultdict
+import os
+import re
+
+# Define path to your folder containing .txt files
+output_folder_path = r"C:\Users\nici_\OneDrive\Desktop\Masterarbeit\Factsheets\Text\Translated_Texts"
+
+# Load the FinBERT model and tokenizer
+model_name = "yiyanghkust/finbert-tone"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Define a sentiment analysis pipeline
+sentiment_pipeline = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer, truncation=True, max_length=512)
+
+def chunk_text(text, max_length=512):
+    """Splits text into chunks of specified max token length."""
+    tokens = tokenizer.tokenize(text)
+    # Split tokens into chunks of max_length size
+    chunks = [" ".join(tokens[i:i + max_length]) for i in range(0, len(tokens), max_length)]
+    return chunks
+
+# Initialize scores list to store results for each page
+all_scores = []
+
+# Process each text file (page)
+for file_name in os.listdir(output_folder_path):
+    if file_name.endswith(".txt"):
+        file_path = os.path.join(output_folder_path, file_name)
+        
+        # Read and chunk the text
+        with open(file_path, "r", encoding="utf-8") as file:
+            text = file.read()
+        
+        text_chunks = chunk_text(text)
+        file_scores = {"positive": 0, "negative": 0, "neutral": 0}
+        
+        # Analyze each chunk
+        for chunk in text_chunks:
+            results = sentiment_pipeline(chunk)
+            for result in results:
+                file_scores[result['label'].lower()] += result['score']
+        
+        # Calculate an overall score by subtracting negative from positive
+        overall_score = file_scores["positive"] - file_scores["negative"]
+        file_scores["overall_score"] = overall_score
+        file_scores["file"] = file_name
+        
+        all_scores.append(file_scores)
+
+```
+
+```{python}
+# Initialize a dictionary to store aggregated scores by document
+document_scores = defaultdict(lambda: {"positive_score": 0, "negative_score": 0, "neutral_score": 0, "page_count": 0})
+
+# Process each page's scores
+for score_dict in all_scores:
+    # Extract the document name by removing the "_page_X.txt" part
+    document_name = re.sub(r"_page_\d+\.txt$", "", score_dict["file"])
+    
+    # Aggregate scores for each document
+    document_scores[document_name]["positive_score"] += score_dict.get("positive", 0)
+    document_scores[document_name]["negative_score"] += score_dict.get("negative", 0)
+    document_scores[document_name]["neutral_score"] += score_dict.get("neutral", 0)
+    document_scores[document_name]["page_count"] += 1
+
+# Calculate and display the overall sentiment scores for each document
+for document_name, scores in document_scores.items():
+    total_positive = scores["positive_score"]
+    total_negative = scores["negative_score"]
+    total_neutral = scores["neutral_score"]
+    page_count = scores["page_count"]
+    
+    # Compute overall sentiment for the document
+    overall_score = total_positive - total_negative  # Example metric
+    
+    # Calculate averages
+    avg_positive = total_positive / page_count
+    avg_negative = total_negative / page_count
+    avg_neutral = total_neutral / page_count
+    
+    print(f"Document: {document_name}")
+    print(f"Total Pages: {page_count}")
+    print(f"Total Positive Score: {total_positive:.4f} (Average: {avg_positive:.4f})")
+    print(f"Total Negative Score: {total_negative:.4f} (Average: {avg_negative:.4f})")
+    print(f"Total Neutral Score: {total_neutral:.4f} (Average: {avg_neutral:.4f})")
+    print(f"Overall Document Score: {overall_score:.4f}\n")
+```
+
+```{python}
+# First, install required packages
+%pip install spacy
+%pip install nltk
+
+# Download spaCy English model
+!python -m spacy download en_core_web_sm
+
+# Download required NLTK data
+import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+import os
+import re
+import spacy
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+import pandas as pd
+
+# Define path to your folder containing .txt files
+output_folder_path = r"C:\Users\nici_\OneDrive\Desktop\Masterarbeit\Factsheets\Text\Translated_Texts"
+
+# Initialize spaCy English model for POS tagging
+nlp = spacy.load("en_core_web_sm")
+
+# Define custom stopwords
+custom_stopwords = {
+    'name', 'postcode', 'address', 'phone', 'company', 'ag', 'content', 'management', 'telephone', 'fax', 'email',
+    'attachment', 'page', 'here', 'there', 'some', 'many', 'company_1', 'company_2', 'company_3', 'company_4', 
+    'company_5', 'company_6', 'i', 'you', 'he', 'we', 'us', 'my', 'your', 'his', 'our', 'their', 'whose',
+    'although', 'despite', 'because', 'yet', 'therefore', 'whether', 'either', 'nor', 'if', 'as well as', 
+    'instead', 'nevertheless', 'hence', 'for this reason', 'in addition', 'as a result', 'example', 'also', 
+    'first', 'second', 'third', 'further', 'additionally', 'continually', 'maybe', 'no', 'yes', 'often', 'now',
+    'soon', 'always', 'still', 'mostly', 'already', 'thus', 'could', 'would', 'might', 'must', 'should', 
+    'including', 'etc'
+}
+stop_words = set(stopwords.words('english')) | custom_stopwords
+lemmatizer = WordNetLemmatizer()
+
+# Function to preprocess text for topic modeling
+def preprocess_text_for_topic_modeling(text):
+    text = re.sub(r'\b\d+\b', '', text.lower())  # Lowercase and remove numbers
+    text = re.sub(r'\W', ' ', text)  # Remove non-word characters
+    
+    # Process text with spaCy
+    doc = nlp(text)
+    
+    processed_words = []
+    for token in doc:
+        # Keep only nouns, verbs, and adjectives, and filter out stopwords
+        if token.pos_ in {"NOUN", "VERB", "ADJ"} and token.lemma_ not in stop_words:
+            processed_words.append(token.lemma_)
+    
+    return ' '.join(processed_words)
+
+# Read and preprocess each document in the folder
+text_data = {}
+for file_name in os.listdir(output_folder_path):
+    if file_name.endswith(".txt"):
+        file_path = os.path.join(output_folder_path, file_name)
+        
+        # Read the text
+        with open(file_path, "r", encoding="utf-8") as file:
+            text = file.read()
+        
+        # Preprocess text
+        preprocessed_text = preprocess_text_for_topic_modeling(text)
+        text_data[file_name] = preprocessed_text
+
+```
+
+```{python}
+def generate_tfidf_top_terms(text_data, top_n=10, max_features=500):
+    # Convert dictionary values to list of strings
+    documents = list(text_data.values())
+    
+    # Ensure we have documents to process
+    if not documents:
+        print("No documents to process")
+        return None, None  # Explicitly return None if no documents found
+    
+    try:
+        # Create TF-IDF vectors for each document
+        tfidf_vectorizer = TfidfVectorizer(max_features=max_features)
+        tfidf_matrix = tfidf_vectorizer.fit_transform(documents).toarray()
+        
+        # Get feature names (terms) from the TF-IDF vectorizer
+        feature_names = tfidf_vectorizer.get_feature_names_out()
+        
+        # Convert the TF-IDF matrix to a DataFrame for easier inspection
+        tfidf_df = pd.DataFrame(tfidf_matrix, columns=feature_names)
+        
+        # Get document names (keys from text_data)
+        doc_names = list(text_data.keys())
+        
+        # Display the top terms per document
+        for i, row in tfidf_df.iterrows():
+            doc_name = doc_names[i]
+            top_terms = row.nlargest(top_n).index.tolist()
+            print(f"\nDocument '{doc_name}' top {top_n} terms:")
+            print(', '.join(top_terms))
+        
+        # Return tfidf_df and doc_names for further use
+        return tfidf_df, doc_names
+    
+    except Exception as e:
+        print(f"Error in TF-IDF processing: {str(e)}")
+        return None, None  # Return None on failure
+
+```
+
+```{python}
+# Initialize tfidf_df and doc_names as None
+tfidf_df = None
+doc_names = None
+
+# Call generate_tfidf_top_terms to populate tfidf_df and doc_names
+tfidf_df, doc_names = generate_tfidf_top_terms(text_data)
+
+# Check the output
+if tfidf_df is None or doc_names is None:
+    print("TF-IDF generation failed. Check text data and pre-processing steps.")
+else:
+    print("TF-IDF generation successful. Proceeding to word cloud generation.")
+    print("TF-IDF DataFrame:", tfidf_df)
+    print("Document Names:", doc_names)
+    print(tfidf_df.columns)
+
+```
+
+```{python}
+# Example of calling the function
+import re
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from collections import defaultdict
+
+def generate_tfidf_top_terms(text_data, top_n=10, max_features=500):
+    # Convert dictionary values to list of strings
+    documents = list(text_data.values())
+    
+    # Ensure we have documents to process
+    if not documents:
+        print("No documents to process")
+        return None, None  # Explicitly return None if no documents found
+    
+    try:
+        # Create TF-IDF vectors for each document
+        tfidf_vectorizer = TfidfVectorizer(max_features=max_features)
+        tfidf_matrix = tfidf_vectorizer.fit_transform(documents).toarray()
+        
+        # Get feature names (terms) from the TF-IDF vectorizer
+        feature_names = tfidf_vectorizer.get_feature_names_out()
+        
+        # Convert the TF-IDF matrix to a DataFrame for easier inspection
+        tfidf_df = pd.DataFrame(tfidf_matrix, columns=feature_names)
+        
+        # Get document names (keys from text_data)
+        doc_names = list(text_data.keys())
+        
+        # Dictionary to accumulate TF-IDF scores by document (removing page suffix)
+        aggregated_scores = defaultdict(lambda: defaultdict(float))
+        
+        # Aggregate scores for each document
+        for i, row in tfidf_df.iterrows():
+            # Extract the base document name by removing the "_page_X.txt" part
+            document_name = re.sub(r"_page_\d+\.txt$", "", doc_names[i])
+            
+            # Accumulate scores for each term in this page to the document-level score
+            for term, score in row.items():
+                aggregated_scores[document_name][term] += score
+        
+        # Display the top terms per aggregated document
+        for document_name, terms_scores in aggregated_scores.items():
+            # Get top N terms by score for each document
+            top_terms = sorted(terms_scores.items(), key=lambda x: x[1], reverse=True)[:top_n]
+            
+            print(f"\nDocument '{document_name}' top {top_n} terms:")
+            for term, score in top_terms:
+                print(f"  {term}: {score:.4f}")
+        
+        # Optionally, return the DataFrame and document names if needed for further processing
+        return tfidf_df, doc_names
+    
+    except Exception as e:
+        print(f"Error in TF-IDF processing: {str(e)}")
+        return None, None  # Return None on failure
+
+# Call the function with the text data
+tfidf_df, doc_names = generate_tfidf_top_terms(text_data)
+
+```
+
+```{python}
+import re
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from collections import defaultdict
+
+# Step 1: Aggregate Sentiment Scores by Document
+
+# Assuming `all_scores` is a list of dictionaries with sentiment scores per page
+# all_scores = [{'file': 'doc1_page_1.txt', 'positive': 0.2, 'negative': 0.1, 'neutral': 0.7}, ...]
+
+# Initialize document-level sentiment scores
+document_sentiment_scores = defaultdict(lambda: {"positive_score": 0, "negative_score": 0, "neutral_score": 0, "page_count": 0})
+
+# Aggregate page-level sentiment scores to document level
+for score_dict in all_scores:
+    # Extract the document name by removing the "_page_X.txt" part
+    document_name = re.sub(r"_page_\d+\.txt$", "", score_dict["file"])
+    
+    # Sum sentiment scores across pages
+    document_sentiment_scores[document_name]["positive_score"] += score_dict.get("positive", 0)
+    document_sentiment_scores[document_name]["negative_score"] += score_dict.get("negative", 0)
+    document_sentiment_scores[document_name]["neutral_score"] += score_dict.get("neutral", 0)
+    document_sentiment_scores[document_name]["page_count"] += 1
+
+# Calculate average sentiment scores per document
+for document_name, scores in document_sentiment_scores.items():
+    page_count = scores["page_count"]
+    scores["avg_positive"] = scores["positive_score"] / page_count
+    scores["avg_negative"] = scores["negative_score"] / page_count
+    scores["avg_neutral"] = scores["neutral_score"] / page_count
+
+
+# Step 2: Perform Topic Modeling and Aggregate by Document
+def generate_tfidf_top_terms(text_data, top_n=10, max_features=500):
+    # Convert dictionary values to list of strings
+    documents = list(text_data.values())
+    
+    # Create TF-IDF vectors for each document
+    tfidf_vectorizer = TfidfVectorizer(max_features=max_features)
+    tfidf_matrix = tfidf_vectorizer.fit_transform(documents).toarray()
+    
+    # Get feature names (terms) from the TF-IDF vectorizer
+    feature_names = tfidf_vectorizer.get_feature_names_out()
+    
+    # Convert the TF-IDF matrix to a DataFrame
+    tfidf_df = pd.DataFrame(tfidf_matrix, columns=feature_names)
+    
+    # Get document names (keys from text_data)
+    doc_names = list(text_data.keys())
+    
+    # Dictionary to accumulate TF-IDF scores by document
+    aggregated_scores = defaultdict(lambda: defaultdict(float))
+    
+    # Aggregate scores for each document
+    for i, row in tfidf_df.iterrows():
+        # Extract the base document name by removing the "_page_X.txt" part
+        document_name = re.sub(r"_page_\d+\.txt$", "", doc_names[i])
+        
+        # Accumulate scores for each term in this page to the document-level score
+        for term, score in row.items():
+            aggregated_scores[document_name][term] += score
+    
+    # Collect top terms per document
+    document_topics = {}
+    for document_name, terms_scores in aggregated_scores.items():
+        # Get top N terms by score for each document
+        top_terms = sorted(terms_scores.items(), key=lambda x: x[1], reverse=True)[:top_n]
+        document_topics[document_name] = top_terms
+    
+    return document_topics
+
+# Generate TF-IDF based topic terms for each document
+document_topics = generate_tfidf_top_terms(text_data)
+
+
+# Step 3: Combine Sentiment and Topic Features for Each Document
+
+# Consolidate document-level sentiment and topic data
+combined_features = {}
+
+for document_name, sentiment_scores in document_sentiment_scores.items():
+    combined_features[document_name] = {
+        "avg_positive": sentiment_scores["avg_positive"],
+        "avg_negative": sentiment_scores["avg_negative"],
+        "avg_neutral": sentiment_scores["avg_neutral"],
+    }
+    
+    # Add top topic terms and their scores to the features
+    top_terms = document_topics.get(document_name, [])
+    for idx, (term, score) in enumerate(top_terms):
+        combined_features[document_name][f"topic_{idx+1}_term"] = term
+        combined_features[document_name][f"topic_{idx+1}_score"] = score
+
+# Convert to DataFrame for further analysis or anomaly detection
+combined_df = pd.DataFrame.from_dict(combined_features, orient='index')
+
+# Display the resulting DataFrame
+print(combined_df)
+```
+
+```{python}
+# Calculate overall sentiment averages
+overall_sentiment = {
+    "overall_avg_positive": combined_df["avg_positive"].mean(),
+    "overall_avg_negative": combined_df["avg_negative"].mean(),
+    "overall_avg_neutral": combined_df["avg_neutral"].mean()
+}
+
+# Display the overall sentiment
+print("Overall Sentiment Averages:")
+print(overall_sentiment)
+
+```
+
+```{python}
+import matplotlib.pyplot as plt
+
+# Plot overall sentiment distribution as a pie chart
+labels = ["Positive", "Negative", "Neutral"]
+sizes = [overall_sentiment["overall_avg_positive"],
+         overall_sentiment["overall_avg_negative"],
+         overall_sentiment["overall_avg_neutral"]]
+
+plt.figure(figsize=(8, 6))
+plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140, colors=['lightgreen', 'salmon', 'lightgray'])
+plt.title("Overall Sentiment Distribution")
+plt.show()
+
+```
+
+```{python}
+from collections import defaultdict
+
+# Initialize dictionary to aggregate term scores
+overall_topic_scores = defaultdict(float)
+
+# Sum TF-IDF scores for each topic term across all documents
+for document_name, terms_scores in document_topics.items():
+    for term, score in terms_scores:
+        overall_topic_scores[term] += score
+
+# Sort to get top 10 terms
+top_overall_topics = sorted(overall_topic_scores.items(), key=lambda x: x[1], reverse=True)[:10]
+
+# Display the top overall topics
+print("Top Overall Topics:")
+for term, score in top_overall_topics:
+    print(f"{term}: {score:.4f}")
+```
+
+```{python}
+# Extract terms and scores for plotting
+terms, scores = zip(*top_overall_topics)
+
+# Plot top overall topics as a bar chart
+plt.figure(figsize=(10, 6))
+plt.barh(terms, scores, color="skyblue")
+plt.gca().invert_yaxis()
+plt.title("Top Overall Topics Across All Documents")
+plt.xlabel("Aggregated TF-IDF Score")
+plt.show()
+```
+
+```{python}
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Step 1: Prepare Feature Set for Clustering
+
+# Combine sentiment averages and top topic terms into a feature set
+feature_set = combined_df[["avg_positive", "avg_negative", "avg_neutral"]].copy()
+
+# Add the top topic terms scores to the feature set
+for term, _ in top_overall_topics:
+    feature_set[term] = combined_df.apply(lambda x: next((score for t, score in document_topics.get(x.name, []) if t == term), 0), axis=1)
+
+# Step 2: Standardize the Data
+scaler = StandardScaler()
+scaled_features = scaler.fit_transform(feature_set)
+
+# Step 3: Apply KMeans Clustering
+# Let's try with 3 clusters, but you can experiment with other values
+kmeans = KMeans(n_clusters=3, random_state=0)
+clusters = kmeans.fit_predict(scaled_features)
+
+# Add cluster labels to the original DataFrame for reference
+combined_df['cluster'] = clusters
+
+# Step 4: Dimensionality Reduction for Visualization (PCA to 2 components)
+pca = PCA(n_components=2)
+pca_result = pca.fit_transform(scaled_features)
+
+# Plot the clusters in 2D space
+plt.figure(figsize=(10, 6))
+plt.scatter(pca_result[:, 0], pca_result[:, 1], c=clusters, cmap='viridis', edgecolor='k', s=60)
+plt.title("KMeans Clusters Based on Combined Sentiment and Topic Features")
+plt.xlabel("PCA Component 1")
+plt.ylabel("PCA Component 2")
+plt.colorbar(label="Cluster")
+plt.show()
+
+# Optional: Display cluster centroids for reference
+centroids = kmeans.cluster_centers_
+centroids_pca = pca.transform(centroids)
+plt.scatter(pca_result[:, 0], pca_result[:, 1], c=clusters, cmap='viridis', edgecolor='k', s=60)
+plt.scatter(centroids_pca[:, 0], centroids_pca[:, 1], c='red', marker='x', s=100, label='Centroids')
+plt.legend()
+plt.show()
+```
