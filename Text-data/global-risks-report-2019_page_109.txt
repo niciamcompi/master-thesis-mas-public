@@ -1,0 +1,51 @@
+REUTERS/Stringer
+
+
+
+
+The placement of the nodes in the                    Part 2 “Assessment of Global
+Risks-Trends Interconnections Map                    Risks”: The answers from the 885
+was computed using ForceAtlas2,                      respondents who assessed the
+a force-directed network layout                      impact and likelihood of at least
+algorithm implemented in Gephi                       one risk were used to compute the
+software, which minimizes edge                       results (the answer “no opinion” is
+lengths and edge crossings by                        considered a valid answer, but
+running a physical particle                          leaving the question entirely
+simulation.2                                         blank is not).
+
+
+Part 3 “Global Risk
+Interconnections”: The answers
+Completion                                           from the 635 respondents who
+selected at least one valid pair
+thresholds                                           of risks were used in the
+computation.
+We did not apply an overall
+threshold for the GRPS completion
+Part 4 “Assessments of Trends”:
+rate. Instead, we set specific
+The answers from the 749
+validity criteria for each section
+respondents who selected at least
+of the survey:
+one combination of an important
+trend and at least one associated
+Part 1 “The World in 2019”:
+risk were used in the computation.
+Only respondents who assessed
+at least three of the risks listed
+Figure B.1 presents some
+in this question were considered
+key descriptive statistics and
+(916 respondents met the criterion).
+information about the profiles
+of the respondents.
+
+2
+Jacomy, M., T. Venturini, S. Heymann, and M. Bastian. 2014. “ForceAtlas2: A Continuous Graph Layout Algorithm for Handy Network Visualization Designed for
+the Gephi Software”. PLoS ONE 9 (6): e98679. doi:10.1371/journal.pone.0098679
+
+
+
+
+The Global Risks Report 2019   103

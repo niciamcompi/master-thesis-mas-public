@@ -1,0 +1,138 @@
+N1i
+1
+likelihoodi                        likelihoodi,n
+Ni
+n=1
+
+
+
+
+could choose “no opinion” if they                                                                                       N2i
+1
+felt unable to provide an informed                                                              impacti =                       impacti,n
+Ni
+The global risks                                                   answer, and they could also leave                                                                                    n=1
+
+
+landscape                                                          the question completely blank.
+Partial responses for any risk—those                                              where Ni is the number of
+For each of the 30 global risks                                    assessing only the likelihood of                                                  respondents for risk i,∑and    N
+pairij,n
+interconnectionij = n=1
+listed in Appendix A, respondents                                  occurrence or only the negative                                                                                  pair
+likelihoodi,n and impacti,n are,    max
+
+were asked to assess (1) the                                       impact—were dropped.                                                              respectively, the likelihood and
+likelihood of the risk occurring                                                                                                                     impact assigned by respondent n
+globally within the next 10 years,                                 A simple average for both                                                         to risk i. The likelihood is measured
+max (and the        ij,n )
+N
+and (2) its negative impact for                                    likelihood and impact for each of the                                                      pairmax
+on a scale    of= 1–5            pair
+impact
+ij       n=1
+several countries or industries                                    30 global risks was calculated on                                                 on a scale of 1–5. Ni is the number
+over the same timeframe.                                           this basis. The results are illustrated                                           of respondents for risk i who
+in the Global Risks Landscape                                                     assessed both the likelihood N
+1
+For the first of these questions, the                              2019 (Figure I).                                                                  and impact                       ci,n risk.
+of thati = specific
+% concern
+N
+n=1
+possible answers ranged from “very
+unlikely” to “very likely” along a 1–5                             Formally, for any given risk i, its
+scale (1 = very unlikely, 5 = very                                 likelihood and impact—denoted
+Nr
+Likely). For the second question,                                  respectively likelihoodi and                                                                                      1
+% likelihoodir =                         li,n
+respondents could select one of                                    impacti—are:                                                                                                      Nr
+n=1
+five choices: “minimal”, “minor”,                                                                         N1i
+“moderate”, “severe”, or “catastrophic”,                                                            1
+likelihoodi                        likelihoodi,n
+Ni
+again using a 1–5 scale (1 = minimal,                                                                    n=1                                                                                  Nj
+1
+5 = catastrophic). Respondents                                                                                                                                             % Cij =                    ci,n
+Nr
+n=1
+
+
+
+Figure B.1: Survey Sample Composition1 N
+2
+i
+
+impacti =                    impacti,n                                                                    International organizations
+Ni                                                                                           8.64%
+Gender                                                Expertise                                       n=1                                Organization type
+Environment
+7.55%
+
+
+
+Other
+0.88%
+Economics
+24.29%                                                                                                          Business
+∑N
+n=1 pairij,n
+33.48%
+Male                                                        interconnection
+Technology =
+ij
+72.76%                                                              19.04%
+pairmax                           Academia
+26.26%
+Female
+26.37%                Geopolitics                                                    Other                                                                                 NGO
+12.69%                                                         24.18%                                                                                10.28%
+Society                                                                                   Other
+12.25%                                                                                    5.85%
+
+
+
+
+Government
+15.43%
+
+
+(                            )
+N
+pairmaxRegion
+= max                            pairij,n
+ij                 n=1
+Age distribution
+Eurasia
+Europe                 1.77%
+43.76%
+N
+1 America
+% concerni =North  ci,n
+N
+19.23%
+East Asia and the Pacific
+n=1                                                                        14.03%
+
+Middle East and
+4.81%   18.93%           27.35%             25.93%       14.11%       5.03%                                                                            North Africa
+7.18%
+<30     30–39            40–49              50–59        60–69        >70
+Latin America
+and the Caribbean
+5.86%         Nr                                                    South Asia
+1                        Sub-Saharan Africa        3.54%
+% likelihoodir =        li,n 4.64%
+
+Source: World Economic Forum Global Risks Perception Survey 2018–2019.    Nr
+n=1
+Note: Reported shares are based on the number of participants (916) who responded to biographical questions.
+
+
+
+Nj
+1                                                                               The Global Risks Report 2019              101
+% Cij =                   ci,n
+Nr
+n=1

@@ -1,0 +1,97 @@
+Global risks
+interconnections
+Part 3 of the GRPS assesses
+interconnections between pairs
+of global risks. Part 4 assesses
+interconnections between global
+risks and a set of underlying
+trends or drivers.
+
+
+For the interconnections between
+pairs of risks, survey respondents
+were asked the following question:
+“Global risks are not isolated, and it
+risks . . . that are most strongly                     where N is the number of
+is important to assess their
+driven by these trends.” The                           respondents.
+interconnections. In your view,
+results are illustrated in the Risks-
+which are the most strongly
+Trends Interconnections Map                            Variable pairij,n is 1 when
+connected global risks? Please
+2019 (Figure II).                                      respondent n selected the pair
+select three to six pairs of global
+of risks i and j as part of his/her
+risks.” The results are illustrated in
+In both cases, a tally was made of                     selection. Otherwise, it is 0. The
+the Global Risks Interconnections
+the number of times each pair was                      value of the interconnection
+Map 2019 (Figure III).
+cited. This value was then divided                     determines the thickness of each
+by the count of the most frequent-                     connecting line in Figures II and III,
+For the interconnections between
+ly cited pair. As a final step, the                    with the most frequently cited pair
+trends and risks, respondents were
+square root of this ratio was taken                    having the thickest line.
+first asked to identify up to three
+to dampen the long-tail     N11i          effect
+trends (for the full list, see Appendix                          1 Ni
+a few very
+(i.e. likelihood      1strong     likelihood and
+links           In the Global Risks Landscape and
+A) that they considered most                  likelihoodi i Ni likelihoodi,ni,n
+many weak ones)       N    n=1                         the Risks-Trends Interconnections
+n=1 and to make the
+i
+important in shaping the global
+differences more apparent across                       Map, the size of each risk is scaled
+agenda in the next 10 years. They
+the weakest connections. Formally,                     according to the degree of weight of
+were then asked to identify the
+the intensity of the       N22i interconnection        that node in the system. Moreover,
+three global risks that are most                                1 Ni
+impact     1
+between           i = Ni and
+risks
+impact
+impact      between
+j, ori,ni,n        in the Risks-Trends Interconnections
+i= N   i       impact
+strongly driven by each of the three                             i n=1
+trend i and risk j, denoted
+n=1                           Map, the size of the trend represents
+chosen trends. The two questions
+interconnectionij, corresponds to:                     the perception of its importance in
+read: “What are the three most
+shaping global development (answer
+important trends (in no particular
+∑NN pairij,n                  to the first part of the question on
+order) that will shape global de-             interconnection = ∑ n=1pairij,n
+interconnectionij ij= n=1
+pairmax
+pairmax                      trend, as explained above); the
+velopment in the next 10 years?”
+most-frequently cited trend is the
+followed by “For each of the three                                with
+one considered to be the most
+trends identified [in the previous
+important in shaping global
+((               ))
+N
+question,] select up to three global            pairmax = max         N
+pairij,n
+pairmax = max
+ij          n=1pairij,n
+development.
+ij        n=1
+
+
+
+
+N
+1N
+% concern =1        c
+% concerni =i N    c i,n
+N n=1 i,n
+102   The Global Risks Report 2019                                    n=1
