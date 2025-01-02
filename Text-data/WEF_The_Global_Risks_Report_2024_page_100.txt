@@ -1,0 +1,69 @@
+–   Short- and long-term risks landscape asked                 names of some of the global risks have been
+respondents to estimate the likely impact                  abbreviated in the figures. The portion of the full
+(severity) of each of the 34 global risks, on a 1-7        name used in the abbreviation is in bold.
+scale [1 – Low severity, 7 – High severity], over
+both two-year and 10-year periods. “Severity”          –   Risk outlook asked respondents to
+is meant to take into consideration the impact             characterize the evolution of the global risks
+on populations, the economy or environmental               landscape based on a number of factors.
+resources on a global scale. Respondents                   It first asked respondents to indicate which
+were also allowed to nominate any other risk               statement best characterizes current and
+considered missing from the 34 global risks. A             future global efforts to manage the Earth’s
+simple average based on the scores selected                resources. Respondents were provided with
+was calculated and the results are illustrated in          the same 7-point Likert scale for both the
+Figures 1.3 and 2.2. In addition, if a respondent          current and future timescales, ranging from “We
+selected the highest severity score (7) for any            need to respect Earth’s limits and restrict the
+of the 34 risks, they were asked a follow-up               consumption of natural resources to make our
+question to identify areas of particular concern           lifestyles sustainable” (1) to “We need to change
+with respect to the identified risk.                       Earth’s limits using science and technology
+to increase the supply of goods to create
+–   Consequences seeks to understand the                       abundance” (7). A simple tally for each of the
+potential consequences of risks, to create a               seven options was calculated.
+network map of the global risk landscape.
+Respondents were provided 10 randomly                  –   Respondents were then asked to select a
+selected global risks (from the full list of 34            statement that they believe best characterizes
+global risks) and were then asked to select                the global political environment for
+up to five global risks (from the full list) likely        cooperation on global risks in 10 years.
+to be triggered by each of the 10 randomly                 Respondents were provided with four options:
+selected risks. Results are illustrated in Figure          (1) Continuation or reinvigoration of the US-led,
+1.7. In visual results, “Nodes: Risk influence”            rules-based international order; (2) Multipolar
+is based on a simple tally of all bidirectional            or fragmented order in which middle and great
+relationships identified by respondents. “Edges:           powers contest, set and enforce regional rules
+Relative influence” is based on a simple tally             and norms; (3) Bipolar or bifurcated order
+of the number of times the risk was identified             shaped by strategic competition between
+as a consequence. However, visual results do               two superpowers; (4) Realignment towards a
+not show all connections: weaker relationships             new international order led by an alternative
+identified by less than 25% of respondents were            superpower. A simple tally for each of the four
+not included as edges.                                     options was calculated. Results are illustrated in
+Figure 2.31.
+–   Risk governance asked respondents to identify
+approach(es) that they expect to have the most         –   Finally, respondents were asked to select
+potential for driving action on risk reduction             a statement which best characterizes their
+and preparedness over the next 10 years,                   outlook for the world over the next two and
+with respect to the most severe risks (severity            10 years. Respondents were provided with
+score of 6 or 7 over the 10-year timeframe).               the same five options for both time periods: (1)
+Respondents could choose up to three answers               Calm: negligible risk of global catastrophes; (2)
+from the following nine approaches: Financial              Stable: isolated disruptions, low risk of global
+instruments (e.g. insurance, catastrophe                   catastrophes; (3) Unsettled: some instability,
+bonds, public risk pools); National and local              moderate risk of global catastrophes; (4)
+regulations (e.g. environmental, operational,              Turbulent: upheavals and elevated risk of global
+financial regulations and incentives); Minilateral         catastrophes; (5) Stormy: global catastrophic
+treaties and agreements (e.g. Basel, Wassenaar,            risks looming. A simple tally for each of the five
+regional free trade agreements); Global treaties           options was calculated. Results are illustrated in
+and agreements (e.g. UNFCC, Paris, Montreal,               Figure 1.1.
+NPT, WTO); Development assistance (e.g.
+international aid for disaster risk response
+and reduction); Corporate strategies (e.g.             Completion thresholds
+ESG reporting, resilient supply chains, social
+initiatives, PPPs); Research and development
+(e.g. new technologies, early-warning systems,         A total of 1,852 responses to the GRPS were
+global risk research); Public awareness and            received. From these, 1,490 were kept, based on
+education (e.g. campaigns, school curricula,           the threshold at least one non-demographic answer,
+media products); Multistakeholder engagement           a minimum answer time of 2 minutes, and the
+(e.g. platforms for exchanging knowledge,              filtering of multiple submissions based on browser
+best practices, alignment). A simple tally of the      cookies as well as partial responses (>40%) that
+number of times an approach was identified             have overlapping IP-numbers and demographic
+was calculated for each risk. Results are              answers with a fully recorded response (100%).
+illustrated in Figure 3.5. To ensure legibility, the
+
+
+Global Risks Report 2024 100
