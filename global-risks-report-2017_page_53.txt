@@ -1,0 +1,108 @@
+Part 1
+3.3: Physical Infrastructure Networks                                                              The Revolution
+and the Fourth Industrial Revolution                                                               Electricity powered the Second
+and Third Industrial Revolutions, as
+networks achieved economies of
+scale by connecting large plants over
+Since the appearance of railways and         infrastructure: for example, private
+
+
+
+
+Part 2
+high-voltage transmission grids to
+canals, industrial revolutions have been     financiers backed the creation of
+local distribution networks reaching
+characterized by the transformation          railway networks in Europe and North
+many users. This aggregation of users
+of physical infrastructure networks as       America in the 19th century, some
+helped to smooth out much of the
+much as by production methods. Now           losing their shirts. But much of today’s
+local variation in demand, so steady-
+the Fourth Industrial Revolution (4IR) is    ageing physical infrastructure in
+running base-load plants could be
+shaking up the interdependent set of         advanced economies was built with
+the workhorses of the network, with
+critical physical infrastructure networks    public funding during the 20th century.
+extra capacity patched in to deal with
+on which we all depend, including            Britain led the way in utility privatization
+daily and seasonal peaks. Prohibitively
+transport (road, rail, waterways,            in the 1980s and 1990s, and it has
+high barriers to entry meant there was
+
+
+
+
+Part 3
+airports); energy (electricity, heat, fuel   generally improved asset management
+little competitive pressure to reduce
+supply: gas, liquid and solid); digital      and reduced costs for customers. On
+the significant amount of energy
+communications (fixed, mobile);              the other hand, private finance has
+lost as waste heat in the generation,
+water (supply, waste water treatment,        typically shied away from large and
+transmission and distribution of
+flood protection); and solid waste           risky new assets, such as nuclear
+electricity.
+(collection, treatment, disposal). This      reactors. Uncertainties related to the
+process brings huge opportunities for        4IR play a part in that reluctance.
+All of that is now changing. Collapsing
+innovation, but also complex risks.
+prices of photo-voltaic cells make solar
+With tight public finances, governments
+panels price-competitive with large-
+and regulators are having to devise
+scale generation (Figure 3.3.1). The cost
+The Economic                                 mechanisms for leveraging private
+of offshore wind is also dropping fast,
+finance while seeking to avoid the
+Characteristics of                           inflexibility and questions over value for
+with firms such as DONG Energy and
+Vattenfall bidding prices down as low
+Infrastructure Networks                      money that have dogged public-private
+as €60 per Megawatt hour. Innovation
+infrastructure finance in the past. It
+in storage technology is helping with
+The value of a physical infrastructure       is still unclear how the enormous
+intermittency challenges – from large-
+network increases with its scope. In         investment needs for some kinds of
+scale storage to household battery
+communications (transport, digital), the     infrastructure are going to be met.
+more people a network connects, the
+more useful it becomes. In resource
+networks (energy, water), connecting         Figure 3.3.1: The Falling Price of Photo-Voltaic Modules
+more people can help build resilience
+and leverage economies of scale.                             100
+Costs are high relative to returns in                                   1980
+the early stages of building a network,
+and also later when connecting
+geographically remote areas with                                                      1990
+2000
+low population density: extending                             10
+Price (US$/W)
+
+
+
+
+coverage to such areas usually requires
+government intervention, although
+4IR technologies may shake up that
+economic logic by drastically cutting                                                                                2010
+1
+the costs of connectivity.
+
+Because physical infrastructure
+networks are often natural monopolies
+as a result of barriers to entry, the                         0
+public sector typically either provides                            10          100       1,000          10,000       100,000           1,000,000
+those barriers or regulates them on
+behalf of their users. Regulators have                                                Cumulative installed capacity (MW)
+to tread the delicate line between
+setting affordable tariffs and ensuring
+Source: Bloomberg New Energy Finance.
+that capital can be found to invest in
+maintaining and renewing networks.           Note: Prices are in constant 2015 US$.
+The pendulum has swung between
+private and public capital funding of
+
+The Global Risks Report 2017   53

@@ -1,0 +1,69 @@
+Appendix B: Global Risks Perception Survey and
+Methodology 2016
+
+
+
+Definitions and Changes                      The Global Risks                             Raw responses were cleaned in order to
+improve overall data quality and
+Perceptions Survey                           completeness. Surveys with a
+The Global Risks Report 2017 is based
+on an improved methodology; however                                                       completion rate below 50% were
+The Global Risks Perception Survey           dropped, reducing the number of
+the results are therefore largely            (GRPS), discussed in Part 1, is the main
+comparable. The Report adopts the                                                         available responses from 989 to 745.
+instrument used to assess global risks       The respondents did not provide
+following definitions of global risk and     in this Report. The survey was
+trend:                                                                                    sufficient information about their gender
+conducted between early September            or the sector in which they work in 92
+and mid-October 2016 (from 07                and 119 cases, respectively. Similarly,
+Global risk: an uncertain event or           September to 15 October 2016) among
+condition that, if it occurs, can cause                                                   93 respondents did not indicate the
+the World Economic Forum’s                   country in which they are based.
+significant negative impact for several      multistakeholder communities of
+countries or industries within the next 10   leaders from business, government,
+years.                                                                                    Figure B.1 presents the profile of the 745
+academia and non-governmental and            survey respondents remaining in the
+international organizations as well as       sample. To capture the voice of youth,
+Trend: a “trend” is defined as a long-       members of the Institute of Risk
+term pattern that is currently evolving                                                   the survey also targeted the World
+Management.                                  Economic Forum’s community of Global
+and that could contribute to amplifying
+global risks and/or altering the                                                          Shapers.1 Respondents under 30
+This year, the GRPS is a key instrument      accounted for about one-fifth of total
+relationship between them.                   used as supporting data for the              respondents.
+elaboration of the Report. For this year’s
+The list of risks and trends assessed in     Report, the GRPS went through an
+the Global Risks Perception Surveys          important review to ensure the quality of    Analysis
+(GRPS) remains unchanged with the            the results. This process was performed
+exception of the addition of the global      in collaboration with the Global Risks       The Global Risks Landscape 2017
+risk “Failure of regional or global          Perception Survey Review Group on            (Figure 3)
+governance” (defined as the inability of     The Global Risks Report 2017, a group
+regional or global institutions to resolve   composed of experts in survey                Respondents were asked to assess the
+issues of economic, geopolitical or          methodology and risks perception (see        likelihood and global impact of each of
+environmental importance). As a result,      Acknowledgements section).                   the 30 risks. For each risk, they were
+the Report covers 30 global risks this                                                    asked, “What is the likelihood of [the
+year.                                        Among the most significant                   risk] occurring globally within the next
+improvements are the changes to the          10 years?” and “What is the negative
+Some of the names of the trends were         scales of the Global Risks Landscape.        impact for several countries or industries
+modified to better reflect long-term         Indeed, the impact scale has changed         within the next 10 years?” For the first
+pattern characteristic of trends (for        this year from an abstract 1–7 scale,        question, the possible answers ranged
+instance, the trend “rise of chronic         subject to interpretation and thus bias,     from 1 (“extremely unlikely” with an
+diseases” was edited to “rising chronic      to a more substantive and meaningful         associated probability of occurrence
+diseases”). The definitions were mainly      scale of impact measurement (i.e.            lower than 5%) to 7 (“extremely likely”
+unchanged.                                   minimal, minor, moderate, severe,            with an associated probability of
+catastrophic). On the likelihood scale,      occurrence greater than 95%). For the
+This year’s GRPS included an entire          the scale of 1–7 was kept but a              question on impact, respondents could
+section on emerging technologies. After      particular probability was attached to       select one of five choices: “minimal”,
+consultations with experts, 12 critical      each number in order to ensure that all      “minor”, “moderate”, “severe”, or
+emerging technologies were identified;       respondents had the same                     “catastrophic”. These five alternatives
+selected findings are described in Part 3    understanding of the likelihood being        were turned into a 1–5 scale (1 =
+of the Report.                               considered. Throughout the survey, the       minimal, 5 = catastrophic). It is worth
+questions were modified and the              noting that, as a consequence of the
+The following section describes the          phrasing was refined to reduce any           scale modification, the impact results
+survey and methodology in greater            ambiguity.                                   cannot be compared with those of
+detail.                                                                                   previous years.
+
+
+
+
+The Global Risks Report 2017   65

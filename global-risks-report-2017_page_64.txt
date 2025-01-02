@@ -1,0 +1,66 @@
+Emerging Technologies
+
+
+Emerging Technology               Description
+
+Advances in automated processes ranging from manufacturing to driverless vehicles
+Artificial intelligence and       and automated knowledge work, enabled by highly competent cyber-physical systems
+robotics                          and machines that can substitute for human beings to complete various tasks most
+often associated with thinking, multitasking, and fine motor skills
+
+Innovations in genome editing, gene therapies, and other forms of genetic manipulation
+and synthetic biology resulting in additions to the registry of sequenced species of
+Biotechnologies                   animals as well as human DNA, the creation of previously non-existent organisms,
+and modifications to microbes and organisms for medical, agricultural and industrial
+applications, including integrating them with electronic and computing advancements
+
+Breakthroughs in energy technologies, including advanced batteries and fuel cells,
+Energy capture, storage           orbiting solar arrays, tidal energy capture, wind and bioenergy, as well as advances in
+and transmission                  nuclear fusion containment, smart grid systems, wireless energy transfer, and increased
+fuel cell fabrication efficiencies
+
+Developments in cryptographic systems that manage and verify distributed transaction
+Blockchain and                    data on a public ledger, increasing transparency and securing an immutable record for
+distributed ledger                application to cryptocurrencies such as bitcoin as well as for verification of varieties of
+transactions across industries, especially in financial technologies (FinTech)
+
+Creation and development of technological processes that intercede in the Earth’s
+Geoengineering                    geological and climatic systems, ranging from land reclamation to atmospheric seeding
+in order to influence weather patterns or remove carbon dioxide
+
+Proliferation and ubiquitous presence of linked sensors, also known as the “Internet of
+Proliferation and
+Things”, combined with sophisticated large-scale data analytics that will connect, track
+ubiquitous presence of
+and manage physical products, logistics systems, energy grids and more by sending
+linked sensors
+and receiving data over widespread digital infrastructures
+
+Creation of new methods for insight into, and control of, the functionality and
+processing dimensions of the human brain, allowing for the ability to read, influence and
+Neurotechnologies                 communicate brain activity through various secondary technological dimensions such
+as smart drugs, neuroimaging, bioelectronic interfaces, machine-brain interfaces and
+brainwave decoding and manipulation
+
+Innovations in materials and assemblages used to process or store digital information,
+New computing                     such as centralized cloud computing, quantum computing, neural network processing,
+technologies                      biological data storage, and optical computing, including new software development,
+cryptography, and the cybersecurity processes associated with each
+
+Technologies that can be used in space that will increase the ability of both public
+and private entities to access, explore, and create new forms of value such as
+microsatellites, reusable rockets, integrated rocket-jet engines, optical and imaging
+Space technologies
+technologies, sensor developments, resource exploitation, laser and communications
+technologies, space exploration and habitat developments, and techno-scientific
+breakthroughs that are transferable to the marketplace
+
+Development of sophisticated immersive virtual environments that can range from
+Virtual and augmented
+heads-up displays and holographic readouts to fully mixed digital and physical
+realities                         environments and complete virtual worlds and interfaces
+
+
+
+
+64      The Global Risks Report 2017

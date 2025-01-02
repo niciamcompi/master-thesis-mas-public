@@ -1,0 +1,77 @@
+Part 1
+3.1: Understanding the Technology                                                                         become more aware of the lagged
+societal, political and even geopolitical
+Risks Landscape                                                                                           impact of earlier waves of innovation.
+
+Over the years The Global Risks
+Report has repeatedly highlighted
+The emerging technologies of the                       Too often the debate about emerging
+
+
+
+
+Part 2
+technological risks. In the second
+Fourth Industrial Revolution (4IR)                     technologies takes place at the                    edition of the Report, as far back as
+will inevitably transform the world in                 extremes of possible responses:                    2006, echoes of current concerns
+many ways – some that are desirable                    among those who focus intently                     were noted in one of the technology
+and others that are not. The extent                    on the potential gains and others                  scenarios we considered, in which the
+to which the benefits are maximized                    who dwell on the potential dangers.                “elimination of privacy reduces social
+and the risks mitigated will depend                    The real challenge lies in navigating              cohesion”. This was classified as a
+on the quality of governance – the                     between these two poles: building                  worst-case scenario, with a likelihood
+rules, norms, standards, incentives,                   understanding and awareness of the                 of below 1%. In 2013, the Report
+institutions, and other mechanisms                     trade-offs and tensions we face, and               discussed the risk of “the rapid spread
+
+
+
+
+Part 3
+that shape the development and                         making informed decisions about how                of misinformation”, observing that trust
+deployment of each particular                          to proceed. This task is becoming                  was being eroded and that incentives
+technology.                                            more pressing as technological change              were insufficiently aligned to ensure
+deepens and accelerates, and as we                 the maintenance of robust systems of
+
+Table 3.1.1: Twelve Key Emerging Technologies
+
+Technology                               Description
+
+3D printing                              Advances in additive manufacturing, using a widening range of materials and methods; innovations
+include 3D bioprinting of organic tissues.
+
+Advanced materials and                   Creation of new materials and nanostructures for the development of beneficial material
+nanomaterials                            properties, such as thermoelectric efficiency, shape retention and new functionality.
+
+Artificial intelligence and              Development of machines that can substitute for humans, increasingly in tasks associated with
+robotics                                 thinking, multitasking, and fine motor skills.
+
+Biotechnologies                          Innovations in genetic engineering, sequencing and therapeutics, as well as biological-
+computational interfaces and synthetic biology.
+
+Energy capture, storage and              Breakthroughs in battery and fuel cell efficiency; renewable energy through solar, wind, and tidal
+transmission                             technologies; energy distribution through smart grid systems, wireless energy transfer and more.
+
+Blockchain and distributed               Distributed ledger technology based on cryptographic systems that manage, verify and publicly
+ledger                                   record transaction data; the basis of "cryptocurrencies" such as bitcoin.
+
+Geoengineering                           Technological intervention in planetary systems, typically to mitigate effects of climate change by
+removing carbon dioxide or managing solar radiation.
+
+Ubiquitous linked sensors                Also known as the "Internet of Things". The use of networked sensors to remotely connect, track
+and manage products, systems, and grids.
+
+Neurotechnologies                        Innovations such as smart drugs, neuroimaging, and bioelectronic interfaces that allow for reading,
+communicating and influencing human brain activity.
+
+New computing technologies               New architectures for computing hardware, such as quantum computing, biological computing or
+neural network processing, as well as innovative expansion of current computing technologies.
+
+Space technologies                       Developments allowing for greater access to and exploration of space, including microsatellites,
+advanced telescopes, reusable rockets and integrated rocket-jet engines.
+
+Virtual and augmented                    Next-step interfaces between humans and computers, involving immersive environments,
+realities                                holographic readouts and digitally produced overlays for mixed-reality experiences.
+
+Source: The 12 emerging technologies listed here and included in the GRPS are drawn from World Economic
+Forum Handbook on the Fourth Industrial Revolution (forthcoming, 2017).
+
+The Global Risks Report 2017   43

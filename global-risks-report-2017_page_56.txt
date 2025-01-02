@@ -1,0 +1,81 @@
+Part 1
+
+
+
+
+widespread and persistent clouds              in the 4IR. As networks become
+– and the increased complexity                interconnected – for example, as
+bring brought about by the 4IR                digital technologies enable the routing
+makes the severity of those risks             of vehicles and the management
+very difficult to estimate (Box 3.3.1).       of electricity and water demand – a
+Society is increasingly dependent             “system-of-systems” approach to
+Part 2
+
+
+
+
+on information and communication              governance is needed. That requires
+technology networks in particular, and        appropriate sharing of information
+these have their own dependencies             among network operators, and also
+and vulnerabilities. In a 20th-century        requires regulators adopting common
+electricity network, it is possible to        principles across networks.
+analyse the consequences of any               Just as network operators and
+given sub-station failing. That becomes       businesses need to better understand
+impossible when every household               and manage systemic risks,
+is supplying and storing electricity          governments and regulators need to
+and constantly adapting how much              take a wider view. Examples of new
+Part 3
+
+
+
+
+it uses based on price signals: we            governance structures that recognize
+may suspect that our networks are             the need for a more integrated
+acceptably resilient, but we cannot           approach include the National
+model them accurately enough to be            Infrastructure Commission in the United
+sure.                                         Kingdom, Infrastructure Australia, and
+the National Infrastructure Unit in New
+Because the 4IR intensifies networks’         Zealand. These new entities are having
+reliance on each other, there is a need       to navigate tensions between taking
+for information sharing – utility providers   a national-level strategic approach to
+tend to understand their own systems          articulating needs for infrastructure to
+well, while often being more or less          support growth and productivity and
+in the dark about the resilience of the       creating space for competition and
+systems to which they are connected.          innovation.
+However, concerns about commercial
+confidentiality and security increase         While the 4IR is creating complex
+the challenge of developing protocols         new challenges for planners and
+for information sharing that would help       regulators, it is also providing powerful
+dependent customers to understand             new tools for monitoring and analysing
+their risks. Not only infrastructure          system performance at hitherto
+providers but also businesses need to         unprecedented spatial and temporal
+understand risks and resilience more          scales – and testing resilience through
+fully: analysis of supply chain risk tends    simulation. Modelling exercises in
+to focus more on physical sites than          a virtual environment will never give
+the infrastructure networks that sustain      infallible results, but in itself the exercise
+those sites and move goods and                of constructing and testing models can
+services between them.                        help to expose vulnerabilities in system
+resilience. Alongside their traditional
+Governance of                                 role of minimizing the harmful effects
+of natural monopolies, infrastructure
+Infrastructure Networks in                    regulators in the 4IR should be paying
+the 4IR                                       more attention to systemic risks,
+building technical capabilities and
+Like infrastructure networks                  standards for information sharing and
+themselves, arrangements for their            stress testing.
+governance have evolved incrementally
+and mostly siloed by sector – not least
+because ownership arrangements can
+be so different, ranging from highly
+competitive privatized markets (e.g.
+in mobile phone provision) through
+regulated monopolies, public-private
+partnerships, state-owned enterprises
+and direct public provision.1
+Governments are increasingly
+recognizing that this fragmented
+Chapter 3.3 was contributed by Jim Hall, Oxford
+approach is becoming unfit for purpose        Martin School, University of Oxford.
+
+
+56   The Global Risks Report 2017

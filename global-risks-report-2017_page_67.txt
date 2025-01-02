@@ -1,0 +1,137 @@
+where N is the number of respondents.                   Here again, respondents were given the governancei (the score) measures the
+option of choosing “No Opinion” if they         percentage of respondents selecting
+Ni
+Variable pairij,n is 1 when respondent n                felt unable to provide an informed              the emerging technology
+1         i.
+selected the pair of risks i and j as part              answer. Respondents could also leave                      benefitsi =        benefitsi,n
+Ni
+of his/her selection. Otherwise, it is 0.               the question completely blank. A simple The respondents had              n=1to then answer a
+The value of the interconnection                        average of responses to the benefits,           question about which emerging
+determines the thickness of each                        negative consequences, and level of             technologies exacerbate   Ni    each of the five
+connecting line in the graph, with the                                                                  categories of global
+confidence questions was calculated. neg.consequences                 1 risks. The question
+=        neg.consequencesi,n
+most frequently cited pair having the                   Formally, for any given emerging                reads: “For eachi question,
+Ni           please select
+n=1
+thickest line.                                          technology i, its benefits and negative         the three emerging technologies that
+consequences, denoted respectively              you believe will most significantly
+In the Global Risks Landscape and                       benefitsi and neg.consequencesi, are:           exacerbate global risks within the stated
+Risks-Trends Interconnections Maps,                                                                                               N
+risk category. By ‘exacerbate’
+1                we mean
+the size of each risk is scaled according                                           Ni                        governance
+increase   the      =
+likelihood
+i N
+governance
+and/or       i,n of
+impact
+Ni
+to the degree of weight of that node in                                        11                       those  risks.” For  each n=1risk category, the
+benefitsi =
+benefits    i=N
+benefits
+benefits i,n i,n
+the system. Moreover, in the Risks-                                            Nii n=1
+n=1
+results are computed as:
+Trends Interconnections Map, the size
+of the trend represents the perception of                                                                                         N
+Ni
+N                                                        1
+its importance in shaping global                                   1 i
+1                                         exacerbate i, a =       exacerbatei,a,n
+neg.consequences =             neg.consequencesi,n                                 N
+development (answer to the first part of neg.consequencesi =i Ni n=1 neg.consequences               i,n                          n=1
+Ni
+the question on trend, as explained                                  n=1
+
+above); the biggest trend is the one       where Ni is the number of respondents                        where N is the number of respondents
+considered to be the most important in     for emerging technology    N       i, and   benefits         to the survey and, for emerging
+1                            i,n
+shaping global development.                        governancei =
+and neg.consequences       N governance
+are,    i,n             technology i for the risk category a
+1 n=1 i,n
+N
+governance
+respectively,  thei =benefits   governance
+and   negative
+i,n         (economic risks, environmental risks,
+The placement of the nodes in the                                  N
+consequences assigned     n=1       by respondent geopolitical risks, societal risks, or
+Global Risks-Trends Interconnections       n to the emerging technology              i and              technological risks), variable
+Map was computed using ForceAtlas2,        measured    on  a   scale
+N
+1 from 1 to 7. N is                 exacerbatei,a,n is 1 when respondent n
+a force-directed network layout                   exacerbatei, a =         exacerbatei,a,n i
+the number of respondents
+N N
+n=1          for  the              selected the pair of risks i and j as part
+algorithm implemented in Gephi             emerging   technology   1
+i who    assessed              of his/her selection. Otherwise, it is 0.
+exacerbate  i, a =          exacerbate
+software, which minimizes edge lengths both the benefits           N the negativei,a,n
+and                                   As a result, exacerbatei,a is the score
+n=1
+and edge crossings by running a            consequences        of  that    emerging                     assigned to emerging technology i for
+physical particle simulation.2             technology (the answers of respondents risk category a and measured as a
+who left one of the two questions blank                      percentage of respondents selecting
+The Emerging Technologies Matrix           were not taken into account).                                this emerging technology.
+(Figure 3.1.1)
+Other Emerging Technologies
+For the first time this year, the GRPS          Questions (Figure 3.1.3)
+included questions on emerging
+technologies. The first question asked in After the questions on the
+this section was on the consequences            consequences of emerging technology,
+of emerging technologies. For each of           the respondents had to select the three
+the 12 emerging technologies identifies, emerging technologies that need better
+respondents had to answer the                   governance. The exact question is:
+following questions: “How likely is this        “Please select the three emerging
+emerging technology to bring                    technologies where you        Ni    believe better
+significant benefits within the next 10                                  1
+governance     is   most
+benefitsi =             benefitsBy
+needed.      i,n
+years?” and “How likely is this emerging ‘governance’ we                Ni
+mean n=1 the rules, norms,
+technology to bring severe negative             standards and/or institutions that allow
+consequences within the next 10                 stakeholders to take effective decisions                     Reference
+years?” and finally “How confident are                                        Ni
+that maximize the1benefits and minimize
+you about your responses for this             neg.consequences        =
+the negative consequences
+i N
+neg.consequences
+of a
+Jacomy, M., T. Venturini, S. Heymann, and M.
+i,n Bastian. 2014. “ForceAtlas2: A Continuous Graph
+emerging technology?” For the first two                                    i
+technology.” The computation n=1             for each        Layout Algorithm for Handy Network Visualization
+questions, respondents could answer             emerging technology i is:                                    Designed for the Gephi Software.” PLoS ONE 9(6):
+from 1 (extremely unlikely) to 7                                                                             e98679. doi:10.1371/journal.pone.0098679
+(extremely likely). Similar to the likelihood                                 N
+questions used to build the Global Risks                                 1
+governancei =               governancei,n
+Landscape 2017, probabilities were                                       N
+n=1
+attached to each selected risk. For the                                                                      Endnotes
+question on the level of confidence,
+respondents could select an answer              where N is the number of respondents                         1
+The Global Shapers Community is a network of
+ranging from 1 (extremely low                   to the survey,   and     1
+variable
+N       governance     i,n
+hubs developed and led by young people who are
+is 1 exacerbate
+when respondent               selected i,a,n
+nexacerbate    the          exceptional in their potential, achievement and drive
+confidence) to 7 (extremely confident).                           i, a =
+N                                   to make a contribution to their communities; see
+pair of risks i and j asn=1part of his/her                   http://www.weforum.org/community/global-shapers
+selection. Otherwise, it is 0. As a result,                  2
+See Jacomy et al. 2014.
+
+
+The Global Risks Report 2017   67

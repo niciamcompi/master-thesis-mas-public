@@ -1,0 +1,134 @@
+Part 1
+
+
+
+
+Endnotes                                                                              Kelly, A. 2016. ‘Will Artificial Intelligence read your mind? Scientific research analyzes
+brainwaves to predict words before you speak”. iDigital Times, 9 January 2016.
+http://www.idigitaltimes.com/will-artificial-intelligence-read-your-mind-scientific-
+1
+Russell, Dewey, and Tegmark 2015.                                                   research-analyzes-brainwaves-502730
+2
+CB Insights 2016.
+3
+Mizroch 2015.                                                                       Kime, B. “3 Chatbots to deploy in your busines”. VentureBeat, 1 October 2016.
+http://venturebeat.com/2016/10/01/3-chatbots-to-deploy-in-your-business/
+4
+Martin 2012.
+5
+Clark 2016.                                                                         Lawrence Livermore National Laboratory. 2016. “Lawrence Livermore and IBM
+Part 2
+
+
+
+
+6
+Bostrom 2014.                                                                       collaborate to build new brain-inspired supercomputer”, Press release, 29 March
+7
+Scherer 2016.                                                                       2016. https://www.llnl.gov/news/lawrence-livermore-and-ibm-collaborate-build-new-
+brain-inspired-supercomputer
+8
+Frey and Osborne 2015.
+9
+Sherpany 2016.                                                                      Maderer, J. 2016. “Artificial Intelligence course creates AI teaching assistant”.
+10
+Bostrom 2014; Armstrong 2014.                                                      Georgia Tech News Center, 9 May 2016. http://www.news.gatech.edu/2016/05/09/
+11
+Wallach 2015.                                                                      artificial-intelligence-course-creates-ai-teaching-assistant
+12
+Hunt 2016.                                                                         Martin, M. 2012. “C-Path: Updating the art of pathology”. Journal of the
+13
+Chiel 2016.                                                                        National Cancer Institute 104 (16): 1202–04. http://jnci.oxfordjournals.org/
+14
+Maderer 2016.                                                                      content/104/16/1202.full
+15
+Talbot 2009.
+Mizroch, A. 2015. “Artificial-intelligence experts are in high demand”. Wall Street
+16
+Russell, Dewey, and Tegmark 2015, p. 111                                           Journal Online, 1 May 2015. http://www.wsj.com/articles/artificial-intelligence-
+Part 3
+
+
+
+
+17
+Bloomberg 2016.                                                                    experts-are-in-high-demand-1430472782
+18
+US regulatory policy is aimed at end products such as automated vehicles rather
+than the underlying technical system or its development.                              Russell, S., D. Dewey, and M. Tegmark. 2015. “Research priorities for a robust and
+beneficial artificial intelligence”. AI Magazine Winter 2015: 105–14.
+19
+Scherer 2016, p. 359.
+20
+U.S. Department of Transportation 2016.                                            Scherer, M. U. 2016. “Regulating Artificial Intelligence systems: Risks, challenges,
+21
+Cohen 2013.                                                                        competencies, and strategies”. Harvard Journal of Law & Technology 29 (2):
+22
+Kelly 2016.                                                                        354–98.
+23
+Bostrom 2014, Chapter 3.                                                           Sherpany. 2016. “Artificial Intelligence: Bringing machines into the boardroom”, 21
+24
+Conversation with Aldo Faisal, Senior Lecturer in Neurotechnology, Imperial        April 2016. https://www.sherpany.com/en/blog/2016/04/21/artificial-intelligence-
+College London, 29 September 2016.                                                    bringing-machines-boardroom/
+25
+Yirka 2016.
+Talbot, D. 2009. “Extracting meaning from millions of pages.” MIT Technology
+26
+Lawrence Livermore National Laboratory 2016.
+Review, 10 June 2009. https://www.technologyreview.com/s/413767/extracting-
+27
+Hern 2016.                                                                         meaning-from-millions-of-pages/
+28
+Kime 2016.
+Turing, A. M. 1951. “Can digital machines think?” Lecture broadcast on BBC Third
+Programme; typescript at turingarchive.org
+
+U.S. Department of Transportation. 2016. Federal Automated Vehicles Policy –
+September 2016. Washington, DC: U.S. Department of Transportation. https://www.
+transportation.gov/AV/federal-automated-vehicles-policy-september-2016
+References                                                                            Wallach, W. 2015. A Dangerous Master. New York: Basic Books.
+
+Armstrong, S. 2014. Smarter than Us: The Rise of Machine Intelligence. Berkeley,      Yirka, B. 2016. “Researchers create organic nanowire synaptic transistors that
+CA: Machine Intelligence Research Institute.                                          emulate the working principles of biological synapses.” TechXplore, 20 June 2016.
+https://techxplore.com/news/2016-06-nanowire-synaptic-transistors-emulate-
+Bloomberg. 2016. “Boston Marathon Security: Can A.I. Predict Crimes?” Bloomberg       principles.html
+News, Video, 21 April 2016. http://www.bloomberg.com/news/videos/b/d260fb95-
+751b-43d5-ab8d-26ca87fa8b83
+
+Bostrom, N. 2014. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford
+University Press.
+
+CB Insights. 2016. “Artificial intelligence explodes: New deal activity record for
+AI startups”. Blog, 20 June 2016. https://www.cbinsights.com/blog/artificial-
+intelligence-funding-trends/
+
+Chiel, E. 2016. “‘Black teenagers’ vs. ‘white teenagers’: Why Google’s algorithm
+displays racist results”. Fusion, 10 June 2016. http://fusion.net/story/312527/
+google-image-search-algorithm-three-black-teenagers-vs-three-white-teenagers/
+
+Clark, J. 2016. “Google cuts its giant electricity bill with deepmind-powered
+AI”. Bloomberg Technology, 19 July 2016. http://www.bloomberg.com/news/
+articles/2016-07-19/google-cuts-its-giant-electricity-bill-with-deepmind-powered-ai
+
+Cohen, J. 2013. “Memory implants: A maverick neuroscientist believes he has
+deciphered the code by which the brain forms long-term memories.” MIT Technology
+Review. https://www.technologyreview.com/s/513681/memory-implants/
+
+Frey, C. B. and M. A. Osborne. 2015. “Technology at work: The future of innovation
+and employment”. Citi GPS: Global Perspectives & Solutions, February 2015. http://
+www.oxfordmartin.ox.ac.uk/downloads/reports/Citi_GPS_Technology_Work.pdf
+
+Hern, A. 2016. ‘Partnership on AI’ formed by Google, Facebook, Amazon, IBM and
+Microsoft. The Guardian Online, 28 September 2016. https://www.theguardian.com/
+technology/2016/sep/28/google-facebook-amazon-ibm-microsoft-partnership-on-
+ai-tech-firms
+
+Hunt, E. 2016. “Tay, Microsoft’s AI chatbot, gets a crash course in racism
+from Twitter”. The Guardian, 24 March 2016. https://www.theguardian.com/
+technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-
+from-twitter
+
+
+
+
+52     The Global Risks Report 2017

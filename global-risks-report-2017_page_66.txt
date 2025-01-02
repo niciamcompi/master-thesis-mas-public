@@ -1,0 +1,145 @@
+Figure B.1: Survey Sample Composition
+
+Number of participants                                                        Expertise                                                            Organization
+
+
+745
+Geopolitics
+type
+9.13%
+Academia
+9.40%
+Government
+Society                                Business                      NGO            10.60% 1.23%
+18.66%                                   46.98%                  12.21%
+Economics
+36.24%                               Environment
+Gender                                                                                                                            7.92%
+International organizations
+Technology                                                                 4.83%
+15.97%
+Other
+15.97%
+Male             Female
+55.97%            31.68%                                                                                       Not informed
+Not informed                                                            12.08%
+12.35%
+
+
+
+
+Eurasia                Not informed
+Europe
+Age distribution                                                                                                   Region                                     30.60%
+2.28%                  12.48%
+
+
+
+North America                                                                East Asia
+14.09%
+and the Pacific
+16.11%
+Middle East
+and North Africa
+5.23%
+
+
+17.85%              22.95%            20.94%           19.1%
+14.63%       8.86%   2.42%     12.35%                          Latin America                                                                        Oceania
+and the Caribbean                                                                    1.2%
+<30                 30–39             40–49            50–59       60–69    >70     Not informed                      10.07%                                                      South Asia
+Sub-Saharan Africa               4.16%
+4.97%
+
+
+
+
+Source: World Economic Forum Global Risks Perception Survey 2016.
+
+Note: Reported shares are based on number of valid responses: Gender: 653 responses; Expertise: 655; Organization type: 626; Age distribution: 653; Region: 652.
+
+
+
+Respondents could also choose “No                                                   of respondents who left one of the two                                   question, select up to three global risks
+Opinion” if they felt unable to provide an                                          questions blank were not taken into                                      that are most strongly driven by these
+informed answer. Respondents could                                                  account).                                                                trends.” The information thereby
+also leave the question completely                                                                                                                           obtained was used to construct the
+blank. For each risk, partial responses                                             The Global Risks Interconnections                                        Risks-Trend Interconnections Map 2017.
+– those assessing only the likelihood of                                            Map 2017 (Figure 4) and the Risks-
+occurrence or only its impact – were                                                Trends Interconnections Map 2017                                         In both cases, a tally was made of the
+dropped. A simple average for both                                                  (Figure 1)                                                               number of times each pair was cited.
+likelihood and impact for each of the 30                                                                                                                     This value was then divided by the
+global risks was calculated on this                                                 To draw the Global Risks                                                 count of the most frequently cited pair.
+basis.                                                                              Interconnections Map (Figure 4, inside                                   As a final step, the square root of this
+rear cover), survey respondents were                                     ratio was taken to dampen                   the long-tail
+N11i
+Formally, for any given risk i, its                                                 asked to answer the following question:                                  effect (i.e. a few very   1 Nstrong
+i            links, and
+likelihood and impact, denoted                                                      “Global risks are not isolated and it is                                 many weaklikelihood
+ones)  � 1and �to     likelihood
+make        the
+likelihood i
+i�    N i�      likelihood       i,n
+i,n
+respectively likelihood
+N1i
+i
+and impacti, are:                                        important to assess their                                                differences more N         i n=1
+apparent
+n=1            across the
+1
+likelihoodi �   � likelihoodi,n                                              interconnections. In your view, which are                                weakest connections. Out of the 406
+Ni N1i
+n=1                                                          the most strongly connected global                                       possible pairs of risks, 167 or 41% were
+1
+likelihoodi � � likelihoodi,n                                                risks? Please select three to six pairs of                               not cited. Similarly, out of the possible
+Ni                                                                                                                                                                     N22i
+n=1                                          global risks.”                                                           377 trend-risk combinations,
+1 Ni
+33 or 9%
+were not impact
+cited.     1 � impact
+impactFormally,             the   intensity of
+i== N �       impact      i,n
+i N i
+N2i                                          Similarly, for the Risks-Trends                                          the interconnection           betweeni,nrisks i and j
+i n=1
+n=1
+1                                                                    Interconnections Map 2017 (Figure 1,                                     (or between trend i and risk j), denoted
+impacti = � impacti,n
+Ni N2i                                                               inside front cover), respondents had to                                  interconnectionij, corresponds to:
+n=1
+1                                                                    identify up to three trends that they
+impacti = � impacti,n
+Ni
+where N is the number of respondents                                                consider important in shaping the global
+i                     n=1                                                                                                                                                 ∑NN   pairij,n
+for risk i, and likelihoodi,n and impacti,n                                         agenda in the next 10 years and the                                               interconnectionij =�∑n=1
+n=1pair
+interconnectionij =� pairmaxij,n
+are, respectively, the likelihood        and                                        three risks that are driven by each of                                                                 pairmax
+impact                     ∑N
+n=1 pairij,n n to risk
+assigned by=�respondent                                                   those trends. For completeness, the
+interconnection ij
+i. The likelihood is measuredpairmaxon a scale                                      two questions read “Which are the three                                                                   with
+∑N   pairij,n
+of 1–7   and  the  impact
+interconnectionij =�  n=1 a
+on     scale of 1–5.                                    most important trends that will shape
+pair
+Ni is the number of respondents   max     for risk i                                global development in the next 10                                                                                    N
+who assessed both the likelihood and                                                years?” and “For each of the three                                                  pairmax = max ( �N pairij,n )
+pairmax     ij ( � n=1pairij,n )
+= max
+ij
+impact of that specificN risk (the answers                                          trends identified in the previous                                                                                  n=1
+
+pairmax = max ( �                            pairij,n )
+ij        n=1
+66                              N
+The Global Risks Report 2017
+pairmax = max ( �                            pairij,n )                                                                                                                                         N
+ij             n=1                                                                                                                                        1N
+% concern =1 ��c �
+% concern =i ��c i,n�
