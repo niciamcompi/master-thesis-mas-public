@@ -1,0 +1,62 @@
+Endnotes
+
+1    The COVID-19 High Performance Computing Consortium. Projects. https://covid19-hpc-consortium.org/
+projects, accessed 15 December 2020.
+2    World Economic Forum. 2020. Markets of Tomorrow: Pathways to a New Economy. Insight Report.
+October 2020. http://www3.weforum.org/docs/WEF_Markets_of_Tomorrow_2020.pdf
+3    World Economic Forum. 2020. Quantum Computing. Dynamic Briefing. December 2020. https://intelligence.
+weforum.org/topics/a1G0X000006OGsDUAW?tab=publications
+4    Lee, N. T., Resnick, P. and Barton, G. 2019. “Algorithmic bias detection and mitigation: Best practices and
+policies to reduce consumer harms”. Brookings Institution. 22 May 2019. https://www.brookings.edu/research/
+algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/
+5    Walsh, M. 2019. “When Algorithms Make Managers Worse”. Harvard Business Review. 8 May 2019. https://hbr.
+org/2019/05/when-algorithms-make-managers-worse
+6    Kwan, N. 2018. “The Hidden Dangers in Algorithmic Decision Making”. Towards Data Science Inc. 1 December
+2018. https://towardsdatascience.com/the-hidden-dangers-in-algorithmic-decision-making-27722d716a49
+7    Reinsel, D., Gantz, J. and Rydning, J. 2020. “The Digitization of the World: From Edge to Core”. IDC White
+Paper. Framingham: International Data Corporation. November 2018 (data refreshed May 2020). https://www.
+seagate.com/files/www-content/our-story/trends/files/dataage-idc-report-final.pdf
+8    Bradshaw, S. and Howard, P.N. 2019. The Global Disinformation Order: 2019 Global Inventory of Organised
+Social Media Manipulation. Oxford Internet Institute. Oxford: University of Oxford. 2019. https://comprop.oii.
+ox.ac.uk/wp-content/uploads/sites/93/2019/09/CyberTroop-Report19.pdf
+9    World Bank Open Data. “Individuals using the Internet (% of population)”. https://data.worldbank.org/indicator/
+IT.NET.USER.ZS?most_recent_value_desc=true, accessed 15 December 2020.
+10   Kelly, A. 2020. “Digital divide ‘isolates and endangers’ millions of UK’s poorest”. The Guardian. 28 April 2020.
+https://www.theguardian.com/world/2020/apr/28/digital-divide-isolates-and-endangers-millions-of-uk-poorest
+11   Makhovsky, A. and Balmforth, T. 2020. “Internet blackout in Belarus leaves protesters in the dark”. Reuters.
+11 August 2020. https://www.reuters.com/article/us-belarus-election-internet-idUSKCN2571Q4; Rainsford, S.
+2019. “Russia internet: Law introducing new controls comes into force”. BBC News. 1 November 2019. https://
+www.bbc.com/news/world-europe-50259597
+12   Muggah, R. and Rohozinski, R. 2020. “Trump’s TikTok and WeChat Bans Could Shatter the Global Internet”.
+Foreign Policy. 14 August 2020. https://foreignpolicy.com/2020/08/14/trump-bans-tiktok-wechat-open-internet/
+13   UN OHCHR (United Nations Office of the High Commissioner for Human Rights). “Press briefing
+note on Ethiopia”. 27 March 2020. https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.
+aspx?NewsID=25751&LangID=E
+14   Bischoff, P. 2020. “Internet Censorship 2020: A Global Map of Internet Restrictions”. Comparitech Limited.
+15 January 2020. https://www.comparitech.com/blog/vpn-privacy/internet-censorship-map/
+15   UNCTAD (United Nations Conference on Trade and Development). 2020. Cybercrime Legislation Worldwide.
+2 April 2020. https://unctad.org/page/cybercrime-legislation-worldwide
+16   Marchant, G. 2011. The Growing Gap Between Emerging Technologies and the Law. Heidelberg: Springer.
+28 April 2011. https://link.springer.com/chapter/10.1007%2F978-94-007-1356-7_2
+17   World Economic Forum. 2020. The Future of Jobs Report 2020. October 2020. http://www3.weforum.org/
+docs/WEF_Future_of_Jobs_2020.pdf
+18   OECD (Organisation for Economic Co-operation and Development). 2020. Productivity gains from teleworking in
+the post COVID-19 era: How can public policies make it happen? 7 September 2020. https://read.oecd-ilibrary.
+org/view/?ref=135_135250-u15liwp4jd&title=Productivity-gains-from-teleworking-in-the-post-COVID-19-era
+19   GOV.UK, Department for Education. 2019. Guidance: Essential digital skills framework. 23 April 2019. https://
+www.gov.uk/government/publications/essential-digital-skills-framework/essential-digital-skills-framework
+20   ILO (International Labour Organization). 2018. Women and Men in the Informal Economy: A Statistical Picture.
+Third edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/
+wcms_626831.pdf
+21   ILO (International Labour Organization). 2020. Impact of the COVID-19 crisis on loss of jobs and hours among
+domestic workers. 15 June 2020. https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---travail/
+documents/publication/wcms_747961.pdf
+ILO (International Labour Organization). 2020. COVID-19 crisis and the informal economy. ILO Brief.
+May 2020. https://www.ilo.org/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/briefingnote/
+wcms_743623.pdf
+22   Angwin, J., Larson, J. Mattu, S. and Kirchner, L. 2016. Machine Bias. New York: ProPublica. 23 May 2016.
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+
+
+The Global Risks Report 2021       36

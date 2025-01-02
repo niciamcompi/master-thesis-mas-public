@@ -1,0 +1,59 @@
+Methodology
+The Global Risks Horizon                                     – 2 points each time a risk was selected as the
+For each of the 35 global risks listed in Appendix A,          second most concerning risk
+respondents were asked to identify when they believe
+a risk will become a critical threat to the world, within    – 1 point each time a risk was selected as the third
+the following timeframes:                                      most concerning risk
+
+– Short-term threats: 0–2 years                              Respondents were then asked to select up to five
+risks they consider will be driving each of the risks that
+– Medium-term threats: 3–5 years                             were previously selected as top concerns over the
+course of the next 10 years, in no particular order. Two
+– Long-term threats: 5–10 years                              risks could be selected as drivers of each other. For
+example, in the first step, a respondent could select
+A simple tally for each of the 35 global risks was           “climate action failure” as the most concerning risk and
+calculated on this basis. The results are illustrated in     “extreme weather events” as one of its drivers. In the
+the Global Risks Horizon 2021 (Figure I).                    second step, the respondent could select “extreme
+weather events” as the second most concerning
+Global Risks Landscape                                       risk and “climate action failure” as one of its drivers.
+For each of the 35 global risks listed in Appendix A,        However, a risk could not be selected as driving itself.
+respondents were asked to score (1) the likelihood
+of each global risk occurring over the course of the         A simple tally of the number of times a risk was identified
+next 10 years and (2) the severity of its impact at a        as a driver for each of the first, second and third most
+global level if it were to occur, both on a scale from       concerning risks was calculated on this basis. The results
+1 to 5, as follows:                                          are illustrated in the Global Risks Network 2021 (Figure III).
+In that figure, the size of each of the most concerning risk
+– Likelihood: a value of 1 for “very unlikely” and 5 for     nodes is scaled according to the above scoring scheme.
+“very likely” to occur over the next 10 years              The thickness of each of the links between a driver and a
+risk is scaled according to the above tally.
+– Impact: a value of 1 for “minimal” impact and 5 for
+“catastrophic” impact at a global level                    Global Risk Response
+From the list of the 35 global risks listed in Appendix A,
+To reduce timing bias, respondents were reminded             respondents were asked to rank order the three risks
+to score each of the 35 risks over a 10-year period.         for which they consider the current global response falls
+To reduce framing bias, except for the extremes,             short of their potential impact (“blind spots”) and the
+the values within the 1–5 scale were not assigned            three risks for which they consider a coordinated global
+specific wording. Respondents could leave the                response has the most potential to prevent or mitigate
+question completely blank. Partial responses for any         (“opportunities”). The results for both categories were
+risk—those scoring only the likelihood of occurrence         aggregated according to the following scoring scheme
+or only the severity of impact—were not included in          (see Figure B.2 Global Risk Response for a representation
+the results.                                                 of the GRPS respondents’ response to risks):
+
+A simple average for both likelihood and impact for          – 3 points each time a risk was selected as the top
+each of the 35 global risks was calculated on this             blind spot or opportunity
+basis. The results are illustrated in the Global Risks
+Landscape 2021 (Figure II).                                  – 2 points each time a risk was selected as the
+second blind spot or opportunity
+Global Risks Network
+From the list of the 35 global risks listed in Appendix A,   – 1 point each time a risk was selected as the third
+respondents were asked to rank order the three risks           blind spot or opportunity
+they consider to be the most concerning, second most
+concerning and third most concerning for the world.          COVID-19 Response
+The results were aggregated according to the following       Respondents were asked to rate the effectiveness of
+scoring scheme:                                              the response to COVID-19 in terms of protecting lives
+and livelihoods, globally and in their region, on a scale
+– 3 points each time a risk was selected as the most         from 1 to 5 with 1 meaning a “complete failure” and 5
+concerning risk                                            meaning a “complete success”.
+
+
+The Global Risks Report 2021   91

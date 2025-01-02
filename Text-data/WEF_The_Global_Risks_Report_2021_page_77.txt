@@ -1,0 +1,79 @@
+FIGURE 6.3
+
+Expected GDP Decline versus Cumulative
+Deaths, as of 30 November 2020
+LAC          EAP         SA       EO        NA        MENA         SSA
+
+
+GDP impact, % national GDP, 2020
+5
+Bangladesh
+Egypt
+China
+
+Viet Nam
+
+0
+Pakistan
+
+Indonesia
+S. Korea
+Nigeria                              Ireland
+Finland
+Australia
+Denmark                                                  US
+-5
+Switzerland          Sweden
+Japan   Qatar                                                   Brazil
+Germany                Netherlands
+New Zealand                                             Chile
+Canada
+UAE
+Singapore                         South Africa                Colombia                                  Belgium
+Mexico
+Greece
+-10                                                           France         UK
+India
+Italy
+
+Agentina
+Spain
+
+Peru
+-15
+0                                        5                                       10                                  15
+Cumulative deaths/100k population
+
+
+
+Source: Johns Hopkins University & Medicine. “Mortality Analyses.” Coronavirus Resource Center. https://coronavirus.jhu.edu/
+data/mortality (accessed on 1 December 2020); International Monetary Fund. “Real GDP growth”. Oct. 2020. https://www.imf.
+org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD/SRB (accessed on 1 December 2020); World
+Bank. “World Bank Country and Lending Groups”. 2020. https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-
+world-bank-country-and-lending-groups (accessed on 1 December 2020)
+
+Note: EAP = East Asia and the Pacific; EO = Europe; LAC = Latin America and the Caribbean; MENA = Middle East and North
+Africa; NA = North America; SA = South Asia; SSA = Sub-Saharan Africa.
+
+
+
+
+capacity, understand vulnerabilities and                              Communication with populations
+develop contingencies.21 This lack of                                 Governments that most successfully
+understanding grew more complicated as                                sustained popular confidence in 2020
+strains mutated and emerged with higher                               were typified by regular and consistent
+levels of transmissibility.22                                         public reporting, transparency about the
+limits of knowledge at any given time, and
+Separately, concern has also grown about                              visible alignment between politicians and
+the scope and duration of new emergency                               experts in areas such as epidemiology and
+powers and the consolidation of a less-                               behavioural science.25 Behaviour tended
+consultative mode of leadership.23 In some                            to be more chaotic where governmental
+countries, the side-lining of key public                              messaging lacked clarity, measures
+servants, soured relationships among                                  seemed discriminatory, national and local
+government actors, and the failure to heed                            leaders espoused different agendas, and
+expert advisory body recommendations                                  competing narratives sowed doubt26—
+have exacerbated challenges to a                                      exacerbated by misinformation on social
+successful response.24                                                media (see Chapter 2, Error 404).27
+
+
+The Global Risks Report 2021   77

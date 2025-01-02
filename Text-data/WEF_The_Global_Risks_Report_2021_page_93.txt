@@ -1,0 +1,78 @@
+Completion thresholds                                                             – Part 3 - Global Risk Response: 623 respondents
+We received 841 total responses to the GRPS to which we                             identified at least one blind spot or opportunity.
+applied an overall standard deviation check and specific                            Empty responses were dismissed.
+completion thresholds for each section of the survey:
+Blind spots: Six responses that contain the same
+– Part 1.1 - Impact and Likelihood of Global Risks:                                   risk in multiple ranks were dismissed. The remaining
+664 respondents scored the impact and likelihood                                    617 responses were used to compute the results.
+of at least one risk. Empty or partial responses
+for any risk—those scoring only the likelihood of                                   Opportunities: Six responses that contain the same
+occurrence or only the impact—were dismissed. 0                                     risk in multiple ranks were dismissed. The remaining
+responses yielded a standard deviation of zero.                                     617 responses were used to compute the results.
+
+– Part 1.2 - Assessment of Global Risks: Horizon:                                 – Part 4 - COVID-19 Response: 626 respondents
+647 respondents placed at least one risk within                                   scored at least one level of response, either global
+a possible timeframe. Empty responses were                                        or regional. Empty responses were dismissed.
+dismissed. Four responses that yielded a standard
+deviation of zero (assigning numbers to the three                               – Sample distribution: the 664 respondents
+possible timeframes) were dismissed. The remaining                                from Part 1.1 were used to calculate the sample
+643 responses were used to compute the results.                                   distribution by place of residence, gender, age and
+area of expertise.
+– Part 2 - Global Risk Drivers: 631 respondents
+ranked at least one concerning risk and assigned                                Figure B.2 presents some key descriptive statistics and
+at least one driver. Three responses that contain                               information about the profiles of the respondents.
+the same risk in multiple ranks were dismissed.
+The remaining 628 responses were used to
+compute the results.
+
+
+
+FIGURE B.2
+
+Survey Sample Composition
+Gender                                         Expertise                                            Organization type             International
+Environment                                      organizations
+7.8%                                             9.6%
+Other
+2.9%
+Economics
+26.2%                Technology                                     Business
+17.1%                                         39%
+Male
+73.3%            Female
+23.8%                               Geopolitics                                                             NGO
+Other            Academia
+Society          14.1%                                                                 12.3%
+21.6%             18.1%
+13.0%
+
+Other     Government
+4.2%        16.1%
+
+
+
+
+Age distribution                                                                Region
+
+29.9%
+28.5%
+North America       Europe             Eurasia
+16.7%            46.1%                            East Asia
+2.0%
+18.5%                                                                                                                        and the Pacific
+17.1%                                                                                    8.96%
+
+
+
+2.2%                                                  3.8%
+Middle East and
+<30   30–39       40–49             50–59    60–69       >70                                                   North Africa
+Latin America                                          South Asia
+4.2%
+and the Caribbean                                          4.5%
+7.1%           Sub-Saharan Africa
+6.9%
+
+
+Source: World Economic Forum Global Risks Perception Survey 2020
+The Global Risks Report 2021            93

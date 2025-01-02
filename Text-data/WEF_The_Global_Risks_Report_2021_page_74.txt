@@ -1,0 +1,70 @@
+FIGURE 6.1
+
+Approved International Finance Institute
+Financing by Month
+US$, billions
+
+80
+74.5
+
+
+
+
+60
+
+
+
+
+40                                                          37.5
+
+28.5                                    29.0
+23.1
+20
+
+7.9
+2.7                                                                                         2.9
+0.0
+0
+February      March         April        May         June          July        August     September      October
+
+
+
+Source: Segal, S., Henderson, J. and Gerstel, D. 2020. CSIS Economics Program, data from a collection of international
+finance institutions press releases. 24 November 2020, https://www.csis.org/analysis/international-financial-institutions-covid-
+19-funding-rebounds-september-remains-below
+
+
+
+
+Early response efforts were                                                real-time analysis on information such as
+testing and infection rates, fatality numbers,
+
+hampered by the lack of                                                    personal mobility, and viral genome
+sequences.10 Although such systems
+
+robust data-sharing systems                                                were rapidly developed, they were often
+restricted by a lack of open data standards.
+
+Collaboration between the private and
+April when pre-determined triggers were in                         public sectors did work well in some
+place, in the absence of those triggers relief                     cases. For example, in March 2020, the
+took longer to disburse (see Figure 6.1).                          World Economic Forum launched the
+COVID Action Platform and communicated
+Based on the dire economic and                                     weekly updates from governments, the
+development consequences of the                                    World Health Organization, and vaccine
+pandemic thus far and experience from                              manufacturers with more than 1,800
+previous infectious diseases, the benefits                         executives and leaders. The platform has
+from investing more in preparedness                                helped channel the supply of essential
+globally would have been a valuable                                equipment through the Pandemic Supply
+investment especially if also coupled with                         Chain Network.
+the enhancement of health systems. This
+will continue to be the case and is true                           Technology companies also provided
+across different types of disasters.9                              mobility data that helped authorities
+understand the potential spread and
+Information collection and sharing                                 better target responses.11 Scientists
+Early response efforts were hampered by                            sequenced and shared more than 32,000
+the lack of robust data-sharing systems                            viral genomes, enabling researchers to
+that would enable large-scale and near-                            trace more quickly the origin of outbreaks
+
+
+The Global Risks Report 2021         74

@@ -1,0 +1,60 @@
+COVID-19 has accelerated and broadened              predict the risk of recidivism.4 In the private
+the Fourth Industrial Revolution with the rapid     sector, more businesses are turning to
+expansion of e-commerce, online education,          algorithmic management to track employee
+digital health and remote work. These shifts        productivity.5 Automating these decisions
+will continue to dramatically transform human       deepens biases when they depend on
+interactions and livelihoods long after the         black-box algorithms developed using
+pandemic is behind us. This change can              skewed historical data sets.6
+provide huge benefits to societies—the
+response to COVID-19 is full of examples,           The risks from automating bias are
+from the ability to telework to the rapid           exacerbated by the amount of data now
+development of a vaccine.1 However, these           generated—predicted to nearly quadruple
+developments also risk exacerbating and             by 2025.7 The sheer volume of data
+creating inequalities. Respondents to the           drives down the cost and ease of using
+Global Risks Perception Survey (GRPS) rated         algorithms for malicious or manipulative
+“digital inequality” both as a critical threat to   purposes. Individuals and non-state groups
+the world over the next two years and the           have access to algorithms that can spread
+seventh most likely long-term risk.                 dangerous content with unprecedented
+efficiency, speed and reach. Malicious
+actors are also becoming more capable
+of launching misinformation campaigns
+A widening digital gap                                       on a national and global scale—and
+because individuals and small groups
+can undermine an                                             are difficult to track and prosecute, it is
+harder for authorities to stop the spread of
+inclusive recovery                                           misinformation. The number of countries
+experiencing organized social media
+manipulation campaigns increased by
+150% between 2017 and 2019.8
+Individuals differ more and more in their
+digital autonomy and opportunities to earn a        Accessibility and regulatory gaps
+livelihood in the digital markets of tomorrow.2     “Digital gaps”—the differential ability to
+This widening digital gap can further weaken        access data and digital technologies—are
+societal cohesion, already fraying in many          widening between and within countries.
+countries, and undermine prospects for an           Internet usage ranges from more than 87%
+inclusive recovery. Progress towards digital        of the population in high-income countries
+inclusivity is threatened by growing digital        to less than 17% in low-income countries
+dependency and automation, information              (see Figure 2.1).9 Within countries, access
+suppression and manipulation, and gaps in           to digital resources is stratified by socio-
+regulation and capabilities.                        economic status—even in high-income
+countries. In the United Kingdom, vulnerable
+households have been forced to choose
+Digital division                                    between sustenance and connectivity
+during the pandemic.10
+Digital division comes in many guises, from
+automated bias that can be manipulated to           Fissures in digital equality are exacerbated
+gaps in accessibility and capacity.                 by political and geopolitical incentives.
+Some governments shut down internet
+Automating bias and manipulation                    access to control the flow of information
+Decisions historically made by humans—              and public discourse within and outside
+diagnosing health issues, choosing                  their borders,11 or specifically to exclude
+investments, assessing educational                  foreign-based platforms.12 The United
+achievement and resolving legal                     Nations has called for “all governments to
+disputes—are increasingly being made                immediately end any and all blanket internet
+by sophisticated algorithms that apply              and telecommunication shutdowns.”13 Still,
+machine learning to large data sets.3               23% of countries ban or censor news,14
+In the US criminal justice system, for              which limits their citizens’ access to critical
+example, algorithms are being used to               digital resources.
+
+
+The Global Risks Report 2021   30

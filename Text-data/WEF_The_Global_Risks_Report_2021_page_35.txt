@@ -1,0 +1,65 @@
+benefits, smaller companies may not be         of digital technologies that safeguard user
+able to reach less profitable markets,         data, entitle online information accuracy
+which would widen digital inequality. In       and reward innovation.
+more authoritarian contexts, a distinct
+threat remains that governments will           Basic education and lifelong learning
+attempt to take over major platforms and       can increase digital literacy and play
+service providers—thus consolidating their     a critical role in closing digital divides.
+power to restrict internet access, censor      Increasing access to digital content is
+information and cut communications.            not enough. As AI, machine learning
+Pathways to future economic and societal       and biotechnology evolve, new users
+gains under these conditions would be          need to think critically about the supply
+severely imperilled.                           and consumption of digital content. The
+World Economic Forum’s Future of Jobs
+Report shows that, already, the digital
+Updates required                               leap has propelled worker appetite for
+online learning and training on digital skills
+The context, fairness and governance—          such as data analysis, computer science
+not algorithms, AI or machines by              and information technology.44 Employers
+default—underpinning the digital leap          have also risen to the challenge—during
+will determine whether the use and             the second quarter of 2020, employer
+adoption of new technologies advances          provision of online learning opportunities
+individual and societal well-being or          increased fivefold.45 Similar opportunities
+widens the gap between the technological       exist in leveraging digital services
+“haves” and “have-nots”. Already,              to overcome existing and emerging
+inequalities in health accessibility,
+affordability and quality (see Chapter 1,
+
+
+
+
+85 million:
+Global Risks 2021). Throughout the
+pandemic, telemedicine in many countries
+has allowed patients to continue their
+treatment while minimizing the risk of
+COVID-19 transmission.46
+
+jobs that may be automated in                             Digital tools will benefit workers and
+employers alike—two-thirds of employers
+five years                                                expect to see a return on their investment
+in upskilling and reskilling within one
+year,47 while enhanced healthcare reduces
+business risks such as safety, continuity
+“collaborative intelligence” has been found    and reputation48—but so will more
+to yield lasting productivity gains for both   inclusive technology. More companies are
+humans and technology, while automation        working with civil society on the design
+for the sake of reducing workforces yields     and governance of technology and digital
+only temporary improvements.41 Ensuring        services. By integrating marginalized
+a smooth digital transition and mitigating     and vulnerable groups into technology
+the risks to social cohesion from digital      development—including those of different
+divides will require managing innovation       ethnicities and genders—companies are
+without stifling it—for example, insisting     reducing bias and promoting access to
+on security and privacy by design in the       emerging technologies.49 The business
+development of new technologies and            case for such collaborations is that
+digital services.42 Impact studies could       they help to make technology more
+improve understanding of the implications      user-centric and easier to adopt.
+of new technologies for societies and          COVID-19 contact-tracing apps have
+human rights.43 Such approaches would          already shown how open-source
+require building public sector capabilities    approaches and monitoring mechanisms
+to assess the benefits and risks from          can work even with proprietary code,
+an accelerated digitalization of social        helping to make technologies more
+interactions; and to improve the regulation    inclusive and representative.50
+
+
+The Global Risks Report 2021   35

@@ -1,0 +1,62 @@
+B O X 1.1
+
+Future Preparedness for Global Risks
+While global risks outlined in this report are dire, lessons                 attention to risk at the highest levels in business and
+from COVID-19 offer an opportunity for mitigation (see                       government is by no means lessened.
+Hindsight). Global risks—pandemics among them—
+crystallize differently, but cross-cutting capabilities                      Communication
+and systemic approaches to strengthen the overall                            Improving the clarity and consistency of risk
+resilience of countries, businesses and the international                    communications and combating misinformation. Most
+community are possible. The response to COVID-19 so                          crises require all-of-society responses—and there
+far offers at least four governance opportunities.                           is enormous goodwill and energy to leverage—but
+confusion and frustration can undermine efforts to
+Frameworks                                                                   build trust and align responsibilities between the public
+Formulating detailed analytical frameworks that take                         sector, private sector, communities and households.
+a holistic and systems-based view of risk impacts will                       There is huge scope to enhance self-organized
+help to surface potential dependencies at a fitting                          resilience at the community and national levels. For
+moment, spill-over consequences, vulnerabilities                             example, more can be done to understand—and
+and blind spots. This is critical in environmental risk                      therefore tackle—biases at the individual level regarding
+mitigation, for example, where interventions such                            spread of misinformation.2 Better coordination among
+as developing climate-resistant crop varieties could                         private sector technology companies and government
+impact food system resilience. Multilateral institutions,                    can help to alert users to misinformation.3
+public-private arrangements and civil society all have
+a role in facilitating such systemic outlooks. Holistic                      Public-private partnerships
+analysis provides a foundation for stress-testing                            Exploring new forms of public-private partnership
+assumptions; identifying and comparing the trade-                            on risk preparedness in technology, logistics and
+offs required by different mitigation proposals and                          manufacturing. The pandemic has shown that
+examining responsive capabilities against emerging                           innovation can be sparked when governments
+crises and forward-looking scenarios.                                        engage the private sector to respond to large-scale
+challenges—if risks and rewards are shared fairly
+Risk champions                                                               and appropriate governance is in place. Vaccine
+Investing in high-profile “risk champions” who can                           deployment will be a test case in resiliency: while it
+bring together different stakeholders to spur innovation                     will raise new challenges, partnerships could prove
+in risk analysis, financing and response capabilities,                       effective in meeting demand for glass vials, managing
+and improve relationships between scientific experts                         cold-chain logistics, recording doses given, and even
+and political leaders.1 The 2nd edition of the Global                        countering vaccine hesitancy. The COVID-19 crisis
+Risks Report proposed the concept of a “National                             also highlighted the need for greater coordination on
+Risk Officer” with a remit to enhance resilience by                          financing to improve resilience and expedite recovery,
+improving the decision-making culture. Risk champions                        from pre-emptive investment and contingency budgets
+should be positioned before the frenzy of the next                           to insurance pools with government backstops.4 The
+crisis—whatever it proves to be—yet, even with risk                          lesson for crisis management is that details matter and
+champions in place, the importance of leadership                             need to be addressed collaboratively.5
+
+
+Footnotes
+1   Smith-Bingham, R., Wittenberg, A. and Kaniewski, D. 2020. “Building national resilience: Aligning mindsets, capabilities and investments”. Marsh &
+McLennan Advantage. April 2020. https://www.mmc.com/content/dam/mmc-web/insights/publications/2020/april/Building--National--Resilience-
+-Report_web.pdf
+2   Cheng, Y. and Y. Luo. 2020. “The presumed influence of digital misinformation: examining US public’s support for governmental restrictions
+versus corrective action in the COVID-19 pandemic”. Online Information Review. 2 December 2020. https://www.emerald.com/insight/content/
+doi/10.1108/OIR-08-2020-0386/full/html
+3   See, e.g., Hutchinson, A. 2020. “Twitter Adds New Labels on Potentially Harmful COVID-19 Misinformation in Tweets”. Social Media Today.
+11 May 2020. https://www.socialmediatoday.com/news/twitter-adds-new-labels-on-potentially-harmful-covid-19-misinformation-in-t/577714/
+4   OECD (Organisation for Economic Co-operation and Development). 2020. “Responding to the COVID-19 and pandemic protection gap in
+insurance”. Updated 9 September 2020. https://www.oecd.org/coronavirus/policy-responses/responding-to-the-covid-19-and-pandemic-
+protection-gap-in-insurance-35e74736/
+5   Further opportunities for strengthening preparedness and resilience in the post-COVID world are explored in a collection of essays authored by the
+World Economic Forum’s Global Risks Advisory Board, published in May 2020. See World Economic Forum. 2020. Challenges and Opportunities
+in the Post-COVID-19 World. May 2020. http://www3.weforum.org/docs/WEF_Challenges_and_Opportunities_Post_COVID_19.pdf
+
+
+
+The Global Risks Report 2021      25

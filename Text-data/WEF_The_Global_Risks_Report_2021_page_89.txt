@@ -1,0 +1,46 @@
+Global Risk                  Description
+
+Intended or unintended negative consequences of technological advances on
+Adverse outcomes of
+individuals, businesses, ecosystems and/or economies: AI, brain-computer interfaces,
+technological advances
+biotechnology, geo-engineering, quantum computing etc.
+
+Deterioration, saturation or shutdown of critical physical and digital infrastructure or
+Breakdown of critical
+services as a result of a systemic dependency on cyber networks and/or technology:
+information infrastructure
+AI-intensive systems, internet, hand-held devices, public utilities, satellites, etc.
+
+Fractured and/or unequal access to critical digital networks and technology, between
+and within countries, as a result of unequal investment capabilities, lack of necessary
+Technological
+
+
+
+
+Digital inequality
+skills in the workforce, insufficient purchase power, government restrictions and/or
+cultural differences
+
+Concentration of critical digital assets, capabilities and/or knowledge by a reduced
+Digital power
+number of individuals, businesses or states, resulting in discretionary pricing
+concentration
+mechanisms, lack of impartial oversight, unequal private and/or public access etc.
+
+Business, government and household cybersecurity infrastructure and/or measures
+Failure of cybersecurity     are outstripped or rendered obsolete by increasingly sophisticated and frequent
+measures                     cybercrimes, resulting in economic disruption, financial loss, geopolitical tensions and/
+or social instability
+
+Lack of globally accepted frameworks, institutions or regulations for the use of critical
+Failure of technology
+digital networks and technology, as a result of different states or groups of states
+governance
+adopting incompatible digital infrastructure, protocols and/or standards
+
+
+
+
+The Global Risks Report 2021     89
