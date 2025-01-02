@@ -1,0 +1,61 @@
+AI escalation                                              The most severe risk lies in AI applications to
+nuclear weapons. While governments have
+indicated that human control will be maintained over
+The application of AI technologies to military             nuclear weapon systems, in principle AI may offer
+objectives could threaten global stability over            the greatest defense by condensing decision time:
+the next decade, with the integration of machine           making decisions at silicon, not biological speed.78
+intelligence into conflict decision-making posing a        At the same time, AI-enabled launch systems
+severe risk.72                                             could erode strategic stability, given its theoretical
+potential to target nuclear assets and second strike
+AI will boost cyber warfare capabilities, enabling         capability, combined with the near impossible
+entire offensive and defensive systems that could          detection of its development by rival states.79
+act autonomously, with unpredictable impacts               If states incorporate AI into nuclear weaponry, this
+to networks and connected infrastructure. When             would significantly raise the risk of accidental or
+it comes to kinetic warfare, global and regional           intentional escalation over the next decade, with
+powers have invested heavily in developing                 potentially existential consequences.
+AI-driven weapons systems, and the degree of
+autonomy afforded to these is increasing: land, air        In contrast to the upstream tech stack, the
+and sea-based weapons can already undertake                downstream application of AI is a more competitive
+surveillance without human input.73 Attempts have          market. Despite being among the most powerful
+been made to establish international governance            of emerging dual-use technologies, the economic
+around their use; however, agreements have yet             and technical barriers to accessing frontier AI
+to be established.74 Abstentions and votes against         are significantly lower than for its technological
+a draft UN resolution relating to autonomous               counterparts, such as geoengineering and quantum
+weapons systems last year were notable, including          computing. Many GRPS respondents highlight
+China, North Korea, Iran, Israel, Türkiye, United          concerns around sudden and widespread access
+Arab Emirates, India and Russia.75 There remains           to generative AI applications, given that access
+a material chance, therefore, that these systems           to the internet effectively equates to access to
+could be empowered to autonomously take                    these models. Malicious actors can leverage a
+decisions on lethal actions, including goal creation       superhuman breadth of knowledge to conceptualize
+and the selection of targets.76 The potential for          and proliferate dangerous capabilities, from
+miscalculation in these scenarios is high.77 For           misinformation and malware to biological weapons
+example, AI could misinterpret the “unwritten”             (Box 2.7), threatening human rights and safety in a
+norms of geopolitical posturing, such as flying            myriad of ways.
+fighter jets close to airspace or military assets of
+rival powers, as a material threat, initiating conflict.
+
+
+
+
+Alessio Soggetti,
+Unsplash
+
+
+BOX 2.7   The next global shock?
+
+Novel bioweapons
+
+The attempted use of biochemical weapons by                eventually, autonomous research, while biological
+non-state actors has historically been limited,            design tools could allow the creation of new
+primarily due to high knowledge barriers.80                proteins and biological agents that overcome the
+Without regulation limiting open access to the             trade-off between transmissibility and virulence
+most powerful applications of AI technologies, a           of pathogens.81 Impacts could be devastating,
+combination of AI tools could enable the creation          with pathogens potentially used to disable military
+of more targeted and severe biological weapons             personnel before a conflict, mimic a widespread
+by a wide spectrum of non-technical actors. Large          global pandemic or even lethally target specific
+language models could provide information on               ethnicities.
+dual-use topics, laboratory assistance and,
+
+
+
+Global Risks Report 2024    55

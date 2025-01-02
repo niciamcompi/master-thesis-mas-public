@@ -1,0 +1,78 @@
+FIGURE 3.2                Top global risks addressed by Research and development
+"Which approach(es) do you expect to have the most potential for driving action on risk reduction and preparedness over the
+next 10 years?"
+
+
+Research & development (e.g. new technologies, early-warning systems, global risk research)
+
+Infectious diseases                                                                                                      81%
+
+Adverse outcomes                                                                        58%
+of frontier technologies
+
+Extreme weather events                                                                     56%
+
+Cyber insecurity                                                                   55%
+
+Non-weather related natural disasters                                                                    55%
+
+Chronic health conditions                                                                    55%
+
+Pollution                                                            51%
+
+Critical change to Earth systems                                                             51%
+
+Adverse outcomes of AI technologies                                                               51%
+
+Natural resource shortages                                                            49%
+
+
+0                            25                              50                              75                         100
+
+Share of respondents (%)
+
+
+Risk categories      Economic           Environmental        Geopolitical       Societal       Technological
+
+
+Source                                                           Note
+World Economic Forum Global Risks                                Respondents could select up to three responses from the following nine options: Financial
+Perception Survey 2023-2024.                                     instruments, National and local regulations, Minilateral treaties and agreements, Global treaties and
+agreements, Development assistance, corporate strategies, Research & development, Public
+awareness and education, Multi-stakeholder engagement.
+
+
+
+
+R&D can boost preparedness for inevitable                              solutions, the institutions involved often lack the
+environmental risks such as Extreme weather                            funds or political might needed to translate into
+events and Non-weather related natural                                 impact. With carbon capture and storage (CCS) for
+disasters, as well as allowing us to reduce the                        example, the sheer scale of the costs associated
+likelihood of Critical changes to Earth systems                        with deployment act as barriers, alongside limited
+and Natural resources shortages. A significant                         confidence in the success of the outcomes.
+leap forward in research leading to viable nuclear
+fusion power generation for example, could                             Technology is seen as both a source of risk and
+represent a turning point, providing clean energy                      as part of the solution. Adverse outcomes of AI
+and accelerating the transition to Net Zero, at the                    technologies is viewed as a top risk that can be
+same time as reducing the risk of Pollution.6 As                       addressed by R&D. However, AI may also prove to
+discussed in Chapter 2.3: A 3°C world, however,                        be the key to unlocking a multitude of the world’s
+the unilateral application of climate mitigation                       problems. Recent research, for example, suggests
+technologies also carry risks.                                         that it could revolutionize materials science,
+allowing us to make leaps forward in terms of
+There are other hurdles to overcome. Despite                           batteries, solar panels, computer chips and other
+potentially being on the precipice of a “golden age”                   vital technologies that will be required in efforts to
+of scientific discovery, the strategic importance of                   address a multitude of risks.7
+emerging technologies, such as AI and quantum
+computing, is resulting in a fragmentation of R&D                      Strengthening global research networks that connect
+initiatives, with some opting for political isolationism               researchers, institutions and industries worldwide can
+to safeguard technological advancements. The                           facilitate communication and the sharing of resources.
+formation of a new body equivalent to the IPCC                         Public-sector support remains crucial. Healthcare
+to synthesize key perspectives relating to AI risk                     companies alone would not have been able to roll
+has been mooted; to be effective, it would need                        out an effective vaccine for COVID-19 in such a short
+to overcome the challenges of ensuring balance                         time frame had they not been co-funded, and this
+of representation and of being nimble enough to                        model of governments de-risking liability to fast-track
+address rapidly emerging scientific developments.                      deployment could be extended to other challenges,
+And while R&D can result in game-changing                              potentially coupled with enhanced conditionalities
+
+
+Global Risks Report 2024    88

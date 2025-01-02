@@ -1,0 +1,85 @@
+FIGURE 2.26               Organized crime
+Risk interconnections: Illicit economic activity and Cyber insecurity
+
+
+
+
+Intrastate violence
+Censorship and surveillance
+
+
+Misinformation and disinformation
+Involuntary migration                    Terrorist attacks
+Adverse outcomes of
+frontier technologies
+Technological power
+concentration
+Cyber   insecurity
+Cyber insecurity
+
+
+Societal              Adverse outcomes
+polarization          of AI technologies
+Disruptions to
+critical infrastructure
+
+
+
+
+Reference                Disruptions to a systemically
+important supply chain                                                                 Lack of economic opportunity
+
+
+Concentration of                      Geoeconomic confrontation
+strategic resources
+
+Inflation
+
+Economic downturn
+
+Debt                            Illicit economic activity
+Nodes              Edges                                                                                      Unemployment
+Risk influence     Relative influence
+High             High
+Medium           Medium
+Low              Low                      Risk categories        Economic                Environmental      Geopolitical       Societal      Technological
+
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Vulnerable markets                                                          to expand (Chapter 2.4: AI in charge).108 Illegal
+mining of critical resources will be a major source of
+instability across multiple regions, from South-East
+Over the coming decade, parallel economies (or                              Asia to Latin America, driving violence, corruption,
+black markets)105 are likely to proliferate, creating                       the displacement of Indigenous populations and
+lucrative revenue streams and recruitment pools for                         environmental destruction.109 As scarcity drives up
+organized crime networks, as the costs of crime                             resource value, environmental crimes such as illegal
+spread more widely to citizens.                                             logging could drive forced labour and human rights
+abuses, and accelerate broader environmental
+Resource stress, conflict and economic hardship                             impacts in turn.110 Similarly, the fisheries sector could
+will interact to drive more pervasive demand                                increasingly attract the interest of organized crime
+for smuggling as well as vulnerability to criminal                          groups. Illegal, unreported and unregulated fishing is
+activities.106 Demand for illegal smuggling of drugs,                       a revenue stream that can be engaged in with relative
+weapons, resources, cash, pharmaceuticals and                               impunity, with jurisdictional challenges hampering
+people will increase in tandem with geopolitical,                           enforcement. The practice also complements other
+economic and environmental developments.                                    forms of marine trafficking, including drugs and
+Expanded sanctions regimes (Chapter 1.4: Rise in                            people.111
+conflict), offensive geoeconomic policies, climate-
+related involuntary migration, and even anticipated                         At the same time, socioeconomic vulnerabilities
+price volatility in the licit economy – in food, fuel,                      arising from these same trends will heighten
+health or critical minerals – could all drive an                            exposure to criminal networks. Conflict- or climate-
+expansion in illegal smuggling in new geographic                            related migration will likely drive exploitation
+markets or in new products.107 For example,                                 by criminal actors engaging in, for example,
+ongoing market concentration in the tech value                              child labour and cyber slavery.112 Additionally,
+chain means that technology-related smuggling,                              social disintegration, urban segregation, poverty
+including in semiconductors, is likely to continue                          and economic inequalities are all well-known
+
+
+Global Risks Report 2024       70

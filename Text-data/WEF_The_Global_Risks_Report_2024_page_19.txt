@@ -1,0 +1,87 @@
+Mistrust in elections                                                     discern, not only for digitally literate individuals, but
+also for detection mechanisms.15 Research and
+development continues at pace, but this area of
+Over the next two years, close to three billion                           innovation is radically underfunded in comparison
+people will head to the electoral polls across                            to the underlying technology.16 Moreover, even
+several economies, including the United States,                           if synthetic content is labelled as such,17 these
+India, the United Kingdom, Mexico and Indonesia                           labels are often digital and not visible to consumers
+(Figure 1.9).12 The presence of misinformation                            of content or appear as warnings that still allow
+and disinformation in these electoral processes                           the information to spread. Such information can
+could seriously destabilize the real and perceived                        thus still be emotively powerful, blurring the line
+legitimacy of newly elected governments, risking                          between malign and benign use. For example, an
+political unrest, violence and terrorism, and a                           AI-generated campaign video could influence voters
+longer-term erosion of democratic processes.                              and fuel protests, or in more extreme scenarios,
+lead to violence or radicalization, even if it carries a
+Recent technological advances have enhanced the                           warning by the platform on which it is shared that it
+volume, reach and efficacy of falsified information,                      is fabricated content.18
+with flows more difficult to track, attribute and
+control. The capacity of social media companies to                        The implications of these manipulative campaigns
+ensure platform integrity will likely be overwhelmed                      could be profound, threatening democratic
+in the face of multiple overlapping campaigns.13                          processes. If the legitimacy of elections is
+Disinformation will also be increasingly personalized                     questioned, civil confrontation is possible – and could
+to its recipients and targeted to specific groups,                        even expand to internal conflicts and terrorism, and
+such as minority communities, as well as                                  state collapse in more extreme cases. Depending
+disseminated through more opaque messaging                                on the systemic importance of an economy, there
+platforms such as WhatsApp or WeChat.14                                   is also a risk to global trade and financial markets.
+State-backed campaigns could deteriorate interstate
+The identification of AI-generated mis- and                               relations, by way of strengthened sanctions regimes,
+disinformation in these campaigns will not be                             cyber offense operations with related spillover risks,
+clear-cut. The difference between AI- and human-                          and detention of individuals (including targeting
+generated content is becoming more difficult to                           primarily based on nationality, ethnicity and religion).19
+
+
+FIGURE 1.9                   National risk perceptions in the context of upcoming elections
+“Which five risks are most likely to pose the biggest threat to your country in the next two years?”
+
+
+
+
+1st risk in India                                   Misinformation and disinformation
+Over 1.4bn (nearly 50% internet penetration)
+head for a general election in April-May 2024
+
+
+6 th risk in the United States
+Nearly 340m (92% internet penetration) head
+for a presidential election in November 2024
+
+
+8 th risk in European Union
+Nearly 450m (89% internet penetration)
+elect the EU Parliament in June 2024
+
+
+11th risk in United Kingdom
+Nearly 68m (98% internet penetration)
+head for a general election by January 2025
+
+
+11th risk in Mexico
+128m (79% internet penetration) head for a
+general election in June 2024
+
+
+18 th risk in Indonesia
+Nearly 278m (88% internet penetration) head
+for a presidential election in March 2024
+
+
+22nd risk in South Africa
+Over 60m (72% internet penetration)
+head for a general election in 2024
+
+
+Russia
+Around 145m (88% internet penetration)
+head for a presidential election in March 2024
+
+
+
+
+Source                                                                    Note                                                                  Rank
+World Economic Forum Executive Opinion Survey 2023;                       EU excludes Slovakia.
+Worldometer, 2023; Statista, 2023; DataReportal, 2023.                                                                                         1st     10 th   20 th   30 th 36 th
+
+
+
+Global Risks Report 2024       19

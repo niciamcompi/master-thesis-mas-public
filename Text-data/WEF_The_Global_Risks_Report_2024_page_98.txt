@@ -1,0 +1,31 @@
+TA B L E A . 1        Definitions of global risks
+
+
+
+Cyber insecurity              Use of cyber weapons and tools to conduct cyberwarfare, cyberespionage and cybercrime to gain control over a digital presence and/or
+cause operational disruption. Includes: ransomware, data fraud or theft.
+
+
+
+Misinformation and            Persistent false information (deliberate or otherwise) widely spread through media networks, shifting public opinion in a significant way
+disinformation                towards distrust in facts and authority. Includes, but is not limited to: false, imposter, manipulated and fabricated content.
+
+
+
+Technological power           Concentration of critical technological assets, capabilities or knowledge among a small number of individuals, businesses or states that
+concentration                 can control access to key technologies. Stemming from, but not limited to: the failure of anti-trust regulation; inadequate investment in the
+(digital assets,
+innovation ecosystem; or state control over key technologies.
+knowledge, strategic
+technologies)
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Global Risks Report 2024         98

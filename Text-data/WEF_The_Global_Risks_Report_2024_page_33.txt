@@ -1,0 +1,63 @@
+Endnotes
+1.    Gourinchas, Pierre-Olivier, “Resilient Global Economy Still Limping Along, With Growing Divergences”, IMF Blog, 10
+October 2023, https://www.imf.org/en/Blogs/Articles/2023/10/10/resilient-global-economy-still-limping-along-with-
+growing-divergences.
+2.    Berman, Noah and Sabine Baumgartner, “The Weather of Summer 2023 Was the Most Extreme Yet”, Council
+on Foreign Relations, 18 September 2023, https://www.cfr.org/article/weather-summer-2023-was-most-
+extreme-yet#:~:text=The%20Weather%20of%20Summer%202023,heat%2C%20wildfires%2C%20and%20
+storms.&text=The%20summer%20of%202023%20was%20the%20Northern%20Hemisphere’s%20hottest%20in%20
+recorded%20history.
+3.    There is an 80% chance it will continue to March-May 2024, and a 75-85% chance it will become a strong event. See:
+NOAA Climate Prediction Center, “El Niño/Southern Oscillation (Enso) Diagnostic Discussion”, 12 October 2023, https://
+www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml; Becker, Emily, “October 2023 El
+Niño update: big cats”, NOAA, 12 October 2023, https://www.climate.gov/news-features/blogs/october-2023-el-nino-
+update-big-cats.
+4.    N=443 for 39 or under age group, and n=252 for 60 and over age group.
+5.    Ciccarelli, Matteo, Friderike Kuik and Catalina Martínez Hernández, “The outlook is mixed: the asymmetric effects of
+weather shocks on inflation”, European Central Bank, 10 October 2023, https://www.ecb.europa.eu/pub/economic-
+research/resbull/2023/html/ecb.rb231010~d34f3708ac.en.html.
+6.    State-based armed conflict is defined as: “a contested incompatibility that concerns government and/or territory where
+the use of armed force between two parties, of which at least one is the government of a state, results in at least 25
+battle-related deaths in one calendar year.” Department of Peace and Conflict Research, Uppsala Conflict Data Program,
+Uppsala University, https://ucdp.uu.se/exploratory, accessed 18 October 2023.
+7.    The average scoring of the top 10 rankings is nearly a full Likert point lower than last year (4.3 compared to 5.2, out of a
+possible 7), as is the perceived severity of the top risk (4.7 for Misinformation and disinformation in 2024, against 5.5
+for Cost-of-living crisis in 2023).
+8.    Synthetic content refers to the content (text, images, videos, audio) that has been generated or manipulated using digital
+technologies, including artificial intelligence and machine learning.
+9.    Australian Government Department of Infrastructure, Transport, Regional Development, Communications and the Arts,
+New ACMA powers to combat misinformation and disinformation, https://www.infrastructure.gov.au/have-your-say/
+new-acma-powers-combat-misinformation-and-disinformation, accessed 19 October 2023; Breton, Thierry, Fighting
+disinformation and dissemination of illegal content in the context of the Digital Services Act and in times of conflict, 18
+October 2023, speech delivered at the European Commission, Brussels, https://ec.europa.eu/commission/presscorner/
+detail/en/SPEECH_23_5126; Bhatnaghar, Dhruv, “India’s regulatory response to online misinformation arguably violates
+international human rights law”, Oxford Human Rights Hub, 6 June 2023, https://ohrh.law.ox.ac.uk/indias-regulatory-
+response-to-online-misinformation-arguably-violates-international-human-rights-law/; Bhardwaj, Deeksha, “New digital
+law may carry a fine for disinformation”, Hindustan Times, 19 October 2023, https://www.hindustantimes.com/india-
+news/new-digital-law-may-carry-a-fine-for-disinformation-101695926259938.html.
+10.   Roberts, Huw and Emmie Hine, “The future of AI policy in China”, East Asia Forum, 27 September 2023, https://www.
+eastasiaforum.org/2023/09/27/the-future-of-ai-policy-in-china/.
+11.   For more information, see Europol, Facing reality? Law enforcement and the challenge of deepfakes, 2022, www.europol.
+europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_Law_Enforcement_And_The_
+Challenge_Of_Deepfakes.pdf.
+12.   Worldometer, Countries in the world by population (2023), accessed 18 October 2023, https://www.worldometers.info/
+world-population/population-by-country/; Statista, Internet penetration rate in the European Union from 2019 to 2022, by
+country, 26 July 2023, https://www.statista.com/statistics/1246141/eu-internet-penetration-rate/, accessed 18 October
+2022; DataReportal, Digital 2023: Global Overview Report, 26 January 2023, https://datareportal.com/reports/digital-
+2023-global-overview-report.
+13.   Despite the potential benefits that AI can play in content moderation. See: Fredheim, Rolf, Sebastian Bay, Tetiana
+Haiduchyk, Anton Dek and Martha Stolze, “Social media manipulation 2022/2023: Assessing the ability of social media
+companies to combat platform manipulation”, NATO Strategic Communications Centre of Excellence, January 2023;
+digwatch, Content policy, Geneva Internet Platform, https://dig.watch/topics/content-policy, accessed 19 October 2023.
+14.   Fernando, Christine, “Election disinformation campaigns targeted voters of color in 2020. Experts expect 2024 to be
+worse”, AP, 29 July 2023, https://apnews.com/article/elections-voting-misinformation-race-immigration-712a5c5a9b
+72c1668b8c9b1eb6e0038a; Shih, Gerry, “Inside the vast digital campaign by Hindu nationalists to inflame India”, The
+Washington Post, 26 September 2023, https://www.washingtonpost.com/world/2023/09/26/hindu-nationalist-social-
+media-hate-campaign/; Tang, Didi, “The US warns of a Chinese global disinformation campaign that could undermine
+peace and stability”, AP, 4 October 2023, https://apnews.com/article/disinformation-china-us-xinjiang-global-opinion-
+c9e033f22622841935a2b1bc1060c01b.
+15.   Groh, Matt, “Detect DeepFakes: How to counteract misinformation created by AI”, MIT, https://www.media.mit.edu/
+
+
+
+Global Risks Report 2024      33

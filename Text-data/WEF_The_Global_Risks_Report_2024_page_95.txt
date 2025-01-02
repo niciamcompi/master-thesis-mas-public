@@ -1,0 +1,67 @@
+Appendix A
+Definitions and Global Risks List
+
+Definitions                                                             are not risks in and of themselves, but have the
+potential to materially influence the speed, spread
+and scope of global risks. These include but are
+For the purposes of this report, “Climate                               not limited to: geostrategic shifts, technological
+change” is a structural force that encompasses                          acceleration, climate change and demographic
+the trajectories of global warming and possible                         bifurcation.
+consequences to Earth systems, reflecting
+anthropogenic actions and environmental changes.                        “Technological acceleration” is a structural force
+that refers to technological developments enabled
+“Demographic bifurcation” is a structural force                         by exponential growth in computing power and
+that refers to changes to the size, growth and                          analysis. It has the potential to blur boundaries
+structure of national, regional or global populations,                  between technology and humanity, and rapidly give
+and the resulting impact on socioeconomic and                           rise to novel and unpredictable global risks.
+political structures. It includes, but is not limited to,
+migration, fertility and ageing rates.                                  “Under-the-radar risk” is a global risk where new
+intelligence, a marked deterioration, key decision
+“Geostrategic shifts” is a structural force that                        point or similar suggests that the severity of the risk
+refers to changing geopolitical power dynamics.                         (likelihood or impact) is increasing and/or is higher
+It encompasses global and regional alliances and                        than indicated by global risk perceptions.
+relations, the offensive and defensive projection of
+different sources of power (including economic),
+and national attitudes relating to key actors,                          Global risk list
+governance mechanisms and strategic goals.
+
+“Global risk” is the possibility of the occurrence                      Table A.1 presents the list of 34 global risks and
+of an event or condition which, if it occurs, would                     definitions adopted in the Global Risks Perception
+negatively impact a significant proportion of global                    Survey 2023-2024.
+GDP, population or natural resources.
+To ensure legibility, the names of some of the
+“Structural force” is the long-term shift in the                        global risks have been abbreviated in the figures
+arrangement of and relation between the systemic                        throughout the report. The portion of the full name
+elements of the global landscape. These shifts                          used in the abbreviation is in bold in Table A.1.
+
+
+TA B L E A . 1      Definitions of global risks
+
+
+ECONOMIC
+
+
+Asset bubble bursts        Prices for housing, investment funds, shares and other assets become increasingly disconnected from the real economy, leading to a
+severe drop in demand and prices. Includes, but is not limited to: cryptocurrencies; housing prices; and stock markets.
+
+
+
+Concentration of           Concentration of strategically important resources and materials among a small number of individuals, businesses or states that can
+strategic resources        control access and dictate discretionary pricing.
+(minerals, materials)
+
+
+Debt (public, corporate,   Corporate, household or public finances struggle to service debt accumulation, resulting in mass bankruptcies or insolvencies, liquidity
+household)                 crises or defaults and sovereign debt crises.
+
+
+
+Disruptions to a           Major disruption or collapse of a systemically important global supply chain or industry with an impact on the global economy, financial
+systemically important     markets or society leading to an abrupt shock to the supply and demand of systemically important goods and services at a global scale.
+supply chain
+Includes, but is not limited to: energy; technological hardware; medical supplies; and fast-moving consumer goods.
+
+
+
+
+Global Risks Report 2024           95

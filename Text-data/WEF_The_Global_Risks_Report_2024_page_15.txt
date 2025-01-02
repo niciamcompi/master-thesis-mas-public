@@ -1,0 +1,87 @@
+FIGURE 1.4                    Annual change in global risk perceptions over the short term (2 years)
+
+
+Persistent concerns                                        Biggest increase in ranking                                   Biggest fall in ranking
+
+2 nd   Extreme weather                           -         12th    Technological power                        17         14 th    Geoeconomic confrontation                    11
+concentration
+Overall ranking
+
+
+
+
+3 rd   Societal polarization                     2          1st    Misinformation and                         15         30 th    Unemployment                                 11
+disinformation
+
+4 th   Cyber insecurity                          4          5 th   Interstate armed                               9      31st     Biological, chemical                         10
+conflict                                                       or nuclear hazards
+
+8 th   Involuntary migration                     2         18 th   Insufficient public infrastructure             9      16 th    Debt                                          5
+and services
+
+
+
+
+Risk categories                      Economic       Environmental            Geopolitical         Societal         Technological
+
+
+Source                                                                                Note
+World Economic Forum Global Risks                                                     Bolded risks refer to global risks that are currently in the short-term top 10 risks list, or were
+Perception Surveys 2022-2023 and 2023-2024.                                           formerly in the top 10 in GRPS 2022-2023. Refer to Appendix B: Global Risks Perception
+Survey 2022-2023 for further information on changes to the global risk list. Numbers after
+arrows refer to directional change in rankings between GRPS 2022-2023 and GRPS 2023-2024.
+
+
+
+
+FIGURE 1.5                    Severity by stakeholder over the short term (2 years)
+
+
+International
+Civil society                     organizations                          Academia                           Government                           Private sector
+1st       Misinformation and                Extreme weather events                 Misinformation and                 Extreme weather events                Misinformation and
+disinformation                                                           disinformation                                                           disinformation
+
+2 nd         Extreme weather events            Misinformation and                     Extreme weather events             Misinformation and                    Extreme weather events
+disinformation                                                            disinformation
+
+3 rd        Societal polarization             Societal polarization                  Societal polarization              Cyber insecurity                      Cyber insecurity
+
+
+4 th       Lack of economic                  Interstate armed conflict              Lack of economic                   Societal polarization                 Societal polarization
+opportunity                                                              opportunity
+
+5 th       Involuntary migration             Natural resource shortages             Interstate armed conflict          Lack of economic                      Inflation
+opportunity
+
+6 th       Erosion of human rights           Involuntary migration                  Pollution                          Pollution                             Economic downturn
+
+
+7th       Critical change to                Pollution                              Critical change to Earth           Involuntary migration                 Interstate armed conflict
+Earth systems                                                            systems
+
+8 th       Pollution                         Lack of economic                       Cyber insecurity                   Critical change to                    Technological power
+opportunity                                                               Earth systems                         concentration
+
+9 th       Interstate armed conflict         Cyber insecurity                       Involuntary migration              Inflation                             Lack of economic
+opportunity
+
+10 th              Cyber insecurity                  Intrastate violence                    Technological power                Geoeconomic                           Involuntary migration
+concentration                      confrontation
+
+
+
+Risk categories                      Economic       Environmental            Geopolitical         Societal         Technological
+
+
+
+Source                                                                                Note
+World Economic Forum Global Risks                                                     Sample size by stakeholder group varied, and all respondents were weighted equally for the
+Perception Survey 2023-2024.                                                          purposes of global rankings. These results are based on approximately the following: civil
+society, n=152 (10% of total); international organisations, n=127 (9%); academia, n=276 (19%);
+government, n=183 (12%); and private sector, n=715 (48%).
+
+
+
+
+Global Risks Report 2024           15

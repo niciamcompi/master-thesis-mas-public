@@ -1,0 +1,66 @@
+projects/detect-fakes/overview/, accessed 18 October 2023; Europol, Facing reality? Law enforcement and the challenge
+of deepfakes, 2022, www.europol.europa.eu/cms/sites/default/files/documents/Europol_Innovation_Lab_Facing_Reality_
+Law_Enforcement_And_The_Challenge_Of_Deepfakes.pdf.
+16.   Beyer, Jan Nicola, “The race to detect AI can be won”, Politico, 10 June 2023, https://www.politico.eu/article/artificial-
+intelligence-ai-detection-race-can-be-won/.
+17.   Lawson, Amanda, “A Look at Global Deepfake Regulation Approaches”, Responsible Artificial Intelligence Institute, 24 April
+2023, https://www.responsible.ai/post/a-look-at-global-deepfake-regulation-approaches.
+18.   The use of AI-powered deepfakes in campaigns is a current area of interest for regulators in many jurisdictions. For
+example, see Siemons, Jorja, “Deepfake Ads Strain Pre-AI Campaign Laws, Puzzling US Regulators”, Bloomberg Law,
+17 July 2023, https://news.bloomberglaw.com/privacy-and-data-security/deepfake-ads-rock-pre-ai-campaign-laws-
+puzzling-us-regulators.
+19.   Jones, Kate, “Legal loopholes and the risk of foreign interference”, European Parliament, January 2023, https://www.
+europarl.europa.eu/RegData/etudes/IDAN/2023/702575/EXPO_IDA(2023)702575_EN.pdf.
+20.   Edelman, 2023 Edelman Trust Barometer, 18 January 2023, https://www.edelman.com/sites/g/files/aatuss191/
+files/2023-01/2023%20Edelman%20Trust%20Barometer%20Global%20Report.pdf.
+21.   Herrmann, Katja-Elisabeth, “Disinformation and Democracy: Navigating the 2023 Political Landscape in Central and
+Eastern Europe”, Warsaw Institute, 7 August 2023, https://warsawinstitute.org/disinformation-and-democracy-navigating-
+the-2023-political-landscape-in-central-and-eastern-europe/; Chacón, Marcos Martínez, “Experts warn against wave of
+fake news ahead of Mexico’s 2024 presidential election”, AP, 25 August 2023, https://apnews.com/article/mexico-fake-
+news-social-media-elections-2024-487943383b8f57f5eb0cc9ae1324fcc1.
+22.   Funk, Allie, Adrian Shahbaz and Kian Vesteinsson, Freedom on the Net 2023: The Repressive Power of Artificial
+Intelligence, Freedom House, 2023, https://freedomhouse.org/report/freedom-net/2023/repressive-power-artificial-
+intelligence.
+23.   Legatum Institute, The 2023 Legatum Prosperity Index: Sixteenth Edition, 2023, https://www.prosperity.com/download_
+file/view_inline/4789; Economist Intelligence Unit, Democracy Index 2022: Frontline democracy and the battle for Ukraine,
+2023, https://www.eiu.com/n/campaigns/democracy-index-2022/; Freedom House, Freedom on the Net 2022: Myanmar,
+https://freedomhouse.org/country/myanmar/freedom-net/2022, accessed 19 October 2023.
+24.   See The Westminster Declaration, an open letter warning of “increasing international censorship that threatens to
+erode centuries-old democratic norms” (https://westminsterdeclaration.org/, accessed 21 October 2023); Economist
+Intelligence Unit, Democracy Index 2022: Frontline democracy and the battle for Ukraine, 2023, https://www.eiu.com/n/
+campaigns/democracy-index-2022/.
+25.   Amnesty International, International map reveals state-sanctioned violence against protesters worldwide, 19 September
+2023, https://www.amnesty.org/en/latest/news/2023/09/interactive-map-reveals-state-sanctioned-violence-against-
+protesters-worldwide/, accessed 19 October 2023; Mehrotra, Karishma and Joseph Menn, “How India tamed Twitter
+and set a global standard for online censorship”, The Washington Post, 8 November 2023, https://www.washingtonpost.
+com/world/2023/11/08/india-twitter-online-censorship/; Duque, Estefanny Perez and Esteban Ponce de León, “Mexico’s
+president is weaponizing narratives against media and opposition to combat criticism,” Digital Forensic Research Lab
+(DFRLab), 21 June 2023, https://dfrlab.org/2023/06/21/mexicos-president-is-weaponizing-narratives-against-media-and-
+opposition-to-combat-criticism.
+26.   Funk, Allie, Adrian Shahbaz and Kian Vesteinsson, Freedom on the Net 2023: The Repressive Power of Artificial
+Intelligence, Freedom House, 2023, https://freedomhouse.org/report/freedom-net/2023/repressive-power-artificial-
+intelligence.
+27.   U.S. Department of State, Global Engagement Center Special Report: How the People’s Republic of China Seeks to
+Reshape the Global Information Environment, 28 September 2023, https://www.state.gov/gec-special-report-how-the-
+peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/.
+28.   Mehrotra, Karishma and Joseph Menn, “How India tamed Twitter and set a global standard for online censorship”,
+The Washington Post, 8 November 2023, https://www.washingtonpost.com/world/2023/11/08/india-twitter-online-
+censorship/; Economist Intelligence Unit, Democracy Index 2022: Frontline democracy and the battle for Ukraine, 2023,
+https://www.eiu.com/n/campaigns/democracy-index-2022/.
+29.   Duque and Ponce de León, 21 June 2023; Economist Intelligence Unit, 2023.
+30.   Institute for Economics & Peace, Global Peace Index 2023, 2023, https://www.visionofhumanity.org/wp-content/
+uploads/2023/06/GPI-2023-Web.pdf.
+31.   Gabuev, Alexander, “Putin is looking for a bigger war, not an off-ramp, in Ukraine”, Financial Times, 30 July 2023,
+https://www.ft.com/content/861a8955-924e-4d3e-8c59-73a13403e191?emailId=14610ce2-9840-46c0-9173-
+de0cd6676cbf&segmentId=22011ee7-896a-8c4c-22a0-7603348b7f22.
+32.   Euronews, Russia’s Balkan power play continues as Kosovo tensions flare, 27 September 2023, https://www.euronews.
+com/2023/09/27/russias-balkan-power-play-continues-as-kosovo-tensions-flare; Henley, Jon, “Slovakia’s pro-Russia
+former PM reaches deal to form coalition government”, The Guardian, 11 October 2023, https://www.theguardian.com/
+world/2023/oct/02/slovakias-pro-russia-former-pm-robert-fico-invited-to-form-coalition; Schwarz, Karl-Peter, “In Central
+Europe, time may not be on Ukraine’s side”, GIS, 26 September 2023, https://www.gisreportsonline.com/r/central-
+europe-ukraine-support/.
+33.   Kusa, Iliya, “What Does the Conflict in the Middle East Mean for Ukraine?”, Carnegie Endowment for International Peace, 8
+
+
+
+Global Risks Report 2024        34

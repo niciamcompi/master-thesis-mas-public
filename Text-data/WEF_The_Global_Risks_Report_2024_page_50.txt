@@ -1,0 +1,71 @@
+2.4 AI in charge
+FIGURE 2.11                Severity score: Adverse outcomes of AI technologies
+Intended or unintended negative consequences of advances in AI and related technological capabilities (including generative AI) on
+individuals, businesses, ecosystems and/or economies.
+
+
+
+10-year rank: 6th         10-year average: 5.3
+
+
+2 years       5%    7%                 16%                    20%                           23%                         21%                    8%
+
+
+
+
+10 years                       27%                               24%                             22%                  13%            8%         4%
+
+2%
+
+Proportion of respondents
+
+
+
+Source                                                                Note                                                                Severity
+World Economic Forum Global Risks                                     Severity was assessed on a 1-7 Likert scale
+Perception Survey 2023-2024.                                          [1 – Low severity, 7 – High severity]. The percentages in the       7 6        5   4    3     2    1
+graphs may not add up to 100% because figures have                 High                           Low
+
+been rounded up/down.
+
+
+
+–    Market concentration and national security incentives could constrain the scope of guardrails to AI
+development.
+
+–    Adverse outcomes of advanced AI could create a new set of divides between those who are able to
+access or produce technology resources and intellectual property (IP) and those who cannot.
+
+–    Deeper integration of AI in conflict decisions could lead to unintended escalation, while open access to
+AI applications may asymmetrically empower malicious actors.
+
+Unchecked proliferation of increasingly powerful,                        GRPS respondents include: misinformation and
+general-purpose AI technologies will radically                           disinformation (Chapter 1.3: False information);
+reshape economies and societies over the coming                          job loss and displacement (Chapter 2.5:
+decade – for better and for worse. Alongside                             End of development?); criminal use and
+productivity benefits and breakthroughs in fields                        cyberattacks (Chapter 2.6: Crime wave); bias and
+as diverse as healthcare, education and climate                          discrimination; use in critical decision-making by
+change, advanced AI carries major societal risks.                        both organizations and states; and AI’s integration
+It will also interact with parallel advancements in                      into weaponry and warfare.
+other technologies, from quantum computing to
+synthetic biology, amplifying adverse consequences                       To date, the precautionary principle (prudence in
+posed by these frontier developments (Boxes 2.5                          the face of uncertainty) has largely not been applied
+and 2.7). Intentional misuse is not required for the                     in the development of AI, as regulators erred on
+implications to be profound. Novel risks will arise                      the side of innovation. However, rapidly evolving
+from self-improving generative AI models that are                        development of and reliance on advanced machine
+handed increasing control over the physical world,                       intelligence is outpacing our ability to adapt – both
+triggering large-scale changes to socioeconomic                          to understand the technology itself (the “Black Box
+structures.53                                                            Problem”) and to create regulatory safeguards (the
+“Pacing Problem”), with regulation playing catch
+Adverse outcomes of AI technologies is another                           up to the technology.54 The speed of advances,
+new entrant to the top 10 rankings, deteriorating                        depth of market power and strategic importance of
+significantly in perceived risk severity over the                        the industry will continue to challenge the appetite
+longer-term horizon (Figure 2.11). Alongside the                         and regulatory capacity of governance institutions.
+possibility of an entity achieving artificial general                    Downstream risks could endanger political systems,
+intelligence (AGI) – learning to accomplish any                          economic markets and global security and stability.
+human or animal task – key concerns cited by
+
+
+
+
+Global Risks Report 2024           50

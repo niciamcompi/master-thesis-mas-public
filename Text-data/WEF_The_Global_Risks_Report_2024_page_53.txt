@@ -1,0 +1,68 @@
+However, despite substantial state intervention –         in healthcare systems. In the absence of strong
+and in some cases, because of offensive economic          ethical guardrails, medical data obtained from a
+policy – production will remain heavily concentrated.     fitness tracker, for instance, could individualize
+Barriers to entry remain high, and there are limits to    advertising, facilitate discriminatory profiling for
+the extent to which state policies can lower them.        health insurance, or underpin new, more invasive
+Sizeable upfront capital expenditure for innovation       forms of employee monitoring. Even as data
+and infrastructure, economies of scale and scope,         access enables new healthcare solutions and early
+a niche talent pool, information asymmetries,             diagnosis, medical research and development could
+and proprietary data pools will continue to favor         be geared towards the wealthy – those who have
+established companies.60 Vertical integration could       the resources to afford this type of pervasive daily
+become more prevalent, as producers of foundation         data collection and monitoring that is then used
+models increasingly expand to downstream uses or          to train AI for various applications. Additionally,
+partner with platform companies that control online       the influence of upstream companies could
+data pools or offer cloud services.61                     mean that accountability for related risks, from
+biased algorithms to diagnostic errors, is pushed
+Regulatory controls on downstream applications            downstream in some jurisdictions, particularly in
+could entrench market power further. For example,         countries with more limited market power, in return
+the use of a licensing regime could embed the             for access to these technologies.
+power of existing players, even as it enhances
+oversight of frontier AI.62 As governments seek to
+manage the higher risk applications, widespread
+dependence on the underlying tech stack (the
+technologies used to develop an application) will
+likely lend tech leaders a disproportionate influence
+on legislative discourse, shaping industry norms and
+standards over the next decade. While downstream
+applications are far more competitive, upstream
+commercial motives – rather than public interest –
+could become the guiding force of AI development
+and deployment. This trade-off can already be seen
+in the distinct lack of consistent self-regulation by
+the industry, with responsible AI teams among the
+first to be subject to redundancies as the sector
+downsized in recent years.63 Tech companies could
+be left largely in charge of prices as well as privacy,
+and they may hold excessive sway over preventing
+competitive innovation.
+
+If monopoly- or oligopoly-led profit maximization is
+the primary objective of AI deployment over the next
+decade, the consequences for applications across
+healthcare, education, military, legal and financial
+sectors will be vast. In healthcare, for example, as
+the volume and granularity of health data increases
+exponentially, the commercialization of related
+data pools for downstream AI applications could
+compromise individual privacy and erode trust             Mohammad Rahmani, Unsplash
+
+
+BOX 2.5   The next global shock?
+
+Breakthrough in quantum computing
+
+Quantum computing could break and remake                  records and sold to the highest bidder.65 Large or
+monopolies over compute power, posing radical             even global infrastructure – such as banks, power
+risks in its development.64 Criminal actors have          grids and hospitals – could also be paralyzed. Yet
+already launched harvest attacks (also known              it is not just widespread proliferation of this level
+as “Store Now, Decrypt Later”, or SNDL) in                of compute power that is concerning. Although
+anticipation of a cryptographically significant           arguably a tail risk,66 if cryptographically-significant
+computer. Trade secrets across multiple industries,       quantum computing capability is covertly achieved
+including pharmaceuticals and technological               and subsequently uncovered, it may rapidly
+hardware, could be compromised, alongside                 destabilize global security dynamics.
+critically sensitive data such as electronic health
+
+
+
+
+Global Risks Report 2024       53

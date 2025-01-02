@@ -1,0 +1,64 @@
+15.   Minimum thresholds for some tipping points could be as low as 0.8°C. See: McKay, et. al., 2022.
+16.   McKay, et. al., 2022.
+17.   Organisation for Economic Co-operation and Development (OECD), Climate Tipping Points: Insights for Effective Policy
+Action, Paris: OECD, 2022, https://www.oecd-ilibrary.org/environment/climate-tipping-points_abc5a69e-en.
+18.   Boers, Niklas, “Observation-based early-warning signals for a collapse of the Atlantic Meridional Overturning Circulation”,
+Nature Climate Change, vol. 11, 5 August 2021, pp. 680-688, https://www.nature.com/articles/s41558-021-01097-4;
+Caesar, L., et. al., “Current Atlantic Meridional Overturning Circulation weakest in last millennium”, Nature Geoscience, vol.
+14, 17 February 2022, pp. 118-120, https://www.nature.com/articles/s41561-021-00699-z; Lenton, et. al., 2023.
+19.   OECD, 2022; Lenton, et. al., 2023.
+20.   Brovkin, Victor, et. al., “Past abrupt changes, tipping points and cascading impacts in the Earth system”, Nature
+Geoscience, vol. 14, 29 July 2021, pp. 550-558, https://www.nature.com/articles/s41561-021-00790-5.
+21.   University of Notre Dame, ND-Gain: Notre Dame Global Adaptation Initiative, https://gain.nd.edu/our-work/country-index/
+rankings/, accessed 27 October 2023.
+22.   Ibid.
+23.   UN Environment Programme (UNEP), Adaptation Gap Report 2023, 2 November 2023, https://www.unep.org/resources/
+adaptation-gap-report-2023.
+24.   Nagano, Takato and Takashi Sekiyama, “Review of Vulnerability Factors Linking Climate Change and Conflict”, Climate,
+vol. 11, no. 5, 9 May 2023, https://www.mdpi.com/2225-1154/11/5/104.
+25.   Co-Designing the Assessment of Climate Change Costs (OACCH), The Economic Cost of Climate Change in Europe:
+Climate and Socio-Economic Tipping Points, 2021, https://www.coacch.eu/wp-content/uploads/2018/03/COACCH_
+Policy-Brief-3_Tipping-PointsWEB_REV.pdf.
+26.   United Nations University – Institute for Environment and Human Security (UNU EHS), 2023 Interconnected Disaster Risks,
+2023, https://interconnectedrisks.org/.
+27.   OECD, 2022; Beck, Michael W., et. al., “The global flood protection savings provided by coral reefs”, Nature
+Communications, vol. 9, 12 June 2018, https://www.nature.com/articles/s41467-018-04568-z.
+28.   Also worth noting is the contribution of climate tipping points to climate change more broadly. Over the next century,
+alongside methane, the collapse of permafrost could release more than double the remaining carbon budget for
+maintaining warming below 1.5°C (888 Gt against 400 Gt), which also represents three-quarters of the budget for
+maintaining warming below 2°C. See: OECD, 2022.
+29.   WTW, The potential for rate-induced climate tipping points in insurance markets, 26 October 2023, https://www.wtwco.
+com/en-gh/insights/2023/10/the-potential-for-rate-induced-climate-tipping-points-in-insurance-markets.
+30.   Kwiatkowski, Lester, et. al, “Decline in Atlantic Primary Production Accelerated by Greenland Ice Sheet Melt”, Geophysical
+Research Letters, vol. 46, no. 20, 23 October 2019, pp. 11347-11357, https://agupubs.onlinelibrary.wiley.com/
+doi/10.1029/2019GL085267; Defrance, Dmitri, Gilles Ramstein, Syvlie Sylvie Charbit and Jean-Paul Vanderlinden,
+“Consequences of rapid ice sheet melting on the Sahelian population vulnerability”, PNAS, vol. 114, no. 25, 5 June 2017,
+pp. 65333-6538, https://www.pnas.org/doi/full/10.1073/pnas.1619358114.
+31.   Huang, Jikun, Martín Piñeiro and Valeria Piñeiro, “BRIEF 2: Global food security and market stability: The role and
+concerns of large net food importers and exporters”, International Food Policy Research Institute, 2018, https://www.ifpri.
+org/publication/brief-2-global-food-security-and-market-stability-role-and-concerns-large-net-food.
+32.   Surminski, Swenja, “Staying Above Water: A Systemic Response to Rising Flood Risk”, Marsh McLennan, February 2023,
+https://www.marshmclennan.com/insights/publications/2023/february/staying-above-water-a-systemic-response-to-
+rising-flood-risk.html.
+33.   Gramling, Carolyn, “The ‘Doomsday’ glacier may soon trigger a dramatic sea-level rise”, Science News Explores,
+24 January 2022, https://www.snexplores.org/article/antarctica-thwaites-glacier-ice-shelf-collapse-climate-5-
+years; Fox, Douglas, “Antarctica’s Collapse Could Begin Even Sooner Than Anticipated”, Scientific American, 1
+November 2022, https://www.scientificamerican.com/article/antarcticas-collapse-could-begin-even-sooner-than-
+anticipated/#:~:text=The%20Thwaites%20Glacier%20itself%20holds,meters%E2%80%94more%20than%20
+10%20feet.; Luhn, Alec, “’Doomsday’ glacier in Antarctica isn’t as vulnerable as feared”, NewScientist, 8 June 2023,
+https://www.newscientist.com/article/2377267-doomsday-glacier-in-antarctica-isnt-as-vulnerable-as-feared/; Naughten,
+et al., 2023; Chowdjury, Joie, “At Historic ITLOS Hearings, States Stake Out Positions on Climate Duties and Ocean
+Protection”, Center for International Environmental Law, https://www.ciel.org/at-historic-itlos-hearings-states-stake-out-
+positions-on-climate-duties-and-ocean-protection/, accessed 30 October 2023.
+34.   Gramling, 2022; Fox, 2022; Luhn, 2023; Naughten, et al., 2023; Chowdjury, 2023.
+35.   Climate Central, Coastal Risk Screening Tool, https://coastal.climatecentral.org/map/10/101.3975/14.0894/?
+theme=water_level&map_type=water_level_above_mhhw&basemap=roadmap&contiguous=true&elevation_model=best_
+available&refresh=true&water_level=0.0&water_unit=m, accessed 6 November 2023.
+36.   OECD, 2022.
+37.   de Bruin, Jelte G. H., Victor F. Bense and Martine J. van der Ploeg, “Inferring Permafrost Active Layer Thermal
+Properties From Numerical Model Optimization”, Geophysical Research Letters, vol. 48, no. 16, 16 July 2021, https://
+agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL093306; Miner, Kimberley R., et. al., “Permafrost carbon
+emissions in a changing Arctic”, Nature Reviews Earth & Environment, vol. 3, 11 January 2022, pp. 55-67, https://www.
+
+
+Global Risks Report 2024     78

@@ -1,0 +1,156 @@
+FIGURE E                  Global risks ranked by severity
+"Please estimate the likely impact (severity) of the following risks over a 2-year and 10-year period."
+
+
+
+Short term (2 years)                                                                                Long term (10 years)
+
+1   st
+Misinformation and disinformation                                                           1st      Extreme weather events
+
+2   nd
+Extreme weather events                                                                     2   nd
+Critical change to Earth systems
+
+3   rd
+Societal polarization                                                                       3   rd
+Biodiversity loss and ecosystem collapse
+
+4   th
+Cyber insecurity                                                                            4   th
+Natural resource shortages
+
+5   th
+Interstate armed conflict                                                                   5   th
+Misinformation and disinformation
+
+6   th
+Lack of economic opportunity                                                                6   th
+Adverse outcomes of AI technologies
+
+7   th
+Inflation                                                                                   7   th
+Involuntary migration
+
+8   th
+Involuntary migration                                                                       8   th
+Cyber insecurity
+
+9   th
+Economic downturn                                                                           9   th
+Societal polarization
+
+10   th
+Pollution                                                                                 10    th
+Pollution
+
+11   th
+Critical change to Earth systems                                                           11   th
+Lack of economic opportunity
+
+12   th
+Technological power concentration                                                          12   th
+Technological power concentration
+
+13   th
+Natural resource shortages                                                                13    th
+Concentration of strategic resources
+
+14   th
+Geoeconomic confrontation                                                                  14   th
+Censorship and surveillance
+
+15   th
+Erosion of human rights                                                                   15    th
+Interstate armed conflict
+
+16   th
+Debt                                                                                      16    th
+Geoeconomic confrontation
+
+17   th
+Intrastate violence                                                                        17   th
+Debt
+
+18   th
+Insufficient public infrastructure and services                                           18    th
+Erosion of human rights
+
+19   th
+Disruptions to a systemically important supply chain                                      19    th
+Infectious diseases
+
+20   th
+Biodiversity loss and ecosystem collapse                                                  20    th
+Chronic health conditions
+
+21   st
+Censorship and surveillance                                                                21   st
+Insufficient public infrastructure and services
+
+22   nd
+Labour shortages                                                                          22   nd
+Intrastate violence
+
+23   rd
+Infectious diseases                                                                       23    rd
+Disruptions to critical infrastructure
+
+24   th
+Concentration of strategic resources                                                      24    th
+Adverse outcomes of frontier technologies
+
+25   th
+Disruptions to critical infrastructure                                                    25    th
+Disruptions to a systemically important supply chain
+
+26   th
+Asset bubble bursts                                                                       26    th
+Biological, chemical or nuclear hazards
+
+27   th
+Chronic health conditions                                                                  27   th
+Unemployment
+
+28   th
+Illicit economic activity                                                                 28    th
+Economic downturn
+
+29   th
+Adverse outcomes of AI technologies                                                       29    th
+Labour shortages
+
+30   th
+Unemployment                                                                              30    th
+Asset bubble bursts
+
+31   st
+Biological, chemical or nuclear hazards                                                    31   st
+Illicit economic activity
+
+32   nd
+Terrorist attacks                                                                         32   nd
+Inflation
+
+33   rd
+Non-weather related natural disasters                                                     33    rd
+Non-weather related natural disasters
+
+34   th
+Adverse outcomes of frontier technologies                                                 34    th
+Terrorist attacks
+
+
+
+Risk categories            Economic            Environmental         Geopolitical        Societal          Technological
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Global Risks Report 2024   11

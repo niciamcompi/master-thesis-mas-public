@@ -1,0 +1,84 @@
+FIGURE 2.13                            Indicative value chain of generative AI technologies
+
+
+Raw resources*                                         Lithography*                                       Talent & IP*                                        Data*
+As described in last year’s Global Risks               ASML (Netherlands) reportedly holds                The US has produced more than 70%                  Proprietary data sets can lend a
+Report (Chapter 3: Resource Rivalries),                90% of the global lithography market,              of the most cited AI research papers               competitive advantage; larger
+the extraction and processing of critical              although Canon (Japan) have                        over the past three years, followed by             companies are favoured due to
+metals and minerals used in advanced                   announced that their latest machine                China and the UK.                                  economies of scale and network
+AI chips are highly geographically                     can produce advanced 2-5nm chips.                                                                     effects, particularly Big Tech companies
+concentrated.                                                                                                                                                that control data generated online.
+
+
+
+
+Fabrication*                                           Assembly, testing &                                                          Foundation model
+Taiwan Semiconductor Manufacturing
+packaging (ATP)
+Although comparatively nascent, early
+Company (TSMC) holds around a 56%                      Over 80% of the world’s ATP production                                       signs suggest that the market for
+share of the global semiconductor                      is currently centred in Asia, split between                                  foundation models tend towards
+foundry market, followed by Samsung                    Integrated Device Manufacturers and                                          concentration, given both economies
+at nearly 12%.                                         Outsourced Semiconductor Assembly                                            of scale and scope.
+and Test (OSAT) companies.
+
+
+
+
+Memory                                                                                                    Computational power                                 Applications*
+Samsung (South Korea) is a key vendor                                                                     Most companies access compute power                Open-source models will increase
+for memory storage technologies (DRAM                                                                     through cloud platforms. Amazon (US)               competitiveness, however the longer-
+and NAND, at 43% and 33% of global                     Design*                                            holds around 32% market share,                     term market structure will depend on
+production respectively), alongside SK                 Generative AI is dependent on advanced             followed by Microsoft (US) at 22%.                 the extent of regulated access to
+Hynix (South Korea).                                   semiconductor technology. Nvidia (US)                                                                 foundational models.
+has captured 95% of the market for
+GPU chips that can be used for
+machine learning.
+
+
+Level of concentration
+Low                       High
+
+Source                                                                               Note
+World Economic Forum Global Risks Report 2024.                                       *Subject to restrictions.
+High-level for illustrative purposes only, does not include all relevant steps (including, for example,
+inference, web access, etc.).
+
+
+
+
+FIGURE 2.14                            National security as a driver of industrial policy
+
+
+28 economies
+ranked “Ensure national security” as the top objective currently orienting policy. Of these:
+
+19 economies
+felt national security should be deprioritized as a top objective in terms of innovation and
+industrial policy, including the United Kingdom, Türkiye, and Italy, in favour of, for example,
+addressing environment and education priorities.
+
+
+
+17 economies
+ranked “Ensure national security” as the top challenge that should orient policy. Of these:
+
+9 economies
+ranked national security as the top objective and the top challenge that orients innovation
+and industrial policy in their country, including the United States, Hong Kong, United Arab
+Emirates and Pakistan.
+
+8 economies
+felt national security should be prioritized as a top challenge, including Bangladesh, Mongolia
+and Malaysia, ahead of current economic objectives, for example.
+
+
+Source                                      Note
+World Economic Forum                        Private sector respondents from 113 economies were asked to rank the three objectives that currently orient innovation and industrial policy
+Executive Opinion Survey                    and three challenges that should orient innovation and industrial policy in their country. The same seven options applied in both questions: (1)
+2023.                                       Accelerate lifelong learning and talent development; (2) Accelerate the green transition; (3) Address food and water scarcity; (4) Ensure national
+security; (5) Maximize economic growth and employment; (6) Protect public health and wellbeing; (7) Reduce inequality and promote diversity
+and inclusion. The final ranking of “Ensure national security” by country is based on a simply tally of the number of times it was selected.
+
+
+Global Risks Report 2024              52

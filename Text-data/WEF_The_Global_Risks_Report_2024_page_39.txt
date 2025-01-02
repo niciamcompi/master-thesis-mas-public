@@ -1,0 +1,71 @@
+FIGURE 2.3                    Severity by stakeholder over the long term (10 years)
+
+
+International
+Civil society                     organization                       Academia                           Government                        Private sector
+1st
+Critical change to                Extreme weather events             Extreme weather events             Critical change to                Extreme weather events
+Earth systems                                                                                           Earth systems
+
+2 nd    Biodiversity loss and             Critical change to                 Critical change to                 Extreme weather events            Critical change to
+ecosystem collapse                Earth systems                      Earth systems                                                        Earth systems
+
+3 rd    Extreme weather events            Natural resource shortages         Biodiversity loss and              Biodiversity loss and             Biodiversity loss and
+ecosystem collapse                 ecosystem collapse                ecosystem collapse
+
+4 th    Natural resource shortages        Biodiversity loss and              Misinformation and                 Natural resource shortages        Natural resource shortages
+ecosystem collapse                 disinformation
+
+5 th    Lack of economic                  Involuntary migration              Natural resource shortages         Adverse outcomes                  Adverse outcomes
+opportunity                                                                                             of AI technologies                of AI technologies
+
+6 th    Involuntary migration             Adverse outcomes                   Involuntary migration              Cyber insecurity                  Misinformation and
+of AI technologies                                                                                      disinformation
+
+7th     Misinformation and                Pollution                          Societal polarization              Involuntary migration             Societal polarization
+disinformation
+
+8 th    Adverse outcomes                  Societal polarization              Cyber insecurity                   Misinformation and                Cyber insecurity
+of AI technologies                                                                                      disinformation
+
+9 th    Cyber insecurity                  Misinformation and                 Adverse outcomes                   Pollution                         Involuntary migration
+disinformation                     of AI technologies
+
+10 th    Societal polarization             Cyber insecurity                   Lack of economic                   Societal polarization             Pollution
+opportunity
+
+
+
+Risk categories             Economic        Environmental          Geopolitical     Societal          Technological
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+watch over the coming years (Chapter 2.5: End                          many of economic risks, has decreased significantly
+of development?). The related economic risk of                         in perceived severity over both time horizons when
+Illicit economic activity is perceived to be of lower                  compared to last year’s scores.1
+severity over both time periods. However, it is seen
+to be driven by several risks ranked in both the                       Indeed, geopolitical risks are noticeably absent
+short- and longer-term top 10, suggesting it may be                    from the top 10 rankings over the next decade.
+an underappreciated risk over the coming decade                        Interstate armed conflict exhibits the same long-
+(Chapter 2.6: Crime wave).                                             term severity score as last year but falls from 5th
+to 15th place over the 10-year period. Similar to
+Inflation is the only risk with a severity score                       last year, Terrorist attacks sits in the bottom left
+predicted to improve over the next decade, and                         quadrant of Figure 2.1, indicating lower perceived
+it moves from #7 to #32. In fact, most economic                        severity over both the short and long term. While
+risks fall rapidly in comparative rankings of risk                     the latest available data indicates that overall
+perception over the next decade, with, for example,                    lethality remains contained compared to other risks,
+Economic downturn dropping from #9 to #28                              at 6,701 global fatalities in 2022, terrorism has the
+over the longer-term horizon. This may reflect that                    potential to spark broader conflict and unrest, such
+Geoeconomic confrontation (#16), a key driver of                       as the current conflict in the Middle East.2
+
+
+
+
+Global Risks Report 2024      39

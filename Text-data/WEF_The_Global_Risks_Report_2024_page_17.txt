@@ -1,0 +1,80 @@
+FIGURE 1.7                   Global risks landscape: an interconnections map
+
+
+
+
+Intrastate violence
+Censorship and surveillance
+Natural resource shortages                                                        Erosion of human rights
+Misinformation and disinformation
+Critical change to
+Earth systems                       Involuntary migration                      Terrorist attacks
+Adverse outcomes of
+frontier technologies
+Biodiversity loss and                                                                                                                                             Technological power
+ecosystem collapse                                                                                                                                                concentration
+Cyber insecurity
+Interstate armed conflict
+Pollution                      Extreme
+weather events                                                                           Societal                   Adverse outcomes
+Non-weather related natural disasters                                  polarization               of AI technologies
+Disruptions to
+Infectious diseases                       Chronic health conditions             critical infrastructure
+
+
+
+Biological, chemical                                                                        Insufficient infrastructure and services
+or nuclear hazards
+Disruptions to a systemically
+important supply chain                                                                    Lack of economic opportunity
+Labour shortages
+
+Concentration of                           Geoeconomic confrontation
+strategic resources
+
+Inflation
+
+Economic downturn
+
+Debt                                Illicit economic activity
+Unemployment
+Asset bubble bursts
+
+Nodes                     Edges
+Risk influence            Relative influence
+High                   High
+Medium                 Medium
+Low                    Low                       Risk categories         Economic                Environmental       Geopolitical           Societal         Technological
+
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Interstate armed conflict (#5) rises in the                                   the two-year time frame rankings, Critical change
+rankings for the two-year horizon, across nearly                              to Earth systems comes in at #11, Debt in 16th
+all stakeholder groups, except for government                                 place, and Adverse outcomes of AI technologies
+respondents. This divergence may simply reflect                               and other frontier technologies in 29th and last
+different views around defining conflict: interstate                          place, respectively.
+armed conflict in the strict definition has remained
+relatively rare thus far, but international interventions                     The following sections explore some of the most
+in intrastate conflict are on the rise (Chapter 1.4:                          severe risks that many expect to play out over the
+Rise in conflict).                                                            next two years, focusing on three entrants to the
+top 10 risks list over the short term: Misinformation
+Extreme weather events, a persistent concern                                  and disinformation (#1), Interstate armed
+between last year and this year, is at #2, Cyber                              conflict (#5) and Economic downturn (#9). We
+insecurity at #4, Involuntary migration at #8 and                             briefly describe the latest developments and key
+Pollution at #10, rounding out the top 10 concerns                            drivers for false information, a rise in conflict and
+in respondents’ risk perceptions through to 2026.                             economic uncertainty, and consider their emerging
+Overall, global risks have lower severity scores                              implications and knock-on effects.
+compared to last year’s results.7 Further down in
+
+
+
+
+Global Risks Report 2024         17

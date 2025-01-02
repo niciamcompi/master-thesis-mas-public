@@ -1,0 +1,74 @@
+Acting today                                                          Solutions proposed include but are not limited to:
+registration and licensing of the most powerful
+versions of the technology, tiering access to
+GRPS respondents identify Public awareness and                        computing power, implementation of provenance
+education as one of the most effective mechanisms                     and/or watermarking systems, Know-Your-
+to address risk preparedness and reduction of                         Customer procedures and mandatory incident
+Adverse outcomes of AI technologies (Figure                           disclosures, and creating a robust auditing and
+2.15) and as a key tool to manage local impacts                       certification system.84
+as well as build governance capacity and societal
+resilience. Literacy in generative AI is essential, for               GRPS respondents also note the role of Global
+regulators and for broader society. AI literacy could                 treaties and agreements in the management of
+be integrated into public education systems and                       both Adverse outcomes of AI technologies and
+trainings for journalists and decision-makers to not                  Technological power concentration. Several AI
+only understand capabilities of AI systems but also                   governance frameworks have already emerged at
+to identify trustworthy sources of information.                       a global level to provide high level guidance for AI
+development, including the latest G7 Hiroshima
+GRPS respondents also highlight the need for                          Process on Generative Artificial Intelligence, as well
+National and local regulations. While national-                       as the Bletchley Declaration. In addition, there have
+level efforts will not necessarily prevent the rapid                  already been calls for an “AI version” of the IPCC.85
+global proliferation of AI and related risks, robust                  This entity could, in collaboration with the private
+but flexible standard-setting can help ensure that                    sector, enable global scientific consensus around the
+technological development and deployment are                          risks and opportunities posed by frontier AI. Similarly,
+aligned with societal needs. The application of                       it could communicate findings to decision-makers,
+existing legislation around intellectual property,                    based on best available projections of global AI
+employment, competition policy, data protection,                      hardware and software, albeit with faster assessment
+privacy, and human rights will need to evolve to                      cycles by necessity. Oversight could also extend to a
+address new challenges posed by generative AI.82                      reporting database and registry of crucial AI systems.
+Other key areas anticipated to be addressed by                        However, the most existential of these risks will require
+various regulatory regimes over the short term                        extensive cooperation between powers, to achieve
+include the identification of AI-generated products,                  mutual restraint around the proliferation of high-impact
+blocks or limitations to the riskiest uses, and                       technologies, as well as the inadvertent escalation in
+determination of liability for AI-induced harms.83                    military AI (Chapter 3: Responding to global risks).
+
+
+FIGURE 2.15                   Risk governance: AI in charge
+“Which approach(es) do you expect to have the most potential for driving action on risk reduction and preparedness over the next 10
+years? Select up to three for each risk.”
+
+
+
+Approach
+a. Financial instruments                                              a                                                                         a
+
+b. National and local regulations                       i                             b                                        i                               b
+c. Minilateral treaties and
+agreements                                                                   54%
+46%                                                                    46%               46%
+d. Global treaties and
+agreements                                                        10%                                                                      14%
+h                                               c                     h                                                 c
+58%                                                                          26%
+e. Development assistance                                                   10%                                                                        24%
+f. Corporate strategies                                                6%
+g. Research & development                               51%         17%             48%                                            47%
+29% 16%       50%
+h. Public awareness and                            g                                       d                              g                                        d
+education
+i. Multi-stakeholder engagement
+
+f                 e                                                        f             e
+
+
+Share of respondents                 Adverse outcomes of AI technologies                                       Technological power concentration
+
+
+
+Source                                                         Risk categories            Economic     Environmental          Geopolitical          Societal       Technological
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Global Risks Report 2024      56

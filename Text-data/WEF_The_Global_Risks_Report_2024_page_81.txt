@@ -1,0 +1,66 @@
+2023, https://blogs.lse.ac.uk/medialse/2023/09/28/effective-ai-governance-requires-global-awareness-of-local-
+problems/; Wall, P.J., Deepak Saxena and Suzana Brown, “Artificial intelligence in the Global South (AI4D): Potential and
+risks”, Conference: Proceedings of the 1st Virtual Conference on Implications of Information and Digital Technologies for
+Development, May 2021, https://www.researchgate.net/publication/352362394_Artificial_Intelligence_in_the_Global_
+South_AI4D_Potential_and_Risks.
+68.   Rotman, David, “AI is reinventing the way we invent”, MIT Technology Review, 15 February, 2019, https://www.
+technologyreview.com/2019/02/15/137023/ai-is-reinventing-the-way-we-invent/; Fernando, Chrisantha, et. al.,
+“Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution”, Cornell University, 28 September 2023, https://
+arxiv.org/abs/2309.16797.
+69.   Hook, Leslie, Harry Dempsey and Ciara Nugent, “The new commodity superpowers”, The Financial Times, 8 August
+2023, https://www.ft.com/content/0d2fba79-940f-4a28-8f4f-68f1e755200f?desktop=true&segmentId=7c8f09b9-9b61-
+4fbb-9430-9208a9e233c8#myft:notification:daily-email:content.
+70.   Woollacott, Emma, “Apple Threatens To Pull FaceTime and iMessage From The UK”, Forbes, 21 July 2023, https://
+www.forbes.com/sites/emmawoollacott/2023/07/21/apple-threatens-to-pull-facetime-and-imessage-from-the-
+uk/?sh=77938a5d6425.
+71.   Roza, David, “Experts Warn of Blurring Line Between Military, Commercial Satellites”, Air & Space Forces, 27 July 2023,
+https://www.airandspaceforces.com/military-commercial-satellites-blurring-line/.
+72.   United Nations, “Without Adequate Guardrails, Artificial Intelligence Threatens Global Security in Evolution from Algorithms
+to Armaments, Speaker Tells First Committee”, Seventy-Eighth Session, 20th & 21st Meeting, New York, 24 October
+2023, https://press.un.org/en/2023/gadis3725.doc.htm; Bremmer, Ian and Mustafa Suleyman, “The AI Power Paradox”,
+Foreign Affairs, 16 August 2023, https://www.foreignaffairs.com/world/artificial-intelligence-power-paradox; Andersen,
+Ross, “Never give artificial intelligence the nuclear codes”, The Atlantic, June 2023, https://www.theatlantic.com/
+magazine/archive/2023/06/ai-warfare-nuclear-weapons-strike/673780/.
+73.   Adler, Nils, “Are killer robots the future of war?”, Aljazeera, 16 May 2023, https://www.aljazeera.com/features/2023/5/16/
+are-killer-robots-the-future-of-war.
+74.   The urgent need to address autonomous weapons systems has been discussed in the UN, and provisionally tabled
+for the 79th session of the UN General Assembly to be held later this year: Agenda item 99: General and complete
+disarmament, 12 October 2023, https://documents-dds-ny.un.org/doc/UNDOC/LTD/N23/302/66/PDF/N2330266.
+pdf?OpenElement. The development of a UN treaty on cybercrime, the first framework for international cooperation on a
+cyber issue, is discussed further in Chapter 2.6: Crime wave.
+75.   United Nations, “First Committee Approves New Resolution on Lethal Autonomous Weapons, as Speaker Warns ‘An
+Algorithm Must Not Be in Full Control of Decisions Involving Killing’”, Seventy-Eighth Session, 28th Meeting 1 November
+2023, https://press.un.org/en/2023/gadis3731.doc.htm.
+76.   United Nations Office for Disarmament Affairs, Lethal Autonomous Weapons Systems (LAWS), https://disarmament.
+unoda.org/the-convention-on-certain-conventional-weapons/background-on-laws-in-the-ccw/, accessed 9 November
+2023.
+77.   Paoli, Giacomo Persi, et. al., Modernizing Arms Control: Exploring responses to the use of AI in military decision-making,
+UNIDIR, 2020, https://unidir.org/files/2020-09/Modernizing%20Arms%20Control%20-%20Final.pdf.
+78.   Parke, Melissa, “Preventing AI Nuclear Armageddon”, Project Syndicate, 8 November 2023, https://www.project-
+syndicate.org/commentary/dangers-of-artificial-intelligence-ai-applications-nuclear-weapons-by-melissa-parke-2023-
+11?barrier=accesspaylog.
+79.   Johnson, James and Eleanor Krabill, “AI, Cyberspace and Nuclear Weapons”, War on the Rocks, 31 January 2020,
+https://warontherocks.com/2020/01/ai-cyberspace-and-nuclear-weapons/.
+80.   Zhen, Liu, “Chinese criminal gangs spreading African swine fever to force farmers to sell pigs cheaply so they can profit”,
+South China Morning Post, 14 December 2019; Olson, Kyle B., “Aum Shinrikyo: Once and Future Threat”, Emerging
+Infectious Diseases, July-August 1999, https://www.ojp.gov/ncjrs/virtual-library/abstracts/aum-shinrikyo-once-and-future-
+threat#:~:text=The%20document%20questions%20whether%20the,time%2C%20seven%20people%20were%20dead.
+81.   Sandbrink, Jonas B., “Artificial intelligence and biological misuse: Differentiating risks of language models and biological
+design tools”, Cornell University, 29 October 2023, https://arxiv.org/abs/2306.13952.
+82.   Turner, Jacob, “Amsterdam court upholds appeal in algorithmic decision-making test case: Drivers vs. Uber and Ola”,
+Fountain Court, 6 April 2023.
+83.   Bastit, Bruno, “The AI Governance Challenge”, S&P Global, 29 November 2023, https://www.spglobal.com/en/research-
+insights/featured/special-editorial/the-ai-governance-challenge.
+84.   Waters, Richard, “Can AI be regulated?”, Financial Times, 19 May 2023, https://www.ft.com/content/8446842c-537a-
+4fc4-9e02-667d719526ae?desktop=true&segmentId=7c8f09b9-9b61-4fbb-9430-9208a9e233c8#myft:notification:daily-
+email:content; Harris, David Evan, “How to Regulate Unsecured ‘Open-Source’ AI: No Exemptions”, Tech Policy, 4
+December 2023, https://www.techpolicy.press/how-to-regulate-unsecured-opensource-ai-no-exemptions/.
+85.   Suleyman, Mustafa and Eric Schmidt, “Mustafa Suleyman and Eric Schmidt: We need an AI equivalent of the IPCC”, The
+Financial Times, 19 October 2023, https://www.ft.com/content/d84e91d0-ac74-4946-a21f-5f82eb4f1d2d.
+86.   United Nations Development Programme (UNDP), Human Development Index (HDI), https://hdr.undp.org/data-center/
+human-development-index#/indicies/HDI, accessed 11 November 2023.
+
+
+
+
+Global Risks Report 2024         81

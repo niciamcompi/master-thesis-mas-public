@@ -1,0 +1,77 @@
+FIGURE 3.4                 Top global risks addressed by Global treaties and agreements
+"Which approach(es) do you expect to have the most potential for driving action on risk reduction and preparedness over the
+next 10 years?"
+
+
+
+Global treaties and agreements (e.g. UNFCC, Paris, Montreal, NPT, WTO)
+
+Biological, chemical or nuclear hazards                                                                                                        84%
+
+Geoeconomic confrontation                                                                                                     79%
+
+Interstate armed conflict                                                                                                 78%
+
+Critical change to Earth systems                                                                                 65%
+
+Concentration of strategic resources                                                                              64%
+
+Terrorist attacks                                                                               64%
+
+Biodiversity loss and ecosystem collapse                                                                        58%
+
+Involuntary migration                                                                      56%
+
+Adverse outcomes of frontier technologies                                                                       56%
+
+Erosion of human rights                                                                   55%
+
+
+0                            25                              50                               75                        100
+
+Share of respondents (%)
+
+
+Risk categories      Economic           Environmental        Geopolitical         Societal     Technological
+
+
+
+Source                                                            Note
+World Economic Forum Global Risks                                 Respondents could select up to three responses from the following nine options: Financial
+Perception Survey 2023-2024.                                      instruments, National and local regulations, Minilateral treaties and agreements, Global treaties and
+agreements, Development assistance, corporate strategies, Research & development, Public
+awareness and education, Multi-stakeholder engagement.
+
+
+
+
+Pressing risks requiring mutual restraint often                       Global treaties and agreements, the result of
+involve the proliferation and malign use of                           constructive dialogue, negotiation and compromise,
+advanced and potentially destructive technologies.                    are fundamental to mitigating and preparing for
+Restraining the use of weapons of mass destruction                    many global risks. They enable involved parties to
+or restricting the incorporation of AI into lethal                    identify common ground and cooperate towards
+weapons and nuclear decision-making systems                           shared objectives. GRPS respondents recognize
+are needed to avoid the risk of inadvertent conflict                  such treaties as the most appropriate lever to
+escalation (Chapter 2.4: AI in charge).                               manage key geopolitical risks such as Interstate
+armed conflict; Geoeconomic confrontation; and
+When it comes to global risks such as terrorism                       Biological, chemical or nuclear hazards; as well
+or pandemic outbreaks, it is often the weakest                        as inherently globalized environmental risks such as
+link that dictates the risk. Technological advances                   Critical changes to Earth systems (Figure 3.4).
+in AI mean that bio-engineered pathogens have
+become a reality, and a security breach of a high-                    Amid growing geopolitical rifts, global treaties and
+containment bio-laboratory or bio-foundry, for                        agreements face numerous challenges. Agreements
+example, is a global concern.                                         regarding global trade and financial integration are
+under pressure from trade conflicts between China
+GRPS respondents highlight Minilateral treaties                       and the United States, Brexit and national post-
+and agreements and Global treaties and                                COVID-19 economic recovery efforts. While there
+agreements as risk governance approaches                              is emerging consensus on the need for a universal
+within the category of cross-border coordination.                     regulatory framework for AI to address concerns
+Minilateral treaties – or agreements involving a                      surrounding ethical standards, data privacy and
+smaller number of parties and often backed by                         potential misuse, the first steps in this arena seem
+regional financing – represent a feasible solution                    to be faltering, with the EU’s landmark AI Act
+to many global risks faced by a fragmented world,                     coming under pressure from governments13 and
+where it is difficult to have a large number of                       technology companies14 alike. Striking a balance
+countries endorsing the same cause.                                   between fostering innovation and addressing
+
+
+Global Risks Report 2024   91

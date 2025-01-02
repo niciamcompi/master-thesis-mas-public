@@ -1,0 +1,72 @@
+1.3 False information
+FIGURE 1.8            Severity score: Misinformation and disinformation
+Persistent false information (deliberate or otherwise) widely spread through media networks, shifting public opinion in a significant way
+towards distrust in facts and authority. Includes, but is not limited to: false, imposter, manipulated and fabricated content.
+
+
+
+Rank: 1st          Average: 4.7
+
+
+2 years            16%                      15%                        23%                            21%                       16%                7%
+
+1%
+
+Proportion of respondents
+
+Source                                                                 Note                                                                    Severity
+World Economic Forum Global Risks                                      Severity was assessed on a 1-7 Likert scale
+Perception Survey 2023-2024.                                           [1 – Low severity, 7 – High severity]. The percentages in the           7 6        5     4   3   2     1
+graph may not add up to 100% because figures have                      High                           Low
+
+been rounded up/down.
+
+
+
+–    Misinformation and disinformation may radically disrupt electoral processes in several economies over
+the next two years.
+
+–    A growing distrust of information, as well as media and governments as sources, will deepen polarized
+views – a vicious cycle that could trigger civil unrest and possibly confrontation.
+
+–    There is a risk of repression and erosion of rights as authorities seek to crack down on the proliferation
+of false information – as well as risks arising from inaction.
+
+The disruptive capabilities of manipulated                                New classes of crimes will also proliferate, such
+information are rapidly accelerating, as open                             as non-consensual deepfake pornography or
+access to increasingly sophisticated technologies                         stock market manipulation.11 However, even
+proliferates and trust in information and institutions                    as the insidious spread of misinformation and
+deteriorates. In the next two years, a wide set                           disinformation threatens the cohesion of societies,
+of actors will capitalize on the boom in synthetic                        there is a risk that some governments will act
+content,8 amplifying societal divisions, ideological                      too slowly, facing a trade-off between preventing
+violence and political repression – ramifications that                    misinformation and protecting free speech, while
+will persist far beyond the short term.                                   repressive governments could use enhanced
+regulatory control to erode human rights.
+Misinformation and disinformation (#1) is a new
+leader of the top 10 rankings this year. No longer
+requiring a niche skill set, easy-to-use interfaces
+to large-scale artificial intelligence (AI) models
+have already enabled an explosion in falsified
+information and so-called ‘synthetic’ content,
+from sophisticated voice cloning to counterfeit
+websites. To combat growing risks, governments
+are beginning to roll out new and evolving
+regulations to target both hosts and creators of
+online disinformation and illegal content.9 Nascent
+regulation of generative AI will likely complement
+these efforts. For example, requirements in China
+to watermark AI-generated content may help
+identify false information, including unintentional
+misinformation through AI hallucinated content.10
+Generally however, the speed and effectiveness
+of regulation is unlikely to match the pace of
+development.
+
+Synthetic content will manipulate individuals,
+damage economies and fracture societies in
+numerous ways over the next two years. Falsified
+information could be deployed in pursuit of diverse
+goals, from climate activism to conflict escalation.                      Jason Goodman, Unsplash
+
+
+Global Risks Report 2024            18

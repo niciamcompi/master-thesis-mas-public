@@ -1,0 +1,84 @@
+FIGURE D                  Global risks landscape: an interconnections map
+
+
+
+Intrastate violence
+Censorship and surveillance
+Natural resource shortages                                                        Erosion of human rights
+Misinformation and disinformation
+Critical change to
+Earth systems                       Involuntary migration                      Terrorist attacks
+Adverse outcomes of
+frontier technologies
+Biodiversity loss and                                                                                                                                             Technological power
+ecosystem collapse                                                                                                                                                concentration
+Cyber insecurity
+Interstate armed conflict
+Pollution                      Extreme
+weather events                                                                           Societal                   Adverse outcomes
+Non-weather related natural disasters                                  polarization               of AI technologies
+Disruptions to
+Infectious diseases                       Chronic health conditions             critical infrastructure
+
+
+
+Biological, chemical                                                                        Insufficient infrastructure and services
+or nuclear hazards
+Disruptions to a systemically
+important supply chain                                                                    Lack of economic opportunity
+Labour shortages
+
+Concentration of                           Geoeconomic confrontation
+strategic resources
+
+Inflation
+
+Economic downturn
+
+Debt                                Illicit economic activity
+Unemployment
+Nodes                     Edges                                          Asset bubble bursts
+Risk influence            Relative influence
+High                   High
+Medium                 Medium
+Low                    Low                       Risk categories         Economic                Environmental       Geopolitical           Societal         Technological
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Over the longer term, developmental progress and                              Simmering geopolitical tensions
+living standards are at risk. Economic, environmental
+and technological trends are likely to entrench existing
+combined with technology will
+challenges around labour and social mobility, blocking                        drive new security risks
+individuals from income and skilling opportunities,
+and therefore the ability to improve economic status                          As both a product and driver of state fragility,
+(Chapter 2.5: End of development?). Lack of                                   Interstate armed conflict is a new entrant into the
+economic opportunity is a top 10 risk over the                                top risk rankings over the two-year horizon (Figure
+two-year period, but is seemingly less of a concern                           C). As the focus of major powers becomes stretched
+for global decision-makers over the longer-term                               across multiple fronts, conflict contagion is a key
+horizon, dropping to #11 (Figure E). High rates of job                        concern (Chapter 1.4: Rise in conflict). There are
+churn – both job creation and destruction – have the                          several frozen conflicts at risk of heating up in the near
+potential to result in deeply bifurcated labour markets                       term, due to spillover threats or growing state fragility.
+between and within developed and developing
+economies. While the productivity benefits of these                           This becomes an even more worrying risk in the
+economic transitions should not be underestimated,                            context of recent technological advances. In the
+manufacturing- or services-led export growth might                            absence of concerted collaboration, a globally
+no longer offer traditional pathways to greater                               fragmented approach to regulating frontier
+prosperity for developing countries.                                          technologies is unlikely to prevent the spread of
+its most dangerous capabilities and, in fact, may
+The narrowing of individual pathways to stable                                encourage proliferation (Chapter 2.4: AI in charge).
+livelihoods would also impact metrics of human                                Over the longer-term, technological advances,
+development – from poverty to access to education                             including in generative AI, will enable a range of
+and healthcare. Marked changes in the social                                  non-state and state actors to access a superhuman
+contract as intergenerational mobility declines would                         breadth of knowledge to conceptualize and develop
+radically reshape societal and political dynamics in                          new tools of disruption and conflict, from malware
+both advanced and developing economies.                                       to biological weapons.
+
+
+Global Risks Report 2024              9

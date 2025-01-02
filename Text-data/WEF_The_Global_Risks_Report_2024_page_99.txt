@@ -1,0 +1,62 @@
+Appendix B
+Global Risk Perception Survey 2023-2024
+
+
+The Global Risks Perception Survey (GRPS) is the           “Ineffectiveness of multilateral institutions and
+World Economic Forum’s source of original risks            international cooperation”, as well as “Failure of
+data, harnessing the expertise of the Forum’s              climate-change adaptation” and “Failure to mitigate
+extensive network of academic, business,                   climate change”. These updates were made to
+government, civil society and thought leaders.             ensure the global risks list focused on the core risk
+Survey responses were collected from 4 September           itself, rather than a related exposure or vulnerability
+to 9 October 2023 from the World Economic                  to that risk through in/action.
+Forum’s multistakeholder communities.
+The names and definitions of the remaining
+risks have been revised and, where applicable,
+Updates to the GRPS 2023-2024                              merged, modified and/or expanded to reflect
+new ways in which the risks may materialize and
+the potential adverse outcomes they may cause.
+The list of 34 global risks included in the survey was     However, to ensure comparability over time, the
+updated in 2023 as follows.                                fundamental concept of each risk has remained
+broadly consistent with that of previous versions of
+Seven new risks were added in response to                  the survey, although names and definitions were
+observed trends across all five categories                 modified.
+(economic, environmental, geopolitical, societal and
+technological):
+Methodology
+1. Censorship and surveillance
+
+2. Critical change to Earth systems (climate tipping       The GRPS 2023–2024 was further refined this year
+points)                                                 to gather more granular perceptions of risk and to
+incorporate new approaches to risk management
+3. Concentration of strategic resources (minerals,         and analysis. To that end, the GRPS 2023–2024
+materials)                                              was comprised of seven sections:
+
+4. Erosion of human rights and/or civic freedoms           –   Current risk landscape asked respondents to
+select up to five risks among 20 pre-selected
+5. Inequality or lack of economic opportunity                  risks that they believe are the most likely to
+present a material crisis on a global scale in
+6. Intrastate violence (civil strikes, riots, coups)           2024. The final rank is based on the share
+of respondents who selected the particular
+7. Talent and/or labour shortages                              risk. The 20 options included: Accidental
+or intentional nuclear event; Accidental or
+In addition:                                                   intentional release of biological agents; AI-
+generated misinformation and disinformation;
+“Misinformation and disinformation” was                        Attacks on critical infrastructure; Censorship
+recategorized from a societal to a technological               and erosion of free speech; Cost of living crisis;
+risk, while “Disruptions to critical infrastructure” was       Cyberattacks; Disrupted supply chains for
+recategorized from a technological to an economic              critical goods or resources; Disrupted supply
+risk.                                                          chains for energy; Disrupted supply chains
+for food; Economic downturn; Escalation
+“Adverse outcomes of AI technologies” was                      or outbreak of interstate armed conflict(s);
+split out from “Adverse outcomes from frontier                 Extreme weather events; Housing-bubble
+technologies (quantum, biotech, geoengineering)”,              burst; Institutional collapse within the financial
+while “Natural disasters and extreme weather                   sector; Public-debt distress; Skills or labour
+events” was delineated into two separate categories            shortages; Societal and/or political polarization;
+(“Extreme weather events” and “Non-weather-                    Tech bubble burst; and Violent civil strikes and
+related natural disasters”).                                   riots. Respondents were also able to write in
+additional risks to Other, a free-text field. Results
+Global risk categories relating to a failure in                are illustrated in Figure 1.2.
+governance were removed. This includes
+
+
+Global Risks Report 2024    99

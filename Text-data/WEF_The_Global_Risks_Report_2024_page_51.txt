@@ -1,0 +1,78 @@
+FIGURE 2.12               Technological power
+Risk interconnections: Adverse consequences of AI technologies and Technological power concentration
+
+
+
+
+Censorship and surveillance
+
+Erosion of human rights                                       Misinformation and disinformation
+
+Adverse outcomes of
+frontier technologies
+
+Technological power
+concentration
+
+Cyber insecurity
+
+Adverse outcomes
+of AI technologies
+Societal
+polarization
+
+
+
+
+Reference
+
+
+
+
+Lack of economic opportunity
+
+Nodes              Edges
+Risk influence     Relative influence
+High             High
+Medium           Medium
+Low              Low                     Risk categories      Economic          Environmental         Geopolitical       Societal    Technological
+
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Entrenched market concentration                                    of AI foundation models,56 including in finance
+and the public sector, or overreliance on a single
+cloud provider, could give rise to systemic cyber
+Private sector-led development of a powerful dual-                 vulnerabilities, paralyzing critical infrastructure.
+use (both civilian and military) technology makes
+regulatory guardrails even more essential. However,                Given the strategic significance of AI technologies,
+commercial incentives and national security-driven                 national security objectives will likely remain the
+“tech wars” may outstrip regulatory efforts to curb                primary objective of innovation and industrial
+adverse societal and security outcomes.                            policy in several economies in response to market
+concentration, shaping upstream market dynamics
+GRPS respondents highlight Cyber insecurity                        (Figure 2.14). States will aim for securing their
+and Technological power concentration as                           supply chains, onshoring and friend-shoring
+the only risk drivers of Adverse outcomes of AI                    where possible. For example, China is pursuing
+technologies (Figure 2.12). The production of AI                   a largely independent supply chain, given export
+technologies is highly concentrated, in a singular,                controls that block access to the most advanced
+globally integrated supply chain that favors a few                 semiconductor chips.57 Some states may seek to
+companies and countries (Figure 2.13).55 This                      capture lucrative economic gains associated with
+creates significant supply-chain risks that may                    these technologies, while others will aim to address
+unfold over the coming decade. For example,                        concentration, potentially at the price of innovation.
+export controls over early stages of the supply                    Building on a history of tackling anti-competitive
+chain (including minerals), could raise overall                    practices in the tech sector,58 the EU plans to
+costs and lead to persistent inflationary pressures.               deploy new mechanisms to disrupt the dominance
+Restricted access to more complex inputs (such as                  of digital “gatekeepers” and is also reportedly
+semiconductors) could radically alter the trajectory               considering an investigation into anti-competitive
+of advanced technological deployment within a                      practices in graphics processing unit (GPU) chips.59
+country. The extensive deployment of a small set
+
+
+Global Risks Report 2024   51

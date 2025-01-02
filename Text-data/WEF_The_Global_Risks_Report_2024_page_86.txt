@@ -1,0 +1,80 @@
+3.1 Localized strategies
+Localized strategies that address global risks                          example, can eliminate diseases such as polio.
+at a local level require little or no cross-border
+coordination. They are concerned mainly with                            There are several global risk governance
+increasing a community's preparedness to bear                           approaches highlighted within the GRPS that would
+the effects of inevitable global risks, but do not                      fall under local measures: Public awareness and
+significantly mitigate their impact beyond national                     education, Financial instruments and National
+borders.                                                                and local regulations. Public awareness and
+education initiatives can be effective in reducing the
+With looming urgency to adapt to avoid the worst                        impact of AI-enabled misinformation on local media
+impacts of a changing climate, local measures                           environments. While it is difficult for single countries
+present a relatively agile response to risk,                            to control the diffusion of AI-generated content,
+unencumbered by lengthy processes that are                              it is in their power to include AI-literacy in public
+common to global agreements. Measures range                             education systems and to prioritize the issues
+from instigating more resilient building codes                          of understanding AI’s capabilities and identifying
+to making investments in wildfire management,                           trustworthy sources of information. Financial
+flood defenses and heatwave mitigation.                                 instruments – including insurance, catastrophe
+Infrastructure investment can also enhance a                            bonds or public-risk pools – can alleviate the effects
+country’s preparedness to tackle pandemics.                             of natural disasters and geoeconomic shocks, while
+When COVID-19 hit, it was the capacity of national                      social safety nets and pensions represent important
+health systems – i.e., availability of hospital beds,                   tools in managing longer-term risks associated with
+intensive care units and medical personnel – that                       demographic trends and societal polarization.
+largely dictated its local impact. While localized
+strategies are generally associated with boosting                       National and local regulations are identified
+preparedness, there are some cases where they                           by the majority of GRPS respondents as key for
+prevent global risks from materializing altogether.                     driving action on a number of economic risks
+Local compliance with vaccine guidance, for                             (Figure 3.1). Appropriate fiscal and monetary
+
+
+FIGURE 3.1                   Top global risks addressed by National and local regulations
+"Which approach(es) do you expect to have the most potential for driving action on risk reduction and preparedness over the next 10 years?"
+
+
+
+National and local regulations (e.g. environmental, operational, financial regulations and incentives)
+
+
+Censorship and surveillance                                                                                     64%
+
+Illicit economic activity                                                                            61%
+
+Biodiversity loss and
+61%
+ecosystem collapse
+
+Inflation                                                                         60%
+
+Insufficient public                                                                        59%
+infrastructure and services
+
+Pollution                                                                       57%
+
+Asset bubble bursts                                                                        56%
+
+Adverse outcomes of AI                                                                      54%
+technologies
+
+Adverse outcomes of frontier technologies                                                                    53%
+
+Disruptions to critical infrastructure                                                                53%
+
+
+0                             25                              50                                75                             100
+
+Share of respondents (%)
+
+
+Risk categories       Economic           Environmental         Geopolitical         Societal     Technological
+
+
+
+Source                                                               Note
+World Economic Forum Global Risks                                    Respondents could select up to three responses from the following nine options: Financial instruments,
+Perception Survey 2023-2024.                                         National and local regulations, Minilateral treaties and agreements, Global treaties and agreements,
+Development assistance, corporate strategies, Research & development, Public awareness and
+education, Multi-stakeholder engagement.
+
+
+
+Global Risks Report 2024        86

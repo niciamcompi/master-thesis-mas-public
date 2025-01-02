@@ -1,0 +1,79 @@
+BOX 2.2        The next global shock?
+
+Collapse of the AMOC
+
+Research suggests that the tipping point of                       years, and may be closer than anticipated to a
+the Atlantic Meridional Overturning Circulation                   critical transition.18 A collapse of this system would
+(AMOC) is “possible” at 1.4°C, but only “likely”                  wholly reorganize ocean circulation, resulting in
+at 4.0°C.16 However, a profound shift at much                     global and regional cooling, and a redistribution
+lower temperatures cannot be ruled out.17 While                   of heat, rainfall and sea ice. Sea levels and
+timescales and temperature thresholds are heavily                 agricultural, marine and terrestrial systems
+debated among the scientific community, there is                  would be impacted, and global food security
+some evidence to suggest that the circulation of                  compromised.19
+this current is at its weakest point in over 1,000
+
+
+
+occurred: tipping points in our planet’s history have               shortages (Figure 2.6). Alongside environmental
+led to alternative stable states to which life has                  impacts, several GRPS respondents also highlight
+adapted over time.20 Rather, the risk is posed to                   possible socioeconomic implications, including
+socioeconomic structures: is the alternate state one                Involuntary migration, Chronic health conditions,
+to which we as human societies can adapt?                           Infectious diseases and Economic downturn.
+Indeed, as explored in last year’s Global Risks
+Climate tipping points could result in a socio-                     Report (Chapter 2.2: Natural ecosystems), this
+environmental crisis, intensifying current risks.                   nexus of socioenvironmental risks have the potential
+GRPS respondents foresee a highly related cluster                   to accelerate climate change, through the release of
+of environmental risks, with bilateral connections to               emissions, and amplify related impacts, threatening
+Critical change to Earth systems. This includes                     climate-vulnerable populations.
+Biodiversity loss and ecosystem collapse,
+Extreme weather events and Pollution, with                          The collective ability to adapt to these impacts may
+strong potential to lead to Natural resource                        be overwhelmed by several factors.
+
+
+FIGURE 2.6             Climate tipping points
+Risk interconnections: Critical change to Earth systems
+
+
+
+
+Natural resource shortages
+
+Critical change to
+Earth systems                                              Involuntary migration
+
+Biodiversity loss and
+ecosystem collapse
+
+Pollution                  Extreme
+weather events
+
+
+
+Infectious diseases                 Chronic health conditions
+
+
+
+
+Reference
+
+
+
+
+Economic downturn
+
+Nodes               Edges
+Risk influence      Relative influence
+High              High
+Medium            Medium
+Low               Low                       Risk categories       Economic        Environmental      Geopolitical       Societal   Technological
+
+
+
+
+Source
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+Global Risks Report 2024   44

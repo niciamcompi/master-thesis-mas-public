@@ -1,0 +1,79 @@
+BOX 2.11            The next global shock?
+
+State criminal
+
+In a more extreme scenario, the state itself may                     example, North Korea stole $200 million in
+become the criminal. Cybercrime could create                         cryptocurrencies over an eight-month period
+lucrative illicit funding streams that are difficult                 last year, allegedly to fund their nuclear weapons
+to attribute to any particular state and that can                    programme.130 Autocratic governments, fragile
+be used for government services, illegal political                   regimes and “ungoverned states” are more
+activities (such as assassinations or disinformation                 susceptible to such capture.
+campaigns) or even political campaigns. For
+
+
+
+Acting today                                                          With constraints to international cooperation,
+there may be a shift towards unilateral, bilateral
+and regional agreements on crime, although
+To effectively prevent the spread of illicit activity                 these may prove less effective at addressing
+across both geographic and economic markets,                          transnational criminal networks that transcend
+three key areas could be tackled: the capability to                   political alliances and country borders. GRPS
+launder illicit profits; communications that enable                   respondents recognize the continued need for
+extensive criminal networks; and corruption.131 For                   Global treaties and agreements to boost local
+example, while the counter-risk of surveillance needs                 efforts. While it was considered comparatively
+to be handled carefully, the dismantling of encrypted                 less important in the context of Cyber insecurity,
+communications could be a radical tool to disrupt                     the development of a UN treaty on cybercrime
+transnational crime networks. The takedown of                         is seen by some to be an encouraging step,
+EncroChat, for instance, led to 6,558 arrests and                     notwithstanding that it is accompanied by deep
+close to EUR900 million in criminal funds seized or                   concerns around related government repression
+frozen.132 All three pillars can be tackled at multiple               of human rights.133 If adopted, it would be the first
+layers of governance; however, GRPS respondents                       framework for international cooperation on a cyber
+feel that National and local regulations have the                     issue, addressing the prevention, investigation
+most potential for driving action on risk reduction                   and prosecution of cybercrime.134 Alongside these
+and preparedness with respect to Illicit economic                     efforts, a focus on socioeconomic drivers will also
+activity (Figure 2.30).                                               be essential to reduce entry pathways into, and
+demand for, criminal activities.
+
+FIGURE 2.30                   Risk governance: Crime wave
+“Which approach(es) do you expect to have the most potential for driving action on risk reduction and preparedness over the next 10
+years? Select up to three for each risk.”
+
+
+
+Approach
+a. Financial instruments                                                a                                                                      a
+
+b. National and local regulations                      i                              b                                       i                                 b
+c. Minilateral treaties and
+agreements                                                                                                                                            61%
+48%
+42%
+d. Global treaties and                                                                                                                  35% 28%
+15%
+agreements                                  h                                               c                     h                                                  c
+48%                                                                        38%                    23%
+e. Development assistance                                                    12%
+f. Corporate strategies                                                                                                                 17%
+9%      31%
+20%    40%
+g. Research & development                              55%                                                                                  25%
+33%
+h. Public awareness and                            g                                       d                             g                                          d
+education
+i. Multi-stakeholder engagement
+
+f                 e                                                       f                e
+
+
+Share of respondents                               Cyber insecurity                                                     Illicit economic activity
+
+
+
+Source                                                        Risk categories             Economic     Environmental         Geopolitical            Societal       Technological
+World Economic Forum Global Risks
+Perception Survey 2023-2024.
+
+
+
+
+Global Risks Report 2024        75

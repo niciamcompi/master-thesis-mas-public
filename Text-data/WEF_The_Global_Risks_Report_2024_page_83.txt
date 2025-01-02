@@ -1,0 +1,66 @@
+Security, 24 October 2023, https://www.cnas.org/publications/reports/preventing-ai-chip-smuggling-to-china.
+109.   Bandura, Romina and Austin Hardman, Environmental, Social, and Governance Best Practices Applied to Mining
+Operations, Center for Strategic and International Studies, 16 November 2023, https://www.csis.org/analysis/
+environmental-social-and-governance-best-practices-applied-mining-operations.
+110.   Walk Free, Global Slavery Index 2023, June 2023, https://cdn.walkfree.org/content/uploads/2023/05/17114737/Global-
+Slavery-Index-2023.pdf.
+111.   Urbina, Ian, “The Crimes Behind The Seafood You Eat”, The New Yorker, 9 October 2023, https://www.newyorker.com/
+magazine/2023/10/16/the-crimes-behind-the-seafood-you-eat; INTERPOL, Fisheries Crime, accessed 12 December
+2023, https://www.interpol.int/en/Crimes/Environmental-crime/Fisheries-crime.
+112.   Goodkind, Nicole, “Illegal child labor is on the rise in a tight job market”, CNN, 30 July 2023, https://edition.cnn.
+com/2023/07/30/economy/child-labor-louisiana-texas/index.html; Turner, Mark and Anthea McCarthy-Jones, “Cyber
+slavery starts up in Southeast Asia”, East Asia Forum, 14 June 2023, https://www.eastasiaforum.org/2023/06/14/cyber-
+slavery-starts-up-in-southeast-asia/; UNICEF, Children recruited by armed forces or armed groups, https://www.unicef.
+org/protection/children-recruited-by-armed-forces, accessed 26 October 2023.
+113.   Sugiharti, Lilik, Rudi Purwono, Miguel Angel Esquivias and Hilda Rohmawati, “The Nexus between Crime Rates, Poverty,
+and Income Inequality: A Case Study of Indonesia”, Economies Special Issue: Nexus between Politics and Economics
+in the Emerging Countries – II, vol. 11, no. 2, 13 February 2023, https://www.mdpi.com/2227-7099/11/2/62; Global
+Initiative Against Transnational Organized Crime, How Globalisation Affects Transnational Crime: A CFR discussion with
+Network Member, Phil Williams, 31 May 2012, https://globalinitiative.net/analysis/how-globalisation-affects-transnational-
+crime/; Bastrup-Birk, et al., 2023.
+114.   Economist Intelligence Unit, Democracy Index 2022: Frontline democracy and the battle for Ukraine, 2023, https://www.
+eiu.com/n/campaigns/democracy-index-2022/; Bastrup-Birk, et al., 2023.
+115.   It should be noted that cyber-dependent criminal activity may operate under a different organizational model, compared
+to cyber-enabled or cyber-assisted criminal activity. For an overview, see United Nations Office on Drugs and Crime
+(UNODC), Digest of Cyber Organized Crime, October 2021, https://www.unodc.org/documents/organized-crime/
+tools_and_publications/21-05344_eBook.pdf; Di Nicola, Andrea, “Towards digital organized crime and digital sociology
+of organized crime”, Trends in Organized Crime, 30 May 2022, https://link.springer.com/article/10.1007/s12117-022-
+09457-y.
+116.   There is a positive nexus between crime, income and inequality, which suggests that even countries becoming more
+affluent face a higher crime risk. Notably, however, low-income countries will remain largely excluded as targets, as weak
+economic conditions tend to contain the pervasiveness of criminal activity, even though deeper poverty levels may trigger
+more criminal actions. See: Global Initiative Against Transnational Organized Crime, 2023, and Sugiharti, et al., 2023.
+117.   Doyle, Sean, “Cybercrime and violent crime are converging: here’s how to deal with it”, World Economic Forum, 31
+October 2023, https://www.weforum.org/agenda/2023/10/cybercrime-violent-crime/.
+118.   The interaction of technology with crime can be differentiated into three categories: cyber-assisted crimes are facilitated
+by information communication technologies (ICT); cyber-enabled crimes are traditional crimes that are magnified by ICT;
+and cyber-dependent crimes are those that can only be committed using computers, computer networks or other forms
+of ICT. See: UNODC, 2021, and Di Nicola, 2022.
+119.   UNODC, 2019.
+120.   Economist Intelligence Unit, 2023; Bastrup-Birk, et al., 2023.
+121.   Limaye, Yogita, “Inside the Taliban’s war on drugs – opium poppy crops slashed”, BBC, 6 June 2023, https://www.bbc.
+com/news/world-asia-65787391; Felbab-Brown, Vanda, “How the Taliban Supressed Opium in Afghanistan – and Why
+There’s Little to Celebrate”, Time, 17 July 2023, https://time.com/6294753/taliban-opium-suppression-afghanistan/.
+122.   Debusmann Jr., Bernd, “Can Joe Biden’s plan stop the flow of fentanyl to the US?”, BBC News, 22 November 2023,
+https://www.bbc.com/news/world-us-canada-67489395; Murray, Christine, “How fentanyl changed the game for
+Mexico’s drug cartels”, Financial Times, 25 July 2023, https://www.ft.com/content/5d030731-4625-4521-81e4-
+b492108a87d7?emailId=f3a86169-2892-41dd-a199-92d84f841019&segmentId=22011ee7-896a-8c4c-22a0-
+7603348b7f22; Yousif, Nadine, “How the fentanyl crisis’ fourth wave has hit every corner of the US”, BBC, 17 September
+2023, https://www.bbc.com/news/world-us-canada-66826895.
+123.   Global Initiative Against Transnational Organized Crime, 2023.
+124.   European Union Agency for Law Enforcement Cooperation (Europol), European Financial and Economic Crime Threat
+Assessment 2023: The Other Side of the Coin: An Analysis of Financial and Economic Crime, 2023, https://www.europol.
+europa.eu/cms/sites/default/files/documents/The%20Other%20Side%20of%20the%20Coin%20-%20Analysis%20
+of%20Financial%20and%20Economic%20Crime%20%28EN%29.pdf.
+125.   Transparency International, Corruptions Perception Index 2022, https://www.transparency.org/en/cpi/2022, accessed 6
+November 2023.
+126.   Europol, 2023.
+127.   Kurmanath, K. V., “Beware, your email box can become target of stealth cyber attacks”, The Hindu Businessline, 23
+September 2023, https://www.thehindubusinessline.com/info-tech/beware-your-email-box-can-become-target-of-
+stealth-cyber-attacks/article67334570.ece; Martin, R., “Thinking about the security of AI systems”, National Cyber
+Security Centre, 30 August 2023, https://www.ncsc.gov.uk/blog-post/thinking-about-security-ai-systems.
+
+
+
+
+Global Risks Report 2024      83

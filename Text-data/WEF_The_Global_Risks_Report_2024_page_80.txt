@@ -1,0 +1,68 @@
+10000-chip-powering-the-race-for-ai-.html; Nellis, Stephen and Max A. Cherney, “US curbs AI chip exports from
+Nvidia and AMD to some Middle East countries”, Reuters, 1 September 2023, https://www.reuters.com/technology/
+us-restricts-exports-some-nvidia-chips-middle-east-countries-filing-2023-08-30/; Nellis, Stephen, “U.S. denies blocking
+chip sales to Middle East”, Reuters, 31 August 2023, https://www.reuters.com/technology/us-says-it-has-not-blocked-
+chip-sales-middle-east-2023-08-31/; Kharpal, Arjun, “Canon, known for its cameras, launches ASML challenge with
+machine to make the most advanced chips”, CNBC, 13 October 2023, https://www.cnbc.com/2023/10/13/canon-
+launches-asml-challenge-with-machine-to-make-most-advanced-chips.html; Sun, Leo, “Could Canon Become the
+Next ASML”, The Motley Fool, 18 October 2023, https://www.fool.com/investing/2023/10/18/could-canon-become-
+the-next-asml/#:~:text=That's%20why%20ASML%20controls%20more,to%20perfect%20its%20EUV%20technology;,
+Carrara, S., et. al., Supply chain analysis and material demand forecast in strategic technologies and sectors in the EU
+– a foresight study, European Commission, 2023, https://single-market-economy.ec.europa.eu/system/files/2023-03/
+Raw%20Materials%20Foresight%20Study%202023.pdf; Richter, Felix, “Amazon maintains lead in the cloud market”,
+Statista, 8 August 2023, https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-
+service-providers/; Vipra, Jai and Anton Korinek, “Market Concentration Implications of Foundation Models: The Invisible
+Hand of ChatGPT”, Brookings, September 2023, https://arxiv.org/ftp/arxiv/papers/2311/2311.01550.pdf; Benaich,
+Nathan, State of AI Report 2023, Air Street Capital, 12 October 2023, https://www.stateof.ai/; Tomoshige, Hideki,
+“CHIPS+ and Semiconductor Packaging”, Center for Strategic & International Studies, 7 November 2022, https://www.
+csis.org/blogs/perspectives-innovation/chips-and-semiconductor-packaging.
+56.   A foundation model is a large-scale AI model that has been trained on a large set of data that can be adapted to many
+applications, such as GPT-3.
+57.   Allen, Gregory C., “China’s New Strategy for Waging the Microchip Tech War”, Center for Strategic & International Studies,
+3 May 2023, https://www.csis.org/analysis/chinas-new-strategy-waging-microchip-tech-war.
+58.   Haeck, Pieter, “With Apple’s iPhone 15, the EU wins the charger war”, Politico, 12 September 2023, https://www.politico.
+eu/article/apple-iphone-15-european-union-regulations-charger-usbc-lightning/#:~:text=proprietary%20Lightning%20
+solution.-,It's%20an%20adaptation%20that%20Apple%20was%20pressured%20into%20after%20European,saying%20
+it%20would%20stifle%20innovation.
+59.   Stolton, Samuel and Benoit Berthelot, “EU Begins Early-Stage Probe Into AI Chip Market Abuses that Nvidia Dominates”,
+Bloomberg, 29 September 2023, https://www.bloomberg.com/news/articles/2023-09-29/eu-begins-early-stage-probe-
+into-ai-chip-market-abuses-that-nvidia-dominates#xj4y7vzkg; Hancock, Edith, “5 things to know as the Digital Markets
+Act ramps up”, Politico, 5 September 2023, https://www.politico.eu/article/eu-5-things-to-know-digital-market-act-
+gatekeepers-big-tech/; Martens, Bertin, “Pro- and Anti-Competitive Provisions in the Proposed European Union Data
+Act”, Brugel, working paper no. 1, 9 January 2023, https://www.bruegel.org/sites/default/files/2023-01/WP%2001.pdf.
+60.   Whyman, Bill, “AI Regulation is Coming – What is the Likely Outcome?”, Center for Strategic & International Studies, 10
+October 2023, https://www.csis.org/blogs/strategic-technologies-blog/ai-regulation-coming-what-likely-outcome.
+61.   Vipra and Korinek, 2023; Bertuzzi, Luca, “Are EU regulators ready for concentration in the AI market?”, Euractiv, 3
+November 2023, https://www.euractiv.com/section/artificial-intelligence/news/are-eu-regulators-ready-for-concentration-
+in-the-ai-market/.
+62.   Malgieri, Gianclaudio and Frank Pasquale, “Licensing high-risk artificial intelligence: Toward ex ante justification for a
+disruptive technology”, Computer Law & Security Review, vol. 52, April 2024, https://www.sciencedirect.com/science/
+article/pii/S0267364923001097, accessed 9 November 2023; Curi, Maria, “The battle brewing over AI licensing”, Axios
+Pro, 10 July 2023, https://www.axios.com/pro/tech-policy/2023/07/10/battle-brewing-over-ai-licensing.
+63.   Hogarth, Ian, “We must slow down the race to God-like AI”, Financial Times, 13 April 2023, https://www.ft.com/
+content/03895dc4-a3b7-481e-95cc-336a524f2ac2?desktop=true&segmentId=7c8f09b9-9b61-4fbb-9430-
+9208a9e233c8#myft:notification:daily-email:content; Criddle, Cristina and Madhumita Murgia, “Big tech companies cut
+AI ethics staff, raising safety concerns”, Financial Times, 29 March 2023, https://www.ft.com/content/26372287-6fb3-
+457b-9e9c-f722027f36b3?desktop=true&segmentId=7c8f09b9-9b61-4fbb-9430-9208a9e233c8#myft:notification:daily-
+email:content.
+64.   H., John, “Migrating to post-quantum cryptography”, National Cyber Security Centre, 3 November 2023, https://www.
+ncsc.gov.uk/blog-post/migrating-to-post-quantum-cryptography-pqc; The White House, National Security Memorandum
+on Promoting United States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic
+Systems [Press release], 4 May 2022, https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/
+national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-
+vulnerable-cryptographic-systems/; Vipra, Jai and Sarah Myers West, “Computational Power and AI”, AI Now Institute,
+27 September 2023, https://ainowinstitute.org/publication/policy/compute-and-ai#h-what-is-compute-and-why-does-it-
+matter.
+65.   SandboxAQ, “Safeguarding Healthcare: The Urgent Need for Post-Quantum Cryptography and Zero Trust Architectures”,
+18 October 2023, https://www.sandboxaq.com/post/safeguarding-healthcare-the-urgent-need-for-post-quantum-
+cryptography-and-zero-trust-architectures.
+66.   It has been argued that it will be very difficult to keep this level of progress in quantum computing secret. See: Parker,
+Edward, “When a Quantum Computer Is Able to Break Our Encryption, It Won’t Be A Secret”, RAND Corporation, 13
+September 2023, https://www.rand.org/pubs/commentary/2023/09/when-a-quantum-computer-is-able-to-break-our-
+encryption.html; Grumbling, Emily and Mark Horowitz (eds.), Quantum Computing: Progress and Prospects, Washington,
+DC: National Academies Press, 2019.
+67.   Wang, Yuehan Grace, “Effective AI governance requires global awareness of local problems”, LSE, 28 September
+
+
+
+Global Risks Report 2024         80

@@ -1,0 +1,88 @@
+TA B L E A . 1     Definitions of global risks
+
+
+
+Disruptions to critical     Overload or shutdown of physical and digital infrastructure (including satellites) or services underpinning critical systems, including the
+infrastructure              internet, telecommunications, public utilities, financial system or energy. Stemming from, but not limited to: cyberattacks; intentional or
+unintentional physical damage; extreme weather events; and natural disasters.
+
+
+
+Economic downturn           Near-zero or slow global growth lasting for several years or a global contraction (recession or depression).
+(recession, stagnation)
+
+
+Illicit economic activity   Global proliferation of organized crime or the illicit activities of businesses that undermine economic advancement and growth. Includes,
+but is not limited to: illicit financial flows (e.g. tax evasion, sanctions evasion, money laundering) and illicit trade and trafficking (e.g.
+counterfeiting, human trafficking, wildlife trade, weapons).
+
+
+
+Inflation                   Sustained increases in the price of goods and services. Includes the potential for broad sections of the population being unable to maintain
+current lifestyle with declining purchasing power.
+
+
+
+Talent and/or labour        Global, geographical or industry mismatches between labour and skills supply and demand.
+shortages
+
+
+ENVIRONMENTAL
+
+
+Biodiversity loss and       Severe consequences for the environment, humankind and economic activity due to destruction of natural capital stemming from a result
+ecosystem collapse          of species extinction or reduction, spanning both terrestrial and marine ecosystems.
+
+
+
+Critical change to          Long-term, potentially irreversible and self-perpetuating changes to critical planetary systems, as a result of breaching a critical threshold
+Earth systems               or ‘tipping point’, at a regional or global level, that have abrupt and severe impacts on planet health or human welfare. Includes, but is not
+(climate tipping points)
+limited to: sea level rise from collapsing ice sheets; carbon release from thawing permafrost; and disruption of ocean or atmospheric
+currents.
+
+
+
+Extreme weather             Loss of human life, damage to ecosystems, destruction of property and/or financial loss due to extreme weather events. Inclusive of
+events                      land-based (e.g. wildfires), water-based (e.g. floods), and atmospheric and temperature-related (e.g. heat-waves) events, including those
+exacerbated by climate change.
+
+
+
+Natural resource            Supply shortages of food or water for human, industry or ecosystem use. Manifesting as food and water insecurity at a local, regional or
+shortages (food,            global level as a result of human overexploitation and mismanagement of critical natural resources, climate change (including drought,
+water)
+desertification), and/or a lack of suitable infrastructure.
+
+
+
+Non-weather-related         Loss of human life, damage to ecosystems, destruction of property and/or financial loss due to non-weather-related natural disasters.
+natural disasters           Inclusive of land-based (e.g. earthquakes, volcanos), water-based (e.g. tsunamis), and extra-terrestrial based (e.g. asteroid strikes and
+geomagnetic storms).
+
+
+
+Pollution                   Introduction of harmful materials into the air, water and soil stemming from human activity, resulting in impacts to and loss of human life,
+(air, soil, water)          financial loss and/or damage to ecosystems. Inclusive of household and industrial activities and accidents, oil spills and radioactive
+contamination.
+
+
+GEOPOLITICAL
+
+
+Biological, chemical        Intentional or accidental release of biological, chemical, nuclear or radiological hazards, resulting in loss of life, destruction and/or
+or nuclear hazards          international crises. Includes accidents at or sabotage of biolaboratories, chemical plants and nuclear power plants, as well as the
+intentional or accidental release of biological, chemical and nuclear weapons.
+
+
+
+Geoeconomic                 Deployment of economic levers by global or regional powers to reshape economic interactions between nations, restricting goods,
+confrontation               knowledge, services or technology with the intent of building self-sufficiency, constraining geopolitical rivals and/or consolidating spheres
+(sanctions, tariffs,
+of influence. Includes, but is not limited to: currency measures; investment controls; sanctions; state aid and subsidies; and trade controls.
+investment screening)
+
+
+
+
+Global Risks Report 2024        96
