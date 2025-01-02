@@ -1,0 +1,94 @@
+FIGURE D                         Currently manifesting risks
+“Please rank the top 5 currently manifesting risks in order of how severe you believe their impact will be on a global level in 2023”
+
+
+
+
+1                                    2                                3                                    4                                  5
+
+Energy supply crisis                   Cost-of-living crisis              Rising inflation                 Food supply crisis                    Cyberattacks on
+critical infrastructure
+
+
+Source                                                    Risk categories          Economic             Environmental          Geopolitical         Societal          Technological
+World Economic Forum Global Risks
+Perception Survey 2022-2023.
+
+
+
+FIGURE E                         Global risks ranked by severity
+"Please estimate the likely impact (severity) of the following risks over a 2-year and 10-year period"
+
+
+
+Short term                                                                                              Long term
+1    Cost-of-living crisis                                                                              1    Failure to mitigate climate change
+
+2    Natural disasters and extreme weather events                                                       2    Failure of climate-change adaption
+
+3    Geoeconomic confrontation                                                                          3    Natural disasters and extreme weather events
+
+4    Failure to mitigate climate change                                                                 4    Biodiversity loss and ecosystem collapse
+
+5    Erosion of social cohesion and societal polarization                                               5    Large-scale involuntary migration
+
+6    Large-scale environmental damage incidents                                                         6    Natural resource crises
+
+7    Failure of climate-change adaption                                                                 7    Erosion of social cohesion and societal polarization
+
+8    Widespread cybercrime and cyber insecurity                                                         8    Widespread cybercrime and cyber insecurity
+
+9    Natural resource crises                                                                            9    Geoeconomic confrontation
+
+10   Large-scale involuntary migration                                                                  10   Large-scale environmental damage incidents
+
+11   Debt crises                                                                                        11   Misinformation and disinformation
+
+12   Failure to stabilize price trajectories                                                            12   Ineffectiveness of multilateral institutions and international cooperation
+
+13   Prolonged economic downturn                                                                        13   Interstate conflict
+
+14   Interstate conflict                                                                                14   Debt crises
+
+15   Ineffectiveness of multilateral institutions and international cooperation                         15   Cost-of-living crisis
+
+16   Misinformation and disinformation                                                                  16   Breakdown of critical information infrastructure
+
+17   Collapse of a systemically important industry or supply chain                                      17   Digital power concentration
+
+18   Biodiversity loss and ecosystem collapse                                                           18   Adverse outcomes of frontier technologies
+
+19   Employment crises                                                                                  19   Failure to stabilize price trajectories
+
+20   Infectious diseases                                                                                20   Chronic diseases and health conditions
+
+21   Use of weapons of mass destruction                                                                 21   Prolonged economic downturn
+
+22   Asset bubble bursts                                                                                22   State collapse or severe instability
+
+23   Severe mental health deterioration                                                                 23   Employment crises
+
+24   Breakdown of critical information infrastructure                                                   24   Collapse of a systemically important industry or supply chain
+
+25   State collapse or severe instability                                                               25   Severe mental health deterioration
+
+26   Chronic diseases and health conditions                                                             26   Collapse or lack of public infrastructure and services
+
+27   Collapse or lack of public infrastructure and services                                             27   Infectious diseases
+
+28   Proliferation of illicit economic activity                                                         28   Use of weapons of mass destruction
+
+29   Digital power concentration                                                                        29   Proliferation of illicit economic activity
+
+30   Terrorist attacks                                                                                  30   Digital inequality and lack of access to digital services
+
+31   Digital inequality and lack of access to digital services                                          31   Asset bubble bursts
+
+32   Adverse outcomes of frontier technologies                                                          32   Terrorist attacks
+
+
+
+Source                                                                    Risk categories         Economic              Environmental          Geopolitical          Societal         Technological
+World Economic Forum Global Risks
+Perception Survey 2022-2023.
+Global Risks Report 2023 11

@@ -1,0 +1,67 @@
+expressions, gait, vital signs, brainwave patterns and      companies, particularly as it relates to terrorist
+vocal inflections.92                                        investigations, despite broader implications to the
+ongoing security of civilians’ data.104
+Individuals have usually consented to the collection of
+data for the associated beneficial use of the service       Potential for misuse will be especially problematic
+or product, given the wave of new and stronger data         for users residing in countries with poor digital
+protection policies in many markets.93 However, as          rights records, inadequate regulatory protection
+the collection, commercialization and sharing of data       frameworks, or authoritarian tendencies. Forms
+grows, consent in one area may reveal far more than         of digital repression to quell politically motivated
+intended when aggregated with other data points.            uprisings, such as the use of spyware to track
+This is known as the “mosaic effect”, which gives rise      activist activities, are already driving significant
+to two key privacy risks: re-identification and attribute   human rights violations in the Middle East.105
+disclosure.94 Research suggests that 99.98% of US           Recent reports have also highlighted potential
+residents could be correctly re-identified in any data      digital rights violations in Africa stemming from
+set – including those that are heavily sampled and          the rapid expansion of biometric programmes
+anonymized – using 15 demographic attributes.95             that include voter registration, CCTV with facial
+Researchers have used this theory to uncover the            recognition, mandatory SIM card registration and
+political preferences of streaming users,96 match           refugee registration.106 As more emerging markets
+DNA from publicly-available research databases to           look towards progressing their smart city plans, the
+randomly selected individuals,97 and link medical           collection of sensitive citizen data could expose
+billing records from an open data set to individual         societies to additional peril if poorly governed and
+patients.98                                                 protected.107
+
+In consequential terms, this means that an                  Security concerns posed by sensitive data and its
+international organization may share anonymized data        potential abuse are well-recognized by governments.
+with partner governments to support effective and           Countries have adopted more widespread data
+efficient crisis responses. However, when combined          localization policies, tightened regulation of
+with other data sets, it could allow the identification     research collaborations, and banned some foreign-
+and tracking of vulnerable refugees and displaced           owned companies from certain markets, including
+persons – or compromise the location of camps               telecommunications, surveillance equipment and
+and the supply chains of critical goods.99 Data on          mobile applications, to limit the collection and
+race, ethnicity, sexual orientation and immigration         possession of sensitive data by non-allied states.108
+status can be legally obtained in some markets              Yet, less attention is being paid to the potential for
+and re-identified to varying degrees, enabling civil        overreach and abuse of this data in the name of
+harassment and abuse. In one such example, the              national security. The slow and legal erosion of the
+sexual orientation of a priest was obtained through         digital sovereignty of individuals can have unintended
+the purchase of smartphone location data and                and far-reaching consequences for social control and
+announced by a religious publication.100                    the erosion of democracies – including, for example,
+by compromising freedom of the press.
+
+Data-enabled anocracies
+
+The right to privacy is not absolute; it is traded-off
+against government surveillance and preventative
+policing for the purposes of national security.
+However, the surveillance potential of data has
+meant that access to sensitive information can
+increasingly be obtained without due process or
+transparency.101 In some cases, data protection
+laws that require consent effectively waive the legal
+protections against electronic surveillance of private
+communications and location data.102
+
+In the United States of America, data is aggregated
+and sold on the open market with limited regulatory
+restrictions, meaning enforcement agencies can
+purchase GPS location data without warrants or
+public disclosure. For example, theoretically, police
+could use automated licence plate data (obtained
+by both private- and public-sector organizations) to
+prosecute out-of-state abortions – leading Google
+to announce that it would auto-delete location
+data for users that visit related centres.103 There is
+also increasing political and regulatory pressure to
+weaken encryption mechanisms adopted by private
+
+Global Risks Report 2023 44

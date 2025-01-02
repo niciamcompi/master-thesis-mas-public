@@ -1,0 +1,86 @@
+Endnotes
+84.    Robbins, Sam and Chia-Shuo Tang, “How Asia’s Digital Governance Beacon Balances Data Privacy and
+the ‘Public Good’”, The Diplomat, 20 October 2022.
+
+85.    The right to privacy is enshrined by Article 12 of the Universal Declaration on Human Rights.
+
+86.    Sætra, Henrik Skaug, “Privacy as an aggregate public good”, Technology in Society, vol. 63, November
+2020, https://www.sciencedirect.com/science/article/pii/S0160791X20310381.
+
+87.    Organisation for Economic Co-operation and Development (OECD), Enhancing access to and sharing of
+data: reconciling risks and benefits for data re-use across societies, 2020, https://www.oecd-ilibrary.org/
+sites/15c62f9c-en/index.html?itemId=/content/component/15c62f9c-en.
+
+88.    Goujard, Clothilde, “Europe edges closer to a ban on facial recognition”, Politico, 20 September 2022,
+https://www.politico.eu/article/europe-edges-closer-to-a-ban-on-facial-recognition/; Heilweil, Rebecca, “Big
+tech companies back away from selling facial recognition to police. That’s progress.”, Vox, 11 June 2020,
+https://www.vox.com/recode/2020/6/10/21287194/amazon-microsoft-ibm-facial-recognition-moratorium-
+police.
+
+89.    Information Commissioner’s Office, Employment practices: monitoring at work draft guidance, 12 October
+2022.
+
+90.    Sætra, Henrik Skaug, “Privacy as an aggregate public good”, Technology in Society, vol. 63, November
+2020, https://www.sciencedirect.com/science/article/pii/S0160791X20310381.
+
+91.    Cohen, Julie E., “What privacy is for”, Harvard Law Review, 20 May 2013; Taylor, L., L. Floridi and B. Van
+der Sloot, Group Privacy: New Challenges of Data Technologies, Springer, 2016; Taaffe, Ouida, “Will smart
+cities tilt the balance between data capture and personal privacy?”, Raconteur, 5 September 2022, https://
+www.raconteur.net/technology/will-smart-cities-tilt-the-balance-between-data-capture-and-personal-
+privacy/.
+
+92.    European Data Protection Supervisor, Metaverse, https://edps.europa.eu/press-publications/publications/
+techsonar/metaverse_en, accessed 29 November 2022.
+
+93.    Rahnama, Hossein and Alex Pentland, “The New Rules of Data Privacy”, Harvard Business Review, 25
+February 2022.
+
+94.    Office of the Privacy Commissioner of Canada, Privacy Tech-Know blog: When what is old is new
+again – The reality of synthetic data, 12 October 2022, https://www.priv.gc.ca/en/blog/20221012/?
+id=7777-6-493564; Platzer, Michael, “AI-based re-Identification attacks – and how to protect against them”,
+Mostly AI, 22 April 2022, https://mostly.ai/blog/synthetic-data-protects-from-ai-based-re-identification-
+attacks/.
+
+95.    Rocher, Luc, Julien M. Hendrickx and Yves-Alexandre de Montjoye, “Estimating the success of re-
+identification in incomplete datasets using generative models”, Nature Communications, 2019, https://
+www.nature.com/articles/s41467-019-10933-3.
+
+96.    Narayanan, Arvind and Vitaly Shmatikov, “Robust de-anonymization of large sparse datasets”, IEEE, 28
+May 2008, https://ieeexplore.ieee.org/document/4531148.
+
+97.    Kolata, Gina, “Poking holes in genetic privacy”, The New York Times, 16 June 2013, https://www.nytimes.
+com/2013/06/18/science/poking-holes-in-the-privacy-of-dna.html.
+
+98.    Culnane, Chris, Benjamin I. P. Rubinstein and Vanessa Teague, “Health Data in an Open World”, Cornell
+University, 15 December 2017, https://arxiv.org/abs/1712.05627.
+
+99.    Capotosto, Jill, “The mosaic effect: the revelation risks of combining humanitarian and social protection
+data”, Humanitarian Law and Policy, 9 February 2021, https://blogs.icrc.org/law-and-policy/2021/02/09/
+mosaic-effect-revelation-risks/.
+
+100.   NBC News, Priest outed via Grindr app highlights rampant data tracking, 22 July 2021, https://www.
+nbcnews.com/tech/security/priest-outed-grindr-app-highlights-rampant-data-tracking-rcna1493.
+
+101.   UNESCO, The right to privacy in a digital age: UNESCO’s inputs for the preparation of the thematic report
+of the Office of the United Nations High Commissioner for Human Rights, 2022, https://www.ohchr.org/
+sites/default/files/documents/issues/digitalage/reportprivindigage2022/submissions/2022-09-06/CFI-RTP-
+UNESCO.pdf, accessed 3 November 2022.
+
+102.   McKenna, Anne Toomey, “Customer Data Can Be Used As Evidence in Government Surveillance”, Marsh
+McLennan, 13 November 2022, https://www.brinknews.com/customer-data-can-be-used-as-evidence-in-
+government-surveillance/.
+
+103.   Senate Finance Subcommittee on Fiscal Responsibility and Economic Growth, Testimony of Samm Sacks:
+Hearing on Promoting Competition, Growth and Privacy Protection in the Technology Sector, 7 December
+2021; Sherman, Justin, “The Open Data Market and Risks to National Security”, Lawfare, 3 February
+2022, https://www.lawfareblog.com/open-data-market-and-risks-national-security; Cadell, Cate, “China
+harvests masses of data on western targets, documents show”, The Washington Post, 31 December 2021
+; Benson, Thor, “The Danger of License Plate Readers in Post-Roe America”, WIRED, 7 July 2022; Grant,
+Nico, “Google Says It Will Delete Location Data When Users Visit Abortion Clinics”, The New York Times,1
+July 2022.
+
+104.   Collins, Barry, “Mission Impossible: 7 Countries Tell Facebook to Break Encryption”, Forbes, 11 October
+2020.
+
+
+Global Risks Report 2023 54

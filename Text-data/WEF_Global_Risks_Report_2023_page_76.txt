@@ -1,0 +1,77 @@
+TA B L E A . 1               Definitions of Global Risks
+
+
+Global risks                                            Description
+
+
+
+Adverse outcomes of frontier                            Intended or unintended negative consequences of technological advances on individuals, businesses,
+technologies                                            ecosystems and/or economies. Includes, but is not limited to: AI, brain-computer interfaces, biotechnology,
+geo-engineering, quantum computing and the metaverse.
+
+
+Breakdown of critical information                       Deterioration, overload or shutdown of critical physical and digital infrastructure or services leading to
+infrastructure                                          the breakdown of internet, cellular devices, public utilities or satellites. Stemming from, but not limited to,
+cyberattacks, intentional or unintentional physical damage, or solar storms.
+
+
+Digital inequality and lack of access to                Fractured or unequal access to digital networks and technologies stemming from underinvestment, low digital
+digital services                                        skills, insufficient purchasing power, or government restrictions on technologies.
+
+
+
+
+Digital power concentration                             Concentration of critical digital assets, capabilities or knowledge among a small number of individuals,
+businesses or states that can control access to digital technologies and demand discretionary pricing.
+Stemming from, but not limited to, the failure of anti-trust regulation, inadequate investment in the innovation
+ecosystem, or state control over key technologies.
+
+
+Widespread cybercrime and cyber                         Increasingly sophisticated cyberespionage or cybercrimes. Includes, but is not limited to: loss of privacy, data
+insecurity                                              fraud or theft, and cyber espionage.
+
+
+
+
+Risk categories         Economic        Environmental   Geopolitical       Societal         Technological
+
+
+
+
+Technical notes                                                            modified and/or expanded to reflect new ways in
+which the risks may materialize and the potential
+adverse outcomes they may cause. However, to
+The Global Risks Perception Survey (GRPS) is the                           ensure comparability over time, although names and
+World Economic Forum’s source of original risks                            definitions were modified, the fundamental concept
+data, harnessing the expertise of the Forum’s                              of each risk has remained consistent with that of
+extensive network of academic, business,                                   previous versions of the survey.
+government, civil society and thought leaders.
+Survey responses were collected from 7 September
+to 5 October 2022 from the World Economic                                  Methodology
+Forum’s multistakeholder communities.
+
+The GRPS 2022–2023 was further refined this year
+Updates to the GRPS 2022-2023                                              to gather more granular perceptions of risk and to
+incorporate new approaches to risk management
+and analysis. The GRPS 2022–2023 was comprised
+The list of 32 global risks included in the survey was                     of six sections:
+updated in 2022.
+1.    Outlook for the World asked respondents to
+Two new risks were added in response to observed                                 characterize their outlook for the world over
+economic, geopolitical and environmental trends:                                 the short term (two years) and the long term
+(10 years). Respondents were provided with
+1. “Cost-of-living crisis”                                                       five options: (1) Progressive tipping points
+and persistent crises leading to catastrophic
+2. “Misinformation and disinformation”                                           outcomes, (2) Consistently volatile across
+economies and industries with multiple shocks
+In addition, “Climate action failure” was delineated                             accentuating divergent trajectories, (3) Slightly
+into two separate risks:                                                         volatile with occasional localized surprises,
+(4) Limited volatility with relative stability, and
+1.    “Failure of climate-change adaption”                                       (5) Renewed stability with a revival of global
+resilience. A simple tally for each of the five
+2.    “Failure to mitigate climate change”                                       options was calculated. The result is illustrated
+in Figure 1.10.
+The names and definitions of the remaining risks
+have been revised and, where applicable, merged,                           2.    Currently Manifesting Risks asked
+
+Global Risks Report 2023 76

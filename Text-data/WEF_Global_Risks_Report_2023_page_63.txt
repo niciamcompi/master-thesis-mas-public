@@ -1,0 +1,82 @@
+FIGURE 3.4                       Relevance of critical metals and minerals
+
+
+Indicative supply chains: key producers and consumers
+
+
+Oil and gas                                        Upstream                                                Refining/minstream                                               Consumption
+
+Oil                           US               Saudi Arabia            Russia                 US                   China                     Russia         US                  China                 India
+Natural Gas                   US                    Russia              Iran               Russia                  Qatar                    Australia       US                 Russia                 China
+
+
+
+Clean
+technologies                       Mining                        Processing                Battery material                    Battery cell/pack                     Electric vehicle deployment
+
+Copper                     Chile            Peru             China        Chile       China        Korea       Japan        China       US        Korea    China                 US                    EU
+
+
+Mining                        Processing                    Polysilicon                          Solar panel                    Photovoltaic system installation
+
+Lithium                  Australia          Chile            China        Chile       China        Korea      Germany       China     Korea       Canada   China                 EU                    US
+
+Nickel                   Indonesia                           China      Indonesia     China        Korea      Germany       China     Korea       Canada   China                 EU                    US
+
+
+Mining                        Processing                          Wind turbine & components                                            Wind installation
+
+Cobalt                     DRC                               China                     China          India            US           Spain      Germany     China                 EU                    US
+
+Rare earths               China                              China                     China          India            US           Spain      Germany     China                 EU
+
+
+
+
+Source                                                                              Note
+Leruth, et al. 2022.20                                                              Largest producers and consumers are indicative only.
+
+
+
+
+overall in many advanced economies, the benefits                                               geographic diversification. For example, in the early
+have not been widely shared, with significant                                                  half of the 2020s, the United States was 100%
+divergence in the level of food security between                                               net import-reliant for 14 critical minerals, including
+countries. Even as some global trade in protein has                                            gallium, natural graphite, indium and vanadium.22
+continued, shortages and higher prices have hit                                                At the time, China was the leading producer for
+lower socioeconomic groups, and developing and                                                 16 of the 32 strategic minerals, including the
+emerging countries the hardest, particularly those                                             aforementioned resources, representing 98%, 82%,
+least able to scale food production in the absence                                             58% and 66%, respectively, of the world’s total
+of international support. This includes parts of                                               production.23
+Africa, Central and South America, Small Island
+Developing States (SIDS) and South Asia, where                                                 With a trend towards remilitarization (see Chapter
+many economies have faced nearly decade-long                                                   2.4: Human security), these strategic resources
+triple crises: debt, population growth and climate                                             have become one of the primary fronts of economic
+change. Global poverty, climate-sensitive livelihood                                           warfare over the latter half of the decade. Despite
+crises, malnutrition and diet-related diseases,                                                competing fiscal priorities, more states have sought
+state instability and involuntary migration have all                                           to diversify supply through domestic extraction
+risen, elongating and spreading the instability and                                            where available, although many face environmental
+humanitarian crises described in Chapter 1.2,                                                  constraints outlined in Resource collaboration.
+Cost-of-living crisis.                                                                         Enhanced capacity in processing and refining
+has been targeted in particular by states with
+Critical metals and minerals are a key area of                                                 limited resource reserves (Figure 3.5). Resilience,
+geopolitical confrontation due to their geographic                                             particularly for import-reliant markets, has partially
+concentration. These resources are not only                                                    translated into redundancies, with the building of
+essential to renewable energy capture, storage                                                 stockpiles of key materials exacerbating supply
+and efficiency, but also continue to be leveraged                                              crises. Inbound investment screening – which only
+for a wide range of other industrial applications,                                             advanced economies have been able to afford
+including technological and military end-uses (Figure                                          the opportunity cost – has been expanded to
+3.4).21 Indium is part of touch screens as well as                                             mining and related industries to minimize foreign
+solar panels; lithium compounds are utilized by                                                interference. Other countries have followed the
+the pharmaceutical industry; cobalt has multiple                                               lead of Canada, ordering certain foreign companies
+aerospace applications but is also of increasing                                               to unwind investments in mining due to the
+interest as a catalyst for green hydrogen production;                                          perceived threats to national security.24 With limited
+and vanadium is used as an input for industrial-scale                                          options, outbound investment screening is now
+batteries as well as a steel alloy in nuclear reactors,                                        being contemplated by import-reliant markets
+space vehicles and aircraft carriers. The resulting                                            as a potential lever, although most major powers
+demand-supply gap described in Resource                                                        continue to leverage increasingly state-directed
+collaboration is exacerbated in this future because                                            investment in emerging export markets across Latin
+of geopolitical rivalries, exposing the brittleness of                                         America and Africa as a means of securing access
+global supply chains with limited opportunities for                                            to these resources.
+
+Global Risks Report 2023 63

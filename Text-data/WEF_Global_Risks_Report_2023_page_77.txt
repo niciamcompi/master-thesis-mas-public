@@ -1,0 +1,68 @@
+respondents to rank the top five risks among                into account any mechanism in place to prevent
+14 pre-selected risks in order of how severe                the risk from occurring or prepare to mitigate
+they believe their impact will be on a global               its impact. The respondent was provided 10
+level in 2023. The final rank is the average rank           randomly selected global risks, and was asked
+estimated by the respondents, weighted by                   to rate current effectiveness based on five
+the number of respondents who selected the                  options: (1) Highly ineffective, (2) Ineffective, (3)
+particular risk. Options included: Continued                Indeterminate effectiveness, (4) Effective, and (5)
+waves of COVID-19, Cost-of-living crisis,                   Highly effective. A simple tally of the number of
+Cyberattacks on critical infrastructure,                    times a risk was identified on each level of the
+Debt crisis, Deployment of chemical and                     five-point effectiveness scale was calculated on
+biological weapons on a catastrophic scale,                 this basis. The result is illustrated in Figure 4.1.
+Deployment of nuclear weapons on a
+catastrophic scale, Disruptions in global                   Respondents were then asked to identify
+supply chains for non-food goods, Energy                    up to three stakeholders who can effectively
+supply crisis, Failure to set and meet                      manage the most severe risks identified in
+national net-zero targets, Food supply crisis,              Section 3. Respondents could choose among
+Rising inflation, Structural failures in health             the following eight entities: local government,
+systems, Weakening of human rights, and                     national government, bilateral, multi-country,
+Weaponization of economic policy such as                    regional, international organization, businesses,
+sanctions and trade controls. To ensure legibility,         public-private cooperation. A simple tally of the
+the names of some of the global risks have                  number of times a stakeholder was identified as
+been abbreviated in the figures. The portion of             effective was calculated on this basis. The result
+the full name used in the abbreviation is in bold.          is illustrated in Figure 4.1.
+The result is illustrated in Figure 1.1.
+6.    Future Outlook for the World captured the
+3.   Global Severity 2 Years and 10 Years asked                  respondents’ outlook on global cooperation
+respondents to estimate the likely impact                   over the next 10 years. Respondents were
+(severity) for each of the 32 global risks, on a            asked to select from among three options:
+1-7 scale [1 – Low severity, 7 – High severity],            (1) Broad-base convergence to a multilateral
+over both a two-year and 10-year period.                    rules-based order, (2) Fractures between
+Respondents were asked to evaluate the                      competing economies which consolidate into
+severity, considering the impact on populations,            blocs and new structures for cooperation,
+GDP or environmental resources on a global                  and (3) Wide-scale division of economies into
+scale. They were also allowed to nominate                   competing blocks with divergent standards,
+any other risk considered missing from the 32               values and paradigms with limited collaboration.
+global risks. A simple average based on the                 A simple tally for each of the three options was
+scores selected was calculated. The results are             calculated.
+illustrated in Figure 1.2 and Figure 2.1.
+Completion thresholds
+4.   Global Risks Consequences seeks to                    A total of 1,316 responses to the GRPS were
+understand of the potential consequences of           received. From these, 1,249 were kept, using as a
+risks, to create a network map of the global          threshold at least one non-demographic answer.
+risk landscape. Respondents were provided
+10 randomly selected global risks (from the full      •    Outlook for the World: 1,244 respondents
+list of 32 global risks), and were then asked              selected at least one of the short-term and long-
+to select up to five global risks (from the full           term world outlook options.
+list) likely to be triggered by each of the 10
+risks materializing. In visual results, “Nodes:            –   Short-term outlook for the world: 1,233
+Risk influence” is based on a simple tally of
+all bidirectional relationships identified by              –   Long-term outlook for the world: 1,231
+respondents. “Edges: Relative influence” is
+based on a simple tally of the number of times        •    Currently Manifesting Risks: 1,180
+the risk was identified as a consequence.                  respondents ranked at least one manifesting risk.
+However, visual do not show all connections:
+weaker relationships identified by less than 25%      •    Global Severity 2 Years and 10 Years: 1,091
+of respondents were not included as edges.                 respondents evaluated the severity of at least
+"Employment crises" was not offered as a                   one risk in one time frame.
+randomly selected risk, and is shown only as a
+consequence. “Prolonged economic downturn”                 –   Short-term severity: 1,086
+was not offered as a consequence, and is only
+shown as a cause.                                          –   Long-term severity: 999
+
+5.   Risk Preparedness and Governance                      •    Global Risks Consequences: 877 respondents
+asked respondents to indicate the current                  paired at least one materializing risk with its
+effectiveness of risk management across                    consequence.
+economies and multiple stakeholders, taking
+
+Global Risks Report 2023 77

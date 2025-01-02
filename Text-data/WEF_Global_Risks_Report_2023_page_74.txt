@@ -1,0 +1,79 @@
+Appendix A
+Technical Notes: Global Risks
+Perception Survey 2022-2023
+A “global risk” is the possibility of the occurrence                       To ensure legibility, the names of some of the global
+of an event or condition which, if it occurs, would                        risks have been abbreviated in the figures.
+negatively impact a significant proportion of global                       The portion of the full name used in the abbreviation
+GDP, population or natural resources.                                      is in bold.
+
+Table A.1 presents the list of 32 global risks and
+definitions adopted in the Global Risks Perception
+Survey 2022-2023.
+
+
+TA B L E A . 1               Definitions of global risks
+
+
+Global risks                                           Description
+
+
+
+Asset bubble bursts                                    Prices for housing, investment funds, shares and other assets become increasingly disconnected from the
+real economy, leading to a severe drop in demand and prices. Includes, but is not limited to: cryptocurrencies,
+energy prices, housing prices, and stock markets.
+
+
+Collapse of a systemically important                   Collapse of a systemically important global industry or supply chain with an impact on the global economy,
+industry or supply chain                               financial markets or society leading to an abrupt shock to the supply and demand of systemically important
+goods and services at a global scale. Includes, but is not limited to: energy, food and fast-moving consumer
+goods.
+
+
+Debt crises                                            Corporate or public finances struggle to service debt accumulation, resulting in mass bankruptcies or
+insolvencies, liquidity crises or defaults and sovereign debt crises.
+
+
+Failure to stabilize price trajectories                Inability to control the general price level of goods and services, including commodities. Inclusive of an
+unmanageable increase (inflation) or decrease (deflation) of prices.
+
+
+Proliferation of illicit economic activity             Global proliferation of illicit economic activities and potential violence that undermine economic advancement
+and growth due to organized crime or the illicit activities of businesses. Includes, but is not limited to: illicit
+financial flows (e.g. tax evasion); and illicit trade and trafficking (e.g. counterfeiting, human trafficking, wildlife
+trade).
+
+
+Prolonged economic downturn                            Near-zero or slow global growth lasting for many years leading to periods of stagnation; or a global contraction
+(recession or depression).
+
+
+Biodiversity loss and ecosystem                        Severe consequences for the environment, humankind and economic activity due to destruction of natural
+collapse                                               capital stemming from a result of species extinction or reduction spanning both terrestrial and marine
+ecosystems.
+
+
+Failure of climate-change adaption                     Failure of governments, businesses and individuals to enforce, enact or invest in effective climate-change
+measures to adapt to climate change, such as a lack of climate-resilient infrastructure.
+
+
+Failure to mitigate climate change                     Failure of governments, businesses and individuals to enforce, enact or invest in effective climate-change
+mitigation measures, such as the decarbonization of economic activity.
+
+
+Large-scale environmental damage                       Loss of human life, financial loss and/or damage to ecosystems as a result of human activity and/or failure to
+incidents                                              co-exist with animal ecosystems. Inclusive of deregulation of industrial accidents, oil spills and radioactive
+contamination.
+
+
+Natural disasters and extreme weather                  Loss of human life, damage to ecosystems, destruction of property and/or financial loss at a global scale due
+events                                                 to extreme weather events. Inclusive of land-based (e.g. earthquakes, volcanos wildfires), water-based (e.g.
+floods), atmospheric (e.g. heat-waves), and extra-terrestrial based (e.g. comet strikes and geomagnetic storms).
+
+
+
+
+Risk categories         Economic      Environmental    Geopolitical       Societal          Technological
+
+
+
+Global Risks Report 2023 74

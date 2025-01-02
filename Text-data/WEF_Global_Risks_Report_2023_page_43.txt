@@ -1,0 +1,77 @@
+FIGURE 2.9                     Risk interconnections: cyber insecurity
+
+
+
+Adverse outcomes                   Widespread cybercrime
+of frontier technologies                and cyber insecurity
+
+Digital power concentration
+Interstate conflict
+
+Digital inequality                     Terrorist attacks
+
+Misinformation and
+Breakdown of critical               disinformation
+information infrastructure
+
+
+
+Reference
+
+
+
+
+Proliferation of illicit
+economic activity
+
+Nodes               Edges
+Risk influence      Relative influence
+High              High
+Medium            Medium
+Low               Low                  Risk categories       Economic      Environmental              Geopolitical   Societal       Technological
+
+
+
+Source
+World Economic Forum, Global Risks
+Perception Survey 2022-2023.
+
+
+
+
+ranging from discrimination of vulnerable populations                       sophisticated through new technologies and
+and social control to potentially bioweaponry.84                            techniques for gathering and analyzing data. The
+oft-cited examples are biometric identification
+Not all threats to the digital autonomy and                                 technologies. In recognition of the potential risks
+sovereignty of individuals are malicious in nature.                         posed to privacy and the freedom of movement,
+Larger data sets and more sophisticated analysis                            some companies have self-regulated the sale of
+also heighten the risk of the misuse of personal                            facial recognition to law enforcement, and the use of
+information through legitimate legal mechanisms,                            this technology in public spaces faces an upcoming
+weakening the human right to privacy,85 even                                ban in the EU.88 Concerns also extend to the use
+in democratic and strongly regulated regimes.                               of biometric technologies to analyze emotions.
+Legal incursions on privacy can be motivated by                             Other forms of monitoring are already becoming
+public safety considerations, crime prevention and                          commonplace. Automated AI-based tools such as
+response, economic development and better health                            chatbots collect a wide amount of personal data to
+outcomes. The privacy of personal and sensitive                             function effectively. The mass move to home working
+data is coming under increasing pressure by                                 during the pandemic has led to tracking of workers
+national security concerns, combining the protection                        through cameras, keystroke monitoring, productivity
+of societies and states and the desire to gain a                            software and audio recordings – practices which are
+competitive technological and economic advantage.                           permitted under data-protection legislation in certain
+circumstances, but which collect deeper and more
+sensitive data than previous mechanisms.89
+Commercialized privacy
+More insidiously, the spread of networked data
+is increasing surveillance potential by a growing
+The right to privacy as it applies to information about                     number of both public- and private-sector actors,
+individuals incorporates two key elements: the right                        despite stringent regulatory protection.90 As our
+not to be observed and the right to control the flow                        lives become increasingly digitalized over the
+of information when observed.86 As more data is                             next decade, our “everyday experience” will be
+collected and the power of emerging technologies                            recorded and commodified through internet-enabled
+increases over the next decade, individuals will be                         devices, more intelligent infrastructure and “smart”
+targeted and monitored by the public and private                            cities – a passive, pervasive and persistent form of
+sector to an unprecedented degree, often without                            networked observations that are already being used
+adequate anonymity or consent.87                                            to create targeted profiles.91 This pattern will only
+be enhanced by the metaverse, which could collect
+Surveillance technologies are becoming increasingly                         and track even more sensitive data, including facial
+
+Global Risks Report 2023 43

@@ -1,0 +1,68 @@
+Growing trade-offs between
+innovation and security
+
+Data is an important factor of production, and
+collection and flows are essential to fuel innovation
+for enhanced economic productivity (including
+automation), as well as socially beneficial uses.109
+More expansive and innovative applications of
+AI and other emerging technologies will require
+cross-industry and public-private data aggregation.
+The centralization and consolidation of some
+types of data can lend a competitive advantage
+to economies, such as through improved
+health outcomes associated with advances in
+biotechnology.110 Yet governments may also
+increasingly struggle to balance the potential harm
+of privacy loss against the benefits of more rapid
+development of emerging technologies.
+
+At the same time, to address the growing
+concentration of data in the hands of a small
+number of private-sector companies, governments
+may increasingly push for open-data policies from
+both public- and private-sector sources, mirroring        level will enable more effective, less complicated
+recent regulatory moves by the EU around data             cross-border data-sharing mechanisms to power
+spaces and marketplaces.111 Such policies – like the      innovation while still ensuring adequate protection
+creation of public data trusts for research purposes      for individuals.
+– will likely affect both domestic companies and
+industries, as well as allied countries. This may         Developing a more globally consistent taxonomy,
+benefit more widespread and diffused innovation,          data standards, and legal definition of personal
+but it will also expand risks as they enable privacy      and sensitive information is a key enabler. These
+breaches at a much larger scale. Privacy will             frameworks should recognize that sensitivity can
+strongly influence these agreements: the US               rise from data-driven inferences that are enabled
+government recently committed to heightened               by large data sets, the proliferation of online social
+safeguards for transatlantic data flows, including        networks, and the blurring of personal and industrial
+from US intelligence activities.112                       data in the roll-out of the IOT and implementation of
+“smarter” cities.115 For example, one company was
+However, many of these data sets may still be             recently fined under the EU’s GDPR (General Data
+subject to the threat of re-identification, even          Protection Regulation) for targeted advertising that
+with recent developments in privacy-enhancing             inferred a medical condition (deemed as a special
+technologies such as synthetic data, federated            category of data) on the basis of purchase history.116
+learning and differential privacy.113 Research
+suggests that sensitive databases and technologies,       Historically severe fines for data loss are also
+such as pools of biological data and DNA                  helping change the cost-benefit assessment
+sequencing, are already vulnerable to attack.114          around investment in cybersecurity measures,
+Sensitive health data is governed inconsistently          but questions remain around the individual rights
+and the creation of large pools of personal data          to action, damage and compensation in cases of
+are creating lucrative targets for cybercriminals,        breach.117 It will be incumbent on organizations to
+particularly given the less stable geopolitical           consider the ethics of data collection and usage
+environment and limited norms currently governing         to minimize reputational considerations beyond
+cyberwarfare. The potential consequences of the           regulatory compliance. In addition, spurred by both
+large-scale theft of biometric or genomic information     increased cyberattacks and tighter data laws, the
+are largely unknown but may allow for targeted            voluntary disposal and destruction of personal data
+bioweaponry.                                              may become a stronger priority – with potential
+environmental co-benefits of minimizing data
+storage needs. Finally, governments will also need
+Acting today                                              to development emergency capabilities to respond
+to data breaches and violation of privacy to minimize
+follow-on repercussions.
+At a national level, a patchwork of fragmented data
+policy regimes at local or state levels raises the risk
+of accidental and intentional abuses of data in a
+manner that was not considered by the individual’s
+original consent. Harmonizing policies at a national
+
+
+
+Global Risks Report 2023 45
