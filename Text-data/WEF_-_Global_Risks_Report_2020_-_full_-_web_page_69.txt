@@ -1,0 +1,56 @@
+The proliferation of standards makes it
+more difficult to converge on a single one
+
+The importance of global tech                     Geopolitical risks
+and cyber governance                              Digital innovation is both influencing and
+being influenced by geopolitical tension,
+Attempts to address the security challenges       which amplifies the possibility for risk and
+of 4IR technologies are maturing, but             minimizes the chances for cooperation. At
+they are often still fragmented and limited       the same time, the private sector exercises
+in scope and participants. Numerous               significant power to impact outcomes in this
+initiatives bring together businesses and         realm. Indeed, global tech companies have
+governments to build trust, promote security      leveraged open digital borders to integrate
+in cyberspace, assess the impact of               global supply chains and connect people
+cyberattacks and assist victims.33 Multilateral   worldwide—but these companies are also
+efforts, such as the Council of Europe’s          challenging some core competencies of
+Budapest Convention, also aim to define           nation states, such as standard-setting
+responsible behaviour in cyberspace and           and monetary policies. Technological
+harmonize the patchwork of existing laws and      predominance and future national
+regulations.34 Collaborative incident response    competitiveness go hand in hand.
+and information-sharing efforts attempt to        The lack of a global tech governance
+centralize cybersecurity capabilities to reduce   framework increases business influence on
+the impact of cyberattacks.35                     standard-setting, the foreign participation
+in national critical infrastructure, foreign
+International efforts to develop AI standards     acquisition of domestic technology, the
+are also ongoing (for example, in the field       offshoring of data, and technology transfer
+of AI and ethics alone, there are over 80         as a price to access foreign markets,38
+frameworks),36 yet the large increase in          influencing societal risks as well (see below).
+such initiatives serves to fragment the           Additional risks for states include:
+response to the threat, often imposing
+burdensome and sometimes conflicting              Parallel cyberspace. Connectivity
+obligations on organizations operating            depends on internationally established
+across national boundaries. The proliferation     protocols. Historically, multilateral
+of standards also makes it more difficult         stakeholders have tended to favour a fairly
+for countries and companies to converge           open and loosely regulated cyberspace.
+on a single one as more AI-enabled systems        However, current international developments
+are adopted.                                      point to an increased risk of divergence in
+protocols—old and new—that could lead
+Even more critical, international and             to fragmentation of cyberspace and future
+national policies are not keeping up with         technologies.39 Additionally, if countries
+technological advances. The need is               continue to seek “cyber-sovereignty”—
+urgent for a more comprehensive, inclusive        national or regional versions of the
+and agile global governance architecture          internet40—global interconnectivity
+to address the dynamic and intertwined            could be further disrupted.
+security issues raised by the 4IR. The “age
+of digital interdependence” will benefit          First-mover advantage. Patents in 4IR
+all societies only if the wide-ranging            technologies are being filed at an increasing
+geopolitical, economic and societal risks         rate.41 Governments as well as businesses
+it could bring are managed in a coordinated       want to be at the forefront of cutting-edge
+and inclusive way.37 The current disruption       technologies because they stand to benefit
+of the multilateral system (see Chapter           from being the first to make breakthroughs.
+1, Global Risks 2020) renders the                 First-mover advantage can shift geopolitical
+development of such a framework                   balance by influencing standards, systems
+more challenging.                                 and production chains.
+
+
+64   Wild Wide Web

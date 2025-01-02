@@ -1,0 +1,70 @@
+37 NHS Digital. 2019. NHS Vacancy Statistics        46 MIT NEWDIGS. 2018. “Projections from the
+England - February 2015 - September 2018,           Existing Pipeline of Cell and Gene Ther-
+Provisional Experimental Statistics. Part of        apies: Launches and Patent Numbers”.
+NHS Vacancy Statistics (and previous NHS            Research Brief 2018F210-v027-Launch-
+Vacancies Survey), 24 January 2019. https://        es. https://newdigs.mit.edu/sites/default/
+digital.nhs.uk/data-and-information/publi-          files/FoCUS%20Research%20Brief%20
+cations/statistical/nhs-vacancies-survey/           2018F210v027.pdf
+february-2015---september-2018-provisional-
+experimental-statistics; NHS Digital. 2019.      47 ABI (Association of British Insurers). 2018.
+NHS Workforce Statistics - July 2019. Part of       Code on Genetic Testing and Insurance.
+NHS Workforce Statistics, 24 October 2019.          https://www.abi.org.uk/data-and-resources/
+https://digital.nhs.uk/data-and-information/        tools-and-resources/genetics/code-on-ge-
+publications/statistical/nhs-workforce-statis-      netic-testing-and-insurance/
+tics/july-2019
+48 Kagame, P. and T. A. Ghebreyesus. 2019.
+38 General Medical Council. 2018. The State of         “History Shows Health Is the Foundation of
+Medical Education and Practice in the UK.           African Prosperity”. Financial Times 23 Sep-
+London: General Medical Council. https://           tember 2019. https://www.ft.com/content/
+www.gmc-uk.org/about/what-we-do-and-                e61cc58c-cfc7-11e9-b018-ca4456540ea6
+why/data-and-research/the-state-of-medical-
+education-and-practice-in-the-uk                 49 WHO (World Health Organization). 2015.
+“Chapter 3: Factors that Contributed to
+39 WHO (World Health Organization). 2015.              Undetected Spread of the Ebola Virus and
+Mental Health Atlas 2014. Geneva: World             Impeded Rapid Containment”. Emergencies
+Health Organization. https://www.who.int/           Preparedness, Response. https://www.who.
+mental_health/evidence/atlas/mental_health_         int/csr/disease/ebola/one-year-report/factors/
+atlas_2014/en/                                      en/
+
+40 AMA (American Medical Association). AMA
+Physician Masterfile database. https://www.
+ama-assn.org/topics/ama-physician-master-
+file
+
+41 Babylon GP at Hand application. https://
+www.gpathand.nhs.uk/
+
+42 Davis, N. 2019. “AI Equal with Human Ex-
+perts in Medical Diagnosis, Study Finds”. The
+Guardian. 24 September 2019. https://www.
+theguardian.com/technology/2019/sep/24/
+ai-equal-with-human-experts-in-medical-di-
+agnosis-study-finds
+
+43 Wels-Maug, C. 2019. “HUG to Become
+First University Hospital Using IBM’s AI Tool
+to Personalise Cancer Treatment”. Health-
+care IT News. 12 September 2019. https://
+www.healthcareitnews.com/news/europe/
+hug-become-first-university-hospital-us-
+ing-ibm-s-ai-tool-personalise-cancer-treat-
+ment
+
+44 Gershgorn, D. 2018. “If AI Is Going to Be
+the World’s Doctor, It Needs Better Text-
+books”. Quartz. 06 September 2018. https://
+qz.com/1367177/if-ai-is-going-to-be-the-
+worlds-doctor-it-needs-better-textbooks/
+
+45 Lee, K., J. P. Raman, W. Hedrich, R. Lam and
+P. Daga. 2018. Holding Healthcare to Ran-
+som: Industry Perspectives on Cyber Risks.
+Marsh & McLennan Companies. http://www.
+mmc.com/insights/publications/2018/jul/
+holding-healthcare-to-ransom-industry-per-
+spectives-on-cyber-risks.html
+
+
+
+
+82   False Positive

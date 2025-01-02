@@ -1,0 +1,70 @@
+20 Walker, I. 2019. “Cybercriminals Have Your          29 Miller, J. 2018. “Spending on Legacy IT Con-
+Business in Their Crosshairs and Your Em-              tinues to Grow, But There Is Light at the End
+ployees Are in Cahoots with Them”. Forbes.             of the Tunnel”. Federal News Network. 17 Au-
+31 January 2019. https://www.forbes.com/               gust 2018. https://federalnewsnetwork.com/
+sites/ivywalker/2019/01/31/cybercrimi-                 ask-the-cio/2018/08/spending-on-legacy-it-
+nals-have-your-business-their-crosshairs-              continues-to-grow-but-there-is-light-at-the-
+and-your-employees-are-in-cahoots-with-                end-of-the-tunnel/; Bobeldijk, Y. 2017. “Banks
+them/#683a874a1953                                     Face Spiralling Costs from 50-Year-Old IT”.
+Financial News. 02 October 2017. https://
+21 World Bank Open Data. 2019. https://data.              www.fnlondon.com/articles/banks-face-spi-
+worldbank.org/indicator/NY.GDP.MKTP.CD?-               raling-costs-from-archaic-it-20170912
+most_recent_value_desc=true, accessed
+1 December 2019.                                    30 Gibney, E. 2019. “Hello Quantum World!
+Google Publishes Landmark Quantum
+22 WebFX. 2015. “What Are Data Brokers – And              Supremacy Claim”. Nature. 23 October 2019.
+What Is Your Data Worth?”. FX Blog post.               https://www.nature.com/articles/d41586-
+April 2015. https://www.webfx.com/blog/                019-03213-z
+general/what-are-data-brokers-and-what-is-
+your-data-worth-infographic/                        31 Herman, A. and I. Friedson. 2018. Quantum
+Computing: How to Address the National
+23 Smith, B. 2019. “The combustion engine was             Security Risk. Washington, DC: Hudson
+the most impactful invention regarding the             Institute. April 2018. https://s3.amazonaws.
+economy. Today, it could be compared with              com/media.hudson.org/files/publications/
+the impact of artificial intelligence”. Microsoft      Quantum18FINAL4.pdf
+Portugal (@PTMicrosoft) citing Brad Smith
+(@BradSmi #WebSummit”, 05 November                  32 Smith, Z. 2019. “Can Big Money Crack
+2019. https://twitter.com/PTMicrosoft/                 Big Tech? The New Trends Threatening
+status/1191748602554650625; Clifford,                  Today’s Digital Giants”. Observer. 05 Oc-
+C. 2019. “Elon Musk: ‘Mark My Words –                  tober 2019. https://observer.com/2019/10/
+A.I. Is Far More Dangerous Than Nukes’”.               amazon-google-microsoft-cloud-comput-
+CNBC. 13 March 2019. https://www.cnbc.                 ing-big-tech-big-money/
+com/2018/03/13/elon-musk-at-sxsw-a-i-is-
+more-dangerous-than-nuclear-weapons.html            33 See the IGF (Internet Governance Forum) for
+a discussion of The Paris Call for Trust and
+24 Metz, C. “Internet Companies Prepare to                Security in Cyberspace; the Cybersecuri-
+Fight the ‘Deepfake’ Future”. The New York             ty Tech Accord; the Charter of Trust for a
+Times. 24 November 2019. https://www.ny-               secure digital world; the Global Commission
+times.com/2019/11/24/technology/tech-com-              on Stability in Cyberspace, and the Global
+panies-deepfakes.html                                  Cyber Alliance. See also the home page of
+the CyberPeace Institute, https://cyberpea-
+25 Saha, S., K. A. Mamun, K. Ahmed, R.                    ceinstitute.org/
+Mostafa, G. R. Naik, A. Khandoker, S.
+Darvishi and M. Baumert. 2017. “Progress            34 Other examples include the UN’s Group of
+in Brain Computer Interfaces: Challenges               Governmental Experts (UN GGE) and the
+and Trends”. https://arxiv.org/ftp/arxiv/pa-           new Open-Ended Working Group (OEWG) on
+pers/1901/1901.03442.pdf                               Developments in the Field of Information and
+Telecommunications in the Context of Inter-
+26 Li, J. 2019. “Forget about 5G, China Has               national Security. Organizations such as the
+Kicked Off Its Development of 6G”. Quartz.             International Telecommunication Union, the
+07 November 2019. https://qz.com/1743790/              World Bank and Interpol have also developed
+forget-5g-china-begins-development-of-6g/              technology and security measures.
+
+27 Grijpink, F., A. Ménard, H. Sigurdson and N.            Efforts have been led by regional organiza-
+Vucevic. 2018. “The Road to 5G: The Inevita-            tions as well, such as the Organisation for
+ble Growth of Infrastructure Cost”. McKinsey.           Security and Cooperation in Europe, the
+February 2018. https://www.mckinsey.com/                Council of Europe, the Organization of Amer-
+industries/technology-media-and-telecom-                ican States, the ASEAN Regional Forum and
+munications/our-insights/the-road-to-5g-the-            the Organization of American States.
+inevitable-growth-of-infrastructure-cost
+See also recommendation 4 in United Na-
+28 Global Infrastructure Hub. 2019. Investment             tions. 2019. The Age of Digital Interdepend-
+forecasts for Telecommunications. Global                ence: Report of the UN Secretary-General’s
+Infrastructure Outlook. https://outlook.gihub.          High-level Panel on Digital Cooperation. June
+org/sectors/telecommunication                           2019. https://digitalcooperation.org/wp-con-
+tent/uploads/2019/06/DigitalCooperation-re-
+port-web-FINAL-1.pdf
+
+
+
+The Global Risks Report 2020   69

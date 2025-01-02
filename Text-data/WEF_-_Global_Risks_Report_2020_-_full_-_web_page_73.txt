@@ -1,0 +1,68 @@
+Notes
+
+1   ITU (International Telecommunication Union).     11 Palmer, D. 2019. “Hackers Target Transporta-
+2019. Measuring Digital Development: Facts          tion and Shipping Companies in new Trojan
+and Figures 2019. Geneva: ITU. https://www.         Malware Campaign”. ZDNet. 23 September
+itu.int/en/ITU-D/Statistics/Documents/facts/        2019. https://www.zdnet.com/article/hack-
+FactsFigures2019.pdf                                ers-target-transportation-and-shipping-in-
+dustries-in-new-trojan-malware-campaign/
+2   Kemp, S. 2019. “Digital 2019: Global Digital
+Overview”. Datareportal. https://datareportal.   12 Chokshi, N. 2019. “Hackers Are Holding
+com/reports/digital-2019-global-digital-over-       Baltimore Hostage: How They Struck and
+view                                                What’s Next”. The New York Times. 22 May
+2019. https://www.nytimes.com/2019/05/22/
+3   Turner, A. 2019. “How Many Phones Are in            us/baltimore-ransomware.html
+the World?” Bankmycell. https://www.bank-
+mycell.com/blog/how-many-phones-are-in-          13 Keesem, L. 2019. “The Business of Organ-
+the-world                                           ized Cybercrime: Rising Intergang Collab-
+oration in 2018”. SecurityIntelligence. 20
+4   PwC. 2019. “Sizing the Prize. What’s the Real       March 2019. https://securityintelligence.com/
+Value of AI for Your Business and How Can           the-business-of-organized-cybercrime-ris-
+You Capitalise?” https://www.pwc.com/gx/            ing-intergang-collaboration-in-2018/
+en/issues/analytics/assets/pwc-ai-analysis-
+sizing-the-prize-report.pdf                      14 Eoyang, M., A. Peters, I. Mehta and B.
+Gaskew. 2018. To Catch a Hacker: Toward a
+5   Patel, K. 2018. “Smart Phones Bring Smart           Comprehensive Strategy to Identify, Pur-
+Irrigation”. NASA Earth Observatory. https://       sue, and Punish Malicious Cyber Actors.
+earthobservatory.nasa.gov/images/92903/             Third Way. 29 October 2018. https://www.
+smart-phones-bring-smart-irrigation                 thirdway.org/report/to-catch-a-hacker-to-
+ward-a-comprehensive-strategy-to-identi-
+6   Amputee Coalition. 2019. “3D Printed Pros-          fy-pursue-and-punish-malicious-cyber-actors
+thetics, Where Are We Today”. Amputee Co-
+alition Blog post, 08 February 2019. https://    15 Gartner. 2017. Leading the IoT: Gartner In-
+www.amputee-coalition.org/3d-printed-pros-          sights on How to Lead in a Connected World.
+thetics/                                            https://www.gartner.com/imagesrv/books/
+iot/iotEbook_digital.pdf (page 2).
+7   Chapman, M. M. 2019. “Self-Driving Cars
+Could Be Boon for Aged, After Initial Hur-       16 IDC (International Data Corporation). 2019.
+dles”. The New York Times. 23 March 2017.           “The Growth in Connected IoT Devices Is Ex-
+https://www.nytimes.com/2017/03/23/auto-            pected to Generate 79.4ZB of Data in 2025,
+mobiles/wheels/self-driving-cars-elderly.html       According to a New IDC Forecast”. IDC. 18
+June 2019. https://www.idc.com/getdoc.
+8   Roberts, D. 2019. “Smarter Cities Will be           jsp?containerId=prUS45213219
+More Efficient Cities”. Forbes Council post,
+22 November 2019. https://www.forbes.            17 Doffman, Z. 2019. “Cyberattacks on IoT
+com/sites/forbestechcouncil/2019/11/22/             Devices Surge 300% in 2019, ‘Measured in
+smarter-cities-will-be-more-efficient-cit-          Billions’, Report Claims”. Forbes. 14 Sept.
+ies/#3bd950332128                                   2019. https://www.forbes.com/sites/zakdof-
+fman/2019/09/14/dangerous-cyberattacks-
+9   Siemens and Ponemon Institute. 2019.                on-iot-devices-up-300-in-2019-now-ram-
+Caught in the Crosshairs: Are Utilities             pant-report-claims/#45642d105892
+Keeping Up with the Industrial Cyber Threat?
+Houston: Siemens Gas and Power. https://         18 Venkat, A. 2019. “Wikipedia Investigates
+assets.new.siemens.com/siemens/assets/              DDoS Attack”. Bankinfosecurity.com, Infor-
+api/uuid:35089d45-e1c2-4b8b-b4e9-7ce-               mation Security Media Group (ISMG). 09
+8cae81eaa/version:1572434569/siemens-cy-            September 2019. https://www.bankinfose-
+bersecurity.pdf                                     curity.com/wikipedia-investigates-ddos-at-
+tack-a-13049
+10 Muresan, R. 2019. “Healthcare Continues
+to Be Prime Target for Cyber Attacks”.            19 Collard, A. 2019. “Large-Scale IoT Attack
+Bitdefender Business Insights Blog post.             Coming”. Gadget. 6 December 2019. https://
+07 January 2019. https://businessinsights.           gadget.co.za/large-scale-iot-attack-coming/
+bitdefender.com/healthcare-prime-target-for-
+cyber-attacks
+
+
+
+
+68   Wild Wide Web

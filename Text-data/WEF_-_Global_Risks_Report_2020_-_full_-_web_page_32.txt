@@ -1,0 +1,64 @@
+22 Federal Reserve Bank of St. Louis. 2019.         31 The Gini coefficient scores 0 when income
+FRED Economic Data – Return on Average              in an economy is equally distributed among
+Equity for all U.S. Banks. https://fred.            every individual, and 1 when held by just
+stlouisfed.org/series/USROE, accessed 15            one individual. See World Bank. World
+December 2019.                                      Bank Open Data, “GINI index (World Bank
+estimate) – Chile”. https://data.worldbank.
+23 ECB (European Central Bank). 2019. Press            org/indicator/SI.POV.GINI?locations=CL,
+Conference. Christine Lagarde, President of         accessed 15 December 2019.
+the ECB, Luis de Guindos, Vice-President of
+the ECB. 12 December 2019. https://www.          32 Sheng, A. and X. Geng. 2019. “Hong
+ecb.europa.eu/press/pressconf/2019/html/            Kong’s Real Problem Is Inequality”. Project
+ecb.is191212~c9e1a6ab3e.en.html                     Syndicate. 27 August 2019. https://www.
+project-syndicate.org/commentary/hong-
+24 IMF (International Monetary Fund). 2019.            kong-protests-democracy-inequality-
+2019. IMF DataMapper Database, “General             housing-by-andrew-sheng-and-xiao-geng-
+government gross debt – Percent of GDP”.            2019-08?barrier=accesspaylog
+https://www.imf.org/external/datamapper/
+GGXWDG_NGDP@WEO/CHN/FRA/DEU/                     33 IMF (International Monetary Fund). IMF
+IND/GBR/USA/JPN/AUS/BRA/CAN/IDN/ITA/                Fiscal Monitor: Tackling Inequality. October
+KOR/MEX/RUS/SAU/ESP/CHE/NLD/TUR,                    2017. https://www.imf.org/en/publications/
+accessed 15 December 2019.                          fm/issues/2017/10/05/fiscal-monitor-
+october-2017
+25 Nickel, C. and A. Tudyka. 2013. “Fiscal
+Stimulus in Times of High Debt:                  34 Alderman, L. 2018. “Unrest in France Hinders
+Reconsidering Multipliers and Twin Deficits”.       Macron’s Push to Revive Economy”. The New
+European Central Bank Working Paper Series          York Times. 11 December 2018. https://www.
+No. 1513. February 2013. https://www.ecb.           nytimes.com/2018/12/11/business/france-
+europa.eu/pub/pdf/scpwps/ecbwp1513.                 economy-macron.html; IMF (International
+pdf?5ad1bf48075ff73ccf045eca21f8d413                Monetary Fund). World Economic Outlook,
+October 2019. Global Manufacturing
+26 KPMG. 2019. Individual income tax rates             Downturn, Rising Trade Barriers. Washington,
+table. https://home.kpmg/xx/en/home/                DC: IMF. https://www.imf.org/en/
+services/tax/tax-tools-and-resources/tax-           Publications/WEO/Issues/2019/10/01/world-
+rates-online/individual-income-tax-rates-           economic-outlook-october-2019
+table.html
+35 Vergara, E. 2019. “Chile Protests
+27 This is the survey that feeds into the Forum’s      Resume, Demonstrations Crimp
+annual Global Competitiveness Report. It            Economic Growth”. AP News. 05
+was conducted between January and April             November 2019. https://apnews.com/
+2019 and received 12,879 responses.                 d42ff6fca3c445a19783f59f984cb5a1
+
+28 World Economic Forum, in partnership with        36 Hong Kong Economy – The Government
+Marsh & McLennan Companies and Zurich               of the Hong Kong Special Administrative
+Insurance Group. 2019. Regional Risks for           Region. 2019. “Economic Situation in the
+Doing Business Report 2019. Insight Report.         Third Quarter of 2019 and Latest GDP and
+Geneva: World Economic Forum. https://              Price Forecasts for 2019”. Press Release, 15
+www.weforum.org/reports/regional-risks-for-         November 2019. https://www.hkeconomy.
+doing-business-2019                                 gov.hk/en/pdf/19q3_pr.pdf
+
+29 Gaspar, V. and M. Garcia-Escribano. 2017.        37 Schwab, K. 2019. “What Kind of Capitalism
+“Inequality: Fiscal Policy Can Make the             Do We Want?” Project Syndicate. 2
+Difference”. IMFBlog post. 11 October 2017.         December 2019. https://www.project-
+https://blogs.imf.org/2017/10/11/inequality-        syndicate.org/commentary/stakeholder-
+fiscal-policy-can-make-the-difference/              capitalism-new-metrics-by-klaus-
+schwab-2019-11
+30 OECD (Organisation for Economic Co-
+operation and Development). 2019. OECD
+Home, Social and welfare issues: Inequality.
+http://www.oecd.org/social/inequality.htm
+
+
+
+
+The Global Risks Report 2020   27

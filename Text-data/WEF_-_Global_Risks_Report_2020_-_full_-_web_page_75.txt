@@ -1,0 +1,70 @@
+35 Examples include the Forum of Incident            43 CCW (Meeting of the High Contracting
+Response and Security Teams (FIRST), Infor-          Parties to the Convention on Prohibitions or
+mation Sharing and Analysis Centers (ISACs),         Restrictions on the Use of Certain Conven-
+the Cyber Threat Alliance and the Cyber              tional Weapons Which May Be Deemed to
+Defense Alliance.                                    Be Excessively Injurious or to Have Indiscrim-
+inate Effects). CCW, Final Report of the 2019
+36 Cihon, P. 2019. Technical Report: Standards          Meeting of the High Contracting Parties to
+for AI Governance: International Standards to        the CCW (advance version), CCW/MSP/2019/
+Enable Goal Coordination in AI Research &            CRP.2/Rev.1., 15 November 2019. https://
+Development. Oxford: Center for Governance           www.unog.ch/80256EDD006B8954/(httpAs-
+of AI Future of Humanity Institute. April 2019.      sets)/815F8EE33B64DADDC12584B7004C-
+https://www.fhi.ox.ac.uk/wp-content/up-              F3A4/$file/CCW+MSP+2019+CRP.2+Rev+1.
+loads/Standards_-FHI-Technical-Report.pdf            pdf
+
+37 United Nations. 2019. Op. cit.                    44 Markman, J. 2019. “Trade War with China
+Will Hit U.S. Tech Companies Hard”. Forbes.
+38 McDonald, J. 2019. “China Promises No                30 September 2019. https://www.forbes.
+Forced Tech Transfers, Access to Finance”.           com/sites/jonmarkman/2019/09/30/trade-
+Associated Press. 29 October 2019. https://          war-with-china-will-hit-u-s-tech-companies-
+apnews.com/5dcec36663324b34b290f3f7f-                hard/#7621e04c6cca
+378c6f3
+45 Deloitte. 2016. The Economic Impact of
+39 Waters, R. 2019. “No End in Sight to Split In-       Disruptions to Internet Connectivity. A Report
+ternet Say Researchers”. Financial Times. 20         for Facebook. Deloitte. https://www2.deloitte.
+February 2019. https://www.ft.com/content/           com/content/dam/Deloitte/global/Docu-
+69f97e7e-34a3-11e9-bd3a-8b2a211d90d5                 ments/Technology-Media-Telecommunica-
+tions/economic-impact-disruptions-to-inter-
+40 Stanek, R. 2019. “Four Steps to Help Prepare         net-connectivity-deloitte.pdf
+for an Increasingly Balkanized Internet”. 07
+November 2019. Forbes. https://www.forbes.        46 Accenture. 2017. Digital Fragmentation:
+com/sites/forbestechcouncil/2019/11/07/four-         Adapt to Succeed in a Fragmented World.
+steps-to-help-prepare-for-an-increasingly-           Accenture. https://www.accenture.com/_
+balkanized-internet/#7a8589086755; Russia            acnmedia/pdf-60/accenture-digital-fragmen-
+Today. 2019. “Russia to Launch ‘Independent          tation-interactive-pov.pdf#zoom=50
+Internet’ for BRICS Nations – Report”. Russia
+Today. 28 November 2017. https://www.             47 Hao, K. 2019. “Training a Single AI Model
+rt.com/russia/411156-russia-to-launch-inde-          Can Emit as Much Carbon as Five Cars in
+pendent-internet/                                    Their Lifetimes. Deep Learning Has a Terrible
+Carbon Footprint”. MIT Technology Review.
+41 KTU (Kaunas University of Technology).               06 June 2019. https://www.technologyre-
+2019. “Patent Filings around the World: Can          view.com/s/613630/training-a-single-ai-mod-
+Lithuania Compete?” KTU News. 23 October             el-can-emit-as-much-carbon-as-five-cars-in-
+2019. https://en.ktu.edu/news/patent-filings-        their-lifetimes/
+around-the-world-can-lithuania-compete/;
+Benassi, M., E. Grinza and F. Rentocchini.        48 Wagner, K. 2019. “Facebook Says Cen-
+2019. “The Rush for Patents in the Fourth            tral Banks Have Nothing to Fear from
+Industrial Revolution: An Exploration of             Libra”. Bloomberg. 17 September 2019.
+Patenting Activity at the European Patent            https://www.bloomberg.com/news/arti-
+Office”. SPRU Working Papers Series, SWPS            cles/2019-09-17/facebook-says-central-
+2019-12 (June). Sussex: University of Sussex         banks-have-nothing-to-fear-from-libra
+Business School. https://www.sussex.ac.uk/
+webteam/gateway/file.php?name=2019-12-            49 IMF (International Monetary Fund). 2019.
+swps-benassi-et-al.pdf&site=25                       Opening Statement by Christine Lagarde to
+the Economic and Monetary Affairs Commit-
+42 Tao, A. L. 2019. “Black Hat Asia 2019: Get           tee of the European Parliament. 04 Sep-
+Ready for the Cyber Arms Race”. Compu-               tember 2019. https://www.imf.org/en/News/
+terWeekly.com. 02 April 2019. https://www.           Articles/2019/09/04/sp090419-Opening-
+computerweekly.com/news/252460807/                   Statement-by-Christine-Lagarde-to-ECON-
+Black-Hat-Asia-2019-Get-ready-for-the-cy-            Committee-of-European-Parliament
+ber-arms-race
+50 UNCTAD (United Nations Conference on
+Trade and Development). 2019. Digital Econ-
+omy Report 2019. Value Creation and Cap-
+ture: Implications for Developing Countries.
+New York: United Nations. https://unctad.org/
+en/PublicationsLibrary/der2019_en.pdf
+
+
+
+70   Wild Wide Web

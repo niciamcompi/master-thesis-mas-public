@@ -1,0 +1,39 @@
+Appendix B:
+Global Risks Perception Survey
+
+The Global Risks Perception Survey (GRPS) is the World Economic Forum’s source of original risks data,
+harnessing the expertise of the Forum’s extensive network of business, government, civil society and thought
+leaders. The survey was conducted from 5 September to 22 October 2019 among the World Economic Forum’s
+multistakeholder communities (including the Global Shapers Community), the professional networks of its
+Advisory Board, and members of the Institute of Risk Management. The results of the GRPS are used to create
+the Global Risks Landscape and Interconnections Map presented at the beginning of the report, and to offer
+insights used throughout.
+
+Both the GRPS and the Global Risks Report adopt the following definition of global risk:
+
+Global risk: A “global risk” is an uncertain event or condition that, if it occurs, can cause significant negative
+impact for several countries or industries within the next 10 years.
+
+
+
+
+Methodology
+The world in 2020
+In the first section of the GRPS, respondents were             decrease” and 5 representing “significantly increase”.
+asked to assess whether the risks associated with 40           To reduce framing bias, the values between this range
+current issues would increase or decrease in 2020              were not assigned specific wording. For each risk, the
+compared to 2019 (see Table B.1 below for full results).       share for each answer was obtained by dividing the
+Respondents were also given the option to name any             number of respondents who selected that answer by
+other issue(s), not included in the 40 risks listed that       the total number of answers.
+they expect to be a source of increased risk in 2020.
+We use these open responses to assess the need to              Respondents were asked to base their answers to
+update our list of risks from year to year.                    each of these 40 risks on a global level. They were
+asked the following question: “On a global level, do
+The possible answers to survey questions ranged from           you think that in 2020 the risks presented by the
+“significantly decrease” to “significantly increase” on        following issues will increase or decrease compared
+a scale from 1 to 5, with 1 representing “significantly        to 2019?”
+
+
+
+
+88   Appendices

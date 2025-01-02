@@ -1,0 +1,43 @@
+REUTERS/BENOIT TESSIER
+
+
+
+
+falsehoods (accidentally and deliberately) have    businesses are facing the challenge of
+resulted in a gradual erosion of trust in media,   implementing existing cybersecurity and
+social networks and even governments.              4IR standards (where they exist), while
+ensuring compliance with fragmented
+Data are increasingly being collected on           regulations on accountability, transparency,
+citizens by government and business alike,         bias and privacy for developing—or simply
+and these data are then monetized and used         applying—4IR technologies. Because
+to refine the development and deployment           government and corporate leaders equally
+of new technologies back towards these             share the responsibility for promoting global
+citizens, as consumers. Amassing of data by        cybersecurity and digital trust, cooperation
+a handful of small entities leads to a further     between the public and private sectors
+entrenchment of gaps between advanced              is more vital than ever in areas such as
+and emerging economies.                            information-sharing, collaboration with
+law enforcement agencies, and skill and
+capacity development.
+Global governance challenges
+for businesses                                     The new digital geopolitical race (see
+Chapter 1, Global Risks 2020) also risks
+Businesses, just as economies, rely on             affecting businesses’ development of 4IR
+concerted global technology governance.            technologies and their market readiness
+Fragmentation and incompatibility between          to harness the benefits of the 4IR
+global cybersecurity and technology                transformation. An open and interconnected
+frameworks risk weakening businesses’              cyberspace, along with global technological
+capabilities to adapt to the emerging              compatibility, are essential for businesses
+challenges discussed in this chapter in a          to be able to counter the dislocating
+timely way, as raising transactional costs         impacts of social media, the economic
+increases the financial burden on businesses.      impacts of global technology giants and
+potential security issues resulting from
+More and more firms operate in complex,            the digital technology race between the
+global and digital service ecosystems that         world’s leading economies. By advocating
+not only expose them to their own cyber            for fair and concerted global actions on
+and technological weaknesses, but also             any 4IR-related governance frameworks,
+to those of other participants—including           businesses can mitigate risks, ensure trust
+customers, suppliers and managed                   towards consumers and governments, and
+system providers. At the same time,                increasingly benefit from the 4IR.
+
+
+The Global Risks Report 2020   67

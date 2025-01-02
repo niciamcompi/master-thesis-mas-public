@@ -1,0 +1,72 @@
+Notes
+
+1   WHO (World Health Organization). 2019.            9   WHO (World Health Organization). 2018.
+Global Health Observatory (GHO) Data:                 Review of Polio Endemic Countries. Report
+Life Expectancy. https://www.who.int/gho/             of the Independent Monitoring Board of the
+mortality_burden_disease/life_tables/situa-           Global Polio Eradication Initiative on Pro-
+tion_trends/en/                                       gress in Afghanistan, Nigeria and Pakistan.
+September 2018. https://www.who.int/
+2   WHO (World Health Organization). 2019.                immunization/sage/meetings/2018/octo-
+Global Health Observatory (GHO) Data:                 ber/4_Review_Polio_Endemic_Countires_Re-
+Healthy Life Expectancy (HALE) at Birth.              port_IMB_Final_revised.pdf
+https://www.who.int/gho/mortality_burden_
+disease/life_tables/hale_text/en/                 10 WHO (World Health Organization). 2019.
+Proposed programme budget 2020–2021.
+3   WHO (World Health Organization). 2019. “The          13 May 2019. https://apps.who.int/gb/ebwha/
+Power of Vaccines: Still Not Fully Utilized”.        pdf_files/WHA72/A72_INF3-en.pdf
+https://www.who.int/publications/10-year-re-
+view/vaccines/en/                                 11 Razum, O., D. Sridhar, A. Jahn, S. Zaidi, G.
+Ooms and O. Müller. 2019. “Polio: From Erad-
+4   Cardona, C. and D. Bishai. 2018. “The                ication to Systematic, Sustained Control”.
+Slowing Pace of Life Expectancy Gains since          BMJ Global Health 2019; 4:e001633. https://
+1950”. BMC Public Health (2018) 18:151.              gh.bmj.com/content/4/4/e001633
+DOI 10.1186/s12889-018-5058-9. https://
+bmcpublichealth.biomedcentral.com/track/          12 The Global Fund. 2019. “Global Fund Donors
+pdf/10.1186/s12889-018-5058-9                        Pledge US$14 Billion in Fight to End Epidem-
+ics”. Press Release, 10 October 2019. https://
+5   Murphy, S. L. B. S., J. Xu, K. D. Kochanek           www.theglobalfund.org/en/news/2019-10-10-
+and E. Arias. 2018. “Mortality in the United         global-fund-donors-pledge-usd14-billion-in-
+States, 2017”. Centers for Disease Control           fight-to-end-epidemics/
+and Prevention, NCHS Data Brief No. 328,
+November 2018. https://www.cdc.gov/nchs/          13 WHO (World Health Organization). 2019. “Ten
+products/databriefs/db328.htm; Bernstein, L.         Threats to Global Health in 2019”. https://
+2018. “U.S. Life Expectancy Declines Again,          www.who.int/emergencies/ten-threats-to-
+a Dismal Trend Not Seen since World War I”.          global-health-in-2019
+The Washington Post. 29 November 2018.
+https://www.washingtonpost.com/national/          14 CDC (Centers for Disease Control and Pre-
+health-science/us-life-expectancy-declines-          vention). 2019. “Global Health: Global Mea-
+again-a-dismal-trend-not-seen-since-world-           sles Outbreaks”. https://www.cdc.gov/global-
+war-i/2018/11/28/ae58bc8c-f28c-11e8-bc79-            health/measles/globalmeaslesoutbreaks.htm
+68604ed88993_story.html
+15 Soucheray, S. 2019. “US Measles Cases
+6   Lim, J. 2018. 2019. “Singaporeans Living             Hit 1,234 as Brooklyn Outbreak Called
+Longer but Spending More Time in Ill Health:         Over”. CIDRAP News. 03 September 2019.
+Study”. Today. 20 June 2019. https://www.            http://www.cidrap.umn.edu/news-perspec-
+todayonline.com/singapore/singapore-                 tive/2019/09/us-measles-cases-hit-1234-
+ans-living-longer-spending-greater-propor-           brooklyn-outbreak-called-over
+tion-time-ill-health-study
+16 UNICEF. 2019. “As Measles Deaths in the
+7   World Bank Open Data. Life Expectancy at             Democratic Republic of the Congo Top
+Birth. https://data.worldbank.org/indicator/         4,000, UNICEF Rushes Medical Kits to
+SP.DYN.LE00.IN?most_recent_value_desc=-              Health Centers and Vaccinates Thousands
+false, accessed 01 December 2019.                    More Children”. Press Release, 09 October
+2019. https://www.unicef.org/press-releases/
+8   Public Health England, Gov.UK. 2018.                 measles-deaths-democratic-republic-congo-
+“Health Profile for England 2018. Chapter            top-4000-unicef-rushes-medical-kits-health
+5: Inequalities in Health”. https://www.gov.
+uk/government/publications/health-profile-        17 Wellcome. 2019. “Q&A: What Are Drug-Re-
+for-england-2018/chapter-5-inequalities-in-          sistant Infections?” Wellcome News. 09 Sep-
+health; Bleich, S. N., M. P. Jarlenski, C. N.        tember 2019. https://wellcome.ac.uk/news/
+Bell and T. A. LaVeist. 2012. “Health Inequal-       what-are-drug-resistant-infections
+ities: Trends, Progress, and Policy”. Annual
+Review of Public Health. 33 (1): 7–40. https://   18 Review on Antimicrobial Resistance. 2016.
+www.annualreviews.org/doi/full/10.1146/an-           Tackling Drug-Resistant Infections Globally:
+nurev-publhealth-031811-124658                       Final Report and Recommendations. May
+2016. Wellcome Trust and UK Govern-
+ment. https://amr-review.org/sites/default/
+files/160525_Final%20paper_with%20cover.
+pdf
+
+
+
+80   False Positive

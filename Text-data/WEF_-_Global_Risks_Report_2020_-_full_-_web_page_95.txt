@@ -1,0 +1,54 @@
+The global risks landscape
+For each of the 30 global risks listed in Appendix A,         Formally, for any given risk i, its likelihood and impact—
+respondents were asked to assess: (1) the likelihood                                        Ni i and impacti—are:
+denoted respectively likelihood
+of each global risk occurring over the course of the                                  1
+next 10 years, and (2) the severity of its impact at a              likelihoodi             likelihoodi,n
+global level if it were to occur, both on a scale from
+Ni N
+Ni
+1 to 5 as follows:                                                                   1 i
+likelihoodi             likelihoodi,n
+Ni
+–    Likelihood: a value of 1 for “very unlikely” and 5 for                               Ni
+“very likely”
+
+–    Impact: a value of 1 for “minimal” impact and 5 for                                  Ni
+“catastrophic” impact                                                         1
+impacti =         impacti,n
+Ni N
+To reduce timing bias, respondents were reminded                                     n=1
+i
+to assess the 30 risks over a 10-year period, as                                  1
+impacti =         impacti,n
+opposed to a time horizon of one year for the previous                            Ni
+40 risks. Again, to reduce framing bias, the values           where Ni is the number ofn=1 respondents for risk i,
+within the 1–5 scale were not assigned specific               and likelihoodi,n and impacti,n are, respectively, the
+wording. Respondents could leave the question                 likelihood and impact assigned by respondent n to
+completely blank. Partial responses for any risk—those        risk i. The likelihood is measured on a scale of 1–5
+assessing only the likelihood of occurrence or only the       and the impact on a scale of 1–5. Ni is the number of
+negative impact—were not included in the results.             respondents for risk i who assessed both the likelihood
+and impact of that specific risk.
+A simple average for both likelihood and impact for
+each of the 30 global risks was calculated on this
+basis. The results are illustrated in the Global Risks
+Landscape 2020 (Figure II).
+
+
+
+
+Global risks interconnections
+Part 3 of the GRPS assesses interconnections                  global risks below (one risk can be connected to
+between pairs of global risks.                                any one of the other 29 global risks).” The results are
+illustrated in the Global Risks Interconnections Map
+For the interconnections between pairs of risks, survey       2020 (Figure IV). A tally was made of the number of
+respondents were asked the following question:                times each pair was cited.
+“Global risks are not isolated, and it is important to
+assess their interconnections. In your view, which are        In the Global Risks Landscape and the Interconnections
+the most strongly connected global risks? Please              Map, the size of each risk is scaled according to the
+select three to six pairs of global risks, from the 30        weight of that node in the system.
+
+
+
+
+90   Appendices

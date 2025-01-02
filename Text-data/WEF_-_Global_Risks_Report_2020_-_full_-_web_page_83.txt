@@ -1,0 +1,64 @@
+Workforce limitations. Most health systems
+are training and retaining too few doctors,
+nurses and other health workers. For
+example, the UK National Health Service
+has an estimated 94,000 unfilled vacancies
+in hospital and community services37—
+almost 8% of its total workforce—and
+risks an exodus due to burnout and low
+morale.38 Disparities persist across countries,
+regions, care levels and areas of medicine.
+Nearly half of the world’s population lives in
+countries with over 100,000 people for every
+psychiatrist.39 Even in the United States,
+with 10.8 psychiatrists per 100,000 people,
+almost half of those currently practising are
+expected to retire soon.40 The brain drain
+of health workers places further strain on
+poorer and rural parts of the world.
+
+
+New breakthroughs, new risks
+Transformative technologies, medicines
+and insurance that could vastly improve the
+reach and quality of healthcare are on the
+horizon—but they also bring new risks and         ultimately make it possible for everyone—
+trade-offs for health systems and societies.      even in currently fragile, over-burdened
+health systems—to access high-quality,
+consistent, affordable, timely and
+convenient care.
+
+US$                                                                     But new technologies also raise risks,
+
+
+
+
+2 million
+including risks of compromising patient
+safety and privacy, as well as introducing
+bias. Errors by individual health workers
+affect only their patients, whereas the
+consequences of AI errors could unfold
+cost per patient of recent cell                                         at a whole new scale. Since training data
+and gene therapies                                                      sets in health often skew white and male,44
+AI could fail to spot symptoms or devise
+effective treatment plans for everyone else.
+These outcomes will be tough to predict or
+Disruptive technologies. Over the                 avoid because AI’s black-box nature makes
+centuries health systems have embraced            it difficult to understand how it reaches
+many innovations, sometimes without               conclusions—making it hard to spot bias.
+waiting for them to be proven safe and            Health data are especially vulnerable to
+effective. Healthcare providers and payers        cyberattacks,45 with risks of individuals being
+are already using today’s emerging                identified even from anonymized data (see
+technologies—machine learning and artificial      Chapter 5, Wild Wide Web).
+intelligence (AI), sensors, digital therapies,
+telemedicine and so on—to support both            Pharmaceutical revolution. Highly complex,
+clinical and operational decisions: to triage     specialized new drugs promise radically better
+symptoms,41 interpret diagnostic tests,42         treatment for devastating diseases—but they
+create personalized treatment plans43             come at exorbitant prices. For example, three
+and predict re-admissions at a hospital or        recently launched cell and gene therapies
+epidemics in a population. Combined with          cost up to US$2 million per patient. Over
+human capacity, these technologies could          the next few years, between 15 and 30 new
+
+
+78   False Positive

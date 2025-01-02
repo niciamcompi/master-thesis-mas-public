@@ -1,0 +1,66 @@
+The 4IR: The new economy                                      and businesses: our surveys rank them
+as the seventh most likely and eighth
+More than 50% of the world’s population                       most impactful risk, and the second most
+is now online;1 roughly one million more                      concerning risk for doing business globally
+people join the internet each day.2                           over the next 10 years (see Figure II, The
+Two-thirds of humanity own a mobile                           Global Risks Landscape). Fifth generation
+device.3 Fourth Industrial Revolution                         (5G) networks, quantum computing and
+(4IR) technologies are already bringing                       AI are creating not only opportunities but
+tremendous economic and societal benefits                     also new threats of their own. The lack
+to much of the global population.                             of a global governance framework for
+technology risks fragmenting cyberspace,
+The next wave of 4IR technologies will                        which could deter economic growth,
+dramatically reshape economies and                            aggravate geopolitical rivalries and widen
+societies. Precision medicine, autonomous                     divisions within societies.
+vehicles and drones are all fast-growing
+markets (see Figure 5.1), while artificial
+intelligence (AI) alone is expected to boost                  The dangers of digital
+global growth by 14% by 2030.4                                innovation
+Smart technologies have enormous potential                    Cyberattacks. The digital nature of 4IR
+to improve both human life and the health                     technologies makes them intrinsically
+of the planet. For example, satellite-based                   vulnerable to cyberattacks that can take
+applications can aid rural farmers to irrigate                a multitude of forms—from data theft
+their crops efficiently.5 Prostheses can be                   and ransomware to the overtaking of
+3D printed.6 Autonomous vehicles can                          systems with potentially large-scale harmful
+be employed by the elderly to support                         consequences. Operational technologies
+better mobility.7 The Internet of Things (IoT)                are at increased risk because cyberattacks
+can even help to lower CO2 emissions by                       could cause more traditional, kinetic impacts
+optimizing energy consumption and reducing                    as technology is being extended into the
+traffic congestion.8                                          physical world, creating a cyber-physical
+system. However, using “security-by-design”
+However, many unintended consequences                         principles to integrate cybersecurity features
+have also surfaced. Cyberattacks have                         into new products is still secondary to getting
+become a common hazard for individuals                        products quickly out into the market.
+
+
+
+
+FIGURE 5.1
+
+2025 Market Projections for 4IR Technologies
+
+Cloud computing US$623 billion
+
+
+
+
+Autonomous cars US$416 billion
+
+
+
+Precision medicine US$82 billion
+
+
+Drones US$52 billion
+
+
+
+
+Sources: Cloud computing: https://www.researchcosmos.com/reports/cloud-computing-market/92916729; Precision medicine: https://www.globenewswire.
+com/news-release/2019/08/22/1905339/0/en/Global-Precision-Medicine-Market-Expected-To-Reach-over-USD-86-25-Billion-By-2025-Zion-Market-Research.
+html; Drones: https://www.researchandmarkets.com/research/vx2jd5/global_unmanned?w=5; Autonomous cars: https://www.marketwatch.com/press-
+release/autonomous-car-market-value-at-expected-to-reach-usd-41639-billion-by-2025-cagr-412-2019-07-26?mod=mw_quote_news
+
+
+
+62   Wild Wide Web

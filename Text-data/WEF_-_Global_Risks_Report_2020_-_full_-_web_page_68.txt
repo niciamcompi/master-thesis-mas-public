@@ -1,0 +1,65 @@
+Cyberattacks on critical infrastructure—        uncovered, including in such areas as brain-
+rated the fifth top risk in 2020 by our         computer interfaces and hyper-automation
+expert network—have become the new              (combining robotics and AI). 25
+normal across sectors such as energy,9
+healthcare,10 and transportation.11 Such        Fifth generation (5G). 4IR technologies
+attacks have even affected entire cities.12     rely on high-speed digital infrastructure—on
+Public and private sectors alike are at         5G networks and, further down the road,
+risk of being held hostage. Organized           6G.26 While 5G technology can be built in
+cybercrime entities are joining forces,13       part on existing 4G infrastructure, significant
+and their likelihood of detection and           shortfalls in capacity are expected as
+prosecution is estimated to be as low as        early as 2020 in some countries.27 Current
+0.05% in the United States.14 Cybercrime-       projections show the risk of a US$1
+as-a-service is also a growing business         trillion global gap in telecommunication
+model, as the increasing sophistication         infrastructure investments through 2040.28
+of tools on the Darknet makes malicious         In developed countries, the challenge is
+services more affordable and easily             not only to build modern infrastructure
+accessible for anyone.                          but also to overcome reliance on legacy
+systems, on which the public and private
+The IoT is also amplifying the potential        sectors currently spend up to 80% of their
+cyberattack surface. It is estimated that       technology budgets. Here, introducing
+there are already over 21 billion IoT devices   new, safe and reliable systems into existing
+worldwide,15 and their number will double       capabilities is key; some entities have
+by 2025.16 Attacks on IoT devices increased     already begun to do this.29
+by more than 300% in the first half of
+2019,17 while in September 2019, IoTs were
+
+
+
+
+One million
+used to take down Wikipedia through
+classic distributed denial of service (DDoS)
+attacks,18 and the risk of IoT devices being
+used as intermediaries is expected to
+increase.19 In 2021, cybercrime damages
+might reach US$6 trillion20— what would be      additional people joining the
+equivalent to the GDP of the world’s third      internet daily
+largest economy.21
+
+Vulnerable data. 4IR technologies
+run on data, making privacy a major             Quantum computing. Quantum computing
+challenge. IoT devices collect and share        could dramatically reduce the time needed
+data that are potentially highly sensitive      to solve the mathematical problems on
+for individuals, companies and states,          which encryption techniques currently rely—
+from personal identification and medical        from months to minutes and seconds.30 It
+records to national security information.       risks rendering useless most of our existing
+The data brokering market—aggregating,          data security and critical infrastructure
+disaggregating, copying, searching and          systems, including military networks, email
+selling data for commercial purposes—is         and power grids.31
+worth an estimated US$200 billion a year.22
+Data theft can enable the manipulation of       Cloud computing. While many technical
+individual and collective behaviour, leading    advancements of 4IR are essentially
+to physical and psychological harm.             digitally based, cloud computing has
+the potential to enhance trans-sectoral
+Artificial intelligence (AI). AI has been       development, expand technological access
+dubbed both “the most impactful invention”      to remote areas and further link AI to
+and our “biggest existential threat”.23         other 4IR technologies. At the same time,
+Indeed, we may not even be able to              with increasingly more data hosted in the
+comprehend AI’s full potential—or its full      cloud, companies are amassing personal
+risk. Some risks—such as manipulation           information like never before, which could
+through fake news and “deepfakes”—are           ultimately create potential new data privacy
+well known.24 Others are yet to be fully        and security risks.32
+
+
+The Global Risks Report 2020   63

@@ -1,0 +1,65 @@
+desire for its own cloud—in part to retain          then-IMF Chair Christine Lagarde warned,
+valuable data now being extracted by foreign        “being alert to risks in terms of financial
+players—risks it falling behind in this global      stability, privacy or criminal activities, and
+race. Other economic risks include:                 ensuring appropriate regulation is in place to
+steer technology toward the public good.”49
+Fragmentation costs. In today’s
+hyperconnected global economy, it is                Societal risks
+estimated that a total shutdown of the internet     The differential speed of 4IR developments
+would result in a daily GDP loss of 1.9% in         around the world risks widening divides
+a high-connectivity country and 0.4% in a           between nations. Highly digitized economies
+low-connectivity country.45 Fragmentation of        have the capacities and capital to invest in
+cyberspace and technologies could aggravate         future technologies, leaving behind others—
+these economic consequences by having               especially in Africa, ASEAN and Latin
+negative effects on businesses’ use of cloud        America—that currently trail in areas such
+services,46 increased transactional costs of        as patents, IoT development and market
+doing business across parallel jurisdictions        capitalization.50 Societal risks include:
+and lower productivity by requiring different
+production lines for different markets.             Digital divide and wealth gaps. A widening
+These economic consequences undermine               digital divide between countries risks a
+businesses’ ability to realize the       vicious cycle, as increasing wealth gaps and
+potential of 4IR technologies.           a brain drain make it harder for those left
+
+
+
+
+80
+behind to catch up, and easier for regions
+Loss of sustainability. As the           to miss critical investment opportunities that
+world is on the brink of climate         would allow access to new 4IR technology
+collapse (see Chapter 3, A Decade        markets. Hence, countries could lose out
+Left), the necessary duplication         on the compounding effect of investments
+of efforts for overcoming such           and subsequently lack the R&D capabilities
+number of                       technical fragmentation would            needed to thrive, contributing to yet further
+international                   not only be economically                 brain drain. Within countries, wealth gaps
+counterproductive, but also              could also increase: automation is forecasted
+frameworks                      environmentally inefficient. This        to hit low-skilled workers and women the
+of ethics                       inefficiency is further amplified        hardest.51 Societal divides could also widen
+by countries’ pursuit of isolated        between rural and urban areas in developing
+and AI                          national technology regulations.         economies,52 and between smart and non-
+Adaptation to different products         smart cities in developed countries.53 The
+for different markets would              wide-scale affordability of new technologies
+inevitably increase the negative                    will be one important factor for minimizing
+environmental footprint of any industry. At         the digital divide.54
+the same time, today’s ecological footprint
+of mass data generated for and by AI—               A human dystopia. Given the growing
+for example, the energy required to run             societal awareness of problems such as
+servers—is already considerable.47                  biased algorithms and cyberbullying,55 there
+are many calls for deeper engagement on
+Monetary and fiscal risks. The lack of              questions of ethics in the development and
+coordinated efforts by nations on how to            use of 4IR technologies.56 Due diligence must
+capture wealth created by open trade and            be applied to avoid negative consequences
+through digital means is a major challenge,         for under-represented communities. The lack
+creating disparities with local companies           of a global technological framework could
+and between countries. Moreover, new                lead to a dystopia involving, for example,
+digital currencies operating outside a clear        cyberbullying without consequences,
+regulatory framework could undermine                workplace surveillance and the erosion of
+sovereign currencies and international              employee privacy.57
+cooperation against money laundering.
+Collapse in confidence in digital currencies        While the open cyberspace has allowed
+could also threaten financial stability.48 At the   the democratization of certain processes
+same time, innovation in this space could           and increased access to information and
+provide social benefit but this requires, as        data, growing opportunities for promoting
+
+
+66   Wild Wide Web
