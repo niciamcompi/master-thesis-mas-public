@@ -1,0 +1,53 @@
+organizations so that we consider                   their boards were less likely to fail.2              way are more likely to solve
+our decisions from multiple angles                  The explanation: non-bankers were                    complex, evolving problems.
+and avoid groupthink. One                           more likely to disrupt groupthink
+approach, pioneered by NASA’s                       by challenging seemingly obvious
+Jet Propulsion Laboratory (JPL), is                 assumptions. As one bank CEO
+to embed a sceptic in every project                 with a professionally diverse board                  Imagine failure
+team—specifically, an engineer                      put it: “When we see something
+from JPL’s Engineering Technical                    we don’t like, no one is afraid                      Cognitive biases are often the
+Authority (ETA).                                    to bring it up.”                                     source of the small errors that
+trigger major failures in complex,
+ETA engineers are ideal sceptics.                                                                        tightly coupled systems.
+They are skilled enough to                                                                               Fortunately, there are some
+understand the technology and                       Learn to stop                                        simple techniques we can use to
+the mission but detached enough                                                                          make better decisions. One is the
+to bring a distinct perspective. And                When faced with a problem or                         “premortem”.3 Imagine that it’s
+the fact that they are embedded in                  surprising event, our instinct is                    six months from now and that the
+the organization, but with their own                often to push forward. But sticking                  ambitious project you’re about
+reporting lines, means that project                 to a plan in the face of an emerging                 to undertake has failed. The
+managers cannot just dismiss their                  problem can easily lead to a dis-                    premortem involves working
+concerns. If an ETA engineer and                    aster. Stopping gives us a chance                    backward to come up with reasons
+a project manager cannot agree                      to assess unexpected threats                         for the failure and ideas for what
+about a particular risk, they take                  and figure out what to do before                     could have been done to prevent it.
+their issue to the ETA manager,                     things get out of hand. It sounds                    The process is distinct from brain-
+who tries to broker a technical                     simple, but in practice it can be                    storming about risks that might
+solution, gets additional resources                 nerve-wracking for team members                      emerge: by asserting that failure
+for the mission, or escalates the                   to trigger delays and disruption for                 has already happened, we tap
+issue to JPL’s Chief Engineer.                      something that might turn out to                     into what psychologists call
+be a false alarm. This is something                  “prospective hindsight”, letting us
+Another effective way to cultivate                  leaders need to actively encourage.                  anticipate a broader and more
+scepticism is through diversity.                                                                         vivid set of problems.
+Surface-level diversity (differences                In some cases, stopping may not
+of race and gender, for example)                    be an option. In those situations,                   Similarly, the use of predetermined
+fosters healthy dissent in                          effective crisis management                          criteria to make decisions can
+organizations. Research shows                       requires rapidly cycling between                     prevent us from relying on our
+that diverse groups ask tougher                     doing, monitoring, and diagnosing.                   (often incorrect) gut reactions. Too
+questions, share more information                   We do something to try and fix the                   often, we base decisions on
+and discuss a broader range of                      system. We monitor what happens                      predictions that are overly
+relevant factors before making a                    in response, checking to see if our                  simplistic, missing important
+decision. Diversity in professional                 actions had the intended effect. If                  possible outcomes. For example,
+backgrounds matters, too. In                        they didn’t, we use the information                  we might anticipate that a project
+one study that tracked over a                       from our monitoring to make a new                    will take between one and three
+thousand small banks for nearly                     diagnosis and move to the next                       months to complete. One way of
+two decades, researchers found                      phase of doing. Research shows                       being more structured about this
+that banks with fewer bankers on                    that teams that cycle rapidly in this                kind of forecast is to use
+2
+Alamandoz, J. and A. Tilcsik. 2016. “When Experts Become Liabilities: Domain Experts on Boards and Organizational Failure”. Academy of Management
+Journal 59, 4 (2016): 1124–49.
+3
+Klein, G. 2007. “Performing a Project Premortem”. Harvard Business Review. September 2007.
+
+
+
+92   The Global Risks Report 2019

@@ -1,0 +1,61 @@
+Global Risks 2019
+
+
+
+
+O P E N                      S E C R E T S
+
+When the huge resources being           QUANTUM COMPUTING RENDERS
+devoted to quantum research lead
+to large-scale quantum computing,       CURRENT CRYPTOGRAPHY OBSOLETE
+many of the tools that form the
+basis of current digital cryptography
+will be rendered obsolete. Public
+key algorithms, in particular, will
+be effortlessly crackable. Quantum
+also promises new modes of
+encryption, but by the time new
+protections have been put in place
+many secrets may already have
+been lost to prying criminals,
+states and competitors.
+
+A collapse of cryptography
+would take with it much of the
+scaffolding of digital life. These
+technologies are at the root of
+online authentication, trust and
+even personal identity. They keep
+secrets—from sensitive personal
+information to confidential
+corporate and state data—safe.
+And they keep fundamental
+services running, from email
+communication to banking
+and commerce. If all this
+breaks down, the disruption
+and the cost could be massive.
+
+As the prospect of quantum
+code-breaking looms closer, a
+transition to new alternatives—
+such as lattice-based and hash-
+based cryptography—will gather
+pace. Some may even revert to
+low-tech solutions, taking sensitive
+information offline and relying
+on in-person exchanges. But
+historical data will be vulnerable
+too. If I steal your conventionally
+encrypted data now, I can bide
+my time until quantum advances
+help me to access it, regardless
+of any stronger precautions you
+subsequently put in place.
+
+
+
+
+TheGlobal
+The  GlobalRisks
+Risk Report 2019   67

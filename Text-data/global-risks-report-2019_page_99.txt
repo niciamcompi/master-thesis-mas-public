@@ -1,0 +1,52 @@
+Subjective Probability Interval
+Estimates (SPIES), which entails                        Chris Clearfield and András
+dividing the entire possible range                      Tilcsik are the co-authors of
+of outcomes into intervals and then                     Meltdown: Why Our Systems
+estimating the probability of each.                     Fail and What We Can Do
+In our example, we might consider                       About It (Penguin Press, 2018).
+six intervals for the project’s
+duration: zero to one month, one
+to two months, two to three
+months, three to four months,
+four to five months, and more
+than five months.4
+
+
+
+
+Conclusion
+Even with all these techniques,
+things will go wrong. When they
+do, we need to do a better job of
+learning lessons. Too often there
+is practically a script: a superficial
+post-mortem is conducted, an
+individual or a specific technical
+problem is found to be at fault, and
+a narrow fix is implemented. Then
+it’s back to business as usual. That
+is not good enough anymore.
+We need to face reality with a
+blameless process that not only
+identifies specific issues but also
+looks at broader organizational and
+systemic causes. Only by doing
+this—and by recognizing early
+warning signs, building scepticism
+into organizations, using structured
+decision tools and managing our
+crises better—will we be able to
+prevent the “unprecedented errors”
+that seem to be a defining feature
+of the modern world.
+
+
+
+
+4
+Haran, U. and A. Moore. 2014. “A Better Way to Forecast”. California Management Review 57 (1): 5–15.
+
+
+
+
+The Global Risks Report 2019   93

@@ -1,0 +1,49 @@
+As environmental risks crystallize      including Thailand, Malaysia and        into every aspect of life. Around
+with increasing frequency and           Vietnam. However, all three of          two-thirds of respondents expect
+severity, the impact on global          those countries have since              the risks associated with fake news
+value chains is likely to intensify,    announced their own new                 and identity theft to increase in
+weakening overall resilience.           restrictions or bans on plastic         2019, while three-fifths said the
+Disruptions to the production and       imports. In sum, as the impact of       same about loss of privacy to
+delivery of goods and services          environmental risks increases, it       companies and governments.
+due to environmental disasters          will become increasingly difficult      The potential psychological
+are up by 29% since 2012.28 North       to treat those risks as externalities   effects of the increasing digital
+America was the region worst            that can be ignored or shipped          intermediation of people’s lives
+affected by environment-related         out. Domestic and coordinated           is discussed in Chapter 3
+supply-chain disruptions in 2017;       international action will be needed     (Heads and Hearts).
+these disruptions were due notably      to internalize and mitigate the
+to hurricanes and wildfires.29 For      impact of human activity on             Malicious cyber-attacks and lax
+example, in the US automotive           natural systems.                        cybersecurity protocols again led
+industry, only factory fires and                                                to massive breaches of personal
+company mergers caused more                                                     information in 2018. The largest
+supply-chain disruptions than                                                   was in India, where the government
+hurricanes.30 When the disruptions      Technological                           ID database, Aadhaar, reportedly
+are measured by the number of           instabilities                           suffered multiple breaches that
+suppliers affected rather than the                                              potentially compromised the records
+number of individual events, the        Technology continues to play a          of all 1.1 billion registered citizens. It
+four most significant triggers in       profound role in shaping the global     was reported in January that crimi-
+2017 were hurricanes, extreme           risks landscape for individuals,        nals were selling access to the data-
+weather, earthquakes and floods.31      governments and businesses. In          base at a rate of 500 rupees for 10
+the GRPS, “massive data fraud and       minutes, while in March a leak at a
+Upheavals in the global waste           theft” was ranked the number four       state-owned utility company allowed
+disposal and recycling supply chain     global risk by likelihood over          anyone to download names and
+during 2018 may be a foretaste.         a 10-year horizon, with “cyber-         ID numbers.34 Elsewhere, personal
+China banned the import of foreign      attacks” at number five. This           data breaches affected around
+waste, including almost 9 million       sustains a pattern recorded last        150 million users of the
+tons of plastic scrap, to reduce        year, with cyber-risks consolidating    MyFitnessPal application,35 and
+pollution and strain on its national    their position alongside                around 50 million Facebook users.36
+environmental systems.32 This           environmental risks in the high-
+ban exposed weaknesses in the           impact, high-likelihood quadrant of     Cyber vulnerabilities can come
+domestic recycling capacity of          the Global Risks Landscape (Figure      from unexpected directions, as
+many Western countries. Plastic         I). A large majority of respondents     shown in 2018 by the Meltdown
+waste built up in the United            expected increased risks in 2019        and Spectre threats, which
+Kingdom, Canada and several             of cyber-attacks leading to theft of    involved weaknesses in computer
+European states. In the first half of   money and data (82%) and                hardware rather than software.
+2018 the United States sent 30%         disruption of operations (80%). The     They potentially affected every Intel
+of the plastic that would previously    survey reflects how new instabilities   processor produced in the last
+have gone to China to landfill,33       are being caused by the deepening       10 years.37 Last year also saw
+and the rest to other countries         integration of digital technologies     continuing evidence that cyber-
+
+
+
+
+16   The Global Risks Report 2019

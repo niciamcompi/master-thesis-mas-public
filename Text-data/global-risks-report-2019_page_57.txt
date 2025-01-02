@@ -1,0 +1,48 @@
+not apply in many countries; and       The challenges of regulating             Governance challenges also
+screening standards, technologies      synthetic biology will intensify         exist in relation to “conventional”
+and incentives have not kept pace      as mutually reinforcing advances         pandemic preparedness, despite
+with the rapid evolution of DNA        are made across the various              advances such as the establishment
+synthesis technologies and             technologies that make up the            of a Global Preparedness Monitoring
+business models. More rigorous         Fourth Industrial Revolution. For        Board and a Pandemic Emergency
+transparency and oversight             example, machine learning can            Financing Facility.37 The WHO’s
+requirements are needed, as well       identify which influenza mutations       Contingency Fund for Emergencies,
+as stronger norms applying to          would prove most deadly.35 The           established in 2015 to enable rapid
+work that might increase               rationale for this research was to       responses to disease outbreaks and
+pandemic risks.                        enable more efficient outbreak           health crises, is funded at only one-
+responses, but machine learning          third of its annual US$100 million
+In another example of self-            could equally be deployed to             target. The international system for
+governance, in 2015 the National       help a hostile actor build a better      sharing biological samples, vital for
+Academy of Sciences of the United      biological weapon. Work is also          disease surveillance and response,
+States, the Institute of Medicine,     being done at the intersection           appears to have been weakened
+the Chinese Academy of Sciences        of artificial intelligence and gene      since the introduction of the Nagoya
+and the Royal Society of London        editing, with consequences that          Protocol. This is an agreement on
+convened scientists to consider the    are uncertain—not only practically       “access and benefit sharing” that
+future of germline editing, which      but ethically too.36 While continued     has been interpreted to give states
+changes the DNA that is passed on      innovation must be encouraged,           greater rights over virus samples
+from generation to generation. The     too little attention has so far been     collected on their territory.38 It has
+group issued a recommendation          paid to emerging risks of high-          revived concerns in some countries
+against performing germline editing    impact events.                           about samples being used to create
+on human embryos.32 However,                                                    vaccines generating benefits that are
+this kind of recommendation is         The challenge of establishing norms      not fairly shared.39
+difficult to enforce and researchers   that can be enforced globally is
+in China subsequently used             exacerbated by geo-economic              Negotiations around access and
+CRISPR to correct a mutation in        competition across advanced              benefits have already delayed
+nonviable human embryos.33 Some        technologies, as discussed in            responses to novel outbreaks
+top-tier journals refused to publish   Chapter 2 (Power and Values).            and even started to complicate
+this research, in part on ethical      But the field of synthetic biology is    the exchange of seasonal influenza
+grounds, but that has not              still young enough for norms and         samples. It would be dangerous
+prevented further work in this         practices to be put in place that will   if differences between countries
+area. In November last year the        steer its development in the years       were not swiftly and equitably
+dividing line between technology       and decades ahead. There is an           resolved: in few areas is apolitical
+and humanity was further blurred       analogy with the internet: with          commitment to open and
+when a researcher in China             hindsight, a much stronger security      collaborative exchange as
+claimed to have created the first      focus could have been incorporated       crucial as in global health security.
+gene-modified babies, twin girls       in its building blocks at an early
+whose genomes had been altered         stage. Cybersecurity experts see
+to make them resistant to HIV.34       a similar opportunity in synthetic
+biology today.
+
+
+
+
+The Global Risks Report 2019   51

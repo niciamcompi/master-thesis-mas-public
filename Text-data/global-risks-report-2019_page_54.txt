@@ -1,0 +1,46 @@
+effective vaccine against Ebola           A pattern of panic and neglect          coverage rates are falling as a result
+developed in 12 months, rather            tends to affect pandemic                of unfounded safety concerns.19
+than the normal development               preparedness. During and after
+cycle of 5–10 years. The estimated        every major outbreak, leaders
+costs of developing vaccines for          are quick to call for increased
+other key diseases greatly exceeds        investment in preparedness. Real        Synthetic biology is
+the resources currently devoted           progress often follows these calls—     amplifying risks
+to such work. One 2018 study              but as the effects of the outbreak
+assessed the minimum cost of              fade, neglect sets in again until a     Synthetic biology technologies have
+developing a vaccine for each of          new outbreak erupts; this prompts       the potential to transform the risk
+11 infectious diseases previously         a new burst of panic, in which time     landscape. The possible gains
+highlighted by the WHO at be-             and energy may be wasted on             are profound—they include new
+tween US$2.8 and 3.7 billion.15 By        unnecessary and potentially             ways of producing chemicals,
+contrast, the Coalition for Epidemic      costly measures. For example,           pharmaceuticals, fuels and
+Preparedness Innovations (CEPI),          throughout the 2014–16 Ebola            electronics—but so is the risk of
+set up in 2017 to coordinate and          epidemic, the WHO advised that          things going badly wrong. The skills
+finance vaccine development, has          general travel restrictions were        and equipment required to replicate
+committed to invest just US$1             unnecessary but still registered        and alter the building blocks of life
+billion by 2021.16                        41 instances of restrictions being      are proliferating rapidly. Driven by
+placed on international travel.18       scientific advances and market
+The weakness of basic                                                             forces, the cost of DNA synthesis
+preparedness in individual                Our ability to respond to biological    has decreased at a rate faster than
+countries is an important obstacle        risks is also being hampered            Moore’s Law: more and more
+to pandemic responses. Progress           by carelessness. Misuse and             people around the world have
+has been made, particularly since         overuse of antibiotics continues        access to powerful biotechnologies
+the 2014–16 Ebola epidemic, but           to undermine the efficacy of one        that were once accessible only to
+most countries have not yet reached       of the most important medical           well-established and well-funded
+minimum international standards           countermeasures ever discovered.        scientists.20 A state-of-the-art DNA
+of capacity to detect, assess,            Similarly, an erosion of vaccine        synthesis facility can already be built
+report and respond to acute public        norms is leading to a resurgence        in a space the size of a shipping
+health threats as set out in binding      of older biological threats that were   container, and miniaturization is
+regulations that took effect in 2007.17   thought to have been defeated:          advancing rapidly—enzymatic DNA
+Thus when an outbreak hits,               for example, incidents of measles—      synthesis can now be accomplished
+appropriate responses may be              which pose a serious threat for         with a desktop device.21 Carrying
+absent or delayed, and resources          babies, toddlers and young              out this kind of work does not create
+will be stretched to deal with other      people—are increasing across            any external “signature” that would
+epidemic events that may emerge.          Europe because vaccination              distinguish a facility synthesizing
+
+
+
+
+Outbreaks since 2000 have been described
+as a “roll call of near-miss catastrophes”
+
+
+48   The Global Risks Report 2019

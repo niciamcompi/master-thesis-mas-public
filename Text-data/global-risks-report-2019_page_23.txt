@@ -1,0 +1,45 @@
+The vulnerability of critical
+technological infrastructure
+is a growing national
+security concern
+
+attacks pose risks to critical            the potential for malicious actors
+infrastructure. In July the US            in synthetic biology to use AI to
+government stated that hackers            create new pathogens. One of
+had gained access to the control          this year’s Future Shocks
+rooms of US utility companies.38          (Chapter 6) considers the
+The potential vulnerability of critical   potential consequences of
+technological infrastructure has          “affective computing”—referring to
+increasingly become a national            AI that can recognize, respond to
+security concern. The second most         and manipulate human emotions.
+frequently cited risk interconnection
+in this year’s GPRS was the               Among the most widespread and
+pairing of cyber-attacks with             disruptive impacts of AI in recent
+critical information infrastructure       years has been its role in the rise
+breakdown.                                of “media echo chambers and fake
+news”, a risk that 69% of GRPS
+Machine learning or artificial            respondents expect to increase
+intelligence (AI) is becoming more        in 2019. Researchers last year
+sophisticated and prevalent,              studied the trajectories of 126,000
+with growing potential to amplify         tweets and found that those
+existing risks or create new ones,        containing fake news consistently
+particularly as the Internet of           outperformed those containing true
+Things connects billions of devices.      information, on average reaching
+In a survey conducted last year by        1,500 people six times more quick-
+Brookings, 32% of respondents             ly. One possible reason cited by
+said they view AI as a threat to          researchers is that fake news tends
+humanity, while only 24% do not.39        to evoke potent emotions: “Fake
+IBM last year revealed targeted AI        tweets tended to elicit words
+malware that can “hide” a                 associated with surprise and
+well-known threat—WannaCry—               disgust, while accurate tweets
+in a video-conferencing application,      summoned words associated with
+activating only when it recognizes        sadness and trust.”41 The interplay
+the face of the intended target.40        between emotions and technology
+Similar innovations are likely to         is likely to become an ever more
+occur in other fields. For example,       disruptive force.
+Chapter 4 (Going Viral) highlights
+
+
+
+
+The Global Risks Report 2019   17

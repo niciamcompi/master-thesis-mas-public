@@ -1,0 +1,78 @@
+Managing in the Age of Meltdowns                                                                threats are brewing. But many
+organizations fail to learn from such
+By András Tilcsik and Chris Clearfield                                                          near misses. It is an all-too-human
+tendency familiar from everyday life:
+we treat a toilet that occasionally
+clogs as a minor inconvenience
+While we are right to worry about                        missions. Since then, however, we
+rather than a warning sign—until it
+major events—such as natural                             have added an enormous amount
+overflows. Or we ignore subtle
+disasters, extreme weather and                           of complexity to our world. From
+warning signs about our car rather
+coordinated cyber-attacks—it is                          connected devices and global
+than taking it into the repair shop.
+often the cascading impact of                            supply chains to the financial
+In a complex system, minor glitches
+small failures that brings down our                      system and new intricate
+and other anomalies serve as
+systems. The sociologist Charles                         organizational structures, the
+powerful warning signs—but
+Perrow identified two aspects of                         potential for small problems to
+only if we treat them as such.
+systems that make them vulnerable                        trigger unexpected cascading
+to these kinds of unexpected                             failures is now all around us.
+Leaders can build organizational
+failures: complexity and tight
+capabilities that attend to weak
+coupling.1 A complex system is                           The good news is that there are
+signals of failure. The pharmaceutical
+like an elaborate web with many                          solutions. Though we often
+giant Novo Nordisk started
+intricately connected parts,                             cannot simplify our systems, we
+developing such capabilities after
+and much of what goes on in it is                        can change how we manage them.
+senior executives were shocked by a
+invisible to the naked eye. A tightly                    Research shows that small changes
+manufacturing quality breakdown
+coupled system is unforgiving:                           in how we organize our teams and
+that cost more than US$100 million.
+there is little slack in it, and the                     approach problems can make a
+In the wake of the failure, Novo
+margin for error is slim.                                big difference.
+Nordisk did not blame individuals
+or encourage managers to be more
+When something goes wrong in
+vigilant. Instead, it created a new
+a complex system, problems start
+group of facilitators tasked with
+popping up everywhere, and it is                         Think small                            interviewing people in every unit and
+hard to figure out what’s happening.
+at all levels to make sure important
+And tight coupling means that the                        In complex and tightly coupled
+issues don’t get lost at the bottom
+emerging problems quickly spiral                         systems—from massive information
+of the hierarchy. The group follows
+out of control and even small                            technology (IT) projects to business
+up on small issues before they
+errors can cascade into massive                          expansion initiatives—it is not
+become big problems.
+meltdowns.                                               possible to identify in advance all
+the ways that small failures might
+When Perrow developed his                                lead to catastrophic meltdowns.
+framework in the early 1980s, few                        We have to gather information
+systems were both highly complex                         about close calls and little things
+Encourage
+and tightly coupled; the ones that                       that are not working to understand     scepticism
+were tended to be in exotic, high-                       how our systems might fail. Small
+tech domains such as nuclear                             errors give us great data about        When success depends on
+power plants, missile warning                            system vulnerabilities and can help    avoiding small failures, we need to
+systems and space-exploration                            us discover where more serious         build scepticism into our
+
+1
+Perrow, C. 1999. Normal Accidents. Princeton, NJ: Princeton University Press.
+
+
+
+
+The Global Risks Report 2019   91
