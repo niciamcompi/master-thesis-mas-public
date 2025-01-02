@@ -1,0 +1,55 @@
+Appendix B: Global Risks Perception Survey and Methodology
+
+
+
+
+The Global Risks Perception Survey           Changes from Previous                       ––   Political or economic
+(GRPS), discussed in the chapter                                                              confrontations/frictions between
+“Fractures, Fears and Failures”, is the      Editions                                         major powers
+World Economic Forum’s source of                                                         ––   State-on-state military conflict or
+original data harnessing the expertise       Building on the adjustments made to              incursion
+of the Forum’s extensive network of          the Global Risks Landscape for the          ––   Regional conflicts drawing in major
+business, government, civil society and      2017 edition of the report, this year we         power(s)
+thought leaders. The survey was              also have adjusted the likelihood scale     ––   Loss of confidence in collective
+conducted from 28 August to 1                to a 1–5 scale and used a more                   security alliances
+November 2017 among the World                meaningful scale to assess likelihood,      ––   Erosion of multilateral trading rules
+Economic Forum’s multistakeholder            with a particular probability attached to        and agreements
+communities, members of the Institute        each:                                       ––   Erosion of global policy
+of Risk Management and the                   –– Selecting “very unlikely” means               coordination on climate change
+professional networks of our Advisory             that you believe the event has a
+Board Members. The results of the                 probability of occurring within the    Respondents could then choose
+GRPS are used to draw the Global                  next 10 years of less than 20%.        “significantly increase”, “somewhat
+Risks Landscape, Interconnections            –– Selecting “unlikely” means that you      increase”, “no change”, “somewhat
+Map, and Trends Map presented, and                believe the event has a probability    decrease” or “significantly decrease”.
+to provide additional evidence used in            of occurring within the next 10
+the Global Risks Report.                          years of between 21% and 40%.
+–– Selecting “somewhat likely” means
+Both the GRPS and the report adopt                that you believe the event has a       Methodology
+the following definitions of global risk          probability of occurring within the
+and trend:                                        next 10 years of between 41% and       Instead of applying an overall threshold
+–– Global risk: A “global risk” is an             60%.                                   for the completion rate, we set specific
+uncertain event or condition that, if   –– Selecting “likely” means that you        validity criteria for each question.
+it occurs, can cause significant             believe the event has a probability    –– Section 1 “The World in 2018”:
+negative impact for several                  of occurring within the next 10             Question 1.01: Only respondents
+countries or industries within the           years of between 61% and 80%.               who assessed at least three of the
+next 10 years.                          –– Selecting “very likely” means that            six risks listed in this question were
+–– Trend: A “trend” is defined as a               you believe the event has a                 considered (999 respondents met
+long-term pattern that is currently          probability of occurring within the         the criterion).
+evolving and that could contribute           next 10 years of more than 81%.        –– Section 2 “Assessment of Global
+to amplifying global risks and/or                                                        Risks”: The answers from the 871
+altering the relationship between       In addition, the 2017–2018 edition of the        respondents who assessed the
+them.                                   GRPS contained a new section about               impact and likelihood of at least
+the expected evolution in 2018 of                one risk (the answer “no opinion” is
+additional global risks that are more            considered a valid answer) were
+specific and current than the broader            used to compute the results.
+risks covered in the core module. The       –– Section 3 “Global Risk
+survey asked the following: “Do you              Interconnections”: The answers
+think that in 2018 the risks presented by        from the 719 respondents who
+the following issues will increase or            selected at least one valid pair of
+decrease compared to 2017?”                      risks were used in the
+computation.
+
+
+
+
+The Global Risks Report 2018   63

@@ -1,0 +1,49 @@
+Antimicrobial Resistance
+
+
+In the 2013 Global Risks Report,                         drugs continues to spread inexorably.                 investigation in the United States
+a chapter entitled “The Dangers of                       The stakes are incredibly high—if                     determined that the accuracy of
+Hubris on Human Health” warned                           resistance overtakes all our available                Centers for Disease Control and
+about the growing risks associated                       antibiotics, it would spell the “the end              Prevention (CDC) estimates of
+with complacency towards                                 of modern medicine”.1                                 AMR effects—2 million infections
+antimicrobial resistance (AMR). It                                                                             and 23,000 deaths per year—is
+highlighted two underlying drivers:                                                                            undermined by problems such as
+the overuse and misuse of antibiotics,                   The costs are rising…                                 AMR-related deaths being mis-
+in both human health systems and                                                                               recorded on death certificates.4
+livestock management; and the fact                       The latest economic impact                            One of the most exhaustive official
+that no new classes of antibiotics                       assessments should be cause for                       studies of AMR—a two-year
+had been invented since the 1980s.                       alarm about the dangers of AMR                        review commissioned by the UK
+The chapter noted newly emerging                         to human health and the global                        government—concluded in 2016 that,
+resistance to the strongest class of                     economy. A study published by the                     globally, 700,000 deaths each year
+antibiotics, carbapenems. It cited                       World Bank in March 2017 estimated                    can be attributed to AMR.5 The Center
+estimates of 100,000 AMR-related                         that AMR would exert a drag on                        for Disease Dynamics, Economics
+deaths in US hospitals and 80,000 in                     global GDP of between 1.1 and 3.8                     & Policy (CDDEP) has been tracking
+China. The potential economic impact                     percentage points between now                         antimicrobial resistance globally—the
+was put at 0.4% to 1.6% of GDP.                          and 2050.2 According to estimates                     maps in Figure 4.1 illustrate their latest
+from a report supported by the UK                     data, which show impacts broadly
+The risks posed by AMR have                              government and the Wellcome Trust,                    unchanged when compared with
+continued to intensify in the five years                 AMR could cost US$100 trillion                        the European data for MRSA and
+since the 2013 report. Numerous                          between now and 2050, with the                        Klebsiella pneumoniae we cited in
+welcome initiatives have been                            annual death toll reaching 10 million                 2013.6 In October 2017, a new four-
+launched, but concrete successes in                      over that period.3                                    year global project that aims to track
+addressing the two drivers identified                                                                          the evolution of AMR in 195 countries
+above remain elusive. We still face two                  As in 2013, the patchiness of                         since 1990 was announced.7
+trends that spell potential disaster:                    data continues to make a precise
+new classes of drugs are not being                       assessment of the AMR problem
+invented and resistance to existing                      difficult. For example, a 2016 Reuters
+
+
+Figure 4.1: Selected AMR Rates
+Resistance of Staphylococcus aureus to Oxadcillin (MRSA), % Resistant              Resistance of Klebsiella pneumoniae to Cephalosporins (3rd gen), % Resistant
+(invasive isolates)                                                                (invasive isolates)
+
+
+
+
+Source: Figure courtesy Center for Disease Dynamics, Economics and Policy. Used with permission via Creative Commons license. https://resistancemap.cddep.org/
+AntibioticResistance.php
+
+Note: Countries in white indicate no data available.
+
+
+44    The Global Risks Report 2018

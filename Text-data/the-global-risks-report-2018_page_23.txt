@@ -1,0 +1,62 @@
+growing form of malware that locks          an attack on the SWIFT messaging
+targets out of their data and demands       network led to the theft of US$81
+a ransom in return for restoring            million from the central bank of
+access. Ransomware attacks                  Bangladesh. The European Aviation
+accounted for 64% of all malicious          Safety Agency has stated that aviation
+emails sent between July and                systems are subject to an average
+September last year,45 affecting double     of 1,000 attacks each month.49 Last
+the number of businesses compared           year saw reports of attempts to use
+with 2016.46 Notable examples               spear-phishing attacks (stealing data
+included the WannaCry attack,               or installing malware using individually
+which affected 300,000 computers            targeted email scams) against
+across 150 countries, and Petya             companies operating nuclear power
+and NotPetya, which caused huge             plants in the United States.50
+corporate losses: for example, Merck,
+FedEx and Maersk each reported              Most attacks on critical and strategic
+third-quarter losses of around US$300       systems have not succeeded—but
+to accelerate and the Internet of          million as a result of NotPetya.47          the combination of isolated successes
+Things is expected to expand from                                                      with a growing list of attempted
+an estimated 8.4 billion devices in        Beyond its financial cost, the              attacks suggests that risks are
+2017 to a projected 20.4 billion in        WannaCry attack disrupted critical          increasing. And the world’s increasing
+2020.39 What would once have been          and strategic infrastructure across         interconnectedness and pace
+considered large-scale cyberattacks        the world, including government             heightens our vulnerability to attacks
+are now becoming normal. For               ministries, railways, banks,                that cause not only isolated and
+example, in 2016, companies revealed       telecommunications providers, energy        temporary disruptions, but radical and
+breaches of more than 4 billion data       companies, car manufacturers and            irreversible systemic shocks.
+records, more than the combined            hospitals. It illustrated a growing trend
+total for the previous two years.40        of using cyberattacks to target critical
+Distributed denial of service (DDoS)       infrastructure and strategic industrial     Our growing
+attacks using 100 gigabits per second
+(Gbps) were once exceptional but
+sectors, raising fears that, in a worst-
+case scenario, attackers could
+vulnerability to
+have now become commonplace,
+jumping in frequency by 140% in 2016
+trigger a breakdown in the systems
+that keep societies functioning.
+systemic risks
+alone.41 And attackers have become         Many of these attacks are thought
+more persistent—in 2017 the average                                                    Humanity has become remarkably
+to be state sponsored. WannaCry’s           adept at understanding how to
+DDoS target was likely to be hit 32        ultimate impact was relatively low,
+times over a three-month period.42                                                     mitigate countless conventional risks
+largely because a “kill switch” was
+that can be relatively easily isolated
+discovered, but it highlighted the
+The financial costs of cyberattacks are                                                and managed with standard risk-
+vulnerability of a wide range of
+rising. A 2017 study of 254 companies      infrastructure organizations and            management approaches. But we
+across seven countries put the annual      installations to disruption or damage.      are much less competent when it
+cost of responding to cyberattacks at      Since the 2015 attack on Ukraine’s          comes to dealing with complex risks
+£11.7 million per company, a year-         power grid—which temporarily shut           in systems characterized by feedback
+on-year increase of 27.4%.43 The cost      down 30 substations, interrupting           loops, tipping points and opaque
+of cybercrime to businesses over the       power supply to 230,000 people48—           cause-and-effect relationships that
+next five years is expected to be US$8     evidence has been mounting of               can make intervention problematic.51
+trillion.44 Some of the largest costs in   further attempts to target critical
+2017 related to ransomware, a rapidly      infrastructure. In 2016, for example,
+
+
+
+
+The Global Risks Report 2018   15

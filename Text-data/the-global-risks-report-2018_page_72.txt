@@ -1,0 +1,133 @@
+Figure B.1: Survey Sample Composition
+International organizations
+6.04%
+Gender                                                        Expertise                                                           Organization type
+Environment
+6.04%
+
+
+Other
+1.71%
+Economics
+26.94%                                                                                                Business
+48.56%
+Male                                                                   Technology
+70.36%                                                                 21.68%                                          Academia
+20.47%
+Female
+27.93%               Geopolitics                                           Other                                                                            NGO
+8.54%
+Society
+25.10%                                      Other                                11.42%
+11.70%                                                                      5.64%
+
+Government
+7.87%
+
+
+
+
+Region
+
+Age distribution
+Eurasia
+Europe                 0.27%
+42.86%
+
+
+North America
+22.03%
+East Asia and the Pacific
+12.68%
+
+Middle East and
+4.88%        19.00%           33.64%            25.46%       11.21%       5.80%
+North Africa
+3.60%
+<30          30–39            40–49             50–59        60–69        >70
+Latin America
+and the Caribbean
+7.88%
+South Asia
+Sub-Saharan Africa         3.34%
+7.34%
+Source: World Economic Forum Global Risks Perception Survey 2017–2018
+Note: Reported shares are based on the number of participants who responded to biographical questions (Age: 758 responses, Gender: 759 responses,
+Expertise: 761 responses, Organization type: 762 response, Region: 749 responses)
+
+
+N1i
+1
+likelihoodi               likelihoodi,n
+––         Section 4 “Assessments of                               occurring globally within the next 10                                                            Ni N1i
+n=1
+Trends”: The answers from the 684                       years and about its negative impact for                                                          1
+likelihoodi               likelihoodi,n
+respondents who selected at least                       several countries or industries within                                                           Ni
+n=1
+one combination of an important                         the next 10 years. For the first question,
+trend and at least one associated                       the possible answers ranged from
+N2i
+risk were used in the computation.                      “very unlikely” to “very likely”. These five                                               1
+choices were turned into a 1–5 scale (1                                          impacti =        impacti,n
+Ni N2i
+n=1
+Figure B1 presents some key                                        = very unlikely, 5 = very likely). For the                                                 1
+impacti =        impacti,n
+descriptive statistics and information                             question on impact, respondents could                                                      Ni
+n=1
+about the profiles of the respondents.                             select one of five choices: “minimal”,                           where Ni is the number          of respondents
+“minor”, “moderate”, “severe”, or                                for risk i, and likelihoodi,n and impacti,n
+“catastrophic”. These five alternatives                          are, respectively, the likelihood
+∑Nn=1 pairij,n
+and
+The World in 2018                                                  were turned into a 1–5 scale (1 =                                impactinterconnection
+assigned byij =respondent
+pairmax n to
+minimal, 5 = catastrophic).                                      risk i. The likelihood is measured
+∑Nn=1 pairij,n
+on a
+For each considered risk, the share for                                                                                             scale interconnection
+of 1–5 and the   ij =impact    on a scale
+pairmax
+each answer (“significantly increase”,                             Respondents could choose “no                                     of 1–5. Ni is the number of respondents
+“somewhat increase”, “no change”,                                  opinion” if they felt unable to provide an                       for risk i who assessed both the
+“somewhat decrease” or “significantly
+pairmax = max (           pairij,n )
+informed answer, and they could also                             likelihood and impact of       N that specific
+decrease”) was obtained by dividing                                leave the question completely blank.                             risk (the answers   ij of respondents
+n=1             who
+the number of respondents having
+pairmax = max (           pairij,n )
+N
+For each risk, partial responses—those                           left one of the two questions blank
+selected that answer by the total                                  assessing only the likelihood of                                 were not taken     into
+ij      account).
+n=1
+number of answers.                                                 occurrence or only its impact—were
+N
+dropped.1 A simple average for both                                                           1
+% concerni =       c
+The Global Risks                                                   likelihood and impact for each of the 30                                                      N N i,n
+n=1
+global risks was calculated on this                                                           1
+Landscape 2018 (Figure I)                                          basis.                                                                           % concerni =
+N
+ci,n
+n=1
+
+Respondents were asked to assess the                               Formally, for any given risk i, its                                                                            Nr
+likelihood and global impact of each of                            likelihood and impact—denoted                                                                     1
+the 30 risks. For each risk, they were                                                                                                              % likelihoodir =        l
+respectively likelihoodi and impacti—                                                             Nr Nr i,n
+asked about the likelihood of the risk                                                                                                                                  n=1
+are:                                                                                              1
+% likelihoodir =        li,n
+Nr
+n=1
+
+64           The Global Risks Report 2018
+Nj
+1
+% Cij =                 ci,n
+N

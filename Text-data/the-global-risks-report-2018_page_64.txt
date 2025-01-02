@@ -1,0 +1,71 @@
+Cognitive bias and risk management
+
+
+By Michele Wucker                          Adjusting for bias in our                  Hyperbolic discounting leads some
+decision-makers to prioritize short-
+risk assessments                           term goals that end up hurting long-
+term value. Examples include putting
+Risk management starts with                Our brains play tricks that make some
+off crucial investments or kicking
+identifying and estimating the             risks appear to be more or less likely
+the can down the road on tough
+probability and impact of a given          than they are in reality. Being aware
+but necessary budget decisions
+threat. We can then decide whether         of the blinders that make it harder to
+in companies or governments.
+a risk falls within our tolerance limits   recognize obvious risks allows leaders
+Structures such as short-term
+and how to react to reduce the risk        to counteract them, helping to prevent
+quarterly earnings cycles or relatively
+or at least our exposure to it. Time       crises or at least mitigate the damage
+short political terms create perverse
+and again, however, individuals and        caused.
+incentives that magnify the hyperbolic
+organizations stumble during this
+discounting bias.
+process—for example, failing to            In deliberative situations such as
+respond to obvious but neglected           a meeting of a corporate board or
+When members of a decision-making
+high-impact “grey rhino” risks while       a legislative body, anchoring and
+group are too homogeneous it can
+scrambling to identify “black swan”        confirmation biases can distort
+hamper their ability to recognize and
+events that, by definition, are not        perceptions by assigning more
+react appropriately to risk. Among
+predictable.                               weight to information and views
+other things, too little diversity can
+presented early on. Leaders can offset
+heighten confirmation bias and make
+New technologies and advances              these distortions by changing their
+it more difficult for individuals to speak
+in data science have improved our          processes to ensure that there are
+out about risks for fear of disrupting
+ability to identify trends, assess risks   diverse voices around the table and
+consensus. Cultural factors can also
+and generate early warnings. But if        by encouraging structured debate and
+play a role. One approach for any
+business and policy decision-makers        constructive dissent. In other words,
+organization that needs more robust
+are to take full advantage of these new    they can make it easier to consider a
+inputs is for leaders to solicit opinions
+tools, we need a firmer handle on the      range of points of view that ultimately
+ahead of meetings, or to anonymize
+reasons why people are more likely to      strengthens the choices they make.
+key inputs required during meetings—
+react to some risks and ignore others.
+for example, by asking people to put
+This behavioural element is crucial to     One of the most pervasive cognitive
+their ideas on slips of paper and then
+managing risks effectively—to both         blinders is the availability bias, which
+considering them all in a group.
+recognizing the risks that confront us     leads decision-makers to rely on
+and then translating that knowledge        examples and evidence that come
+into effective action.                     immediately to mind. This draws
+people’s attention to emotionally
+salient events ahead of objectively
+more likely and impactful events.
+
+
+
+
+56   The Global Risks Report 2018

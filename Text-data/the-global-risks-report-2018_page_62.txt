@@ -1,0 +1,78 @@
+Resilience in complex organizations
+
+
+systems that has been driving a             is systemic risks that require the new
+By Roland Kupers
+slow-motion revolution in science           tools.
+over the past 35 years or so. In
+2013 the World Economic Forum               The RAI work led to nine resilience
+In a deeply interconnected world,
+published a comprehensive overview          lenses, grouped into the following
+stresses and shocks propagate
+in Perspectives on a Hyperconnected         three categories to provide the agenda
+across systems in ways that evade
+World, describing the impact of             for a fat-tail risk conversation:
+forecasting. Climate change is
+complexity for policy and business.         –– “Structural resilience” considers
+linked to the Syrian civil war, which
+The conclusion is not that policy-               the systemic dynamics within the
+is connected to heightened concern
+makers and managers must become                  organization itself.
+over immigration, which precipitated
+complexity experts. But a level             –– “Integrative resilience” underlines
+Brexit. Lehman Brothers was an
+of complexity literacy is crucial to             complex interconnections with the
+investable company, until suddenly
+navigate the modern age.                         external context.
+it wasn’t and it catalysed a global
+–– “Transformative resilience”
+financial crisis. None of these links are
+Nine resilience lenses                           responds to the fact that
+causal in a strict sense, nor could they
+mitigating some risks requires
+reasonably be assigned a probability,
+At the World Economic Forum’s                    transformation.
+but they nevertheless clearly
+form a web of cascading events.             annual meeting in 2012, prominent
+Organizations increasingly recognize        companies began to take note of             Structural resilience
+how rapidly and often unexpectedly          resilience. Peter Voser, at the time
+such events unfold. Since the 2008          Shell’s CEO, asked nine of his              This category encompasses
+financial crisis, the terms “black          colleagues from across sectors what         redundancy, modularity and requisite
+swans” and “fat tails” have become a        the impact of considering resilience        diversity. The focus of structural
+familiar part of the risk conversation.     would be on their business, on their        resilience is on bouncing back faster
+Yet we don’t always fully spell out the     clients and on their risk management.       from a disturbance. Redundancy is
+consequences.                               This led to the creation of the             possibly the most familiar resilience
+Resilience Action Initiative (RAI), which   strategy, but like the spare tyre on a
+in turn resulted in a set of resilience     car, it is the most expensive approach,
+Standard risk management tools
+tools and approaches informed by            because it requires non-performing
+assume that the risks follow a
+assets. System modularity builds
+normalized distribution, mainly             complexity theory but grounded in
+resilience only if the modules are
+because this provides easy-to-              practice. One critical application is
+loosely coupled: separate them too
+understand narratives. But fat tail risks   enterprise resilience: the capacity of
+much and you no longer have a
+are not normal distributions. The only      a company or other organization to
+system, couple them too tightly and
+way to maintain the traditional tools       adapt and prosper in the face of high-      you lose the adaptive capacity. As
+is to neglect and wish away the fat         impact, low-probability risks.              in nature, diversity is a key resilience
+tails. Simply denying the existence                                                     strategy. For organizations, however,
+of black swans is hardly a way to           Working on the RAI project, we              this requires addressing the hard
+deal with them. This approach may           broke resilience into a set of lenses       question of which diversity is fit for
+be approximately right most times,          that could be applied across an             purpose for this problem at this time.
+but in principle it is wrong. The           organization’s operations. We used          That is what is meant by “requisite
+consequences of being so wrong              the resilience lenses to examine the        diversity”.
+can impact an enterprise, perhaps           systemic risks and evaluate mitigation
+catastrophically. Fortunately there         strategies. These lenses were then
+is an alternative, which consists           tested and tuned for applicability
+of applying a resilience lens where         with the risk managers of the RAI
+complexity prevails and traditional risk    companies. The new resilience tools
+management is insufficient.                 are intended to be used in addition
+to traditional risk management tools,
+Resilience is, in fact, a property of       not instead of them. Organizations
+complex systems. And complexity             will continue to face normalized risks,
+is the science of interconnected            which require the traditional tools. It
+
+54   The Global Risks Report 2018

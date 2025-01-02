@@ -1,0 +1,79 @@
+The Global Risks                                          trends.” The information thereby                             Variable pairij,n is 1 when respondent n
+obtained was used to construct the                           selected the pair of risks i and j as part
+Interconnections                                          Risks-Trend Interconnections Map                             of his/her selection. Otherwise, it is 0.
+2018.                                                        The value of the interconnection
+Map 2018 (Figure III)                                                                                                  determines the thickness of each
+and the Risks-Trends                                      In both cases, a tally was made of the                       connecting line in the graph, with the
+number of times each pair was cited.                         most frequently cited pair having the
+Interconnections Map                                      This value was then divided by the                           thickest line.
+2018 (Figure II)                                          count of the most frequently cited pair.
+As a final step, the square root of this                     In the Global Risks Landscape and the
+To draw the Global Risks                                  ratio was taken to dampen      N11i         the long-tail    Risks-Trends Interconnections Map,
+1 Ni                               the size of each risk is scaled according
+Interconnections Map 2018 (Figure III),                   effect (i.e.             1 strong
+a fewi very
+likelihood                         links, and
+likelihood
+likelihoodi      Ni likelihoodi,ni,n                 to the degree of weight of that node in
+survey respondents were asked the                         many weak ones)         Nand
+i n=1 to make the
+n=1
+differences more apparent across the                         the system. Moreover, in the Risks-
+following question: “Global risks are not
+weakest connections. Out of the 435                          Trends Interconnections Map, the size
+isolated and it is important to assess
+possible pairs of risks, 56 or 20% were                      of the trend represents the perception
+their interconnections. In your view,
+not cited. Similarly, out     N22i of the possible
+of its importance in shaping global
+which are the most strongly connected
+377 trend-risk           1 Ni
+combinations,                           development (answer to the first part of
+global risks? Please select three to six                                impacti = 1           impacti,n35 or 9%
+were notimpactcited.i =Formally,
+N          impact
+thei,nintensity of   the question on trend, as explained
+pairs of global risks.”                                                           Ni i n=1
+the interconnectionn=1        between risks i and            above); the biggest trend is the one
+j (or between trend i and risk j), denoted                   considered to be the most important in
+Similarly, for the Risks-Trends                                                                                        shaping global development.
+Interconnections Map 2018 (Figure II),                    interconnectionij, corresponds to:
+respondents had to identify up to three                                                ∑NN   pairij,n                  The placement of the nodes in the
+n=1pair
+trends that they consider important in                             interconnectionij = ∑n=1      ij,n                  Risks-Trends Interconnections Map
+interconnectionij =    pairmax
+shaping the global agenda in the next                                                   pairmax
+was computed using ForceAtlas2, a
+10 years and the three risks that are                                                                                  force-directed network layout algorithm
+driven by each of those trends. The two                                               with                             implemented in Gephi software, which
+questions read: “Which are the three                                                                                   minimizes edge lengths and edge
+most important trends that will shape                                                                                  crossings by running a physical particle
+((                 ))
+N
+N
+global development in the next 10                                    pairmax = max                pairij,n
+pairmax = max
+ij            n=1pairij,n              simulation.2
+ij          n=1
+years?” and “For each of the three
+trends identified in the previous                         where N is the number of respondents.
+question, select up to three global risks
+that are most strongly driven by these                                                        N
+1N
+% concern =1        c
+% concerni =i N    c i,n
+N n=1 i,n
+n=1
+
+
+
+1
+If a respondent answered “no opinion” for likelihood or impact, his or her assessment of the other dimension (impact or likelihood, respectively), was retained.
+2
+Jacomy, M., T. Venturini, S. Heymann, and M. Bastian. 2014. “ForceAtlas2: A Continuous GraphNr Layout Algorithm for Handy Network Visualization Designed for the Gephi
+Software”. PLoS ONE 9 (6): e98679. doi:10.1371/journal.pone.0098679                       1 Nr
+% likelihood = 1            l
+% likelihoodirir= Nr      l i,n
+Nr n=1 i,n
+n=1
+The Global Risks Report 2018    65
