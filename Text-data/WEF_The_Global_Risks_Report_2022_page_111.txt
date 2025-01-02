@@ -1,0 +1,59 @@
+– 5 points each time a risk was selected as the fifth-      The 15 international areas were: Artificial Intelligence
+most severe risk                                          (e.g., autonomous weapons, bias); Basic resource
+security (food and water); Biodiversity preservation;
+– 4 points each time a risk was selected as the sixth-      Climate change mitigation; Cross-border cyberattacks
+most severe risk                                          and misinformation; Financial system stability; Human
+health crises; International crime; Migration and
+– 3 points each time a risk was selected as seventh-        refugees; Natural disaster relief; Physical conflict
+most severe risk                                          resolution; Poverty alleviation; Space exploitation; Trade
+facilitation; Weapons of mass destruction.
+– 2 points each time a risk was selected as the
+eighth-most severe risk
+Completion thresholds
+– 1 point each time a risk was selected as the ninth-
+most severe risk                                          A total of 1,183 responses to the GRPS were received.
+From these, 959 were kept, using as a threshold at
+A simple sum of the scores for each of the risks            least one non-demographic answer.
+according to the above scoring schedule was
+calculated on this basis. The results are illustrated       – Section 1 - COVID-19 Hindsight & Future
+in Figure 1.3.                                                Outlook: 959 respondents selected the three
+global risks.
+
+Global Risks Effects                                           – Future Sentiment: 957
+
+In the Global Risks Severity component, for each of            – Future Outlook: 957
+the risks ranked most severe, second-most severe
+and third-most severe, respondents were then asked          – Section 2 - Global Risks Horizon: 926 (0–2 years);
+to select two risks that will be aggravated by those top      912 (2–5 years); 904 (5–10 years) respondents
+severe risks.                                                 placed at least one risk within a possible timeframe.
+The results were computed among all respondents
+A simple tally of the number of times a risk was              of the survey.
+identified as being aggravated by another for each of
+the most, second-, third-, fourth- and fifth-most severe    – Section 3 - Global Risks Severity: 893
+risks was calculated on this basis. The results are           respondents; 888 ranked at least one severe risk
+illustrated in the Global Risks Effects (Figure III).         and assigned at least one driver.
+
+In the Global Risks Effects graph, the size of each of      – Section 4 - Global Risks Effects: 837 respondents
+the most concerning risk nodes is scaled according to         identified at least one risk aggravating another.
+the above scoring schedule. The thickness of each of
+the links between a risk and the risks being aggravated     – Section 5 – Global Governance – International
+is scaled according to the above tally.                       Risk Mitigation Efforts: 829 (climate change)
+respondents scored at least one level of response,
+either global or regional. The results were computed
+Global Governance – International Risk                        among all respondents of each risk area within
+Mitigation Efforts                                            the section.
+
+From 15 international risk areas listed below,              – Sample distribution: the 959 respondents from
+respondents were asked to rate the state each area            Section 1 were used to calculate the sample
+was with regard to international risk mitigation efforts:     distribution by place of residence (region), gender,
+“not started”, “early development”, “established”,            age, area of expertise and institution.
+or “effective”.
+Figure C.1 presents some key descriptive statistics and
+A simple tally for each of the four possible states was     information about the profiles of the respondents.
+calculated on this basis. The results are illustrated in
+Figure IV.
+
+
+
+
+The Global Risks Report 2022 111

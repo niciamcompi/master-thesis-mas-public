@@ -1,0 +1,59 @@
+uses ranking rather than a 1–5 rating scale to                mitigation needs to be a part of the global agenda,
+allow respondents to answer the question with                 this section asks respondents to assess the current
+more confidence.                                              state of international mitigation efforts in 15 global
+governance areas. It identifies achievements
+4. Global Risks Effects (new): recognizing that                  and areas of opportunity for global action and
+risks are not isolated but affect and amplify                 cooperation and informs an analysis of how the
+each other through negative feedback loops,                   various stages of effectiveness may influence
+this section incentivizes a holistic view of global           future preparedness.
+risks by asking respondents to consider cascading
+impacts in conjunction with the severity of the            6. Open Questions (new): complements risk
+risk itself.                                                  identification with a series of questions to detect
+blind spots, trends and shocks. This section
+5. Global Governance – International Risk                        ensures that the GRPS is a flexible and engaging
+Mitigation Efforts (new): recognizing that risk               mechanism to source expert knowledge.
+
+
+
+
+Methodology
+
+COVID-19 Hindsight & Future Outlook                           – Medium-term threats: 2–5 years
+
+COVID-19 Hindsight:                                           – Long-term threats: 5–10 years
+For each of the 37 global risks listed in Appendix A,
+respondents were asked to identify three global risks         A simple tally for each of the 37 global risks was
+that they believe had worsened since the start of the         calculated on this basis. the results are illustrated
+COVID-19 crisis. A simple tally for each of the 37 global     in Figure II.
+risks was calculated on this basis. The results are
+illustrated in Figure I.
+Global Risks Severity
+Future Outlook:
+Respondents were asked to express their feeling about         For each of the 37 global risks listed in Appendix A,
+the outlook for the world in four sentiments: worried,        respondents were asked to choose nine risks and rank
+concerned, positive, optimistic. A simple tally for each      order them from 1 to 9 according to their perceived
+of the four sentiments was calculated on this basis. The      severity of impact—“most severe” was defined as
+results are illustrated in Figure 1.2.                        having the potential to yield the most damage on a
+global scale within the next 10 years. Respondents
+Respondents were then asked to characterize their             were asked to value the impact of risks considering
+outlook for the world over the next 3 years with the          multiple criteria, including human suffering, societal
+following four answer options: accelerating global            disruption, economic shock, environmental degradation
+recovery; fractured trajectories, separating winners          and political instability.
+and losers; consistently volatile with multiple surprises;
+progressive tipping points with increasing catastrophic       The results were aggregated according to the following
+outcomes. A simple tally for each of the four sentiments      scoring schedule:
+was calculated on this basis. The results are illustrated
+in Figure 1.1.                                                – 9 points each time a risk was selected as the most
+severe risk
+
+Global Risks Horizon                                          – 8 points each time a risk was selected as the
+second-most severe risk
+For each of the 37 global risks listed in Appendix A,
+respondents were asked to identify when they believe a        – 7 points each time a risk was selected as the third-
+risk will become a critical threat to the world, within the     most severe risk
+following timeframes:
+– 6 points each time a risk was selected as the fourth-
+– Short-term threats: 0–2 years                                 most severe risk
+
+
+The Global Risks Report 2022 110
