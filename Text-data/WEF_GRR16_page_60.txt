@@ -1,0 +1,80 @@
+Part 1
+–   The World Resources Institute           to economic losses and thereby food         of insurance while increasing its
+developed Global Forest Watch           insecurity.                                 effectiveness. For example, because
+is an online system to monitor                                                      not all parts of the continent will be
+forests and provide information to      Robust and affordable weather               affected by drought at the same
+improve their management (see           insurance depends on the availability of    time, by pooling drought risk across
+http://www.globalforestwatch.org/       accurate data, together with improved       all member countries ARC can
+
+
+
+
+Part 2
+about/awards_and_testimonials).         capabilities to forecast weather            reduce individual premiums paid
+It combines satellite data              variability and extreme events such         by governments by up to 50%. To
+with modern mapping and                 as droughts. Today a combination of         be eligible for insurance through
+information and communication           data provided by weather stations with      ARC, governments have to develop
+technologies to enable a new kind       remote sensing and satellite imagery        evidence-based contingency plans.
+of environmental monitoring and         are helping scale innovative insurance
+decision-support tools.                 schemes across developing countries.        In addition to regular ARC insurance
+schemes covering the costs for
+–   A partnership between Google and        Weather index insurance schemes,            immediate responses to weather
+the Brazilian environmental NGO         also known as “index-based financial        disasters, the ARC Extreme Climate
+
+
+
+
+Part 3
+Imazon, Google Earth Engine             risk-transfer mechanisms”, pay              Facility will issue data-based climate
+integrates satellite measurements       out based on weather rather than            change catastrophe risk bonds to
+dating back decades with other          crop losses. They use an index of           participating countries.43 These bonds
+data feeds such as weather              productivity-relevant weather variables     are structured as concessional finance
+information to map changes such         such as precipitation onset and             that must be used to reduce risk
+as deforestation in remote areas.       intensity, streamflow and temperature:      exposure and vulnerability. This not
+Future applications will enable         the insurance pays out, for example, if     only provides countries with incentives
+monitoring of sea ice change and        measured rainfall falls below a specified   to invest in climate-smart agriculture,
+illegal fishing.                        level.                                      but also improves long-term planning
+
+
+
+
+Part 4
+and reduces investment risks for the
+–   IBM’s Insight Cloud Service, a          One advantage of weather index              private sector. By blending public and
+partnership with Twitter and the        insurance is that it removes the need       private finance, ARC hopes to generate
+Weather Company, combines               for expensive field visits to assess crop   over US$1 billion in additional finance
+open data with private data to          damage, reducing costs and improving        over the next 30 years.
+produce analytics enabling, for         accessibility of insurance for low-
+example, insurance companies to         income smallholder farmers. Having          3. Financial System Shift to Unleash
+issue weather warnings to policy-       such insurance coverage can create a        Climate-Resilient, Low-Carbon
+holders.                                virtuous circle: it often is a necessary    Investments
+condition for accessing bank loans or
+Such programmes illustrate how large-       other credit, which in turn can be used     Effectively tackling climate-induced
+scale collaborative efforts that leverage   to invest in improved agricultural inputs   risks will require new ways to incentivize
+large data sets, scientific modelling,      for increased productivity and reduced      climate-smart investment. Despite
+computational power and capacity-           risk exposure. Weather index insurance      increasing recognition of the economic
+building programmes can improve local       schemes also remove the possibility of      risks, global financial systems are
+decision-making to increase resilience      poorly designed crop failure insurance      yet to incorporate them into financial
+and reduce exposure to important food       schemes that effectively incentivize        decision-making. Finding ways to
+security-related risks.                     farmers to allow crops to fail.             adapt established risk assessment
+analytics, models and reporting
+2. Reducing Economic Exposure               With nearly two-thirds of its population    frameworks could unleash larger flows
+through Insurance Innovations               working in agriculture – 80% as             of capital towards climate-friendlier
+smallholder farmers – Sub-Saharan           investments.
+Crop insurance schemes do not               Africa is especially vulnerable to food
+always deliver sufficient protection        insecurity caused by droughts and           For many executives and boards of
+for small farmers against potential         temperature rises. World Bank data          directors, climate risks seem less
+losses – either because they are too        suggest that Sub-Saharan countries          immediate than other issues. Even
+expensive for low-income smallholder        will need between US$14 billion and         where Environment, Social and
+farmers or because they provide             US$17 billion per year from 2010 to         Corporate Governance (ESG) data
+perverse incentives that discourage         2050 to adapt to climate change.42          are disclosed, investors often remain
+policy-holders from investing in crop       The Africa Risk Capacity (ARC) is           unaware of the severity of the threat:
+productivity. International aid for         an innovative African Union initiative,     these data tend to be appended in an
+disaster relief financing has often         launched in 2014, to help close the         annex rather than integrated into core
+proved to be slow, ad hoc and               financing gap by improving insurance        financial statements, and they do not
+expensive. Innovative climate-informed      for climate-related risks.                  make clear the materiality of specific
+insurance schemes can help to                                                           climate and regulatory risks. The sheer
+address the shortcomings in these two       ARC combines several risk transfer          number of ESG criteria is a barrier
+models, efficiently reducing exposure       mechanisms to reduce the cost               to comparability and identification of
+
+The Global Risks Report 2016   55

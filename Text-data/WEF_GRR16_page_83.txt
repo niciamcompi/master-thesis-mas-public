@@ -1,0 +1,85 @@
+Part 1
+
+
+
+
+Businesses trying to match this speed       It is also becoming clearer that
+in their development of prevention and      cybercrime cannot be fought
+response methods are sometimes              unilaterally. Although businesses can
+constrained by a poor understanding         follow standard industry practices
+of the risk, a lack of technical talent,    or adopt individually tailored ways to
+and inadequate security capabilities.       deal with cybercrimes, cooperation
+Part 2
+
+
+
+
+Although CEOs worry about rising            throughout the value chain (because
+cyber risks, the ownership of and           attacks can be made through supplier
+responsibility for the cyber risk is less   systems) and with law enforcement
+clear. Who in the corporation is the        is also helpful, As is often the case,
+actual owner of the risk? While there       however, public-private partnership
+are many “C” level owners (CISO,            can be held back by lack of trust and
+CFO, CEO, CRO, Risk Management),            misaligned incentives. Businesses may
+each of these owners has differing but      fear exposing their data and practices
+related interests and unfortunately often   to competitors or to law enforcement
+does not integrate risk or effectively      agencies. And the private sector’s
+Part 3
+
+
+
+
+collaborate on its management.              primary interest in rapid recovery and
+Defining clear roles and responsibilities   continuity of business operations
+for cyber risk is crucial.                  may not align with the public sector’s
+primary interest in apprehending
+Outdated laws and regulations inhibit       and prosecuting perpetrators. In
+governments’ ability to capture             addition, governments need to balance
+criminals but also to expedite              their investments in cyber offensive
+the often lengthy procedure of              weapons and efforts to enhance
+elaborating and implementing legal          capabilities for cybersecurity and
+and regulatory frameworks to reflect        defence.
+Part 4
+
+
+
+
+evolving realities. The sophisticated
+threats of government-sponsored
+economic espionage also exceed              Conclusions
+the defensive capabilities of many
+commercial enterprises, which are           Addressing global risks lies beyond
+more and more frequently looking to         the capacity of individual businesses.
+other governments to intervene. The         Businesses need to strengthen
+G-20 recently took an unexpected,           their resilience to ensure continued
+but applauded, step and collectively        operation and survival in the face
+affirmed “that no country should            of risks. At the same time, the clear
+conduct or support ICT-enabled theft        role for collaboration among public
+of intellectual property, including trade   and private sector actors becomes
+secrets or other confidential business      evident, for example, to develop better
+information, with the intent of providing   cybercrime prevention methods, to
+competitive advantages to companies         establish cybersecurity norms for
+or commercial sectors.”58                   both governments and industry, and
+to align international approaches to
+Businesses are increasingly accepting       enforcement and establish industry
+the fact that they cannot hope to           norms. Above all, it is in the key interest
+prevent all cyberattacks. The difficulty    of businesses to find new ways to
+in preventing attacks is not outmatched     partner with governments to address
+by the difficulty in identifying and        global risks. Many risks, ranging from
+effectively mitigating them. Given          energy security to unemployment, can
+the types of vulnerabilities utilized       only be addressed through diverse
+by attackers and their methods,             stakeholders recognizing the need for
+many attacks and intrusions are not         joint action. Such collaboration requires
+immediately discovered – some are           the identification of key risks and
+recognized only months and in some          related interests and strong alignment
+cases years later. The emphasis needs       and robust agreement among business
+to be on streamlining mechanisms for        and other stakeholders on the need to
+early detection, response and recovery,     address them.
+to mitigate and better manage the
+consequences – limiting the damage,
+and ensuring business continuity.
+
+
+
+
+78   The Global Risks Report 2016

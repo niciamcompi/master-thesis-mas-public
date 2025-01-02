@@ -1,0 +1,80 @@
+Part 1
+Leone EPSMG chapter successfully              of defining a broader coordination          social network analysis. The resulting
+lobbied to keep national ports open,          mechanism to expand regionally and          communications and data collection
+which enabled crucial supplies to be          apply globally.                             system allows for faster identification
+shipped in as well as minimized the                                                       of transmission chains, which in turn
+loss of livelihoods through disruption to     3. Big Data and Infectious Diseases:        allows for faster isolation of potentially
+economic activity.                            Mapping the Outbreak                        contaminated individuals and a more
+
+
+
+
+Part 2
+effective implementation of ring
+Although these and many similar efforts       One key to determining how viruses          vaccination when necessary.
+deserve and have received recognition,        spread is to understand how people
+a lack of coordination limited the ability    move around and interact with one           The Ebola crisis also saw innovative
+of the private sector to apply its full set   another on a daily basis. Big data          attempts to use technology to predict,
+of capabilities, and their interactions       allows the modelling of how a virus         detect and prevent new cases, such
+were not aligned with public sector           spreads, and the potential for it to        as the mHero platform – supported
+efforts on a day-to-day basis. Local          be contained by various possible            by a consortium of partners including
+companies did not always know how             interventions.                              UNICEF, UNAIDS and IntraHealth –
+best to contribute to the response, and                                                   to connect ministries of health with
+
+
+
+
+Part 3
+national governments and responding           The 2009 H1N1 Swine Flu pandemic            frontline workers using text messaging
+agencies were not always aware of             response in Mexico is an early              services and analyse the resulting data.
+potential opportunities to partner with       example of how mobile phone data            However, the lack of interoperability
+the local private sector.                     can be used. As the outbreak began          of data information systems between
+to spread, the Mexican government           responders in the crisis highlighted the
+Building on the flexible partnership          acted to limit the movement of people,      need to review new fabric architecture,
+responses that complemented                   advising them to stay away from public      diagnostics and logistics. The mHero
+the channels of official assistance           places such as airports, hospitals and      platform is under development to
+to Ebola-affected countries, the              universities. A digital research team       overcome these barriers.26
+
+
+
+
+Part 4
+Forum has drawn up a wide set of              in Telefónica, one of Mexico’s largest
+recommendations for public-private            mobile network providers, saw an            Finding the fastest and most efficient
+cooperation models to manage                  opportunity to test the effectiveness       channel to disseminate information is
+any potential future outbreaks more           of the advice by analysing patterns of      key to fighting an infectious disease
+effectively and reduce the risk of their      movement. Drawing from anonymized           outbreak, and access to data for real-
+occurrence. The study disaggregates           mobile phone call records of 1 million      time monitoring, multi-path surveys
+private sector interventions into three       customers in one of Mexico’s most           and detailed analysis is essential.
+categories – in-country operators,            affected cities, the team found that call   The better the information, the more
+expert capability companies and               traffic was lower or stable in hospitals    sure decision-makers can be of their
+greater private sector contributors –         and universities but increasing at the      strategy. Real-time sharing of data in a
+and makes specific recommendations            airport, suggesting that people were        coordinated and collaborative manner
+for each category to enhance                  ignoring government advice and trying       can make responses more efficient.
+collaboration. At a high-level dialogue in    to leave the area.                          If ways can be found to reconcile the
+Cape Town, senior leaders expressed                                                       need for data with current regulatory
+a desire to home in on optimizing local       Next, the team created a model to           environments and the legitimate right
+actors in early detection and response        simulate what would have happened           to data privacy, lessons from the Ebola
+plans.                                        if the government had not intervened.       crisis could potentially be applied in
+Analysing more than five months of          future emergency settings.
+With subsequent endorsement from              encrypted call records, including the
+partners including the United Nations,        period of government interventions,
+the African Development Bank and              the research team found that the
+the Wellcome Trust, the Forum has             intervention had resulted in between
+launched a 12-month initiative to             a 10% and 30% drop in movement,
+mobilize in-country business operators        postponed the peak of the epidemic
+and facilitate dialogue with ministries       by nearly two days and reduced the
+of health for the local implementation        number of infections by 10%.24
+of networks in national preparedness
+and response schemes. This entails            A more recent intervention has
+the creation of country-wide playbooks        been witnessed in the use of GPS
+and communication platforms between           technology in the roll-out of treatment-
+local actors across sectors to develop        as-prevention to control the HIV
+a rapid and efficient response in the         pandemic in Sub-Saharan Africa to
+event of an epidemic. Networks and            construct predictive prevalence maps
+their implementation roadmaps will            for migrating populations.25 Health
+be designed for specific high-risk            workers can immediately report newly
+geographies including Mali, Guinea,           identified cases through solar radios
+Liberia and Nigeria, with the vision          or a new mobile application, facilitating
+
+The Global Risks Report 2016   65

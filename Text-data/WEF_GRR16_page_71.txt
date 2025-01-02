@@ -1,0 +1,116 @@
+Part 1
+
+
+
+
+Endnotes                                                                                  References
+1
+A well-functioning health system working in harmony is built on having trained and       Butler, D. 2015. “How to beat the next Ebola”. Nature 524 (06 August): 22–25.
+motivated health workers, a well-maintained infrastructure and a reliable supply of       Coburn, B.J. and S. Blower. 2013. “Mapping HIV epidemics in sub-Saharan Africa
+medicines and technologies, backed by adequate funding, strong health plans and           with use of GPS data”. Lancet Global Health 1 (5): e251–3.
+evidence-based policies (WHO 2015).                                                       Coburn A., M. Chang, M. Sullivan, G. Bowman, and S. Ruffle. 2013. “Disease
+2                                                                                         outbreak: Human pandemic”. Cambridge Risk Framework: Profile of a Macro-
+UN DESA 2015.
+Part 2
+
+
+
+
+3                                                                                         Catastrophe Threat Type. Centre for Risk Studies Working Paper 201303.31,
+Zoonoses – pathogenic organisms such as bacteria or viruses that humans share
+University of Cambridge Judge Business School.
+with animals – cause more than 60% of human infectious diseases and have been
+responsible for some of the most devastating disease outbreaks in recent years,           Gubler, D.J. 2011. “Dengue, urbanization and globalization: The unholy trinity of the
+including HIV, Ebola and SARS. See http://www.thelancet.com/series/zoonoses.              21st century”. Tropical Medicine and Health 39 (4 Suppl): 3–11.
+More than more than 60% of the roughly 400 emerging infectious diseases that have         Heymann, D.L., L. Chen, K. Takemi, D.P. Fidler, J.W. Tappero, et al. 2015. “Global
+been identified since 1940 are zoonotic. See Jones et al. 2008.                           health security: The wider lessons from the west African Ebola virus disease
+4
+Gubler 2011.                                                                          epidemic”. The Lancet 385 (9980): 1884–901.
+5                                                                                         Jones, K.E., N. Patel, M.A. Levy, A. Storeygard, D. Balk, J.L. Gittlelman, and P.
+Coburn et al. 2013.
+Daszak. 2008. “Global trends in emerging infectious diseases”. Nature 451: 990–94.
+6
+Estimates suggest that in the United States at least 2 million people acquire serious
+Keogh-Brown, M.R. and R.D. Smith. 2008. “The economic impact of SARS: How
+infections with bacteria that are resistant to one or more of the antibiotics designed
+does the reality match the predictions?” Health Policy 88 (1): 110–20.
+Part 3
+
+
+
+
+to treat them, and at least 23,000 people die each year as a direct result of these
+antibiotic-resistant infections. Estimates of economic costs range as high as US$20       Plotkin, S. A., A. Mahmoud, and J. Farrar. 2015. “Establishing a global vaccine-
+billion in excess direct healthcare costs, with additional costs to society for lost      development fund”. The New England Journal of Medicine 373 297–300.
+productivity as high as US$35 billion a year (2008 dollars). See http://www.tufts.edu/    Review on Antimicrobial Resistance. 2015. Securing New Drugs for Future
+med/apua/consumers/personal_home_5_1451036133.pdf (accessed 8 May 2013);                  Generations: The Pipeline of Antibiotics. Review on Antimicrobial Resistance. May
+extrapolated from Roberts et al. 2009.                                                    2015.
+7
+Review on Antimicrobial Resistance 2015.                                              Roberts, R.R., B. Hota, I. Ahmad, R.D. Scott 2nd, S.D. Foster, F. Abbasi, S.
+8                                                                                         Schabowski, et al. 2009. “Hospital and societal costs of antimicrobial-resistant
+Butler 2015.
+infections in a Chicago teaching hospital: Implications for antibiotic stewardship”.
+9
+Butler 2015.                                                                          Clin Infect Dis. 49 (8):1175-84.
+10
+World Economic Forum 2015a.                                                          Telefónica. 2013. “Catching swine flu: How big data helped doctors to understand
+a pandemic”. Telefónica UK, October. http://static.o2.co.uk/www/docs/business/
+Part 4
+
+
+
+
+11
+UNICEF 2015.
+ourthoughts/vr2_o2_swine_flu_case_study_pdf.pdf
+12
+UNDG 2015.                                                                           UN DESA (United Nations, Department of Economic and Social Affairs, Population
+13                                                                                        Division). 2015. World Population Prospects: The 2015 Revision, Key Findings and
+World Bank 2015.
+14                                                                                        Advance Tables. New York: United Nations.
+World Bank 2015.
+15
+UNDG (United Nations Development Group). 2015. The Socio-Economic Impact of
+World Bank 2014b.                                                                    the Ebola Virus Disease in West African Countries: A Call for National and Regional
+16                                                                                        Containment, Recovery and Prevention. February. United Nations Development
+World Bank 2015.
+17                                                                                        Group – Western and Central Africa.
+World Bank 2014a.
+18
+UNICEF (United Nations Children’s Fund). 2015. “Impact of Ebola”. 20 February.
+Keogh-Brown and Smith 2008.                                                          http://www.unicef.org/emergencies/ebola/75941_76129.html
+19
+Heymann et al. 2015.                                                                 USAID (US Agency for International Development). 2015. “Ebola response, recovery
+20
+Zimmer 2015.                                                                         and resilience in West Africa: Call for partnership concept papers”. https://www.
+21
+usaid.gov/sites/default/files/documents/15396/EbolaCallforPartnerships_APS-
+USAID 2015.                                                                          OAA-14-0000001.pdf
+22
+World Economic Forum 2015b.                                                          WHO (World Health Organization). 2015. Health Systems Strengthening Glossary.
+23
+World Economic Forum 2015b.                                                          Available at http://www.who.int/healthsystems/hss_glossary/en/index5.html
+24
+Telefónica 2013.                                                                     World Bank. 2014a. “The Economic Impact of the 2014 Ebola Epidemic: Short and
+Medium Term Estimates for West Africa.” Washington, DC: World Bank.
+25
+Coburn and Blower 2013.
+2014b. “The Socio-Economic Impacts of Ebola in Liberia – Results from a High
+26
+USAID 2015.                                                                            Frequency Cell Phone Survey. Rounds 1-2.” November 19. Washington, DC:
+World Bank.
+2015. “The Economic Impact of Ebola on Sub-Saharan Africa: Updated Estimates
+for 2015.” Washington, DC: World Bank.
+World Economic Forum. 2015a. “Fighting SARs (Severe Acute Respiratory
+Syndrome)”. Unpublished paper.
+2015b. Health Systems Leapfrogging in Emerging Economies: From Concept to
+Scale-Up and Systems Transformation. Geneva: World Economic Forum.
+2015c. Managing the Risk and Impact of Future Epidemics: Options for Public-
+Private Cooperation. Geneva: World Economic Forum.
+Zimmer, C. 2015. “For vaccines needed in an epidemic, timing is everything”. New
+York Times 6 August 6 2015.
+
+
+
+
+66       The Global Risks Report 2016

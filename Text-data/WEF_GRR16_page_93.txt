@@ -1,0 +1,93 @@
+Appendix B: Global Risks Perception Survey and
+Methodology 2015
+
+Definitions                                               and widespread misuse of                                        Raw responses were cleaned in order
+technologies (e.g. 3D printing, artificial                      to improve overall data quality and
+The Global Risks Report 2016 is based                     intelligence, geo-engineering, synthetic                        completeness. All questionnaires with a
+on the same methodology adopted in                        biology, etc.) was reformulated into the                        completion rate below 50% were
+the previous year and results are                         risk “Adverse consequence of                                    dropped, reducing the number of
+therefore largely comparable. The                         technological advances”. The definition                         available responses from 933 to 742.
+Report adopts the following definitions                   of each risk also went through a review                         The respondents did not provide any
+of global risk and trend:                                 process.                                                        information about their gender or the
+sector in 3 and 49 cases, respectively,
+Global risk: an uncertain event or                        The following section describes the                             but it was possible to infer this
+condition that, if it occurs, can cause                   survey and methodology in greater                               information from the rest of the records
+significant negative impact for several                   detail.                                                         provided for the gender and for 39
+countries or industries within the next                                                                                   cases for the sector. Similarly, 92
+10 years.                                                 The Global Risks                                                respondents did not indicate the region
+in which they are based and 77 were
+Trend: a long-term pattern that is                        Perceptions Survey                                              manually assigned to a region on the
+currently taking place and that could                                                                                     basis of their country of residence.
+contribute to amplifying global risks                     The Global Risks Perception Survey
+and/or altering the relationship between                  (GRPS), discussed in Part 1, is the main                        Figure B.1 presents the profile of the
+them.                                                     instrument used to assess global risks                          742 survey respondents remaining in
+in this Report. The survey was                                  the sample. To capture the voice of
+The list of risks and trends assessed in                  conducted between mid-September                                 youth, the survey also targeted the
+the Global Risks Perception Surveys                       and the end of October 2015 among                               World Economic Forum’s community of
+has changed slightly. The risk “Illicit                   the World Economic Forum’s                                      Global Shapers.1 Respondents under
+trade” was extracted from the risk                        multistakeholder communities of                                 30 accounted for slightly more than
+“Failure of national governance” to                       leaders from business, government,                              one-fourth of total respondents.
+create another risk in the economic                       academia and non-governmental and
+category. Moreover, the risk “Massive                     international organizations.
+
+
+Figure B.1: Survey Sample Composition
+
+
+Number of participants                              Expertise                                                     Organization
+
+
+742
+Geopolitics
+type
+14.6%
+Academia
+15.6%
+Government
+Society                            Business                   NGO           11.1% 1.23%
+23.8%                                44.7%                   16.2%
+Economics
+34.5%
+Gender
+International organizations
+Technology                                                              8.6%
+17.9%
+Environment
+9.2%                              Other
+3.8%
+Male        Female
+68.9%        31.1%
+
+
+
+
+Central Asia
+including Russia
+Europe
+Age distribution                                                                      Region                                 32.2%
+2.3%
+
+
+
+North America                                                           East Asia
+17.7%
+and the Pacific
+12.5%
+Middle East
+and North Africa
+6.5%
+
+Latin America                                                                  Oceania
+26.3%       21.4%       18.6%       19.1%
+19.1%       8.2%    6.3%                          and the Caribbean                                                              1.2%
+12.8%                                                    South Asia
+<30        30–39        40–49      50–59      60–69    >70                                                        Sub-Saharan Africa             5.9%
+8.8%
+
+
+
+
+Source: Global Risks Perception Survey 2015.
+Note: Reported shares are based on number of valid responses: Gender: 742 responses; Expertise: 726; Organization type: 732; Age distribution: 742; Region: 727.
+
+88    The Global Risks Report 2016

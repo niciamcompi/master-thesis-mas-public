@@ -1,0 +1,85 @@
+Part 1
+Box 3.2.2: Reducing Food Waste
+
+Current estimates suggest around one-third of all food produced for human consumption is lost or wasted along the food
+value chain, with a direct economic cost of US$750 billion per year. Excluding land-use change, the annual emissions
+
+
+
+
+Part 2
+footprint of food produced but not consumed is around 3.3 million tonnes of carbon dioxide equivalent (CO2e), more than
+the total national emissions of India; the land requirement is almost 1.4 billion hectares, close to 30% of the world’s
+agricultural land area; and the blue water (surface and groundwater) consumption is approximately 250 cubic kilometres,
+three times the volume of Lake Geneva.1
+
+Approximately half of this volume (54%) is lost in upstream processes including agricultural production (a third of the total
+alone) and post-harvest handling and storage; the other half (46%) is wasted in downstream activities such as processing,
+distribution, and consumption. Consumption wastage is much higher in high- and middle-income regions (31–39% of total
+losses) than in low-income regions (4–16%). Significant low-income losses at the post-harvest stage result from a lack of
+adequate infrastructure to prevent spoiling.2
+
+
+
+
+Part 3
+Compounding the problem of direct losses are wasteful, or resource-inefficient, forms of food production: grain-fed
+livestock production, for example, results in significant losses of edible calories along the food chain from those available
+from plants to those ultimately consumed by humans. This inefficiency is expected to become increasingly significant as a
+growing global middle class consumes more meat.
+
+The cost of food wastage is significant not only in economic terms, but also for current and future resource and food
+security. Addressing food wastage offers significant potential to alleviate pressures on natural resources and the tightening
+balance of supply and demand: it is estimated that halving the current rate of wastage could meet over a fifth of caloric
+
+
+
+
+Part 4
+needs by 2050,3 reducing required cropland by 14% and agricultural greenhouse gas emissions by 22–28% (saving
+approximately 4.5 GtCO2e per year) relative to the counterfactual of no reduction in food wastage.4
+
+Currently the environmental costs of food waste are externalized and the market incentives to reduce waste are minimal.
+Maintaining supply chains that deliver year-round uninterrupted supplies of produce are inherently wasteful because
+retailers depend on over-ordering and suppliers on over-producing. But currently the economic benefits of this model
+outweigh the costs. Exacting retail quality and presentation standards, consumer expectations, and legislation governing
+food re-use all exacerbate the problem by rejecting perfectly edible but non-aesthetically pleasing produce. Minimizing
+waste will therefore require technical innovations, legislative reform, and a recalibration of consumer expectations.5
+
+
+Notes
+1
+FAO 2013.
+2
+FAO 2013.
+3
+Lipinski et al. 2013.
+4
+Bajželj et al. 2014.
+5
+FAO 2014.
+
+
+
+
+wheat-importing region in the world           Droughts, floods and heatwaves will           case scenario that could precipitate
+– where the price of bread was the            become increasingly severe as climate         a systemic crisis of unprecedented
+subject of initial protests that became       change accelerates. Extreme El Niño           magnitude.38
+the 2011 Arab Spring.                         events, which can wreak havoc with
+harvests in breadbaskets and food             Conclusions
+In the same year, a prolonged drought         insecure regions alike, are expected
+in Syria – since linked to climate change     to become more common.36 The risk             Climate change presents a profound
+– contributed to rural-urban migration        of production shocks with systemic            threat to food security because
+that heightened tensions in the nation’s      consequences is increasing, with              biophysical stresses mean it will
+cities before conflict erupted, leading       profound implications for the stability of    become increasingly difficult for
+to a civil war that remains in progress.35    international markets: one recent study       agriculture to meet demand, and
+The long-term consequences of the             found that what would have been a             more extreme weather increases the
+sequence of events, beginning with            1-in-100 year global production shock         risk of both local and systemic food
+extreme weather and ending with the           over the second half of the 20th century      crises. The poorest countries are
+Arab Spring and Syrian civil war, are still   may have become a 1-in-30 year                most vulnerable, but crop failures in
+playing out through ongoing conflict,         event by 2050 – a more than threefold         systemically important production
+mass migration and increased risk of          increase in risk.37 A double breadbasket      regions will have global consequences
+terrorism.                                    failure, in which two critical harvests are   that may extend beyond food systems.
+lost, now represents a plausible worst-
+
+The Global Risks Report 2016   53

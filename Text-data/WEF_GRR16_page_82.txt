@@ -1,0 +1,87 @@
+Part 1
+–    Real estate bubbles. Real estate                 The bursting of any of these three           also opened the door to a growing
+bubbles are not usually a major                  types of bubble can tip an economy           wave of cyberattacks – including
+concern for companies while they                 into recession. For consumer-facing          economic espionage, cybercrime, and
+are inflating, though they make                  businesses without regional or global        even state-sponsored exploits – that
+office and factory space more                    diversification, this is a concern that is   are increasingly perpetrated against
+expensive. However, because                      not easily mitigated. Besides shoring        businesses (Figure 4.6). In 2014, The
+
+
+
+
+Part 2
+banks play a major role in real                  up the balance sheet – for example, by       Center for Strategic and International
+estate finance, the bursting of                  issuing long-dated debt – and putting        Studies and McAfee estimated that
+a real estate bubble can have                    adequate credit lines in place, most         cybercrime alone cost the global
+catastrophic impacts on business                 mitigation mechanisms would be               economy US$ 445 billion.56 Businesses
+finance, as seen recently in Ireland:            more strategic and affect the business       in all industries and of all sizes have
+with banks struggling, credit can                model, such as alliances to tap more         been affected by the increased
+dry up completely and companies                  diversified markets.                         complexity, novelty and persistence
+find it hard to finance their                                                                 of cyberattacks, with consequences
+operations.                                      From a policy perspective, some              ranging from the reputational to
+–    Government bond bubbles.                         studies suggest that the development         economic and legal. A sharp increase
+
+
+
+
+Part 3
+Government bonds might be                        of financial markets – with increased        in high-profile cases in 2014 has
+inflated by a quantitative easing                integration, sophistication of trading       continued into 2015, and shows no
+of purchases by central banks                    techniques, and removal of frictions         sign of slowing down.
+and new liquidity requirements                   to arbitrage – may be increasing the
+increasing demand among private                  prevalence of bubbles.55 A fundamental       The EOS results indicate that
+sector banks. As prices are                      rethink of regulation and contract           cyberattack is perceived as the
+pushed up, yields go down, which                 design in financial markets could be         risk of highest concern in eight
+drives investors into higher-yield               necessary, to accept the inevitability of    economies: Estonia, Germany, Japan,
+corporate bonds, raising the risk                bubbles and seek to limit their scope.       Malaysia, the Netherlands, Singapore,
+
+
+
+
+Part 4
+of a bubble here, too. In the short                                                           Switzerland, and the United States.
+term, this can be good news for                  Cyberattacks                                 Public sector bodies in at least two of
+corporate issuers – but the ending                                                            these countries have recently been
+of quantitative easing programmes                From personal finances to business           disrupted by cyberattacks: the US
+could rapidly make it harder for                 operations and national infrastructure,      Office of Personnel Management and
+businesses to raise capital. Some                public and private services and              the Japanese Pension Service. The
+observers have raised concerns                   amenities are increasingly managed via       2015 Fortune 500 CEO survey found
+about whether current market                     some form of computer network and            that cyber security came second
+structures can deal with the                     are consequently vulnerable to attack.       when CEOs were asked about their
+resulting large swings in demand                 The Internet of Things is a growing          companies’ biggest challenges.57
+for bonds, potentially triggering                reality, introducing new efficiencies
+severe volatility in the financial               as well as new vulnerabilities and           Attempts to detect and address attacks
+system.                                          interconnected consequences. Recent          are made harder by their constantly
+technological advances have been             evolving nature, as perpetrators quickly
+beneficial in many respects, but have        find new ways of executing them.
+
+
+Figure 4.6 Cyberattacks, rank
+
+
+
+
+Rank
+1         1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13-16
+17-20
+21-24
+25-28     28
+
+
+
+
+Source: Executive Opinion Survey 2015, World Economic Forum.
+Note: The darker colour, the higher the concern.
+The Global Risks Report 2016   77

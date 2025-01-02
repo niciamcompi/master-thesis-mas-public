@@ -1,0 +1,193 @@
+Analysis                                                   Similarly, for the Risks-Trends                           above); the biggest trend is the one
+Interconnections Map 2016                                 considered to be the most important in
+The Global Risks Landscape 2016                            respondents had to identify up to three                   shaping global development.
+(Figure 1)                                                 trends that they consider important in
+shaping the global agenda in the next                     The placement of the nodes in the
+Respondents were asked to assess the                       10 years and the three risks that are                     Global Risks-Trends Interconnections
+likelihood and global impact of each of                    driven by each of those trends. For                       Map was computed using ForceAtlas2,
+the 29 risks. For each risk, they were                     completeness, the two questions read                      a force-directed network layout
+asked, “How likely is this risk to occur                   “From the list of trends below, which are                 algorithm implemented in Gephi
+globally within the next 10 years?” and                    the three most important trends that will                 software, which minimizes edge lengths
+“What is the estimated impact globally if                  shape global development in the next                      and edge crossings by running a
+this risk were to materialize? (Impact is                  10 years”; and “For each of the three                     physical particle simulation.2
+to be interpreted in a broad sense                         trends identified in [the previous
+beyond just economic consequences)”.                       question], select up to three risks from                  Global Risks of Highest
+N1i Concern in
+The possible answers ranged from 1                         the list below that are most strongly                     2016 (Figure 1.2) 1
+likelihoodi �        � likelihoodi,n
+(“very unlikely” and “low” impact,                         driven by these trends”. The information                                          Ni
+n=1
+respectively) to 7 (“very likely” and “high”               thereby obtained was used to construct                    Although the Report generally looks at
+impact, respectively).                                     the Risks-Trend Interconnections Map                      global risks on a time horizon of 10
+2016.                                                     years, respondents were asked to
+Respondents were given the possibility                                                                               identify the risks of highest        concern
+N2i
+to choose a “Don’t know” option if they                    In both cases, a tally was made of the                    within two different 1 timeframes: 18
+months andimpact        � impact
+10i =years.     To identify    the top
+felt unable to provide an informed                         number of times each pair was cited.                                           Ni               i,n
+n=1
+answer. Respondents could also leave                       This value was then divided     N1i
+by the         five global risks of highest       concern
+the question completely blank. For each                    count of the most frequently
+1                 cited pair.   described in Part 1, respondents
+likelihoodi � � likelihoodi,n                    answered the following question: “In this
+risk, partial responses, i.e. those                        As a final step, the     Nsquare
+i             root   of this
+n=1
+assessing only the likelihood or only the                  ratio was taken to dampen       N1i       the long-tail   survey, we are looking at risks within the
+impact, were dropped. A simple                             effect (i.e.  a few very  1 strong links, and             next 10 years. For this question
+∑Nn=1 pairij,n
+only,
+likelihoodi � N � likelihoodi,n
+average for both likelihood and impact                     many weak ones) and        i
+n=1to make the
+pleaseinterconnection
+select the five ij =� global  risks that
+pairmax
+for each of the 29 global risks was                        differences more apparent                 across the      you believe to be of most concern within
+N2i
+calculated on this basis. Formally, for                    weakest connections.     1          Out of the 406        the next 18 months and 10 years,
+any given risk i, its likelihood and impact,                            impact
+possible pairs    ofi =risks,
+Ni
+� 167   impactori,n41% were   respectively”.             N1i
+N1i                                                                                                            1
+denoted respectively  1 likelihoodi and                    not cited. Similarly, out   n=1
+Ni 2 of the possible                 likelihoodi �  � likelihoodi,n
+N
+, are: i � Ni � likelihoodi,n
+impactlikelihood                                                                                                                            n=1 the list of 29
+For any given risk i ifromN
+i
+377 trend-risk combinations,
+1                    33 or 9%           pairmax = max ( � pairij,n )
+n=1                                       impacti = � impacti,n                                         ij the n=1
+risks, we obtained       share of total
+N1i                          were not cited. Formally,
+Ni             the intensity of
+1                                                                n=1
+likelihoodi � � likelihoodi,n                     the interconnection between risks i and j                 respondents (N = 742) that have
+Ni                                   (or between trend i and ∑            risk
+N j), denoted      declared to be concerned about that
+n=1                                                                 n=1 pairij,n
+interconnection
+interconnection              ij =� pair to:
+,ij corresponds                       risk:                N2i
+N2i                                                                      max
+1        N
+1                                                                                                         impacti = �1 impacti,n
+impacti = � impacti,n                                                            ∑N
+n=1 pairij,n
+% concernNi i = ��ci,n �
+Ni                                            interconnectionij =�                                                        N
+n=1
+n=1
+n=1
+N2i
+pairmax
+1
+where Ni is    the number
+impact              of respondents
+i = N � impacti,n
+with ci,n ∈ {0,1} and equal to 1 if
+N
+for risk i, and likelihood
+i
+n=1 i,n and impacti,n                       pairmax = max ( �          pairij,n )          respondent N selected risk i as a risk of
+are respectively the likelihood and                                                ij      n=1                       concern. The risks with∑Nthe      Nr  five highest
+pair
+impact assigned by respondent   ∑N pairij,nn to risk                                                                 sharesinterconnection
+were   selected      1asn=1
+ij =�
+ij,n
+the risks    of
+interconnectionij =� n=1                           where N is the number of
+N
+respondents.                                % likelihoodir =       pair
+��l i,n �
+max
+i and measured on a scale            from
+pair max 1 to 7.                    pairmax = max ( �          pairij,n )          most concern.                 Nr
+ij                                                                 n=1
+n=1
+Ni is the number of respondents               for risk i
+∑Nn=1 pairij,n and         Variable pairij,n is 1 whenNrespondent n
+who assessed               =� likelihood
+both ijthe
+interconnection                                                                 1                            The Most Likely Global Risks 2016: A
+pairmax                  selected the    pair of irisks
+% concern      = ��c i andi,n �j as part
+impact of that risk.                                                                    N                            Regional Perspective (Figure 3)
+of his/her selection. Otherwise,
+n=1           it is 0.
+Nj N
+N                                The value of the interconnection
+1
+N
+max1( � pair
+pairmax =respondents         ij,n ) asked
+The Global      = maxInterconnections
+Risks
+pairmax       ( � pairij,n )                                   %the
+concern                    �               In the survey,
+% Cij =ij ��c n=1i,n �
+were
+determines               i = N ��c
+thickness      of i,neach                                   Nr risks
+Map 2016 (Figure          n=1 The Risks-
+ij 2) and                                                                                         to identify up to three n=1        that    were the
+connecting line in the graph, with the
+n=1
+Trends Interconnections       Map 2016                                                                               most likely to occur in the region in
+N
+most frequently cited pairNrhaving the
+4) max = max ( � pairij,n )
+(Figure pair                                                                            1                            which they are based.3
+ij            n=1                   thickest line.
+% likelihoodir = ��li,n �
+Nr                                                             N
+N                                                              n=1                                                  1
+To draw the Global Risks   1                                                                   Nr                    For any given    risk i ifrom
+% concern     = ��c        � of 29
+thei,nlist
+%  concern     =   ��c    i,n �1, survey
+In the Global Risks Landscape 1               and                                    N
+Interconnections MapNin Part
+i                                                                                             risks, we obtained the n=1   share of
+n=1                          Risks-Trends            ir = N ��li,n � Maps,
+Interconnections
+% likelihood
+respondents were asked           to  answer the                                             r                        respondents from region r (Nr) who think
+N
+1your view, which               the size of each risk is scaled    n=1       according
+following question:    “In
+% concerni = ��ci,n �                                                                                      that risk i is the most likely to occur in
+Nconnected                      to the “weighted degree”     N j     of    that node in
+are the most strongly                                                             1                                  their region:
+n=1                          the system. Moreover,
+% Cij = ��c            i,n � Risks-
+in the
+risks? Please select at least three pairs                                         Nr                                                                      Nr
+Nr                         Trends Interconnections     n=1 Map, the size                                           1
+and up to six pairs from    1 the 29 risks                                              Nj                                      % likelihoodir =      ��li,n �
+��li,n �                    of the trend represents          the perception of                                      Nr
+below (one% risk   canir =beNrconnected
+likelihood                        to                         %   C  =
+1
+��c          �                                                   n=1
+n=1                         its importance inij shaping
+Nr             global
+i,n
+any one of the other 28 risks)”.Nr                                                     n=1
+1                          development (answer to the first part of                  with li,n ∈ {0,1} and equal to 1 if
+% likelihoodir =      ��li,n �                the question on trend as explained                        respondent N selected risk i.
+Nr
+n=1
+Nj
+Nj                                                                                                           1 Global Risks Report 2016
+The                            89
+1                                                                                                       % Cij = ��ci,n �
+% Cij =        ��ci,n �                                                                                                     Nr
+Nr                                                                                                                 n=1
+n=1

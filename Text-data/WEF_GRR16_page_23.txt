@@ -1,0 +1,160 @@
+Part 1
+
+
+
+
+With longer-term trends such as                                                                                                      European countries that do not                                                                                               dependence rises, the resulting
+demographic changes and rising                                                                                                       react appropriately to technological                                                                                         interconnectivity and interdependence
+wealth disparities likely to heighten                                                                                                change could lose 600 billion euros in                                                                                       can diminish the ability of organizations
+economic and social pressure in                                                                                                      value added over the next 10 years,                                                                                          to fully protect their entire enterprise.
+emerging economies over the next                                                                                                     corresponding to about 10% of                                                                                                As more organizations move to digitize
+10 years, there is renewed urgency                                                                                                   Europe’s industrial base.32 Businesses,                                                                                      their unique business value within more
+Part 2
+
+
+
+
+to generate growth. As explored in                                                                                                   policy-makers and civil society                                                                                              connected environments that rely more
+the Global Competitiveness Report                                                                                                    therefore need to find appropriate                                                                                           and more on machine learning and
+2015–2016, productivity – the major                                                                                                  frameworks to address four high-level                                                                                        automated decision-making, cyber
+driver of growth – has been declining in                                                                                             risks associated with the transformation                                                                                     resilience takes on a new importance.
+recent years.28                                                                                                                      towards a more digitized economy.                                                                                            Although organizations may recognize
+the benefit of cyber technologies for
+Many hope that emerging technologies                                                                                                 First: cyber-related risks. Cyberattacks                                                                                     their bottom lines, they may not be
+will fuel a new wave of productivity                                                                                                 and related incidents have been                                                                                              fully internalizing cyber security risks
+and growth. The pace of innovation                                                                                                   entering the global risks landscape                                                                                          and making the appropriate level of
+is increasing and the spread of                                                                                                      as among the most likely and most                                                                                            investment to enhance operational
+Part 3
+
+
+
+
+technologies is inevitable,29 giving rise                                                                                            potentially impactful risks for the past                                                                                     risk management and strengthen
+to individual innovations and disrupting                                                                                             two to three years – in North America,                                                                                       organizational resilience. Particular
+business models, processes and                                                                                                       cyberattacks ranks as the most likely                                                                                        attention is needed in two areas that
+products in ways that will require rapid                                                                                             risk by far (see Figure 3) – with the                                                                                        are so far under-protected: mobile
+adaptation.30 A recent study suggests                                                                                                potential threat for doing business                                                                                          internet and machine-to-machine
+that internet-related technologies                                                                                                   explored further in Part 4. Cases                                                                                            connections. It is vital to integrate
+such as mobile internet, automation                                                                                                  have been rising in both frequency                                                                                           physical and cyber management,
+of knowledge work, the Internet of                                                                                                   and scale. They have so far been                                                                                             strengthen resilience leadership and
+Things and cloud technology will be the                                                                                              isolated, concerning mostly a single                                                                                         organizational and business processes,
+most disruptive and generate the most                                                                                                entity or country, but as the Internet                                                                                       and leverage supporting technologies.
+Part 4
+
+
+
+
+economic benefit (see Figure 1.4).31                                                                                                 of Things leads to more connections
+between people and machines,                                                                                                 Second: the exchange of data between
+The failure to understand and address                                                                                                cyber dependency – considered by                                                                                             countries and stakeholders. Data have
+risks related to technology, primarily                                                                                               survey respondents as the third most                                                                                         been called “the oil of the 21 century”,
+the systemic cascading effects of                                                                                                    important global trend (see Figure                                                                                           and a predictable legal framework is
+cyber risks or the breakdown of critical                                                                                             4) – will increase, raising the odds of a                                                                                    needed to realize the full economic
+information infrastructure, could have                                                                                               cyberattack with potential cascading                                                                                         potential of digitization. Recent cases of
+far-reaching consequences for national                                                                                               effects across the cyber ecosystem. As                                                                                       policy reversal have created uncertainty
+economies, economic sectors and                                                                                                      a result, an entity’s risk is increasingly                                                                                   about the legal situation, which can
+global enterprises. By one estimate,                                                                                                 tied to that of other entities. As cyber                                                                                     hamper investment and adaptation
+of the latest technologies. Given the
+inherent international nature of data
+flows, in areas such as supply chains
+Figure 1.4: Estimated Potential Economic Impact of Technologies, US$ trillion,                                                                                                                                                                                    or 3D printing, national governance
+Estimated potential economic impact of technologies
+annual                                                                                                                                                                                                                                                            needs to be complemented by
+a functioning international legal
+11    3.7-10.8
+framework. However, the current
+10
+regulatory regime is underdeveloped
+High
+9                                                                                                                                                                                                                                                                 and lacks the necessary legal certainty
+8                                                                                                                                                                                                                 Low                                             in areas such as privacy, transparency,
+7
+Range of sized potential
+encryption control, the effect of
+2.7-6.2                   1.7-6.2
+6                        5.2-6.7                                                                                                                                                            economic impacts                                                      intellectual property regimes on data
+5                                                                                        1.7-4.5                                                                                                                                                                  that cross borders, and the impact
+4
+of proprietary data on competition.
+Given the many actors and industries
+3
+
+2                                                                                                             0.2-1.9
+
+1
+0.7-1.6
+involved and the competing interests
+0.1-0.6            0.2-0.6         0.2-0.5                 0.1-0.5
+
+0
+0.2-0.3
+at stake, stakeholders will probably
+struggle to find common agreement.
+Mobile Internet
+
+
+
+Automation of
+knowledge work
+
+
+
+The Internet of Things
+
+
+
+
+Cloud technology
+
+
+
+
+Advanced robotics
+
+
+
+Autonomous and near-
+autonomous vehicles
+
+
+
+Next-generation
+genomics
+
+
+
+Energy storage
+
+
+
+
+3D printing
+
+
+
+
+Advanced materials
+
+
+
+Advanced oil and gas
+exploration and recovery
+
+
+
+Renewable energy
+
+
+
+
+Moreover, the physical infrastructure
+for data exchange, such as undersea
+cables, could also become a target in
+international conflict or terrorism.
+
+Third: changes to the work
+Source: Based on Manyika et al. 2013.                                                                                                                                                                                                                             environment. Although there is a lot
+Note: Projections are to 2025 and include sized applications and consumer surplus.
+of uncertainty about how many new
+
+18    The Global Risks Report 2016

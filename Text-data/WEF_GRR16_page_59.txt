@@ -1,0 +1,84 @@
+Part 1
+
+
+
+
+Trade will be critical to managing           1. Big Data and Improved Climate-              increased data analysis and modelling
+short-term production shortfalls and         Risk Information Services                      capabilities. For example:
+matching long-term changes in supply
+and demand as the impacts of climate         Timely, accessible and actionable              –   For many least-developed
+change on production accelerate              climate and weather information                    countries and small island
+and demand for food increases in             enables farmers, communities and                   developing states, improved
+Part 2
+
+
+
+
+developing countries. However,               local authorities to identify their specific       early-warning systems for natural
+as markets become increasingly               vulnerabilities to climate variability and         disasters are a key enabler of
+vulnerable to destabilizing production       to develop response strategies. This               sustained and climate-resilient
+shocks in breadbasket regions, they          information is also key to any design              growth and development.
+will become a source of risk as well as      of the kind of efficient and effective             Responding to that need, the
+a means of managing risk.                    insurance schemes further explored                 government of France proposed at
+below, which could help reduce                     the Third UN World Conference on
+Adaptation of agriculture is a priority      exposure to economic losses.                       Disaster Risk Reduction in March
+for both public and private sectors,                                                            2015 in Sendai, Japan, to mobilize
+but it is not a panacea (see Box 3.2.1).     Tailored information is critical, given the        the international community to
+Part 3
+
+
+
+
+Agriculture is only one part of the global   complexity and geographic specificity              improve the climate resiliency of
+food system. Transport infrastructure        of climate change impacts. One                     vulnerable countries, namely Small
+must also be climate-proofed. System         example is high-resolution topographic             Island Development States and
+resilience requires new rules to militate    data, which will be made available by              Least Developed Countries. During
+against export controls and may              the US Geological Survey following                 the COP21 meetings in Paris,
+necessitate efficiency trade-offs such       a White House announcement last                    the Climate Risk Early Warning
+as increased strategic storage.              September. The data, generated from                Systems (CREWS) initiative
+NASA’s Shuttle Radar Topography                    was officially launched by the
+More fundamentally, there are limits         Mission (SRTM) in 2000, previously                 governments of Australia, Canada,
+to what agricultural adaptation can          covered only the United States; it                 France, Germany, Luxembourg
+Part 4
+
+
+
+
+achieve and significant uncertainty          is now also available for Africa, and              and the Netherlands. Collectively,
+about where, and when, these limits          next year will expand to include Latin             the six countries pledged over
+will be reached. The longer climate          America and the Caribbean. This kind               US$80 million to scale up improved
+change continues, the more likely            of topographic data could greatly                  climate-risk early warning systems
+it is that these limits will be found.       enhance agricultural planning for                  across 80 countries.
+According to the IPCC, “there may            drought, glacial retreat, inland flooding,
+be a threshold of global warming             landslides and coastal storm surges.40         –   UN Pulse is the response to a call
+beyond which current agricultural                                                               from the United Nations’ High-
+practices can no longer support              However, enhanced information alone                Level Panel on the Post-2015
+large human civilizations.”39 Without        is not enough. Equally essential is the            Development Agenda for data
+ambitious, determined action to reduce       capability to model potential impacts on           to “improve accountability and
+emissions and contain climate change         interconnected environmental, social               decision-making, and to meet
+at manageable levels, long-term food         and economic systems if vulnerable                 the challenges of measuring
+security cannot be guaranteed.               communities are to develop the better              sustainable development
+capacities and integrated policies                 progress.”41 Labs in New York,
+Spheres of Action to                         needed for long-term resilience. It                Jakarta and Kampala are
+is challenging, however, to develop                bringing together government,
+Mitigate the Climate Risk                    actionable information from a large                UN agencies, academia and the
+on Food Security                             range of data gathered from different              private sector to pioneer new
+sources. Data are mostly insufficient              approaches to using big data for
+This section addresses three spheres         to meet the information needs for                  development.
+in which action can be taken. These          evidence-based climate adaptation,
+include the use of big data to boost the     especially in vulnerable developing            –   The Climate Services for
+efficiency and specificity of climate-risk   regions that have large agricultural               Resilient Development
+information; the provision of insurance      sectors exposed to increased climate               Partnership was launched by
+innovations that can reduce risk to          risk.                                              the United States during the
+small farmers, who are an essential                                                             Climate Summit in partnership
+and fundamental aspect of agricultural       Consequently, attention is increasingly            with the United Kingdom, the
+success; and the incentivization             turning towards broad-based                        Asian Development Bank, the
+of climate-resilient, low-carbon             partnerships that bring together                   Inter-American Development Bank,
+investments.                                 information services, policy resources,            Google, the Skoll Global Threats
+technological and modelling skills                 Fund, the American Red Cross,
+and capacity building and training.                and the GIS software company
+Many of these partnerships cut across              Environmental Systems Research
+public and private sectors to leverage             Institute (ESRI).
+
+
+54   The Global Risks Report 2016

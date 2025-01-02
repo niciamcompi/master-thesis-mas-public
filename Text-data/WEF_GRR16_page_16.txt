@@ -1,0 +1,112 @@
+Part 1
+Box 1.1: Methodology of The Global Risks Report
+
+This Report defines a “global risk” as an uncertain event or condition that, if it occurs, can cause significant negative impact for
+several countries or industries within the next 10 years. Based on this refined definition, this year 29 global risks were identified
+
+
+
+
+Part 2
+and grouped into the five customary categories: economic, environmental, geopolitical, societal and technological. A
+description of the risks and the methodology employed can be found in Appendices A and B.
+
+The Report also identifies 13 global trends that can potentially drive global risks. A “trend” is defined as a long-term pattern that
+is currently taking place and that could contribute to amplifying global risks and/or altering the relationship between them.
+Unlike risks, trends are occurring with certainty and can have both positive and negative consequences. Trends can alter how
+risks evolve and interrelate, and they inform efforts at risk mitigation.
+
+Figure 1.1.1: The Evolving Risks Landscape, 2007–2016
+
+
+
+
+Part 3
+Top 5 Global Risks in Terms of Likelihood
+2007                  2008                           2009                            2010                               2011                  2012                    2013                  2014                    2015                   2016
+
+Breakdown of           Asset price collapse        Asset price collapse            Asset price collapse                 Storms and             Severe income           Severe income         Income disparity        Interstate conflict    Large-scale
+1st     critical information                                                                                                    cyclones               disparity               disparity                                     with regional          involuntary
+infrastructure                                                                                                                                                                                                       consequences           migration
+Breakdown of critical information infrastructure
+Chronic disease        Middle East                 Slowing Chinese                 Slowing Chinese                      Flooding                                                             Extreme weather         Extreme weather        Extreme weather
+2nd     in developed           instability                 economy (<6%)                   economy (<6%)                                               imbalances              imbalances            events                  events                 events
+countries
+
+
+Oil price shock        Failed and failing          Chronic disease                 Chronic disease                      Corruption             Rising greenhouse       Rising greenhouse     Unemployment            Failure of national    Failure of climate-
+3rd                            states                                                                                                                  gas emissions           gas emissions         and                     governance             change mitigation
+underemployment                                and adaptation
+Breakdown of
+
+
+
+
+Part 4
+critical information
+China economic         Oil and gas price           Global governance               Fiscal crises
+infrastructure           Biodiversity loss      Cyber attacks           Water supply crises   Climate change          State collapse or      Interstate conflict
+4th     hard landing           spike                       gaps                                                                                                                                                              crisis                 with regional
+consequences
+
+
+Asset price collapse   Chronic disease,            Retrenchment                    Global governance                    Climate change         Water supply crises     Mismanagement         Cyber attacks           High structural        Major natural
+5th                            developed world             from globalization              gaps                                                                                of population                                 unemployment or        catastrophes
+(emerging)                                                                                                          ageing                                        underemployment
+
+
+
+
+Top 5 Global Risks in Terms of Impact
+2007                  2008                           2009                            2010                               2011                  2012                    2013                  2014                    2015                   2016
+
+Asset price collapse   Asset price collapse        Asset price collapse            Asset price collapse                 Fiscal crises          Major systemic          Major systemic        Fiscal crises           Water crises           Failure of climate-
+1st                                                                                                                                                                                                                                                 change mitigation
+and adaptation
+Breakdown of critical information infrastructure
+Retrenchment           Retrenchment                Retrenchment                    Retrenchment                         Climate change         Water supply            Water supply          Climate change          Rapid and massive      Weapons of mass
+2nd     from globalization     from globalization          from globalization              from globalization                                          crises                  crises                                        spread of infectious   destruction
+(developed)                 (developed)                     (developed)                                                                                                                       diseases
+
+
+Interstate and         Slowing Chinese             Oil and gas                     Oil price spikes                     Geopolitical           Food shortage                                 Water crises            Weapons of mass        Water crises
+3rd     civil wars             economy (<6%)               price spike                                                                                 crises                  imbalances                                    destruction
+
+Breakdown of
+critical information
+Pandemics              Oil and gas                 Chronic disease                 Chronic disease
+infrastructure             Asset price collapse                                                 Unemployment            Interstate conflict    Large-scale
+4th                            price spike                                                                                                             imbalances              weapons of mass       and                     with regional          involuntary
+destruction           underemployment         consequences           migration
+
+
+Oil price shock        Pandemics                   Fiscal crises                   Fiscal crises                        Extreme energy         Extreme volatility in   Failure of climate-   Critical information    Failure of climate-    Severe energy
+5th                                                                                                                             price volatility       energy and              change mitigation     infrastructure          change mitigation      price shock
+agriculture prices      and adaptation        breakdown               and adaptation
+
+
+
+
+Economic                      Environmental                               Geopolitical            Societal         Technological
+
+Source: World Economic Forum 2007–2016, Global Risks Reports.
+
+Note: Global risks may not be strictly comparable across years, as definitions and the set of global risks have evolved with new issues emerging on the 10-year horizon.
+For example, cyberattacks, income disparity and unemployment entered the set of global risks in 2012. Some global risks were reclassified: water crises and rising
+income disparity were re-categorized first as societal risks and then as a trend in the 2015 and 2016 Global Risks Reports, respectively. The 2006 edition of the Global
+Risks Report did not have a risks landscape.
+
+
+As in previous years, assessments of risks in this year’s Report are based on the Global Risks Perception Survey. The survey
+captures the perceptions of almost 750 experts and decision-makers in the World Economic Forum’s multistakeholder
+communities and was conducted in Fall 2015. Respondents are drawn from business, academia, civil society and the public
+sector and span different areas of expertise, geographies and age groups.
+
+The analysis takes into account three complementary angles on global risks: an assessment of their likelihood and impact
+(Figure 1), and how these have evolved over the years (Figure 1.1.1); a regional breakdown of the perceived likelihood of risks
+(Figure 3); a mapping of interconnections among risks (Figure 2) and among risks and trends (Figure 4); and the difference of
+the level of concern in the short and long term (Figure 1.2).
+
+
+
+The Global Risks Report 2016                  11

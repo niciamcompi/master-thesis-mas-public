@@ -1,0 +1,87 @@
+Appendix C: The Executive and Opinion Survey 2015: Views of
+the Business Community on the Global Risks of
+Highest Concern for Doing Business
+
+Every year since 1979 the World                     Interested readers can visit the portal at
+Economic Forum has conducted the                    http://wef.ch/risks2016 to access the
+Executive Opinion Survey (EOS). This                results for individual economies and
+survey captures invaluable information              regions.
+on a broad range of socio-economic
+issues. In the 2015 edition, over 13,000
+N1i
+executives in 140 economies      were
+1
+surveyed.   4
+likelihoodi �   � likelihoodi,n
+Ni
+n=1
+
+The 2015 edition of the EOS, conducted
+between February and June 2015,
+included a question on the risks of
+2
+highest concern forNi the second time.
+1
+impacti = respondents
+More specifically,   � impacti,n were
+Ni
+asked to select the   five global risks that
+n=1
+
+they believe to be of most concern for
+doing business in their country within
+the next 10 years.
+∑N
+n=1 pairij,n
+interconnection
+The list of 28 globalij =�       presented
+riskspair           in
+max
+the EOS is derived from the list of global
+risks of The Global Risks Report 2015
+and is almost similar to the global risks
+of The Global Risks Report 2016 (see
+N
+Appendix    B for the differences
+pairmax = max ( � pairij,n )
+in global
+risks between the   ij twon=1editions). The
+size and nature of the EOS and the
+GRPS respondents differed
+significantly: they comprised a
+N
+multistakeholder group   1 of experts in the
+% concerni = ��ci,n �
+case of the GRPS and    N business
+n=1
+executives in the case of the EOS. The
+EOS results provide a complementary
+perspective – that of businesses on the
+impact of global risks on     Nr their
+businesses.               1
+% likelihood = ��l �
+ir               i,n
+Nr
+n=1
+Formally, for each country j the share of
+respondents selecting each global risk i
+is:
+Nj
+1
+% Cij =      ��ci,n �
+Nr
+n=1
+
+
+where Nj is the sample size of the
+country j and ni,j is the number of
+respondents who selected the risk i in
+their five global risks of highest concern
+for doing business in country j. Ci,j is the
+share of respondents who selected risk
+i in country j.
+
+
+
+
+90   The Global Risks Report 2016
