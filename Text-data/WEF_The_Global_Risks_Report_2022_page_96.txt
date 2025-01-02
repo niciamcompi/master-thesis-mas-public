@@ -1,0 +1,65 @@
+APPENDIX B
+
+Executive Opinion Survey: National
+Risk Perceptions
+
+Table B.1 presents the top five risks for each of the 124        The question posed to EOS respondents is
+economies surveyed by the World Economic Forum’s                 comparable to the following question asked to GRPS
+Executive Opinion Survey (EOS) between May and                   respondents: “Please identify your top five global risks
+September 2021. Over 12,000 leaders answered the                 of concern [that will become a critical threat to the
+following question: “What five risks will pose a critical        world] over the next 0–2 years”. The list of 35 risks to
+threat to your country in the next two years?” and were          select from in the EOS is also comparable to the list
+asked to select these from a list of 35 risks, with no           of risks in the Global Risks Perception Survey (GRPS),
+particular order. “Risk 1” indicates the most frequently         except for two new risks that were added to the
+selected risk in each economy. Where there is a tie, the         GRPS after the EOS was conducted—“geoeconomic
+tied risks are presented alphabetically in the same cell,        confrontations” and “pollution-driven harms to human
+separated by a dotted line (“---”) and the next cell in the      health”—and one risk that changed name from
+row contains an ellipsis (“…”). For example, in Armenia,         “geopolitization of strategic resources” in the EOS to
+two risks (“human-made environmental damage” and                 “geopolitical contestation of strategic resources” in
+“large-scale involuntary migration”) are tied for third place    the GRPS (see Appendix C, Global Risks Perception
+and there is therefore no risk in fourth place.                  Survey Technical Notes).
+
+
+
+TA B L E B . 1
+
+Top Five Risks Identified by the Executive Opinion Survey
+
+Economy          Risk 1                Risk 2                 Risk 3             Risk 4                   Risk 5
+
+Fracture of           Human-made             Failure of
+Debt crises in           Infectious
+Albania          interstate            environmental          cybersecurity
+large economies          diseases
+relations             damage                 measures
+
+Prolonged              Human-made                                  Widespread
+Employment and
+Angola                                 economic               environmental      State collapse           youth
+livelihood crises
+stagnation             damage                                      disillusionment
+
+Prolonged                                                       Failure to
+Employment and
+Argentina        economic                                     State collapse     stabilize price          Digital inequality
+livelihood crises
+stagnation                                                      trajectories
+
+Human-made                                  Failure of
+environmental                               cybersecurity
+Prolonged              damage                                      measures
+Armenia          Interstate conflict   economic                                  …
+stagnation             Large-scale                                 Fracture of
+involuntary                                 interstate
+migration                                   relations
+
+Failure of
+Extreme weather        Climate action     Infectious               Debt crises in
+Australia        cybersecurity
+events                 failure            diseases                 large economies
+measures
+
+
+
+
+The Global Risks Report 2022     96

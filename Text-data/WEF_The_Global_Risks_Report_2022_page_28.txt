@@ -1,0 +1,64 @@
+Endnotes
+
+1   WHO (World Health Organization). “WHO Coronavirus              13 IMF (International Monetary Fund). 2021. World
+(COVID-19) Dashboard – ‘persons fully vaccinated’”.               Economic Outlook, October 2021: Recovery During a
+https://covid19.who.int/, accessed 3 January 2022.                Pandemic Health Concerns, Supply Disruptions, and
+2   Kemp, S. 2021. “Digital 2021 April Global Statshot                Price Pressures. October 2021. https://www.imf.org/en/
+Report”. Datareportal. 26 April 2021. https://datareportal.       Publications/WEO/Issues/2021/10/12/world-economic-
+com/reports/digital-2021-april-global-statshot                    outlook-october-2021
+14 Ibid.
+3   UNESCO (United Nations Educational, Scientific and
+Cultural Organization). 2021. “UNESCO warns 117                15 MarketWatch. “Bloomberg Commodity Index – YTD”.
+million students around the world are still out of school”        https://www.marketwatch.com/investing/index/
+Press Release. UNESCO. 16 September 2021. https://                bcom?countrycode=xx, accessed 3 January 2022.
+en.unesco.org/news/unesco-warns-117-million-students-          16 Cohen, A. 2021. “China’s Energy Crisis Deepens
+around-world-are-still-out-school                                 with Potentially Fatal Consequences”. Forbes.
+4   Sedik, T. S. and Xu, R. 2020. “A Vicious Cycle: How               19 October 2021. https://www.forbes.com/sites/
+Pandemics Lead to Economic Despair and Social Unrest”.            arielcohen/2021/10/19/chinas-energy-crisis-deepens-
+IMF Working Papers. IMF. 16 October 2020. https://www.            with-potentially-fatal-consequences/?sh=4af8e5531163;
+imf.org/en/Publications/WP/Issues/2020/10/16/A-Vicious-           Erlanger, S., Reed, S. and Troianovski, A. 2021. “As
+Cycle-How-Pandemics-Lead-to-Economic-Despair-and-                 Europe faces a cold winter, Putin seizes on the leverage
+Social-Unrest-49806                                               from Russia’s gas output”. New York Times. 7 October
+5   WHO. “WHO Coronavirus (COVID-19) Dashboard –                      2021. https://www.nytimes.com/2021/10/07/world/
+‘confirmed cases’ and ‘deaths’”. https://covid19.who.int/,        europe/putin-russia-natural-gas-europe.html;
+accessed 3 January 2022.                                       17 World Economic Forum. 2021. “Chief Economists
+6   WHO. 2021. “New policy brief calls on decision-makers             Outlook”. WEF. November 2021. https://www3.
+to support patients as 1 in 10 report symptoms of “long           weforum.org/docs/WEF_Chief_Economists_Outlook_
+COVID””. Policy Brief. WHO. 25 February 2021. https://            November_2021.pdf
+www.euro.who.int/en/health-topics/health-emergencies/          18 Kose, M. A., Ohnsorge, F. and Sugawara, N. 2021. “Navigating
+coronavirus-covid-19/news/news/2021/2/new-policy-                 the debt legacy of the pandemic.” Future Development. The
+brief-calls-on-decision-makers-to-support-patients-as-1-          Brookings Institution. 20 October 2021. https://www.brookings.
+in-10-report-symptoms-of-long-covid                               edu/blog/future-development/2021/10/20/navigating-the-debt-
+7   Our World in Data. “Coronavirus (COVID-19) Vaccinations           legacy-of-the-pandemic/
+– ‘By country’”. https://ourworldindata.org/covid-             19 Galouchko, K. 2021. “Fund managers sour on global
+vaccinations?country=OWID_WRL, accessed 3 January                 growth expectations, BofA says”. Bloomberg. 19
+2022.                                                             October 2021. https://www.bloomberg.com/news/
+8   Bloomberg. “More Than 8.23 Billion Shots Given:                   articles/2021-10-19/bofa-survey-shows-fund-managers-
+Covid-19 Tracker”. https://www.bloomberg.com/                     slashing-bonds-to-a-record-low
+graphics/covid-vaccine-tracker-global-distribution/,           20 MarketWatch. “U.S. Dollar Index (DXY) – YTD”. https://
+accessed 3 January 2022.                                          www.marketwatch.com/investing/index/dxy, accessed 3
+9   WHO. “WHO Coronavirus (COVID-19) Dashboard –                      January 2022.
+‘confirmed cases’”. https://covid19.who.int/, accessed 3       21 IMF. 2021. Op. cit.
+January 2022.                                                  22 International Labour Organization. 2021. “World
+10 COVID-19 Mental Disorders Collaborators. 2021.                     Employment and Social Outlook. Trends 2021.” ILO
+“Global prevalence and burden of depressive and anxiety           Flagship Report. ILO. 2021. https://www.ilo.org/
+disorders in 204 countries and territories in 2020 due            wcmsp5/groups/public/---dgreports/---dcomm/---publ/
+to the COVID-19 pandemic”. The Lancet. Volume 398,                documents/publication/wcms_795453.pdf
+Issue 10312. 6 November 2021. https://www.thelancet.           23 Deaton, A. 2021. “COVID-19 and Global Income
+com/journals/lancet/article/PIIS0140-6736(21)02143-7/             Inequality”. LSE Public Policy Review. London School
+fulltext#%20                                                      of Economics Press. 3 May 2021. https://ppr.lse.ac.uk/
+11 WHO. 2021. “Noncommunicable diseases”. Factsheet.                  articles/10.31389/lseppr.26/
+WHO. 13 April 2021. https://www.who.int/news-room/             24 Mahler, D. G., Lakner, C. and Yonzan, N. 2021. “Is
+fact-sheets/detail/noncommunicable-diseases                       COVID-19 increasing global inequality?”. World Bank
+12 Knight, G.M., Glover, R.E., McQuaid, C.F., Olaru, I.D.,            Blogs. World Bank. 7 October 2021. https://blogs.
+Gallandat, K., Leclerc, Q.J., Fuller, N.M., Willcocks, S.J.,      worldbank.org/opendata/covid-19-increasing-global-
+Hasan, R,, van Kleef, E. and Chandler, C.I.R, 2021.               inequality#_ftnref1
+“Antimicrobial resistance and COVID-19: Intersections and      25 Dooley, M. and Kharas, 2021. H. “Long-run impacts of
+implications”. Epidemiology and Global Health. eLife. 16          COVID-19 on extreme poverty”. Future Development.
+February 2021. https://elifesciences.org/articles/64139           The Brookings Institution. 2 June 2021. https://www.
+brookings.edu/blog/future-development/2021/06/02/
+long-run-impacts-of-covid-19-on-extreme-poverty/
+
+
+
+The Global Risks Report 2022   28

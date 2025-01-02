@@ -1,0 +1,41 @@
+REUTERS/JIM YOUNG
+
+
+
+to clients beyond simply encrypting files;          Global Risks Perception Survey (GRPS)
+these included data leaks and distributed           respondents reflect these trends, ranking
+denial-of-service (DDoS) attacks. Hacker            “cybersecurity failure” among the top-10
+groups will also contact victims’ clients or        risks that have worsened most since the
+partners to get them to urge the victims to         start of the COVID-19 crisis. Moreover, 85%
+pay ransoms. Among the services offered             of the Cybersecurity Leadership Community
+is the collection of top executive information      of the World Economic Forum have stressed
+for blackmail.17                                    that ransomware is becoming a dangerously
+growing threat and presents a major
+Sophisticated cyber tools are also allowing         concern for public safety.20 At a regional
+cyberthreat actors to attack targets of             level, “cybersecurity failure” ranks as a top-
+choice more efficiently, rather than settling       five risk in East Asia and the Pacific as well
+for targets of opportunity, highlighting the        as in Europe, while four countries—Australia,
+potential to carry out more goal-oriented           Great Britain, Ireland and New Zealand—
+attacks that could lead to even higher              ranked it as the number one risk. Many
+financial, societal and reputational damage         small, highly digitalized economies—such
+in the future. Increasingly sophisticated           as Denmark, Israel, Japan, Taiwan (China),
+use of spyware technologies, for example,           Singapore and the United Arab Emirates—
+has allowed for targeted attacks against            also ranked the risk as a top-five concern.
+journalists and civil rights activists across
+geographies—spurring a wave of political            Already-stretched IT and cybersecurity
+and industrial blowback in the form of              professionals are under an increasing
+government sanctions and lawsuits.18 The            burden, not only because of the expansion
+ability to tailor attacks at will includes timing   of remote work but also because of the
+them for when cybersecurity teams and               growing complexity of regulations for data
+leadership could be distracted by other             and privacy, even though such regulations
+priorities, such as during peak COVID-19            are critical to ensuring public trust in digital
+outbreaks or a natural disaster. Cyberthreat        systems.21 There is an undersupply of
+actors are also accessing higher-quality and
+more sensitive information from victims.
+And deepfake technology is allowing
+cyberthreat actors to improve social
+“Cybersecurity failure” is one
+engineering ploys, proliferate disinformation          of the risks that worsened the
+and wreak societal havoc, especially at
+times of high volatility.19                            most through COVID-19
+The Global Risks Report 2022   48

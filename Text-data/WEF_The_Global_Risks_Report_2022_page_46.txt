@@ -1,0 +1,43 @@
+Digital distress
+
+Governments, societies and companies            office networks to residential ones, which
+increasingly rely on technology to manage       have a greater variety of connected devices
+everything from public services to business     with less protection against cyber intrusion.
+processes, even routine grocery shopping.1      In parallel, the appetite for capabilities
+Converging technological platforms,             predicated upon using multiple technologies
+tools and interfaces connected via an           working in concert—including artificial
+internet that is rapidly shifting to a more     intelligence (AI), Internet of Things (IoT)/
+decentralized version 3.0 are at once           Internet of Robotic Things–enabled devices,
+creating a more complex cyberthreat             edge computing, blockchain and 5G—is
+landscape and a growing number of critical      only growing.4 While these capabilities afford
+failure points. As society continues to         tremendous opportunities for businesses
+migrate into the digital world, the threat of   and societies to use technology in ways that
+cybercrime looms large, routinely costing       can dramatically improve efficiency, quality
+organizations tens—even hundreds—of             and productivity, these same capabilities
+millions of dollars. The costs are not just     also expose users to elevated and more
+financial: critical infrastructure, societal    pernicious forms of digital and cyber risk.
+cohesion and mental well-being are also
+in jeopardy.                                    In the future, the interconnectedness and
+convergence of these digital tools will
+continue to increase as society embraces
+Digital everything                              the next version of the internet built upon
+blockchain technology. One manifestation
+Growing dependency on digital systems           of this migration will be the metaverse:
+over the last 20 years has drastically          a network of 3D virtual spaces, enabled
+shifted how many societies function.2 The       by cryptocurrencies and non-fungible
+COVID-19-induced shift to remote work           tokens (NFTs) among other technologies,
+has accelerated the adoption of platforms       with unprecedented socio-economic
+and devices that allow sensitive data to be     interoperability and immersive virtual
+shared with third parties—cloud service         reality experiences.5 Users will be
+providers, data aggregators, application        required to navigate security vulnerabilities
+programming interfaces (APIs) and other         inherent in both increased dependency
+technology-related intermediaries.3 These       on and growing fragmentation in these
+systems, while powerful tools for data and      types of complex technologies often
+processing, attach an additional layer of       characterized by decentralization and lack
+dependency on service providers. Remote         of structured guardrails or sophisticated
+work has also moved digital exchanges from      onboarding infrastructure.
+
+
+
+
+GETTY/FILIPPOBACCI                                                                        The Global Risks Report 2022   46

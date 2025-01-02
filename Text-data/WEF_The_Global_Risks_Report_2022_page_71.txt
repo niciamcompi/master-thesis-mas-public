@@ -1,0 +1,71 @@
+Space is getting busier
+
+Humans have been inspired by space                    A LEO/MEO space race
+exploration for decades but growing
+commercial and geopolitical interests are             The traditional Geostationary Orbit (GEO)
+increasingly influencing this frontier. While         commercial satellite market, which has
+early space activity was conducted or                 dominated the communications sector
+funded by the public sector, the last decade          for decades, is now losing commercial
+has seen growing private investment. New              value because of competition from new
+commercial entrants are disrupting traditional        players seeking to provide services from
+incumbents’ control in delivering satellite           LEO or MEO. More recently, in the last
+services, especially in internet-related              decade, the financing of new applications
+communications or launch services. Some               for space-based initiatives has grown
+governments are encouraging private space             fast: businesses, start-ups and research                * Low Earth Orbit (LEO)
+activity to further national “territorial” claims     entities are proliferating, raising money               is generally considered
+to encompass Earth-
+or to foster the development of high-value            in the billions, and thereby driving down               centred orbits with an
+jobs, especially in the zone of Low Earth             the cost of launch systems, particularly in             altitude of 2,000 kilometres
+Orbit (LEO) or Medium Earth Orbit (MEO), as           LEO (see Figure 5.1).1 Lower costs bring                (1,200 miles) or less. The
+Geostationary Orbit (GEO)
+well as enhancing their military or defence-          more opportunity for a greater diversity of             encompasses a higher-
+oriented presence.* Increased exploitation            actors to launch constellations of smaller              altitude orbit, typically at an
+altitude of 35,000 kilometres
+of these orbits carries the risk of congestion,       satellites. With this more cost-effective               above the Earth’s equator
+an increase in debris and the possibility of          access to space, attention is increasingly              while Medium Earth Orbit
+(MEO) comprises a range
+collisions in a realm with few governance             shifting to new opportunities in areas such             of orbits between LEO
+structures to mitigate new threats.                   as hyperspectral remote sensing, energy                 and GEO.
+
+
+
+
+FIGURE 5.1
+
+Space Investment: Equity Capital by Investor Type (US$ Billions)
+
+$bn                                                                                                                   Number of rounds
+50
+
+
+
+600
+40
+
+
+
+30
+
+400
+
+20
+
+
+
+10
+200
+
+
+0
+2012          2013       2014         2015        2016        2017         2018        2019          2020            2021
+
+
+Angel Individual     Venture Capital      Corporate       Other       Number of rounds
+
+Source: Space Capital. Q3 2021. https://app.powerbi.com/
+view?r=eyJrIjoiNGY4MWI4OWEtMjNmZS00OTM3LWE5M2QtYTgxZTdjODk3YTllIiwidCI6IjYzMDZkMTJjLTEwODMtNGNhOS04Yjk2LTdjYzM3ODcwMWIzMiIsImMiOjN9
+
+
+
+
+The Global Risks Report 2022         71

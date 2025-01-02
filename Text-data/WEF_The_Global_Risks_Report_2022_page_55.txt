@@ -1,0 +1,98 @@
+24 Cf. Tay, S. 2019. “A serious shortage of cybersecurity experts          “Risks to kids online are growing. Here’s what we can do”. World
+could cost companies hundreds of millions of dollars”. CNBC. 5          Economic Forum. 13 October 2021. https://www.weforum.org/
+March 2019. https://www.cnbc.com/2019/03/06/cybersecurity-              agenda/2021/10/overcoming-the-growing-risks-to-kids-online/
+expert-shortage-may-cost-companies-hundreds-of-millions.html
+38 Braue, D. 2021. “Global cybersecurity spending to exceed $1.75
+25 Bloomberg. 2019. “Coalition Secures $40M in Funding to                 trillion from 2021-2025”. Cybercrime Magazine. 10 September
+Democratize Access to Cybersecurity”. Press Release. 9 May 2019.       2021. https://cybersecurityventures.com/cybersecurity-
+https://www.bloomberg.com/press-releases/2019-05-09/coalition-         spending-2021-2025/; Meeuwisse, R. 2019. “Is effective
+secures-40m-in-funding-to-democratize-access-to-cybersecurity          cybersecurity expensive?” Infosecurity Magazine. 10 April
+2019. https://www.infosecurity-magazine.com/blogs/effective-
+26 Boyd, C. 2021. “Zuckerberg’s Metaverse, and the possible
+cybersecurity-expensive
+privacy and security concerns”. Malwarebytes Labs. 2 November
+2021. https://blog.malwarebytes.com/privacy-2/2021/11/              39 Marsh. 2021. Global Insurance Market Index Q3 2021. October
+zuckerbergs-metaverse-and-the-possible-privacy-and-                    2021. https://www.marsh.com/fr/en/services/insurance-market-
+security-concerns/; Department of Homeland Security. 2021.             and-placement/insights/global_insurance_market_index.html
+Post-Quantum Cryptography. https://www.dhs.gov/quantum;
+40 Sabbagh, D. 2021. “Experts say China’s low-level cyberwar is
+Kalmann, A. 2018. “Blog: Cyber Security & the Metaverse”.
+becoming severe threat”. The Guardian. 23 September 2021.
+IBC365. 22 June 2018. https://www.ibc.org/blog-cyber-security-
+https://www.theguardian.com/world/2021/sep/23/experts-china-
+and-the-metaverse/2904.article
+low-level-cyber-war-severe-threat
+27 Kanterman M. and Naidu N. 2021 “Metaverse may be $800
+41 BBC. 2021. “Aukus: UK, US and Australia launch pact to counter
+billion market, next tech platform”. Bloomberg Intelligence. 1
+China”. BBC. 16 September 2021. https://www.bbc.com/news/
+December 2021. https://www.bloomberg.com/professional/blog/
+world-58564837; Kanno-Youngs, Z. and Sanger, D.E. 2021 “U.S.
+metaverse-may-be-800-billion-market-next-tech-platform/
+accuses China of hacking Microsoft”. The New York Times. 26
+28 Steib. 2021. Op. cit.                                                  August 2021. https://www.nytimes.com/2021/07/19/us/politics/
+microsoft-hacking-china-biden.html?; McWhorter, D. 2021.
+29 Murgia M. 2021. “Palantir to reshore all UK data processing from
+“Exposing one of China’s cyber espionage units”. Mandiant.
+US before regulatory ‘tsunami’ hits”. 17 December 2021. https://
+https://www.mandiant.com/resources/apt1-exposing-one-of-
+www.ft.com/content/76fa6a3f-a818-4e88-be14-b578ae378d7c
+chinas-cyber-espionage-units
+30 Pocock, J. and O’Brien, S. 2021. Cyber Risk: The Emerging
+42 Kemp, S. 2021. “Digital 2021 April Global Statshot Report”.
+Cyber Threat to Industrial Control Systems. Lloyd’s, CyberCube,
+Datareportal. 26 April 2021. https://datareportal.com/reports/
+and Guy Carpenter. 2021. https://www.marshmclennan.com/
+digital-2021-april-global-statshot
+content/dam/mmc-web/insights/publications/2021/august/
+The%20Emerging%20Cyber%20Threat%20to%20Industrial%20                43 Rodriguez, K. and Opsahl, K. 2020. “Augmented reality must
+Control%20Systems_Final%2016.02.2021.pdf                               have augmented privacy”. Electronic Frontier Foundation.
+16 October 2020. https://www.eff.org/deeplinks/2020/10/
+31 Verizon. 2020. 2020-2021. Cyber-Espionage Report. https://
+augmented-reality-must-have-augmented-privacy
+www.verizon.com/business/resources/reports/2020-2021-cyber-
+espionage-report.pdfx                                               44 Sultan, A. 2021. “Improving Cybersecurity Awareness in
+Underserved Populations”. UC Berkeley Center for Long-Term
+32 Buckley, J. and Conner, S. 2021. “Cyber Threats: Living with
+Cybersecurity White Paper Series. 2021. https://cltc.berkeley.
+Disruption”. Control Risks and AirMic. 12 October 2021. https://
+edu/underserved_populations/
+www.controlrisks.com/our-thinking/insights/reports/cyber-
+threats-living-with-disruption                                      45 Kite-Powell, J. 2021. “The rise of voice cloning and deepfakes
+in the disinformation wars”. Forbes. 21 September 2021.
+33 See, e.g., CBS News. 2019. “Doctored Nancy Pelosi video
+https://www.forbes.com/sites/jenniferhicks/2021/09/21/the-
+highlights threat of “deepfake” tech”. 26 May 2019. https://www.
+rise-of-voice-cloning-and-deep-fakes-in-the-disinformation-
+cbsnews.com/news/doctored-nancy-pelosi-video-highlights-
+wars/?sh=405859e138e1; Nicolls, D. 2019. “Will deepfake
+threat-of-deepfake-tech-2019-05-25/
+technology defeat biometric authentication?” Jumio.com. 10
+34 Brewster, T. 2021. “Fraudsters cloned company director’s voice         October 2019. https://www.jumio.com/deepfake-technology-
+in $35 million bank heist, police find”. Forbes. 14 October 2021.      biometric-authentication/; Pipikaite, A. 2021. “How to improve
+https://www.forbes.com/sites/thomasbrewster/2021/10/14/                security of biometric data”. World Economic Forum Global
+huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-                    Agenda. 2 September 2021. https://www.weforum.org/
+millions/?sh=af66cf275591                                              agenda/2021/09/untangling-the-benefits-and-risks-of-biometrics/
+35 Fisher, M. 2021. “Disinformation for hire, a shadow industry, is    46 ISACA. 2021. “State of Cybersecurity 2021: Threat Landscape,
+quietly booming”. The New York Times. 25 July 2021. https://           Security Operations and Cybersecurity Maturity (Part 2)”. ISACA.
+www.nytimes.com/2021/07/25/world/europe/disinformation-                2021. https://www.isaca.org/go/state-of-cybersecurity-2021;
+social-media.html; Joyce, S., Kashifuddin, M., Nocera, J. and          Kite-Powell, J. 2020. “Here’s how 2020 created a tipping
+Upton, P. 2021. “The disinformation age has arrived. Are you           point in trust and digital privacy”. Forbes. 27 October 2020.
+ready?” PwC. 9 February 2021. https://www.pwc.com/us/en/               https://www.forbes.com/sites/jenniferhicks/2020/10/27/
+tech-effect/cybersecurity/corporate-sector-disinformation.html         heres-how-2020-created-a-tipping-point-in-trust-and-digital-
+36 UK Finance. 2021. Fraud — The Facts 2021. https://www.                 privacy/?sh=7fe5bc4a4fc5; Lucas, O. 2021. “Corporate data
+ukfinance.org.uk/system/files/Fraud%20The%20Facts%20                   responsibility: Bridging the consumer trust gap”. PwC. August
+2021-%20FINAL.pdf                                                      2021. https://advisory.kpmg.us/articles/2021/bridging-the-trust-
+chasm.html?utm_source=vanity&utm_medium=referral&mid=m-
+37 Moon Sehat, C. 2021. “Advancing digital safety: A framework to
+00005652&utm_campaign=c-00107353&cid=c-00107353;
+align global action”. World Economic Forum. June 2021. https://
+Muggah, R. 2021. “Digital privacy comes at a price. Here’s how to
+www3.weforum.org/docs/WEF_Advancing_Digital_Safety_A_
+protect it”. World Economic Forum Global Agenda. 8 September
+Framework_to_Align_Global_Action_2021.pdf; Lalani, F. 2021.
+2021. https://www.weforum.org/agenda/2021/09/how-to-protect-
+
+
+
+The Global Risks Report 2022      55

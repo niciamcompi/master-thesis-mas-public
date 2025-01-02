@@ -1,0 +1,103 @@
+Endnotes
+
+1   World Economic Forum, in partnership with Marsh & McLennan             13 Sharton, B.R. 2021. “Ransomware attacks are spiking. Is your
+Companies, SK Group and Zurich Insurance Group. 2021. The                 company prepared?” Harvard Business Review. 20 May 2021.
+Global Risks Report 2021. Insight Report. Chapter 2 Error 404.            https://hbr.org/2021/05/ransomware-attacks-are-spiking-is-
+Geneva: World Economic Forum. January 2021. https://www.                  your-company-prepared; Steib, M. 2021. “What’s driving the
+weforum.org/reports/the-global-risks-report-2021                          surge in ransomware attacks?” New York Magazine Intelligencer.
+7 September 2021. https://nymag.com/intelligencer/article/
+2   World Economic Forum, in partnership with Marsh & McLennan
+ransomware-attacks-2021.html; Pupillo, L. et al. 2021. “Artificial
+Companies and Zurich Insurance Group. 2020. The Global Risks
+Intelligence and Cyber Security.” CEPS Task Force. May 2021.
+Report 2020. Insight Report. Chapter 5 Wild Wide Web. Geneva:
+https://www.ceps.eu/wp-content/uploads/2021/05/CEPS-TFR-
+World Economic Forum. January 2020. https://www.weforum.
+Artificial-Intelligence-and-Cybersecurity.pdf
+org/reports/the-global-risks-report-2020
+14 Rosenzweig, P. 2021. “There’s a better way to stop ransomware
+3   Check Point Software Technologies Ltd. 2021. The Biggest
+attacks”. New York Times (Guest Essay). 31 August 2021.
+Cloud Security Challenges of 2021. https://pages.checkpoint.
+https://www.nytimes.com/2021/08/31/opinion/ransomware-
+com/2020-cloud-security-report.html?utm_term=cyber-hub;
+bitcoin-cybersecurity.html
+Kent, J. 2020. “APIs are the next frontier in cybercrime”. Security.
+3 September 2020. https://www.securitymagazine.com/                    15 Davis, E. and Mee, P. 2021. Growing Cyber Threat Demands
+articles/93239-apis-are-the-next-frontier-in-cybercrime                   a United Response. Marsh McLennan. https://www.
+marshmclennan.com/insights/publications/2021/october/
+4   Hoster, B. and Sequeira, T. 2021. Harnessing Technology
+growing-cyber-threat-demands-a-united-response.html
+Convergence: Lessons from Smart Manufacturers. Marsh
+McLennan. https://www.marshmclennan.com/insights/                      16 Accenture. 2021. Threats Unmasked: 2021 Cyber Threat
+publications/2021/may/harnessing-technology-convergence.html              Intelligence Report. 2021. https://www.accenture.com/_acnmedia/
+PDF-158/Accenture-2021-Cyber-Threat-Intelligence-Report.
+5   Allyn, B. 2021. “People are talking about Web3. Is it the Internet
+pdf; BBC. 2021. “Hacker tries to poison water supply of Florida
+of the future or just a buzzword?” National Public Radio. 21
+city”. BBC. 8 February 2021. https://www.bbc.com/news/world-
+November 2021. https://www.npr.org/2021/11/21/1056988346/
+us-canada-55989843; European Insurance and Occupational
+web3-internet-jargon-or-future-vision; Clark, P.A. 2021. “The
+Pensions Authority. 2021. “Cyber risks: what is the impact on the
+metaverse has already arrived. Here’s what that actually means”.
+insurance industry?” 15 October 2021. https://www.eiopa.europa.
+Time. 15 November 2021. https://time.com/6116826/what-is-
+eu/media/feature-article/cyber-risks-what-impact-insurance-
+the-metaverse/; Robertson, A. and Peters, J. 2021. “What is the
+industry_en; Poulsen, K., McMillan, R. and Evans, M. 2021. “A
+metaverse, and do I have to care?” The Verge. 4 October 2021.
+hospital hit by hackers, a baby in distress: The case of the first
+https://www.theverge.com/22701104/metaverse-explained-
+alleged ransomware death”. Wall Street Journal. 30 September
+fortnite-roblox-facebook-horizon
+2021. https://www.wsj.com/articles/ransomware-hackers-
+6   World Economic Forum, in partnership with Marsh & McLennan                hospital-first-alleged-death-11633008116; Sganga, N., Herridge,
+Companies, SK Group and Zurich Insurance Group. 2021. The                 C. and Bidar, M. 2021. “Foreign hacking group targets hospitals,
+Global Risks Report 2021. Insight Report. Chapter 5 Imperfect             clinics with ransomware attacks, says new report”. CBS News. 7
+Markets. Geneva: World Economic Forum. January 2021. https://             October 2021. https://www.cbsnews.com/news/cyberattacks-
+www.weforum.org/reports/the-global-risks-report-2021                      ransomware-hacking-hospitals-target-foreign-groups/
+7   Korn, J. 2021. “The Log4j security flaw could impact the entire        17 Accenture. 2021. Op. cit.
+internet. Here’s what you should know”. CNN. 15 December
+18 2021. “Apple sues Israeli firm NSO Group over spyware”. Al
+2021. https://edition.cnn.com/2021/12/15/tech/log4j-
+Jazeera. 23 November 2021. https://www.aljazeera.com/
+vulnerability/index.html
+news/2021/11/23/apple-sues-israeli-firm-nso-group-over-
+8   Reuters Staff. 2021. “SolarWinds hack was ‘largest and most               spyware
+sophisticated attack’ ever: Microsoft president”. Reuters. 15
+19 Collins, A. and Ebrahimi, T. 2021. “Risk governance and the rise
+February 2021. https://www.reuters.com/article/us-cyber-
+of deepfakes”. EPFL International Risk Governance Center. 12
+solarwinds-microsoft-idUSKBN2AF03R
+May 2021. https://www.epfl.ch/research/domains/irgc/spotlight-
+9   Burke, S. 2021. “Cyber-crime learnings and predictions for                on-risk-series/risk-governance-and-the-rise-of-deepfakes/
+2021”. Counter Terror Business. 15 January 2021. https://
+20 Cyber Outlook Series virtual workshop on survey results held on
+counterterrorbusiness.com/features/cyber-crime-learnings-and-
+31 March 2021 from Geneva by the Centre for Cybersecurity.
+predictions-2021
+21 Herbert Smith Freehills. 2021. “China’s new laws complicate
+10 Coveware. 2021. “Ransomware attackers down shift to ‘Mid-
+data transfers”. 24 August 2021. https://hsfnotes.com/
+Game’ hunting in Q3 2021”. 21 October 2021. https://www.
+data/2021/08/24/chinas-new-laws-inhibit-data-transfers/
+coveware.com/blog/2021/10/20/ransomware-attacks-continue-
+as-pressure-mounts                                                      22 Chandrasekhar, C. and Mee, P. 2021. “Why businesses and
+governments must fight cyber threats together”. World Economic
+11 Help Net Security. 2021. “Malware increased by 358% in
+Forum Global Agenda. 3 May 2021. https://www.weforum.org/
+2020”. Help Net Security. 17 February 2021. https://www.
+agenda/2021/05/cybersecurity-governments-business/
+helpnetsecurity.com/2021/02/17/malware-2020/
+23 Insight. 2021. Cybersecurity at a Crossroads: The Insight 2021
+12 Chainalysis Team. 2021. “Ransomware 2021: Critical mid-year
+Report. 4 March 2021. https://www.insight.com/content/dam/
+update”. Insights. 14 May 2021. https://blog.chainalysis.com/
+insight-web/en_US/pdfs/insight/cybersecurity-at-a-crossroads/
+reports/ransomware-update-may-2021
+cybersecurity-at-a-crossroads--the-insight-2021-report.pdf
+
+
+
+The Global Risks Report 2022      54

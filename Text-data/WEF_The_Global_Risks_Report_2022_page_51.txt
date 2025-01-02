@@ -1,0 +1,55 @@
+FIGURE 3.2
+
+Emotions Experienced after Detecting
+Unauthorized Access
+
+Global total of those who detected unauthorized access in past 12 months
+
+
+
+
+52%                           46%                           41%                           34%                          34%
+Angry                       Stressed                     Vulnerable                     Violated                      Scared
+
+
+
+
+31%                            19%                           14%                           10%                            2%
+Powerless                    Embarrassed                       At fault                   Unbothered                       Other
+
+
+Source: NortonLifeLock Inc. 2021. “2021 Norton Cyber Safety Insights Report: Global Results”. Norton and The Harris Poll. May 2021. https://now.
+symassets.com/content/dam/norton/campaign/NortonReport/2021/2021_NortonLifeLock_Cyber_Safety_Insights_Report_Global_Results.pdf
+
+
+
+
+the cultural heart of Silicon Valley—are                     equation. Websites are still littered with
+more likely than wealthier residents to                      tracking pixels and third-party scripts
+be cybercrime victims.44 In other situations,                that remain powerful ways to fingerprint
+obligatory digital identity markers could                    online behaviours.48
+introduce new risks for citizens,
+particularly evident in the growing risk                     Overreaching or underdelivering:
+that deepfakes could compromise                              Consequences for governments
+biometric authentication.45                                  Government at all levels faces mounting
+responsibilities and many are struggling
+Individuals will increasingly experience                     to uphold their end of the digital social
+anxiety as control over their data becomes                   contract: securing critical infrastructure;
+more precarious and they are subjected                       addressing threats to “epistemic security”
+to personal attacks, fraud, cyberbullying                    from disinformation; protecting the integrity
+and stalking (see Figure 3.2).46 A perceived                 of civic processes and public services;
+lack of agency could also lead to apathy                     legislating against cybercrime; training
+in taking responsibility for securing one’s                  and educating populaces around cyber
+own digital footprint, as evinced by the                     literacy; regulating digital service providers;
+continued market dominance of instant                        and ensuring the availability of resources,
+messenger applications plagued by                            such as rare-earth minerals, for the digital
+privacy controversies.47 Even with more                      economy. The necessary oversight could
+widespread “reject all” options on websites                  lead to overreach as governments move
+intended to simplify personal data privacy,                  to shut down systems, erect higher digital
+there are drawbacks and caveats—such                         barriers or embark on digital colonization
+as limiting functionality and other options.                 (by monopolizing digital systems) for
+Importantly, these features are                              geopolitical ends.49 While such actions
+just a tiny part of the larger privacy                       might carry the ostensible goal of reducing
+
+
+The Global Risks Report 2022       51

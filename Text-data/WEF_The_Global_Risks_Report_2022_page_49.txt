@@ -1,0 +1,59 @@
+cyber professionals—a gap of more than           digital real estate could further entice
+3 million worldwide22—who can provide            criminal activity.
+cyber leadership, test and secure systems,
+and train people in digital hygiene.23 As with   For governments attempting to prevent
+other key commodities, a continued lack of       cybersecurity failures, patchwork
+cybersecurity professionals could ultimately     enforcement mechanisms across
+hamper economic growth,24 although               jurisdictions continue to hamper efforts
+new initiatives to “democratize”                 to control cybercrime.28 Geopolitical
+cybersecurity, for example, by providing         rifts hinder potential cross-border
+free cybersecurity risk management tools,        collaboration, with some governments
+could help fill some of the gaps for small       unwilling or unable to regulate cyber
+businesses or other institutions.25              intrusions that originate inside and impact
+outside their borders. Unsurprisingly,
+There are concerns that quantum                  given the geopolitical tensions around
+computing could be powerful enough to            digital sovereignty, according to GRPS
+break encryption keys—which poses a              respondents, “cross-border cyberattacks
+significant security risk because of the         and misinformation” and “artificial
+sensitivity and criticality of the financial,    intelligence” were among the areas with
+personal and other data protected by these       the least “established” or “effective”
+keys. The emergence of the metaverse             international risk mitigation efforts.
+could also expand the attack surface for
+malicious actors by creating more entry          Companies must also act ahead of
+points for malware and data breaches.26          new regulatory shifts, as the political
+As the value of digital commerce in the          undercurrents/geopolitical tensions
+metaverse grows in scope and scale—              between various countries might
+by some estimates projected to be over           impact cross-border data flows. This
+US$800 billion by 2024—these types               might mean moving data processing
+of attacks will grow in frequency and            to jurisdictions that might allow for
+aggression.27 The myriad forms of digital        better customer protection around
+property such as NFT art collections and         data privacy issues.29
+
+
+
+
+Consequences
+
+Often-repeated examples of past cyber            deepfakes could be used to sway elections
+intrusions are worth re-examination, as          or political outcomes.33 More concretely, in
+these cases demonstrate how damaging             one recent case, cybercriminals cloned the
+attacks on large and strategically significant   voice of a company director to authorize
+systems—such as banking, hospital, Global        the transfer of US$35 million to fraudulent
+Positioning System (GPS) or air traffic          accounts.34 There is also a booming market for
+control systems—could be.30 As resources         services designed to manipulate public opinion
+are increasingly digitized, notable as well      in favour of clients, public or private, or to
+is the heightened risk of cyber espionage        damage rivals.35 Fraud, too, will become easier
+attacks that typically target intellectual       and therefore more frequent with banking,
+property and result in high developmental        health and civic processes going remote.
+and reputational costs to both private and
+public sector organizations.31
+
+The interaction between digitalization and
+Patchwork enforcement
+growing cyberthreats carries intangible
+consequences as well. The growth of
+mechanisms continue to
+deepfakes and “disinformation-for-hire” is          hamper efforts to control
+likely to deepen mistrust between societies,
+business and government.32 For example,             cybercrime
+The Global Risks Report 2022   49

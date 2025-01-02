@@ -1,0 +1,68 @@
+Secure digitalization                                   defences against critical infrastructure
+breaches or cyber regulations to safeguard
+COVID-19 spurred a leap in digitalization,              data and privacy.
+but to varying extents across countries.
+While moving towards hyperconnectivity                  More parts of the world risk becoming
+has made some countries more                            a base from which cybercriminals can
+competitive, others could remain stuck                  attack globally, which could deepen
+in a pre-pandemic analogue economy. In                  digital divides if such countries then face
+the latter economies, the need for rapid                restrictions on their access to digital
+digitalization to avoid a widening digital              technologies. Rapid digitalization in
+divide remains pressing.40 In the EOS,                  advanced economies during COVID-19
+“digital inequality” is a top short-term risk           has also led to new cyber vulnerabilities.
+in Latin America and Sub-Saharan Africa—                “Cybersecurity failure” was identified by
+the two regions expected to grow the                    GRPS respondents as a critical short-term
+least in 2022—as well as in low-income                  threat to the world and scores especially
+countries more widely. Governments,                     high with EOS respondents in high-income
+businesses and individuals in developing                countries (see Figure 1.4). There is a risk
+economies will be seeking to digitalize                 that concerns over cybersecurity could
+rapidly but may have limited technical                  further hamper attempts to promote rapid
+and financial resources to enhance cyber                and inclusive digitalization globally.
+
+
+
+
+FIGURE 1.4
+
+Score of “Digital Inequality” and “Cybersecurity Failure” in
+EOS 2021 versus GDP per Capita in 2020
+GDP per capita US$ (2020) from smallest to largest
+
+Digital inequality (%)
+60
+
+
+
+50
+
+
+
+40
+
+
+
+30
+
+
+
+20
+
+
+
+10
+
+
+
+0
+0                   10                    20                   30                    40                   50                     60
+Cybersecurity failure (%)
+
+
+Sources: World Economic Forum Executive Opinon Survey 2021; World Bank Open Data, “GDP per capita (current US$)”, https://data.
+worldbank.org/indicator/NY.GDP.PCAP.CD, accessed 7 December 2021.
+Note: Excludes Luxembourg, Switzerland and Ireland, which have the highest GDPs per capita in the EOS sample (all above US$80,000) and
+are distant from the rest of the sample (fourth highest is the United States, with US$63,544).
+
+
+
+The Global Risks Report 2022     20

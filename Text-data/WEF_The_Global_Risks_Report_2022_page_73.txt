@@ -1,0 +1,69 @@
+navigation and timing services.9 While               importance: armed forces have long relied
+this infrastructure will continue to remain          on space-based or space-supported
+vital for governments, businesses and                technologies—including Global Positioning
+societies, it is also creating opportunities for     System (GPS) for navigation, dedicated
+nations with an advanced space industry,             military satellite-based communications for
+supported by national-level regulation, to           secure digital connectivity and spy satellites
+stake claims to specific orbital sectors by          for intelligence—making such systems
+virtue of first-mover advantage.10 Finally,          tempting military targets and spurring the
+space will continue to be of critical military       need for enhanced defensive measures.11
+
+
+
+
+Consequences
+
+A greater number and diversity of actors             frequent. One theory, known as the
+operating in space could generate new or             "Kessler Effect" (see Box 5.1), posits the
+exacerbate old frictions if not responsibly          potential consequences of a cascading
+managed. The trend in commercial,                    effect.17 Estimates put the current number
+civil and military sectors is to replace             of smaller pieces of debris (larger than
+traditionally large and expensive single             1 centimetre in size) at nearly a million,18
+geostationary satellite systems with                 while larger objects over 10 centimetres
+a more distributed system of multiple                number in the thousands (see Figure 5.2).
+smaller satellites in LEO. Approximately             Providing orbital servicing and debris
+11,000 satellites have been launched                 removal could, however, help alleviate
+since Sputnik 1 in 1957, but 70,000 more             some of the worst consequences.19
+could enter orbit in the coming decades if           Tracking debris is a critical tool in
+proposed plans play out.12 The vast majority         preventing collision or damage, but it
+of these new planned and approved                    will need to become increasingly
+satellites will be launched by a handful of          sophisticated to maintain reliability in a
+operators that will have increasing influence        more congested realm.
+over the regulatory landscape.
+With such possibilities becoming likelier in
+Once in orbit, and unless actively                   a congested space, the lack of updated
+decommissioned, many of these satellites             international rules around space activity
+could remain in space for hundreds of                increases the risk of potential clashes.
+years.13 Smaller, low-cost satellites are also       The most relevant of space agreements,
+proliferating because of lower costs and             the Outer Space Treaty, was concluded in
+fewer barriers to entry.14 While the risk is still   1967 and still, through the UN Office for
+relatively low, an increase in the number of
+satellites also increases the opportunity for
+collisions, or, at the least, a need to engage
+BOX 5.1
+in emergency manoeuvres to avoid contact.
+The Kessler Effect
+Collisions could hinder future space
+development or aggravate international
+First identified by NASA scientist Donald Kessler in 1978,
+tensions. This is because when objects
+this describes a scenario where the density of objects
+in space collide, they may break up and
+(satellites and debris) in LEO is high enough that collisions
+produce debris that—even at sizes of
+between objects could cause a cascade in which each
+1 to 5 centimetres in diameter—could
+collision generates space debris that increases the likelihood
+cause severe damage.15 For example,
+of further collisions and an exponential growth of debris.
+the International Space Station (ISS) was
+One implication is that the distribution of debris in orbit could
+damaged in May 2021 when a piece
+render space activities and the use of satellites in specific
+of debris penetrated its robotic arm.16
+orbital ranges difficult for many generations.
+Such strikes have been documented for
+decades, but they may become more
+
+
+The Global Risks Report 2022   73

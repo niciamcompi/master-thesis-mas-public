@@ -1,0 +1,64 @@
+FIGURE 3.1
+
+Total Cryptocurrency Value Received
+by Ransomware Addresses, 2013-2020
+Cryptocurrency value in millions of US$
+
+500
+406.34
+400
+
+300
+
+200
+92.94
+100
+17.78             37.68              27.3
+0.51               1.11              0.89
+0
+2013               2014              2015              2016               2017              2018              2019               2020
+
+Currencies included: BCH, BTC, ETH, USDT
+
+Source: Based on Chainanalysis. Ransomware 2021: Critical Mid-Year Update. Insights blog. https://blog.chainalysis.com/reports/ransomware-update-
+may-2021
+
+
+
+
+Cyber vulnerabilities                                       Malicious activity is proliferating, in part
+because of the growing vulnerabilities—but
+In the context of widespread dependency                     also because there are few barriers to entry
+on increasingly complex digital systems,                    for participants in the ransomware industry
+growing cyberthreats are outpacing                          and little risk of extradition, prosecution or
+societies’ ability to effectively prevent                   sanction.10 Malware increased by 358%
+and manage them. For example, the                           in 2020, while ransomware increased
+digitalization of physical supply chains                    by 435%,11 with a four-fold rise in the
+creates new vulnerabilities because                         total cryptocurrency value received by
+those supply chains rely on technology                      ransomware addresses (see Figure 3.1).12
+providers and other third parties, which                    “Ransomware as a service” allows even
+are also exposed to similar, potentially                    non-technical criminals to execute attacks, a
+contagious, threats.6 In December 2021,                     trend that might intensify with the advent of
+just one week after discovering a critical                  artificial intelligence (AI)-powered malware.13
+security flaw in a widely used software                     In fact, profit-seeking groups of cyber
+library (Log4j), more than 100 attempts at                  mercenaries stand ready to provide access to
+exploiting the vulnerability were detected                  sophisticated cyber-intrusion tools to facilitate
+every minute, illustrating how free access                  such attacks. Furthermore, cryptocurrencies
+coding can spread vulnerabilities widely.7                  have also allowed cybercriminals to collect
+Information technology (IT) monitoring                      payments with an only modest risk of
+and management software also illustrate                     detection or monetary clawback.14
+the potential for contagious exposure,
+which can break through the defences                        Attacks themselves are also becoming
+of critical cybersecurity supply chains, as                 more aggressive and widespread.15
+shown by the Solar Winds Orion attack                       Cyberthreat actors using ransomware
+that occurred in late 2020.8 While a state-                 are leveraging tougher pressure tactics
+based institution with highly sophisticated                 as well as going after more vulnerable
+capabilities probably lodged this attack,                   targets, impacting public utilities, healthcare
+other criminal organizations will certainly                 systems and data-rich companies.16 For
+attempt to replicate this approach.9 At the                 example, before it disbanded, DarkSide—
+same time, older vulnerabilities persist with               the group accused of being responsible for
+many organizations still relying on outdated                the Colonial Pipeline attack—offered a suite
+systems or technologies.                                    of services (“triple” or “quadruple” extortion)
+
+
+The Global Risks Report 2022      47

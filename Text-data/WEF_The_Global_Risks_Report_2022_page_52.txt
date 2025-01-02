@@ -1,0 +1,54 @@
+attacks and disruption, these policies            in which governments begin prohibiting
+could quickly become a vehicle for                ransom payments or penalizing poor
+oppression. Already suffering from a loss         cybersecurity practices.51 Furthermore,
+in public trust as a result of the COVID-19       as environmental, social and governance
+crisis, governments may face further              (ESG) concerns come increasingly into
+societal anger if they are unable to both         focus (see Chapter 2), businesses that
+keep up with the shifting threat landscape        fail to demonstrate strong corporate
+and responsibly manage these challenges.          governance around cybersecurity—such
+as by implementing robust systems and
+Pay, protect or perish: Consequences              process oversight protocols, and by
+for businesses                                    practicing accountability and transparency
+As cyberthreats continue to grow, insuring        in the event of a breach—could suffer
+against such risks will become increasingly       reputational harm in the eyes of ESG-
+precarious, with insurers themselves              focused investors.
+facing retaliatory attacks for attempting to
+curb ransomware payments.50 Thus, when            Businesses also operate in a world in
+an attack occurs, businesses will either be       which 95% of cybersecurity issues can
+forced to pay increasingly high ransoms or        be traced to human error,52 and where
+suffer the reputational, financial, regulatory    insider threats (intentional or accidental)
+and legal consequences of cyberattacks.           represent 43% of all breaches.53 Some
+As previous incursions (like SolarWinds)          companies will inevitably move to greater
+have demonstrated, exposure to vendors            segmentation of digital systems to better
+and supply chain partners must also be            account for insider risk. Companies could
+assessed and managed. The impact                  begin or continue to lock up key data
+of disruptive cyberattacks could be               as a result of the cybersecurity issues.
+financially devastating for businesses that       Workforce efficiency, too, could suffer
+fail to invest in protections for their digital   if accessing data and information is
+infrastructure, particularly in a scenario        less seamless.
+
+
+
+
+Shocks to reflect upon
+
+
+
+
+NotPetya 2.0                             Sovereignty slips                      Undetected
+disruption
+What if an attack that is even           What if the shifts towards privately   What if subtle changes in
+more wide-ranging and costly             held IT infrastructure as well as      health, banking or other data
+than NotPetya—with the ability           cryptocurrency and decentralized       go undetected for years, but
+to self-propagate and even               finance undermine governments’         carry significant consequences
+mutate to avoid preventative             control over data, processes and       for premature death, loss
+controls—created cascading               financial systems?                     of funds or other significant
+lockups of systemically important                                               consequences over time? How
+businesses, bankrupting                                                         can cyber espionage compromise
+organizations, disrupting services                                              return on R&D investment and
+and unwinding the digital                                                       competitiveness in the future?
+transformation efforts made over
+the past years?
+
+
+The Global Risks Report 2022   52
