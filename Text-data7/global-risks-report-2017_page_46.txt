@@ -1,0 +1,56 @@
+Part 1
+
+
+
+
+Figure 3.1.3: Emerging Technologies Perceived as Needing Better Governance
+Part 2
+Part 3
+
+
+
+
+Source: World Economic Forum Global Risks Perception Survey 2016.
+
+Note: Respondents were asked to select the three emerging technologies that they believe most need better governance. The figure presents the percentage of
+respondents who selected each technology.
+
+
+and biotechnologies were cited by                       The Disruptive Impact of                                 recognition of “an ever-stronger trend
+more than 40% of respondents. These                                                                              away from owning a vehicle towards
+two technologies differ greatly in terms                Emerging Technologies                                    shared mobility as well as mobility on
+of the current state of their governance.                                                                        demand”.10
+The potential of emerging technologies
+Biotechnologies, which involve the                      to disrupt established business                          The deep interconnectedness of
+modification of living organisms for                    models is large and growing. It is                       global risks means that technological
+medicinal, agricultural or industrial                   tempting to think of technological                       transitions can exert a multiplier effect
+uses, tend to be highly regulated.6                     disruption as involving dramatic                         on the risk landscape. This does
+Biotech became a global governance                      moments of transformation, but in                        not apply only to newly emerging
+issue in 1992 with the Convention                       many areas disruption due to emerging                    technologies: arguably much of the
+on Biological Diversity, now ratified                   technologies is already quietly under                    recent social and political volatility that
+by 196 countries.7 AI and robotics,                     way, the result of gradual evolution                     is discussed in Parts 1 and 2 of this
+meanwhile, are only lightly governed                    rather than radical change. Consider                     year’s Global Risks Report reflects,
+in most parts of the world. As “general                 autonomous vehicles: we are not yet                      in part at least, the lagged impact of
+purpose technologies”, in the words                     in a world of vehicles that require little               earlier periods of technological change.
+of economic historian Gavin Wright,8                    or no human intervention, but the                        One obvious channel through which
+they have applications in many fields                   technologies that underpin autonomy                      technological change can lead to
+that already have their own governance                  are increasingly present in our                          wider disruption is the labour market,
+regimes. For example, where machine                     “ordinary” cars.                                         with incomes pushed down and
+learning is used in areas such as                                                                                unemployment pushed up in affected
+online translation, internet search and                 As the technological changes entailed                    sectors and geographical regions. This
+speech recognition, it comes under                      by the 4IR deepen, so will the strain                    in turn can lead to disruptive social
+governance related to the use of                        on many business models. The                             instability, in line with the GRPS finding
+data. Industrial robots are governed                    automotive sector remains a good                         this year that the most important
+by International Organization for                       example. It has been clear for some                      interconnection of global risks is the
+Standardization (ISO) standards,9 while                 time that car manufacturers need                         pairing of unemployment and social
+domestic robots are primarily governed                  to plan ahead for a world in which                       instability.
+by existing product certification                       many of the factors that determine
+regulations. There is increasing debate                 current levels of car ownership may                      Another prism through which to look
+about the governance of AI given                        no longer be present. Increasing                         at the interaction of risks and emerging
+the risks involved, which are further                   evidence of this planning is now                         technologies is that of liability – or, to
+discussed in Chapter 3.2.                               starting to shape commercial decision-                   put it another way, the question of
+making. For example, in December                         who is left bearing which risks as a
+2016, Volkswagen launched a new                          result of technological change. There
+“mobility services” venture, MOIA, in                    are multiple potential sources of
+
+46    The Global Risks Report 2017

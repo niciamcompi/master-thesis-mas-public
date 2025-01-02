@@ -1,0 +1,81 @@
+Part 1
+Box 2.1.1: Social Media and the Distortion of Information - by Walter Quattrociocchi, Northeastern University
+
+Social media can liberate, inform, engage, mobilize, and encourage innovation and democracy. However, social media has also
+changed the way we get informed and form our opinions, with troubling results. According to one recent estimate,1
+
+
+
+
+Part 2
+approximately 63% of users acquire their news from social media. But news sourced in this way is subject to the same
+dynamics as other forms of online content, such as selfies and cat photos. It is the most popular content that spreads,
+regardless of its factual accuracy.
+
+As a result of disintermediated access to information and algorithms used in content promotion, communication has become
+increasingly personalized, both in the way messages are framed and how they are shared across social networks. Recent
+studies show that, online, we seek information that supports existing viewpoints and predominantly engage with communities of
+like-minded people, leading to the problem of confirmation bias.2
+
+Online discussion negatively influences users’ emotions and intensifies polarization,3 creating “echo chambers” – closed, mostly
+
+
+
+
+Part 3
+non-interacting communities with different narratives, where beliefs become amplified or reinforced. With users on social media
+aiming to maximize the number of likes, information is frequently oversimplified. The combination of simplification and
+segregation provides a fertile environment for the diffusion and persistence of unsubstantiated rumours.4
+
+Misinformation has always represented a political, social and economic risk. Social media’s power to misinform, manipulate and
+distort public opinion has become severe. Experimental evidence shows that confirmatory information is accepted even if it
+contains deliberately false claims, while dissenting information is mainly ignored or might even increase group polarization.5
+
+This evidence suggests a real possibility that public opinion can be intentionally distorted by exploiting information overload and
+confirmation bias, with significant political, social and economic consequences. Strategies for mitigation remain uncertain.6
+Google has proposed trying to correct false claims by marking information as fact-checked; but confirmation bias might simply
+result in the claim of fact-checking being discounted. The problem behind misinformation is polarization – hence, we need to
+create synergies among institutions, scholars and communicators to reframe and smooth contrast in the information system.
+
+
+Notes
+1
+Newman, Levy, and Nielsen 2015.
+2
+Quattrociocchi, Scala, and Sunstein 2016; Del Vicario et al. 2016.
+3
+Zollo et al. 2015; Sunstein 2002.
+4
+Mocanu et al. 2015.
+5
+Quattrociocchi, Scala, and Sunstein 2016.
+6
+Ciampaglia et al. 2015.
+
+
+
+
+institutions to make growth more                             Technology is also contributing      on globalization rather than
+inclusive. However, in practice,                             to the changing nature of work,      technology, but evidence points to
+the current environment presents                             with secure and predictable jobs     technology being much the bigger
+some serious challenges.                                     giving way to more sporadic,         factor. As shown by Figure 2.1.2,
+short-term self-employment.26        manufacturing in the United States
+Technological change is                                      Research suggests that the           has not decreased: the country
+diminishing the contribution                                 number of people in “alternative     is producing as much as it ever
+of labour to GDP growth, as                                  work arrangements” increased         has, only with fewer workers. In
+machines become more able to do                              faster than overall employment       the United Kingdom, the share of
+a wider range of work. One study                             between 2005 and 2015.27 The rise    manufacturing in the economy has
+predicts that 47% of US jobs are at                          of the “gig economy” threatens the   decreased – but the manufacturing
+risk of automation,24 affecting over                         stability of income people need      that remains is higher value,28
+80% of low-income workers.25 New                             to plan long-term investments        and cross-border services have
+technology has also historically                             such as home ownership and           massively expanded in parallel.
+increased labour productivity and                            savings for old age. As discussed    Less openness is presented as
+created new and better jobs – but                            in Chapter 2.3, it also undermines   a simple solution, but it would
+as machines become better at                                 social insurance schemes that        likely create more problems than
+cognitive as well as physical tasks,                         are commonly linked to formal        it solves: trade barriers intended
+there is significant uncertainty                             employment.                          to protect local workers could,
+about the future of job creation.                                                                 for example, cause job losses by
+Populist movements tend to           increasing the cost of inputs for
+focus blame for job losses           high value added companies.
+
+The Global Risks Report 2017   25

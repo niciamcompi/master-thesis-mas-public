@@ -1,0 +1,75 @@
+Part 1
+Figure 3.2.1: Global Financing for AI Start-Ups, 2011–2015
+
+397
+
+
+307
+
+
+
+
+Part 2
+196
+
+131                                                        $2,388
+$2,177
+
+67
+$757
+$282           $415
+
+2011 		        2012 		               2013              2014                 2015
+
+
+
+
+Part 3
+Disclosed investment (US$m)             Number of deals
+
+
+Source: CB Insights 2016.
+
+
+
+
+Box 3.2.1: Artificial Intelligence and the Future of Warfare - by Jean-Marc Rickli, Geneva Centre for Security
+Policy
+
+
+One sector that saw the huge disruptive potential of AI from an early stage is the military. The weaponization of AI will
+represent a paradigm shift in the way wars are fought, with profound consequences for international security and stability.
+Serious investment in autonomous weapon systems (AWS) began a few years ago; in July 2016 the Pentagon’s Defense
+Science Board published its first study on autonomy, but there is no consensus yet on how to regulate the development of
+these weapons.
+
+The international community started to debate the emerging technology of lethal autonomous weapons systems (LAWS) in
+the framework of the United Nations Convention on Conventional Weapon (CCW) in 2014. Yet, so far, states have not
+agreed on how to proceed. Those calling for a ban on AWS fear that human beings will be removed from the loop, leaving
+decisions on the use lethal force to machines, with ramifications we do not yet understand.
+
+There are lessons here from non-military applications of AI. Consider the example of AlphaGo, the AI Go-player created by
+Google’s DeepMind division, which in March last year beat the world’s second-best human player. Some of AlphaGo’s
+moves puzzled observers, because they did not fit usual human patterns of play. DeepMind CEO Demis Hassabis
+explained the reason for this difference as follows: “unlike humans, the AlphaGo program aims to maximize the probability
+of winning rather than optimizing margins”. If this binary logic – in which the only thing that matters is winning while the
+margin of victory is irrelevant – were built into an autonomous weapons system, it would lead to the violation of the principle
+of proportionality, because the algorithm would see no difference between victories that required it to kill one adversary or
+1,000.
+
+Autonomous weapons systems will also have an impact on strategic stability. Since 1945, the global strategic balance has
+prioritized defensive systems – a priority that has been conducive to stability because it has deterred attacks. However, the
+strategy of choice for AWS will be based on swarming, in which an adversary’s defence system is overwhelmed with a
+concentrated barrage of coordinated simultaneous attacks. This risks upsetting the global equilibrium by neutralizing the
+defence systems on which it is founded. This would lead to a very unstable international configuration, encouraging
+escalation and arms races and the replacement of deterrence by pre-emption.
+
+We may already have passed the tipping point for prohibiting the development of these weapons. An arms race in
+autonomous weapons systems is very likely in the near future. The international community should tackle this issue with the
+utmost urgency and seriousness because, once the first fully autonomous weapons are deployed, it will be too late to go
+back.
+
+
+
+
+The Global Risks Report 2017   49

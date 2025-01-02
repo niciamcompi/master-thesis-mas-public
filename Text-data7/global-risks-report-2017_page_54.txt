@@ -1,0 +1,83 @@
+Part 1
+
+
+
+
+units and plugged-in electric vehicles,              Beyond supply and storage,                   quality centrally and address failures
+which will provide an additional buffer.             technology is improving efficiency by        quickly. Relying on localized water
+The 4IR is moving electricity networks               integrating supply and demand. Until         storage would also create challenges
+away from needing to be large-scale,                 very recently, energy suppliers and          in prolonged periods of drought. But
+top-down systems.                                    network operators have had to rely on        centralized networks are costly to
+crude methods to forecast demand for         create, and the balance of costs and
+Part 2
+
+
+
+
+Technological innovations will                       electricity. Big data, pervasive sensors     benefits is beginning to tip in favour of
+increasingly offer households and                    and the Internet of Things are making it     distributed water systems if cities can
+firms the possibility of going “off-grid”            easier for users to monitor and control      be planned for these systems from the
+entirely – but even if they increasingly             their energy demand, and for grids to        outset.
+generate their own power, most are still             predict and manage energy supply. In
+likely to want to remain connected to                a world of prosumers and distributed         Regarding communications, the
+the high-voltage networks that are the               suppliers, the challenges are how to         4IR will continue to shift the balance
+backbone of today’s electricity supply               synchronize supply and demand and            between mobile and fixed networks.
+systems. Indeed, the rising use of                   pay for resilience.                          To improve mobile broadband, 5G
+solar, wind and tide power – with their                                                           technologies are envisaged to provide
+Part 3
+
+
+
+
+associated intermittency issues and                  Water could also transition from             much faster data transfer (>1 Gigabyte
+their greater need to tap the energy                 centralized networks towards more            per second) and reduced end-to-end
+storage possibilities of hydropower in               distributed systems. New materials and       latency (sub-1ms). By consolidating
+mountainous regions – will increase                  sensor technologies allow treatment          existing layers of technology, such as
+the appeal of high-voltage connections               at the household or community level,         2G, 3G, 4G and Wi-Fi, 5G will also
+over long distances. But the growing                 creating opportunities to harvest            improve coverage and ‘always-on’
+scope for businesses and homes to                    rainwater and directly reuse waste           reliability – it is an ensemble of different
+supply and store their own electricity               water. For the time being, economies         technologies, rather than a single
+will make electricity networks multi-                of scale still favour large, centralized     type of new technology. Although
+scale and less “lumpy” in terms of their             plants in existing urban areas: they         the experience of those previous
+capital requirements.                                also allow utilities to monitor water        technologies suggests that new uses
+
+
+Figure 3.3.2: Usage Scenarios for Mobile Technologies
+
+
+Enhanced mobile broadband
+
+
+Gigabytes in a second
+
+
+3D video, UHD screens
+
+
+Work and play in the cloud
+Smart home/building
+
+Augmented reality
+
+Industry automation
+
+
+Voice
+Mission critical application
+Smart city
+Self driving car
+Future IMT
+
+
+
+
+Massive machine type                                                            Ultra-reliable and low latency
+communications                                                                       communications
+
+
+Source: ITU 2015.
+
+
+
+
+54    The Global Risks Report 2017

@@ -1,0 +1,94 @@
+Part 1
+
+
+
+
+References                                                                                 Milanovic, B. 2012. “Global income inequality by the numbers: In history and
+now”. Policy Research Working Paper No. 6259. World Bank. http://documents.
+Abernathy, N., M. Konczal, and K. Milani, eds. 2016. Untamed: How to Check                 worldbank.org/curated/en/959251468176687085/pdf/wps6259.pdf
+Corporate, Financial, and Monopoly Power. A Roosevelt Institute Report, June 2016.         Mocanu, D., L. Rossi, Q. Zhang, M. Karsai, and W. Quattrociocchi. 2015. “Collective
+http://rooseveltinstitute.org/untamed-how-check-corporate-financial-and-monopoly-          attention in the age of (mis) information”. Computers in Human Behavior 51:,
+power/                                                                                     1198–204.
+Aisch, G., A. Pearce, and B. Rousseau. 2016. “How far is Europe swinging to                Newman, N., D. A. Levy, and R. K. Nielsen. 2015. Reuters Institute Digital News
+the right?” The New York Times, 5 December 2016. http://www.nytimes.com/                   Report 2015, June 2015. Available at SSRN 2619576. http://dx.doi.org/10.2139/
+Part 2
+
+
+
+
+interactive/2016/05/22/world/europe/europe-right-wing-austria-hungary.html                 ssrn.2619576
+Benton, J. 2016. “The forces that drove this election’s media failure are likely to get    Norris, P. 2016. “It’s not just Trump. Authoritarian populism is rising across the
+worse”. NiemanLab, 9 November 2016. http://www.niemanlab.org/2016/11/the-                  West. Here’s why.” The Washington Post Monkey Cage, 11 March 2016. https://
+forces-that-drove-this-elections-media-failure-are-likely-to-get-worse/                    www.washingtonpost.com/news/monkey-cage/wp/2016/03/11/its-not-just-trump-
+Brown, C. 2016. “The truth about trade agreements – and why we need them”.                 authoritarian-populism-is-rising-across-the-west-heres-why/
+Making Sen$e column PBS NewsHour, 21 November 2016. http://www.pbs.org/                    Obama and Council of Economic Advisers. 2016. Economic Report of the President
+newshour/making-sense/column-truth-trade-agreements-need/                                  Together with the Annual Report of the Council of Economic Advisers. Transmitted to
+Ciampaglia, G. L., P. Shiralkar, L. M. Rocha, J. Bollen, F. Menczer, and A. Flammini.      the Congress February 2016. https://www.whitehouse.gov/sites/default/files/docs/
+2015. “Computational fact checking from knowledge networks”. PloS one 10 (6):              ERP_2016_Book_Complete%20JA.pdf
+e0128193.                                                                                  Oxford Dictionaries. 2016. “Word of the year 2016 is . . .”. Oxford Living Dictionaries,
+Coyle, D. 2016. “The anger of deindustralised Brexit towns goes far beyond                 Oxford University Press. https://en.oxforddictionaries.com/word-of-the-year/word-
+Part 3
+
+
+
+
+immigration”. Financial Times, 22 November 2016. https://www.ft.com/content/               of-the-year-2016
+d6bb1c6b-ce24-3ded-9fea-e06978ed4346                                                       Papacharissi, Z. 2009. “The virtual sphere: The internet, the public sphere, and
+Cramer, K. J. 2016. The Politics of Resentment: Rural Consciousness in Wisconsin           beyond”. In Routledge Handbook of Internet Politics, A. Chadwick and P. N. Howard,
+and the Rise of Scott Walker. Chicago Studies in American Politics series. Chicago         eds., 230–45. London: Routledge. http://www.handbook-of-internet-politics.com/
+and London: The University of Chicago Press.                                               contents.html
+
+Dabla-Norris, E., K. Kochhar, N. Suphaphiphat, F. Ricka, and E. Tsounta. 2015.             Quattrociocchi, W., A. Scala, A., and C. R. Sunstein. 2016. “Echo chambers on
+“Causes and consequences of income inequality: A global perspective”. IMF Staff            Facebook”. 13 June 2016. Available at SSRN: https://ssrn.com/abstract=2795110
+Discussion Note SDN/15/13. Washington, DC: IMF.                                            Reeves, R. V. 2016. “Brexit: British identity politics, immigration and David Cameron’s
+Del Vicario, M., A. Bessi, F. Zollo, F. Petroni, A. Scala, G. Caldarelli, H. E. Stanley,   undoing”. Op-Ed. Brookings, 24 June 2016. https://www.brookings.edu/opinions/
+and W. Quattrociocchi. 2016. “The spreading of misinformation online”. Proceedings         brexit-british-identity-politics-immigration-and-david-camerons-undoing/
+of the National Academy of Sciences 113 (3): 554–59.                                       Runciman, D. 2016. “Is this how democracy ends?” London Review of Books 38
+Dobbs, R., A. Madgavkar, J. Manyika, J. Woetzel, J. Bughin, E. Labaye, and                 (23): 5–6. 1 December 2016. http://www.lrb.co.uk/v38/n23/david-runciman/is-this-
+P. Kashyap. 2016. “Poorer than their parents? A new perspective on income                  how-democracy-ends
+inequality”. McKinsey Global Institute. http://www.mckinsey.com/global-themes/             Saez, E. 2013. “Striking it richer: The evolution of top incomes in the United
+employment-and-growth/poorer-than-their-parents-a-new-perspective-on-income-               States (updated with 2012 preliminary estimates)”. University of California at
+inequality                                                                                 Berkeley, Department of Economics. http://eml.berkeley.edu/~saez/saez-
+The Economist. 2016. “Britain’s immigration paradox: Areas with lots of migrants           UStopincomes-2012.pdf
+voted mainly to remain. Or did they?” The Economist, 8 July 2016. http://www.              Samans, R., J. Blanke, G. Corrigan, and M. Drzeniek. 2015. The Inclusive Growth
+economist.com/news/britain/21701950-areas-lots-migrants-voted-mainly-remain-or-            and Development Report 2017. Geneva: World Economic Forum. http://www3.
+did-they-britains-immigration-paradox                                                      weforum.org/docs/WEF_Forum_IncGrwth.pdf
+The Economist Data Team. 2016. “The rise of the far right in Europe”. Graphic              Sunstein, C. R. 2002. “The law of group polarization”. Journal of Political Philosophy
+Detail, The Economist, 24 May 2016. http://www.economist.com/blogs/                        10 (2): 175–95.
+graphicdetail/2016/05/daily-chart-18                                                       Travis, A. 2016. “Fear of immigration drove the leave victory – not immigration itself”.
+Foa, R. S. and Y. Mounk. 2016. “The danger of deconsolidation: The democratic              The Guardian, 24 June 2016. https://www.theguardian.com/politics/2016/jun/24/
+disconnect”. Journal of Democracy 27 (3) 5–17. http://www.journalofdemocracy.org/          voting-details-show-immigration-fears-were-paradoxical-but-decisive
+article/danger-deconsolidation-democratic-disconnect                                       U.S. Board of Governors of the Federal Reserve System, Industrial Production.
+Frey, C. B. and M. A. Osborne. 2013. “The future of employment: How susceptible            2016. Manufacturing (NAICS) [IPMAN], retrieved 12 December 2016 from FRED,
+are jobs to computerisation?” 17 September 2013. Oxford, UK: Oxford Martin                 Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/IPMAN
+School. http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_                 U.S. Bureau of Labor Statistics, All Employees. 2016. Manufacturing [MANEMP],
+Employment.pdf                                                                             retrieved from FRED, Federal Reserve Bank of St. Louis, 12 December 2016. https://
+Halla, Wagner, and Zweimüller. 2015. “Immigration and far-right voting: New                fred.stlouisfed.org/series/MANEMP
+evidence”. Vox, 29 November 2015. http://voxeu.org/article/immigration-and-far-            Waters, R., M. Garrahan, and T. Bradshaw. 2016. “Harsh truths about fake news for
+right-voting-new-evidence                                                                  Facebook, Google and Twitter”. Financial Times, 21 November 2016. https://www.
+Hill, S. 2015. Raw Deal: How the “Uber Economy” and Naked Capitalism Are                   ft.com/content/2910a7a0-afd7-11e6-a37c-f4a01f1b0fa1
+Screwing American Workers. New York: St. Martin’s Press.                                   Zakaria, F. 2016. “Populism on the march: Why the West is in trouble”. Foreign
+Inglehart, R. 2016. “The danger of deconsolidation: How much should we worry?”             Affairs 95 (6). https://www.foreignaffairs.com/articles/united-states/2016-10-17/
+Journal of Democracy 27 (3): 18–23.                                                        populism-march
+Inglehart. R. F. and P. Norris. 2016. “Trump, Brexit, and the Rise of Populism:            Zollo, F., P. K. Novak, M. Del Vicario, A. Bessi, I. Mozetič, A. Scala, . . . and W.
+Economic have-nots and cultural backlash”. HKS Faculty Research Working Paper              Quattrociocchi. 2015. “Emotional dynamics in the age of misinformation”. PloS one
+No. RWP16-026. Cambridge, MA: Harvard Kennedy School.                                      10 (9): e0138740.
+Katz, L. F. and A. B. Krueger. 2016. “The rise and nature of alternative work
+arrangements in the United States, 1995–2015”. https://krueger.princeton.edu/sites/
+default/files/akrueger/files/katz_krueger_cws_-_march_29_20165.pdf
+Kaufmann, E. 2016. “Assimilation and the immigration debate”. Fabian Society:
+Fabian Essays, 26 September 2016. http://www.fabians.org.uk/assimilation-and-
+the-immigration-debate/
+Kuddo, Robalino, and Weber. 2015. Balancing Regulations to Promote Jobs:
+From Employment Contracts to Unemployment Benefits. Washington, DC: World
+Bank Group. http://documents.worldbank.org/curated/en/636721468187738877/
+Balancing-regulations-to-promote-jobs-from-employment-contracts-to-
+unemployment-benefits
+Lanchester, J. 2016. “Brexit blues”. London Review of Books 38 (15): 3–6. 28 July
+2016. http://www.lrb.co.uk/v38/n15/john-lanchester/brexit-blues
+Legatum Institute. 2016. The Legatum Prosperity Index™ 2016. http://www.
+prosperity.com/
+
+
+
+28     The Global Risks Report 2017
