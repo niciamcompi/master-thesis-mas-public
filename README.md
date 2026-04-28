@@ -144,19 +144,6 @@ The model findings align with global risk factors:
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── data/
-├── notebooks/
-├── models/
-├── results/
-└── README.md
-```
-
----
-
 ## ⚙️ Technologies Used
 
 * Python
