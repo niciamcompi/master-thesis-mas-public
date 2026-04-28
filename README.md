@@ -8,7 +8,8 @@ A machine learning project for detecting financial anomalies in pension fund man
 
 This project was developed as part of a **MAS Data Science programme** and focuses on applying machine learning techniques to **financial risk management**.
 
-The goal is to identify anomalies in pension fund mandates and understand how they relate to global economic and geopolitical events.
+The goal is to identify anomalies in pension fund mandates and understand how they relate to global economic and geopolitical events. 
+Due to privacy reasons, the individual mandate data is not available in this repository
 
 ---
 
@@ -132,15 +133,6 @@ The model findings align with global risk factors:
 * Diversification reduces anomaly exposure
 * Currency hedging is critical in volatile markets
 * Sentiment analysis adds valuable predictive signals
-
----
-
-## 🚀 Future Work
-
-* Real-time macroeconomic data integration
-* Improved feature engineering
-* Multi-scale time-series modelling
-* Adaptive portfolio rebalancing based on anomaly signals
 
 ---
 
