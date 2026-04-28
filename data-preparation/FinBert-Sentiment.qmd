@@ -1,0 +1,187 @@
+---
+title: "Python in R"
+format:
+  html:
+    code-fold: true
+jupyter:
+  kernel: venv
+---
+
+```{python}
+import zipfile
+import os
+import shutil
+
+# Define the path to the uploaded zip file
+zip_file_path = "R:/Masterarbeit/wef/wef_text.zip"
+
+
+extract_to_folder = "wef_text_temp"  # Temporary folder for initial extraction
+final_text_folder = "wef_text"  # Final folder for processing .txt files
+
+# Step 1: Extract the .zip file
+os.makedirs(extract_to_folder, exist_ok=True)
+with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+    zip_ref.extractall(extract_to_folder)
+print(f"Zip file extracted to: {extract_to_folder}")
+
+# Step 2: Locate the nested folder with .txt files
+for root, dirs, files in os.walk(extract_to_folder):
+    if any(file.endswith(".txt") for file in files):
+        nested_folder = root
+        break
+
+# Step 3: Move .txt files to the final folder
+os.makedirs(final_text_folder, exist_ok=True)
+for txt_file in os.listdir(nested_folder):
+    if txt_file.endswith(".txt"):
+        shutil.move(os.path.join(nested_folder, txt_file), final_text_folder)
+
+print(f"All .txt files moved to: {final_text_folder}")
+
+# Step 4: Clean up temporary extraction folder
+shutil.rmtree(extract_to_folder)
+print(f"Temporary folder '{extract_to_folder}' deleted.")
+```
+
+
+```{python}
+# %pip install torch transformers pandas
+
+import os
+import re
+import torch
+import pandas as pd
+from datetime import datetime
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import torch.nn.functional as F
+
+from calendar import monthrange
+
+# Paths - adjust these to your needs
+input_folder = r"R:\Masterarbeit\wef\wef_text"
+results_csv = r"R:\Masterarbeit\wef\Sentiment_Per_Month.csv"
+
+def extract_year_from_filename(filename):
+    """Extract year from various filename patterns."""
+    patterns = [
+        r'risks-report-(\d{4})',
+        r'Global_Risks_Report_(\d{4})',
+        r'(\d{4})_page_',
+        r'(\d{4})-'
+    ]
+    
+    for pattern in patterns:
+        match = re.search(pattern, filename)
+        if match:
+            return match.group(1)
+    return None
+
+def load_and_clean_text_files(folder_path):
+    """Load files and combine pages from the same year into single documents."""
+    year_texts = {}
+    
+    for file in os.listdir(folder_path):
+        if file.endswith(".txt"):
+            year = extract_year_from_filename(file)
+            if year:
+                with open(os.path.join(folder_path, file), 'r', encoding='utf-8') as f:
+                    text = f.read()
+                    text_cleaned = re.sub(r'\b[Pp]age\s+\d+', '', text)
+                    
+                    if year in year_texts:
+                        year_texts[year]['text'] += '\n' + text_cleaned.strip()
+                    else:
+                        year_texts[year] = {
+                            'text': text_cleaned.strip(),
+                            'filename': f"global_risks_{year}"
+                        }
+    
+    # Convert to lists
+    filenames = [data['filename'] for data in year_texts.values()]
+    texts = [data['text'] for data in year_texts.values()]
+    years = list(year_texts.keys())
+    
+    return filenames, texts, years
+
+def calculate_sentiment(filenames, texts):
+    """Calculate sentiment scores using FinBERT."""
+    model_name = "yiyanghkust/finbert-tone"
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name)
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+
+    sentiment_results = []
+
+    for filename, text in zip(filenames, texts):
+        inputs = tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512).to(device)
+        outputs = model(**inputs)
+
+        logits = outputs.logits.squeeze().detach().cpu()
+        probs = F.softmax(logits, dim=-1)
+
+        weights = torch.tensor([-1, 0, 1])
+        sentiment_score = torch.sum(probs * weights).item()
+
+        sentiment_results.append({"Filename": filename, "Sentiment Score": sentiment_score})
+    return sentiment_results
+
+def create_monthly_data(years, sentiment_results):
+    """Create monthly data with 12 and 24-month windows."""
+    # Create a dictionary of year to sentiment score for easier lookup
+    year_sentiments = {
+        str(year): next(
+            (item["Sentiment Score"] for item in sentiment_results 
+             if str(year) in item["Filename"]),
+            None
+        )
+        for year in years
+    }
+    
+    monthly_data = []
+    years = sorted(years)  # Ensure years are in order
+    
+    for i, year in enumerate(years):
+        current_year_sentiment = year_sentiments.get(year)
+        
+        if current_year_sentiment is not None:
+            # Calculate 24-month sentiment (average of current and previous year if available)
+            if i > 0 and year_sentiments.get(years[i-1]) is not None:
+                sentiment_24m = (current_year_sentiment + year_sentiments[years[i-1]]) / 2
+            else:
+                sentiment_24m = current_year_sentiment  # If no previous year, use current year
+            
+            # Create entries for each month of the year
+            for month in range(1, 13):
+                last_day = monthrange(int(year), month)[1]  # Get the last day of the month
+                monthly_data.append({
+                    "Time": f"{year}-{month:02d}-{last_day:02d}",  # Add last day of month
+                    "Document_Year": year,
+                    "Sentiment_12M": current_year_sentiment,
+                    "Sentiment_24M": sentiment_24m
+                })
+    
+    return pd.DataFrame(monthly_data)
+   
+def main():
+    print("Loading and cleaning text files...")
+    filenames, texts, years = load_and_clean_text_files(input_folder)
+    
+    print("Calculating sentiment scores...")
+    sentiment_results = calculate_sentiment(filenames, texts)
+    
+    print("Creating monthly data...")
+    results_df = create_monthly_data(years, sentiment_results)
+    
+    # Sort by time
+    results_df = results_df.sort_values("Time")
+    
+    # Save results
+    results_df.to_csv(results_csv, index=False)
+    print(f"Results saved to {results_csv}")
+    print("Process completed!")
+
+if __name__ == "__main__":
+    main()
+```
